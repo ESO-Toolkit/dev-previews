@@ -1,0 +1,2 @@
+# Don't track PR preview build artifacts in git-lfs or do anything special
+# This repo is purely for GitHub Pages hosting
