@@ -115,8 +115,13 @@
           return;
         }
 
+        // Separate PR previews from local/alias previews
+        const prPreviews = previews.filter(p => p.pr != null);
+        const aliasPreviews = previews.filter(p => p.alias != null && p.pr == null);
+
         list.style.display = 'flex';
-        previews
+
+        prPreviews
           .sort((a, b) => b.pr - a.pr)
           .forEach(p => {
             const li = document.createElement('li');
@@ -132,6 +137,26 @@
                 </div>
               </div>
               <span class="badge">PR #${p.pr}</span>
+            `;
+            list.appendChild(li);
+          });
+
+        aliasPreviews
+          .sort((a, b) => a.alias.localeCompare(b.alias))
+          .forEach(p => {
+            const li = document.createElement('li');
+            li.className = 'preview-item';
+            li.innerHTML = `
+              <div class="preview-info">
+                <div class="preview-name">
+                  <a href="./${encodeURIComponent(p.alias)}/">${escapeHtml(p.alias)}</a>${p.branch ? ' — ' + escapeHtml(p.branch) : ''}
+                </div>
+                <div class="preview-meta">
+                  ${p.commit ? `Commit: <code>${escapeHtml(p.commit)}</code>` : ''}
+                  ${p.updatedAt ? ` · Updated: ${new Date(p.updatedAt).toLocaleString()}` : ''}
+                </div>
+              </div>
+              <span class="badge" style="background:rgba(63,185,80,0.15);color:var(--success);">Local</span>
             `;
             list.appendChild(li);
           });
