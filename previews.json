@@ -4,11 +4,5 @@
     "title": "fix(player-card): restore horizontal scroll on mobile",
     "branch": "fix/player-card-mobile-scroll",
     "updatedAt": "2026-03-05T01:50:48Z"
-  },
-  {
-    "pr": 796,
-    "title": "feat: shared OAuth redirect for dev-preview deployments",
-    "branch": "feat/dev-preview-oauth-redirect",
-    "updatedAt": "2026-03-05T02:56:36Z"
   }
 ]
