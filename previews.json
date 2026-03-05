@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "pr": 790,
+    "title": "fix(player-card): restore horizontal scroll on mobile",
+    "branch": "fix/player-card-mobile-scroll",
+    "updatedAt": "2026-03-05T00:45:03Z"
+  }
+]
