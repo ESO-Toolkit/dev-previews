@@ -16,5 +16,11 @@
     "title": "feat(ESO-649): bundle sample report data and bypass auth for unauthenticated viewing",
     "branch": "ESO-649/sample-report-stored-data",
     "updatedAt": "2026-03-05T19:35:00Z"
+  },
+  {
+    "pr": 801,
+    "title": "ui(parse-analysis): Complete elite design system redesign matching RosterBuilder standards",
+    "branch": "feat/parse-analysis-redesign",
+    "updatedAt": "2026-03-05T23:22:33Z"
   }
 ]
