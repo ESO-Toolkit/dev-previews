@@ -4,11 +4,5 @@
     "title": "feat: add local deploy-preview script and Copilot skill",
     "branch": "feat/deploy-preview-script",
     "updatedAt": "2026-03-05T03:45:51Z"
-  },
-  {
-    "pr": 790,
-    "title": "perf(roster-builder): Comprehensive performance optimization with React memoization and CSS improvements",
-    "branch": "fix/player-card-mobile-scroll",
-    "updatedAt": "2026-03-05T07:30:32Z"
   }
 ]
