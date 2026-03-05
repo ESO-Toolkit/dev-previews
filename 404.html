@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>ESO Toolkit — Dev Preview</title>
+    <script>
+      // GitHub Pages SPA redirect for dev previews
+      // Detects which PR preview the URL belongs to and redirects to its index.html
+      // so React Router can handle the client-side route.
+
+      const pathname = window.location.pathname; // e.g. /dev-previews/pr-790/report/abc123
+      const match = pathname.match(/^(\/dev-previews\/pr-\d+\/)/);
+
+      if (match) {
+        // Extract the base path for this PR preview and the app route
+        const basePath = match[1]; // e.g. /dev-previews/pr-790/
+        const appRoute = pathname.slice(basePath.length); // e.g. report/abc123
+        const query = window.location.search;
+        const hash = window.location.hash;
+
+        // Store the intended app route in sessionStorage for HashRouteRedirect to pick up
+        const redirectPath = '/' + appRoute + query + hash;
+        try {
+          sessionStorage.setItem('redirectPath', redirectPath);
+        } catch (e) {
+          // Fallback: use query parameter
+        }
+
+        // Redirect to the PR preview's index.html
+        const redirectUrl = window.location.origin + basePath + '?redirect=' + encodeURIComponent(redirectPath);
+        window.location.replace(redirectUrl);
+      } else {
+        // Not a PR preview URL — redirect to the index page
+        window.location.replace(window.location.origin + '/dev-previews/');
+      }
+    </script>
+  </head>
+  <body>
+    <!-- This page is only shown briefly while redirecting -->
+  </body>
+</html>
