@@ -10,5 +10,11 @@
     "title": "feat(ESO-648): add read-only roster share view at /rv",
     "branch": "ESO-648/readonly-roster-share-view",
     "updatedAt": "2026-03-05T18:33:27Z"
+  },
+  {
+    "pr": 800,
+    "title": "feat(ESO-649): bundle sample report data and bypass auth for unauthenticated viewing",
+    "branch": "ESO-649/sample-report-stored-data",
+    "updatedAt": "2026-03-05T19:35:00Z"
   }
 ]
