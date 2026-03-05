@@ -4,5 +4,11 @@
     "title": "fix(player-card): restore horizontal scroll on mobile",
     "branch": "fix/player-card-mobile-scroll",
     "updatedAt": "2026-03-05T03:12:04Z"
+  },
+  {
+    "pr": 797,
+    "title": "feat: add local deploy-preview script and Copilot skill",
+    "branch": "feat/deploy-preview-script",
+    "updatedAt": "2026-03-05T03:45:51Z"
   }
 ]
