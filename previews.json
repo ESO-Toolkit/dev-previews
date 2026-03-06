@@ -16,5 +16,11 @@
     "title": "refactor(roster-builder): Redesign DPS inputs with structured equipment and advanced options",
     "branch": "refactor/roster-builder-dps-inputs",
     "updatedAt": "2026-03-06T02:55:07Z"
+  },
+  {
+    "pr": 803,
+    "title": "ESO-661 ci: skip deploy preview for Dependabot PRs",
+    "branch": "ESO-661/skip-deploy-preview-dependabot",
+    "updatedAt": "2026-03-06T04:58:58Z"
   }
 ]
