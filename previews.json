@@ -22,5 +22,11 @@
     "title": "ESO-658: Addon export button for Roster Builder",
     "branch": "ESO-658/addon-export-button",
     "updatedAt": "2026-03-06T20:00:42Z"
+  },
+  {
+    "pr": 807,
+    "title": "fix(insights): rename First Damage Dealer to Fight initiator (ESO-669)",
+    "branch": "ESO-669/rename-first-damage-dealer-to-fight-initiator",
+    "updatedAt": "2026-03-06T21:35:34Z"
   }
 ]
