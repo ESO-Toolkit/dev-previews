@@ -16,11 +16,5 @@
     "title": "feat(roster-builder): add per-fight build customization for all 13 ESO trials",
     "branch": "refactor/roster-builder-unique-trials",
     "updatedAt": "2026-03-06T07:03:48Z"
-  },
-  {
-    "pr": 809,
-    "title": "fix(ESO-670): wire player selector to all insights panels + strengthen worktree workflow guidance",
-    "branch": "ESO-670/fix-player-selector-insights-page",
-    "updatedAt": "2026-03-06T21:57:53Z"
   }
 ]
