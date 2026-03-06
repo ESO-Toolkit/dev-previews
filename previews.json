@@ -16,11 +16,5 @@
     "title": "feat(roster-builder): add per-fight build customization for all 13 ESO trials",
     "branch": "refactor/roster-builder-unique-trials",
     "updatedAt": "2026-03-06T07:03:48Z"
-  },
-  {
-    "pr": 805,
-    "title": "feat(ci): auto-sync Jira ticket status from PR lifecycle (ESO-671)",
-    "branch": "ESO-671/jira-branch-status-action",
-    "updatedAt": "2026-03-06T19:16:29Z"
   }
 ]
