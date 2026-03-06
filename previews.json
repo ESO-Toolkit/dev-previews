@@ -1,11 +1,5 @@
 [
   {
-    "pr": 799,
-    "title": "feat(ESO-648): add read-only roster share view at /rv",
-    "branch": "ESO-648/readonly-roster-share-view",
-    "updatedAt": "2026-03-05T18:33:27Z"
-  },
-  {
     "pr": 801,
     "title": "ui(parse-analysis): Complete elite design system redesign matching RosterBuilder standards",
     "branch": "feat/parse-analysis-redesign",
@@ -22,5 +16,11 @@
     "title": "feat(roster-builder): add per-fight build customization for all 13 ESO trials",
     "branch": "refactor/roster-builder-unique-trials",
     "updatedAt": "2026-03-06T07:03:48Z"
+  },
+  {
+    "pr": 799,
+    "title": "feat(ESO-648): add read-only roster share view at /rv",
+    "branch": "ESO-648/readonly-roster-share-view",
+    "updatedAt": "2026-03-06T18:49:20Z"
   }
 ]
