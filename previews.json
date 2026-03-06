@@ -28,5 +28,11 @@
     "title": "fix(insights): rename First Damage Dealer to Fight initiator (ESO-669)",
     "branch": "ESO-669/rename-first-damage-dealer-to-fight-initiator",
     "updatedAt": "2026-03-06T21:35:34Z"
+  },
+  {
+    "pr": 808,
+    "title": "chore(skills): auto-invoke workflow on bare Jira ticket number",
+    "branch": "chore/workflow-skill-auto-invoke",
+    "updatedAt": "2026-03-06T21:36:49Z"
   }
 ]
