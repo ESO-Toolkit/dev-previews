@@ -18,12 +18,6 @@
     "updatedAt": "2026-03-06T07:03:48Z"
   },
   {
-    "pr": 799,
-    "title": "feat(ESO-648): add read-only roster share view at /rv",
-    "branch": "ESO-648/readonly-roster-share-view",
-    "updatedAt": "2026-03-06T18:49:20Z"
-  },
-  {
     "pr": 805,
     "title": "feat(ci): auto-sync Jira ticket status from PR lifecycle (ESO-671)",
     "branch": "ESO-671/jira-branch-status-action",
