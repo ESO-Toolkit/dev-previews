@@ -27,6 +27,6 @@
     "pr": 805,
     "title": "feat(ci): auto-sync Jira ticket status from PR lifecycle (ESO-671)",
     "branch": "ESO-671/jira-branch-status-action",
-    "updatedAt": "2026-03-06T18:56:40Z"
+    "updatedAt": "2026-03-06T19:04:58Z"
   }
 ]
