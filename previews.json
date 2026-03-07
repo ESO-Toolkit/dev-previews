@@ -22,11 +22,5 @@
     "title": "refactor(roster-builder): Redesign DPS inputs with structured equipment and advanced options",
     "branch": "refactor/roster-builder-dps-inputs",
     "updatedAt": "2026-03-07T08:03:20Z"
-  },
-  {
-    "pr": 811,
-    "title": "fix(ESO-664): correct Advanced Species aura ID to rank 2 (86069)",
-    "branch": "ESO-664/fix-advanced-species-crit-passive-detection",
-    "updatedAt": "2026-03-07T08:55:52Z"
   }
 ]
