@@ -16,5 +16,11 @@
     "title": "feat(roster-builder): add per-fight build customization for all 13 ESO trials",
     "branch": "refactor/roster-builder-unique-trials",
     "updatedAt": "2026-03-06T07:03:48Z"
+  },
+  {
+    "pr": 810,
+    "title": "fix(ESO-667): correct Huntsman's Warmask armor weight from light to medium",
+    "branch": "ESO-667/fix-huntsmans-warmask-armor-weight",
+    "updatedAt": "2026-03-07T02:40:11Z"
   }
 ]
