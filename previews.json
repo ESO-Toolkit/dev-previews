@@ -12,15 +12,15 @@
     "updatedAt": "2026-03-07T08:03:20Z"
   },
   {
-    "pr": 810,
-    "title": "fix(ESO-667): correct Huntsman's Warmask armor weight from light to medium",
-    "branch": "ESO-667/fix-huntsmans-warmask-armor-weight",
-    "updatedAt": "2026-03-07T22:56:23Z"
-  },
-  {
     "pr": 815,
     "title": "chore(skills): guard against uncommitted changes before branch/worktree creation",
     "branch": "chore/skill-guard-uncommitted-changes",
     "updatedAt": "2026-03-07T22:58:22Z"
+  },
+  {
+    "pr": 810,
+    "title": "fix(ESO-667): correct Huntsman's Warmask armor weight from light to medium",
+    "branch": "ESO-667/fix-huntsmans-warmask-armor-weight",
+    "updatedAt": "2026-03-07T23:00:14Z"
   }
 ]
