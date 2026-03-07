@@ -22,11 +22,5 @@
     "title": "feat(ESO-667): add mythic-armor-corrections agent skill",
     "branch": "ESO-667/add-mythic-armor-corrections-skill",
     "updatedAt": "2026-03-07T16:17:56Z"
-  },
-  {
-    "pr": 814,
-    "title": "ESO-668 feat(penetration): dynamic status effect tracking + CMX comparison dialog",
-    "branch": "ESO-668/status-effect-penetration-tracking",
-    "updatedAt": "2026-03-07T22:38:23Z"
   }
 ]
