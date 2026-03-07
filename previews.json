@@ -6,12 +6,6 @@
     "updatedAt": "2026-03-06T02:13:55Z"
   },
   {
-    "pr": 802,
-    "title": "refactor(roster-builder): Redesign DPS inputs with structured equipment and advanced options",
-    "branch": "refactor/roster-builder-dps-inputs",
-    "updatedAt": "2026-03-06T02:55:07Z"
-  },
-  {
     "pr": 804,
     "title": "feat(roster-builder): add per-fight build customization for all 13 ESO trials",
     "branch": "refactor/roster-builder-unique-trials",
@@ -34,5 +28,11 @@
     "title": "fix(insights): ESO-665 CP Piercing undetected + expand slottable CP coverage",
     "branch": "ESO-665/cp-piercing-penetration",
     "updatedAt": "2026-03-07T07:11:31Z"
+  },
+  {
+    "pr": 802,
+    "title": "refactor(roster-builder): Redesign DPS inputs with structured equipment and advanced options",
+    "branch": "refactor/roster-builder-dps-inputs",
+    "updatedAt": "2026-03-07T08:03:20Z"
   }
 ]
