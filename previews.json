@@ -16,11 +16,5 @@
     "title": "refactor(roster-builder): Redesign DPS inputs with structured equipment and advanced options",
     "branch": "refactor/roster-builder-dps-inputs",
     "updatedAt": "2026-03-07T08:03:20Z"
-  },
-  {
-    "pr": 813,
-    "title": "feat(ESO-667): add mythic-armor-corrections agent skill",
-    "branch": "ESO-667/add-mythic-armor-corrections-skill",
-    "updatedAt": "2026-03-07T16:17:56Z"
   }
 ]
