@@ -28,5 +28,11 @@
     "title": "fix(ESO-664): correct Advanced Species aura ID to rank 2 (86069)",
     "branch": "ESO-664/fix-advanced-species-crit-passive-detection",
     "updatedAt": "2026-03-07T02:41:57Z"
+  },
+  {
+    "pr": 812,
+    "title": "fix(insights): ESO-665 CP Piercing undetected + expand slottable CP coverage",
+    "branch": "ESO-665/cp-piercing-penetration",
+    "updatedAt": "2026-03-07T05:36:48Z"
   }
 ]
