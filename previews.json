@@ -10,5 +10,11 @@
     "title": "ui(parse-analysis): Complete elite design system redesign matching RosterBuilder standards",
     "branch": "feat/parse-analysis-redesign",
     "updatedAt": "2026-03-08T06:49:59Z"
+  },
+  {
+    "pr": 818,
+    "title": "refactor(text-editor): implement WYSIWYG contentEditable editor with fixed color application",
+    "branch": "refactor/text-editor-2",
+    "updatedAt": "2026-03-08T19:16:13Z"
   }
 ]
