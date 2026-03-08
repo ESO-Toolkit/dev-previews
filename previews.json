@@ -12,12 +12,6 @@
     "updatedAt": "2026-03-08T06:49:59Z"
   },
   {
-    "pr": 818,
-    "title": "refactor(text-editor): implement WYSIWYG contentEditable editor with fixed color application",
-    "branch": "refactor/text-editor-2",
-    "updatedAt": "2026-03-08T19:16:13Z"
-  },
-  {
     "alias": "parse-demo",
     "branch": "feature/parse-analysis-demo-log",
     "commit": "ac7921d3",
@@ -29,5 +23,11 @@
     "title": "feat(parse-analysis): Add demo log button to explore tool without personal logs",
     "branch": "feature/parse-analysis-demo-log",
     "updatedAt": "2026-03-08T20:56:53Z"
+  },
+  {
+    "pr": 818,
+    "title": "refactor(text-editor): implement WYSIWYG contentEditable editor with fixed color application",
+    "branch": "refactor/text-editor-2",
+    "updatedAt": "2026-03-08T21:17:19Z"
   }
 ]
