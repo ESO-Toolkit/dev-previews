@@ -10,5 +10,11 @@
     "title": "refactor(roster-builder): Redesign DPS inputs with structured equipment and advanced options",
     "branch": "refactor/roster-builder-dps-inputs",
     "updatedAt": "2026-03-07T08:03:20Z"
+  },
+  {
+    "pr": 816,
+    "title": "ESO-668 fix(penetration): fix FoN and arena weapon pen overcounting",
+    "branch": "ESO-668/status-effect-penetration-tracking",
+    "updatedAt": "2026-03-08T05:59:19Z"
   }
 ]
