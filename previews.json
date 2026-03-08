@@ -41,6 +41,6 @@
     "pr": 820,
     "title": "fix(insights): prevent player card hover clip at top edge",
     "branch": "fix/player-card-hover-clip",
-    "updatedAt": "2026-03-08T22:34:26Z"
+    "updatedAt": "2026-03-08T22:40:09Z"
   }
 ]
