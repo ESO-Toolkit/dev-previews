@@ -1,20 +1,27 @@
-[
-  {
-    "pr": 802,
-    "title": "refactor(roster-builder): Redesign DPS inputs with structured equipment and advanced options",
-    "branch": "refactor/roster-builder-dps-inputs",
-    "updatedAt": "2026-03-07T08:03:20Z"
-  },
-  {
-    "pr": 801,
-    "title": "ui(parse-analysis): Complete elite design system redesign matching RosterBuilder standards",
-    "branch": "feat/parse-analysis-redesign",
-    "updatedAt": "2026-03-08T06:49:59Z"
-  },
-  {
-    "pr": 818,
-    "title": "refactor(text-editor): implement WYSIWYG contentEditable editor with fixed color application",
-    "branch": "refactor/text-editor-2",
-    "updatedAt": "2026-03-08T19:16:13Z"
-  }
+﻿[
+    {
+        "pr":  802,
+        "title":  "refactor(roster-builder): Redesign DPS inputs with structured equipment and advanced options",
+        "branch":  "refactor/roster-builder-dps-inputs",
+        "updatedAt":  "2026-03-07T08:03:20Z"
+    },
+    {
+        "pr":  801,
+        "title":  "ui(parse-analysis): Complete elite design system redesign matching RosterBuilder standards",
+        "branch":  "feat/parse-analysis-redesign",
+        "updatedAt":  "2026-03-08T06:49:59Z"
+    },
+    {
+        "pr":  818,
+        "title":  "refactor(text-editor): implement WYSIWYG contentEditable editor with fixed color application",
+        "branch":  "refactor/text-editor-2",
+        "updatedAt":  "2026-03-08T19:16:13Z"
+    },
+    {
+        "alias":  "parse-demo",
+        "branch":  "feature/parse-analysis-demo-log",
+        "commit":  "ac7921d3",
+        "updatedAt":  "2026-03-08T19:58:44Z",
+        "local":  true
+    }
 ]
