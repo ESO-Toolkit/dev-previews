@@ -10,11 +10,5 @@
     "title": "ui(parse-analysis): Complete elite design system redesign matching RosterBuilder standards",
     "branch": "feat/parse-analysis-redesign",
     "updatedAt": "2026-03-08T06:49:59Z"
-  },
-  {
-    "pr": 817,
-    "title": "ESO-668 docs(penetration): explain arena weapon bar-swap Max vs CMX in dialog",
-    "branch": "ESO-668/status-effect-penetration-tracking",
-    "updatedAt": "2026-03-08T06:57:32Z"
   }
 ]
