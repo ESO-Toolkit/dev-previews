@@ -36,5 +36,12 @@
         "commit":  "7d3d78e1",
         "updatedAt":  "2026-03-08T22:29:02Z",
         "local":  true
+    },
+    {
+        "alias":  "refactor-player-card-top-dps",
+        "branch":  "refactor/player-card-top-dps",
+        "commit":  "3c9efe48",
+        "updatedAt":  "2026-03-09T00:35:46Z",
+        "local":  true
     }
 ]
