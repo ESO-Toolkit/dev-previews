@@ -51,12 +51,6 @@
     "local": true
   },
   {
-    "pr": 821,
-    "title": "feat(insights): redesign top DPS player card with golden frame accent",
-    "branch": "refactor/player-card-top-dps",
-    "updatedAt": "2026-03-09T02:51:57Z"
-  },
-  {
     "alias": "refactor-text-editor-bg-color",
     "branch": "refactor/text-editor-bg-color",
     "commit": "7f1f4796",
