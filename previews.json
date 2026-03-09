@@ -74,11 +74,5 @@
     "title": "audit(roster-builder): Improve type safety and error handling in encoding/decoding",
     "branch": "audit/roster-builder",
     "updatedAt": "2026-03-09T05:49:31Z"
-  },
-  {
-    "pr": 833,
-    "title": "fix(insights): restore stat chip customization on player cards",
-    "branch": "fix/restore-stat-chip-customization",
-    "updatedAt": "2026-03-09T16:21:01Z"
   }
 ]
