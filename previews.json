@@ -68,5 +68,11 @@
     "title": "ref(text-editor): Clean up component and CSS quality issues",
     "branch": "refactor/text-editor-bg-color",
     "updatedAt": "2026-03-09T05:33:58Z"
+  },
+  {
+    "pr": 823,
+    "title": "audit(roster-builder): Improve type safety and error handling in encoding/decoding",
+    "branch": "audit/roster-builder",
+    "updatedAt": "2026-03-09T05:49:31Z"
   }
 ]
