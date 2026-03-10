@@ -68,5 +68,11 @@
     "title": "fix(roster-builder): Fix DPS gear data loss in share links and add comprehensive tests",
     "branch": "audit/roster-builder",
     "updatedAt": "2026-03-09T22:28:52Z"
+  },
+  {
+    "pr": 838,
+    "title": "feat(ESO-674): regenerate DK Draconic Power skill line for U49",
+    "branch": "ESO-674/dk-draconic-power-regen",
+    "updatedAt": "2026-03-10T02:54:42Z"
   }
 ]
