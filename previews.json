@@ -19,12 +19,6 @@
     "local": true
   },
   {
-    "pr": 819,
-    "title": "feat(parse-analysis): Add demo log button to explore tool without personal logs",
-    "branch": "feature/parse-analysis-demo-log",
-    "updatedAt": "2026-03-08T20:56:53Z"
-  },
-  {
     "pr": 818,
     "title": "refactor(text-editor): implement WYSIWYG contentEditable editor with fixed color application",
     "branch": "refactor/text-editor-2",
@@ -104,5 +98,11 @@
     "title": "ref(text-editor): Clean up component and CSS quality issues",
     "branch": "refactor/text-editor-bg-color",
     "updatedAt": "2026-03-10T06:07:11Z"
+  },
+  {
+    "pr": 819,
+    "title": "feat(parse-analysis): Add demo log button to explore tool without personal logs",
+    "branch": "feature/parse-analysis-demo-log",
+    "updatedAt": "2026-03-10T06:09:59Z"
   }
 ]
