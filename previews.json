@@ -58,12 +58,6 @@
     "local": true
   },
   {
-    "pr": 822,
-    "title": "ref(text-editor): Clean up component and CSS quality issues",
-    "branch": "refactor/text-editor-bg-color",
-    "updatedAt": "2026-03-09T05:33:58Z"
-  },
-  {
     "pr": 823,
     "title": "fix(roster-builder): Fix DPS gear data loss in share links and add comprehensive tests",
     "branch": "audit/roster-builder",
@@ -104,5 +98,11 @@
     "title": "feat(gear-sets): add Shattered Paths Signet & Gorethief; update U49 set bonuses",
     "branch": "ESO-681/add-new-item-sets",
     "updatedAt": "2026-03-10T06:02:47Z"
+  },
+  {
+    "pr": 822,
+    "title": "ref(text-editor): Clean up component and CSS quality issues",
+    "branch": "refactor/text-editor-bg-color",
+    "updatedAt": "2026-03-10T06:07:11Z"
   }
 ]
