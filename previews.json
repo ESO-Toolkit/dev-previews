@@ -73,6 +73,6 @@
     "pr": 846,
     "title": "feat(dragonknight): verify and update Magma Fist ability ID in CalculateStaggerStacks (ESO-682)",
     "branch": "ESO-682/verify-magma-fist-ability-id",
-    "updatedAt": "2026-03-10T06:56:20Z"
+    "updatedAt": "2026-03-10T07:03:20Z"
   }
 ]
