@@ -58,12 +58,6 @@
     "updatedAt": "2026-03-10T06:01:33Z"
   },
   {
-    "pr": 843,
-    "title": "feat(data): update U49 Night Market monster set bonuses (ESO-680)",
-    "branch": "ESO-680/add-night-market-monster-sets",
-    "updatedAt": "2026-03-10T06:02:34Z"
-  },
-  {
     "pr": 822,
     "title": "ref(text-editor): Clean up component and CSS quality issues",
     "branch": "refactor/text-editor-bg-color",
