@@ -1,11 +1,5 @@
 [
   {
-    "pr": 801,
-    "title": "ui(parse-analysis): Complete elite design system redesign matching RosterBuilder standards",
-    "branch": "feat/parse-analysis-redesign",
-    "updatedAt": "2026-03-08T06:49:59Z"
-  },
-  {
     "alias": "parse-demo",
     "branch": "feature/parse-analysis-demo-log",
     "commit": "ac7921d3",
