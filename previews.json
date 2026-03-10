@@ -68,5 +68,11 @@
     "title": "fix(roster-builder): Fix DPS gear data loss in share links and add comprehensive tests",
     "branch": "audit/roster-builder",
     "updatedAt": "2026-03-10T04:49:42Z"
+  },
+  {
+    "pr": 842,
+    "title": "docs(skills): add automatic PR creation as Step 7 in workflow skill",
+    "branch": "ESO-681/add-new-item-sets",
+    "updatedAt": "2026-03-10T04:59:47Z"
   }
 ]
