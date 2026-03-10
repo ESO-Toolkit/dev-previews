@@ -52,12 +52,6 @@
     "updatedAt": "2026-03-10T06:10:50Z"
   },
   {
-    "pr": 802,
-    "title": "refactor(roster-builder): Redesign DPS inputs with structured equipment and advanced options",
-    "branch": "refactor/roster-builder-dps-inputs",
-    "updatedAt": "2026-03-10T06:12:28Z"
-  },
-  {
     "pr": 823,
     "title": "fix(roster-builder): Fix DPS gear data loss in share links and add comprehensive tests",
     "branch": "audit/roster-builder",
