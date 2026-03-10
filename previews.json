@@ -74,5 +74,11 @@
     "title": "ESO-672 feat(dragonknight): U49 rename Stagger to Heat Shock, Stone Giant to Magma Fist",
     "branch": "ESO-672/u49-dk-heat-shock-update",
     "updatedAt": "2026-03-09T22:40:17Z"
+  },
+  {
+    "pr": 837,
+    "title": "data(abilities): re-fetch abilities.json from ESO Logs API for U49 (ESO-679)",
+    "branch": "ESO-679/refetch-abilities-json",
+    "updatedAt": "2026-03-10T02:11:59Z"
   }
 ]
