@@ -52,12 +52,6 @@
     "updatedAt": "2026-03-10T06:00:30Z"
   },
   {
-    "pr": 844,
-    "title": "feat(ESO-677): update dragonknight.ts detailed skill data for U49",
-    "branch": "ESO-677/update-dk-detailed-skill-data",
-    "updatedAt": "2026-03-10T06:01:33Z"
-  },
-  {
     "pr": 822,
     "title": "ref(text-editor): Clean up component and CSS quality issues",
     "branch": "refactor/text-editor-bg-color",
