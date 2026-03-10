@@ -62,5 +62,11 @@
     "title": "chore(ci): add Discord notifications for PR merges",
     "branch": "chore/discord-pr-notifications",
     "updatedAt": "2026-03-10T07:58:46Z"
+  },
+  {
+    "pr": 848,
+    "title": "feat(whats-new): add AI-generated friendly summaries",
+    "branch": "feat/whats-new-ai-summaries",
+    "updatedAt": "2026-03-10T08:12:47Z"
   }
 ]
