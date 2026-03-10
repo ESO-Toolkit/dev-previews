@@ -1,11 +1,5 @@
 [
   {
-    "pr": 802,
-    "title": "refactor(roster-builder): Redesign DPS inputs with structured equipment and advanced options",
-    "branch": "refactor/roster-builder-dps-inputs",
-    "updatedAt": "2026-03-07T08:03:20Z"
-  },
-  {
     "pr": 801,
     "title": "ui(parse-analysis): Complete elite design system redesign matching RosterBuilder standards",
     "branch": "feat/parse-analysis-redesign",
@@ -104,5 +98,11 @@
     "title": "refactor(text-editor): implement WYSIWYG contentEditable editor with fixed color application",
     "branch": "refactor/text-editor-2",
     "updatedAt": "2026-03-10T06:10:50Z"
+  },
+  {
+    "pr": 802,
+    "title": "refactor(roster-builder): Redesign DPS inputs with structured equipment and advanced options",
+    "branch": "refactor/roster-builder-dps-inputs",
+    "updatedAt": "2026-03-10T06:12:28Z"
   }
 ]
