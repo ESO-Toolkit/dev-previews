@@ -74,5 +74,11 @@
     "title": "docs(skills): add automatic PR creation as Step 7 in workflow skill",
     "branch": "ESO-681/add-new-item-sets",
     "updatedAt": "2026-03-10T04:59:47Z"
+  },
+  {
+    "pr": 843,
+    "title": "feat(data): update U49 Night Market monster set bonuses (ESO-680)",
+    "branch": "ESO-680/add-night-market-monster-sets",
+    "updatedAt": "2026-03-10T05:08:06Z"
   }
 ]
