@@ -64,12 +64,6 @@
     "updatedAt": "2026-03-10T06:02:34Z"
   },
   {
-    "pr": 842,
-    "title": "feat(gear-sets): add Shattered Paths Signet & Gorethief; update U49 set bonuses",
-    "branch": "ESO-681/add-new-item-sets",
-    "updatedAt": "2026-03-10T06:02:47Z"
-  },
-  {
     "pr": 822,
     "title": "ref(text-editor): Clean up component and CSS quality issues",
     "branch": "refactor/text-editor-bg-color",
