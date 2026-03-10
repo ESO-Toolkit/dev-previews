@@ -86,5 +86,11 @@
     "title": "fix(roster-builder): Fix DPS gear data loss in share links and add comprehensive tests",
     "branch": "audit/roster-builder",
     "updatedAt": "2026-03-10T05:36:46Z"
+  },
+  {
+    "pr": 846,
+    "title": "feat(dragonknight): verify and update Magma Fist ability ID in CalculateStaggerStacks (ESO-682)",
+    "branch": "ESO-682/verify-magma-fist-ability-id",
+    "updatedAt": "2026-03-10T05:48:52Z"
   }
 ]
