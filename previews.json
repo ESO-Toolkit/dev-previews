@@ -40,12 +40,6 @@
     "local": true
   },
   {
-    "pr": 841,
-    "title": "feat(ESO-675): regenerate DK Earthen Heart skill line for U49",
-    "branch": "ESO-675/dk-earthen-heart-regen",
-    "updatedAt": "2026-03-10T05:55:09Z"
-  },
-  {
     "pr": 845,
     "title": "feat(ESO-676): update DK classSkillIds for U49 ability renames",
     "branch": "ESO-676/update-dk-class-skill-ids",
@@ -104,5 +98,11 @@
     "title": "fix(roster-builder): Fix DPS gear data loss in share links and add comprehensive tests",
     "branch": "audit/roster-builder",
     "updatedAt": "2026-03-10T06:15:26Z"
+  },
+  {
+    "pr": 841,
+    "title": "feat(ESO-675): regenerate DK Earthen Heart skill line for U49",
+    "branch": "ESO-675/dk-earthen-heart-regen",
+    "updatedAt": "2026-03-10T06:26:34Z"
   }
 ]
