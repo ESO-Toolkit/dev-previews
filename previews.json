@@ -80,5 +80,11 @@
     "title": "fix(roster-builder): Fix DPS gear data loss in share links and add comprehensive tests",
     "branch": "audit/roster-builder",
     "updatedAt": "2026-03-10T05:20:29Z"
+  },
+  {
+    "pr": 845,
+    "title": "feat(ESO-676): update DK classSkillIds for U49 ability renames",
+    "branch": "ESO-676/update-dk-class-skill-ids",
+    "updatedAt": "2026-03-10T05:35:06Z"
   }
 ]
