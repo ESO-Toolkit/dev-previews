@@ -80,5 +80,11 @@
     "title": "feat(ESO-678): update Two-Handed skill line data for U49",
     "branch": "ESO-678/u49-two-handed-skill-line-update",
     "updatedAt": "2026-03-10T02:55:37Z"
+  },
+  {
+    "pr": 840,
+    "title": "feat(ESO-673): regenerate DK Ardent Flame skill line for U49",
+    "branch": "ESO-673/dk-ardent-flame-regen",
+    "updatedAt": "2026-03-10T03:00:13Z"
   }
 ]
