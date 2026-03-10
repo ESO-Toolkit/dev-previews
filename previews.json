@@ -64,12 +64,6 @@
     "updatedAt": "2026-03-09T05:33:58Z"
   },
   {
-    "pr": 842,
-    "title": "docs(skills): add automatic PR creation as Step 7 in workflow skill",
-    "branch": "ESO-681/add-new-item-sets",
-    "updatedAt": "2026-03-10T05:17:29Z"
-  },
-  {
     "pr": 823,
     "title": "fix(roster-builder): Fix DPS gear data loss in share links and add comprehensive tests",
     "branch": "audit/roster-builder",
@@ -104,5 +98,11 @@
     "title": "feat(data): update U49 Night Market monster set bonuses (ESO-680)",
     "branch": "ESO-680/add-night-market-monster-sets",
     "updatedAt": "2026-03-10T06:02:34Z"
+  },
+  {
+    "pr": 842,
+    "title": "feat(gear-sets): add Shattered Paths Signet & Gorethief; update U49 set bonuses",
+    "branch": "ESO-681/add-new-item-sets",
+    "updatedAt": "2026-03-10T06:02:47Z"
   }
 ]
