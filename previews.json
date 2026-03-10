@@ -68,11 +68,5 @@
     "title": "fix(roster-builder): Fix DPS gear data loss in share links and add comprehensive tests",
     "branch": "audit/roster-builder",
     "updatedAt": "2026-03-09T22:28:52Z"
-  },
-  {
-    "pr": 836,
-    "title": "ESO-672 feat(dragonknight): U49 rename Stagger to Heat Shock, Stone Giant to Magma Fist",
-    "branch": "ESO-672/u49-dk-heat-shock-update",
-    "updatedAt": "2026-03-09T22:40:17Z"
   }
 ]
