@@ -56,11 +56,5 @@
     "title": "fix(roster-builder): Fix DPS gear data loss in share links and add comprehensive tests",
     "branch": "audit/roster-builder",
     "updatedAt": "2026-03-10T06:15:26Z"
-  },
-  {
-    "pr": 847,
-    "title": "chore(ci): add Discord notifications for PR merges",
-    "branch": "chore/discord-pr-notifications",
-    "updatedAt": "2026-03-10T08:27:30Z"
   }
 ]
