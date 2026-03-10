@@ -64,12 +64,6 @@
     "updatedAt": "2026-03-09T05:33:58Z"
   },
   {
-    "pr": 843,
-    "title": "feat(data): update U49 Night Market monster set bonuses (ESO-680)",
-    "branch": "ESO-680/add-night-market-monster-sets",
-    "updatedAt": "2026-03-10T05:08:06Z"
-  },
-  {
     "pr": 842,
     "title": "docs(skills): add automatic PR creation as Step 7 in workflow skill",
     "branch": "ESO-681/add-new-item-sets",
@@ -104,5 +98,11 @@
     "title": "feat(ESO-677): update dragonknight.ts detailed skill data for U49",
     "branch": "ESO-677/update-dk-detailed-skill-data",
     "updatedAt": "2026-03-10T06:01:33Z"
+  },
+  {
+    "pr": 843,
+    "title": "feat(data): update U49 Night Market monster set bonuses (ESO-680)",
+    "branch": "ESO-680/add-night-market-monster-sets",
+    "updatedAt": "2026-03-10T06:02:34Z"
   }
 ]
