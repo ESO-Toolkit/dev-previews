@@ -80,5 +80,11 @@
     "title": "test(setNameUtils): add KnownSetIDs coverage regression test (ESO-684)",
     "branch": "ESO-684/fix-unknown-set-id-error",
     "updatedAt": "2026-03-11T05:18:41Z"
+  },
+  {
+    "pr": 858,
+    "title": "fix(roster-encoding): encode/decode DPS gear fields in share links (ESO-687)",
+    "branch": "ESO-687/fix-error-2342",
+    "updatedAt": "2026-03-11T05:20:19Z"
   }
 ]
