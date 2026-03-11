@@ -56,5 +56,11 @@
     "title": "ref(text-editor): Clean up component and CSS quality issues",
     "branch": "refactor/text-editor-bg-color",
     "updatedAt": "2026-03-11T05:24:07Z"
+  },
+  {
+    "pr": 860,
+    "title": "feat(roster-hub): Community roster marketplace with preview, comments, and UI polish",
+    "branch": "feature/roster-builder-hub",
+    "updatedAt": "2026-03-11T13:05:50Z"
   }
 ]
