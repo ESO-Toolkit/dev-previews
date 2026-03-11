@@ -64,15 +64,15 @@
     "updatedAt": "2026-03-11T04:27:32Z"
   },
   {
-    "pr": 853,
-    "title": "feat(discord): Add ESO Toolkit Discord ticket bot",
-    "branch": "feat/discord-ticket-bot",
-    "updatedAt": "2026-03-11T05:05:08Z"
-  },
-  {
     "pr": 856,
     "title": "fix(roster-encoding): sync CompactDPS schema with structured DPS gear fields (ESO-683)",
     "branch": "ESO-683/fix-dps-encoding-data-loss",
     "updatedAt": "2026-03-11T05:06:17Z"
+  },
+  {
+    "pr": 853,
+    "title": "feat(discord): Add ESO Toolkit Discord ticket bot + PR notification improvements",
+    "branch": "feat/discord-ticket-bot",
+    "updatedAt": "2026-03-11T05:17:29Z"
   }
 ]
