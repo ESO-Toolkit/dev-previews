@@ -70,12 +70,6 @@
     "updatedAt": "2026-03-11T05:06:17Z"
   },
   {
-    "pr": 853,
-    "title": "feat(discord): Add ESO Toolkit Discord ticket bot + PR notification improvements",
-    "branch": "feat/discord-ticket-bot",
-    "updatedAt": "2026-03-11T05:17:29Z"
-  },
-  {
     "pr": 857,
     "title": "test(setNameUtils): add KnownSetIDs coverage regression test (ESO-684)",
     "branch": "ESO-684/fix-unknown-set-id-error",
@@ -86,5 +80,11 @@
     "title": "fix(roster-encoding): encode/decode DPS gear fields in share links (ESO-687)",
     "branch": "ESO-687/fix-error-2342",
     "updatedAt": "2026-03-11T05:20:19Z"
+  },
+  {
+    "pr": 853,
+    "title": "feat(discord): Add ESO Toolkit Discord ticket bot + PR notification improvements",
+    "branch": "feat/discord-ticket-bot",
+    "updatedAt": "2026-03-11T05:20:51Z"
   }
 ]
