@@ -62,11 +62,5 @@
     "title": "feat(roster-hub): Community roster marketplace with preview, comments, and UI polish",
     "branch": "feature/roster-builder-hub",
     "updatedAt": "2026-03-11T13:08:38Z"
-  },
-  {
-    "pr": 861,
-    "title": "fix(error-tracking): fix Rollbar rate limit flooding from unknown set IDs (ESO-689)",
-    "branch": "ESO-689/fix-rollbar-rate-limit",
-    "updatedAt": "2026-03-11T18:11:10Z"
   }
 ]
