@@ -56,11 +56,5 @@
     "title": "ref(text-editor): Clean up component and CSS quality issues",
     "branch": "refactor/text-editor-bg-color",
     "updatedAt": "2026-03-11T05:24:07Z"
-  },
-  {
-    "pr": 858,
-    "title": "fix(roster-encoding): encode/decode DPS gear fields in share links (ESO-687)",
-    "branch": "ESO-687/fix-error-2342",
-    "updatedAt": "2026-03-11T07:18:35Z"
   }
 ]
