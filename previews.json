@@ -76,12 +76,6 @@
     "updatedAt": "2026-03-11T05:20:19Z"
   },
   {
-    "pr": 853,
-    "title": "feat(discord): Add ESO Toolkit Discord ticket bot + PR notification improvements",
-    "branch": "feat/discord-ticket-bot",
-    "updatedAt": "2026-03-11T05:20:51Z"
-  },
-  {
     "pr": 822,
     "title": "ref(text-editor): Clean up component and CSS quality issues",
     "branch": "refactor/text-editor-bg-color",
