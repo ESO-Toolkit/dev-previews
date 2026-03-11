@@ -58,15 +58,15 @@
     "updatedAt": "2026-03-10T06:15:26Z"
   },
   {
-    "pr": 853,
-    "title": "feat(discord): Add ESO Toolkit Discord ticket bot",
-    "branch": "feat/discord-ticket-bot",
-    "updatedAt": "2026-03-11T03:47:32Z"
-  },
-  {
     "pr": 855,
     "title": "fix(roster-encoding): await writer promises to prevent unhandled rejections (ESO-696)",
     "branch": "ESO-696/fix-unhandled-roster-encoding-rejections",
     "updatedAt": "2026-03-11T04:27:32Z"
+  },
+  {
+    "pr": 853,
+    "title": "feat(discord): Add ESO Toolkit Discord ticket bot",
+    "branch": "feat/discord-ticket-bot",
+    "updatedAt": "2026-03-11T05:05:08Z"
   }
 ]
