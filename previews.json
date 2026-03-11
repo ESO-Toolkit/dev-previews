@@ -56,5 +56,11 @@
     "title": "fix(roster-builder): Fix DPS gear data loss in share links and add comprehensive tests",
     "branch": "audit/roster-builder",
     "updatedAt": "2026-03-10T06:15:26Z"
+  },
+  {
+    "pr": 853,
+    "title": "feat(discord): Add ESO Toolkit Discord ticket bot",
+    "branch": "feat/discord-ticket-bot",
+    "updatedAt": "2026-03-11T03:47:32Z"
   }
 ]
