@@ -56,11 +56,5 @@
     "title": "fix(roster-builder): Fix DPS gear data loss in share links and add comprehensive tests",
     "branch": "audit/roster-builder",
     "updatedAt": "2026-03-10T06:15:26Z"
-  },
-  {
-    "pr": 852,
-    "title": "fix(roster-builder): add missing set IDs to resolve Unknown set ID errors (ESO-686)",
-    "branch": "ESO-686/fix-unknown-set-ids",
-    "updatedAt": "2026-03-11T03:24:15Z"
   }
 ]
