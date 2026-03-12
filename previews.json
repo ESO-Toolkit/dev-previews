@@ -70,12 +70,6 @@
     "updatedAt": "2026-03-12T16:46:58Z"
   },
   {
-    "pr": 867,
-    "title": "ESO-710 feat(players): improve discoverability of stat chip filter button",
-    "branch": "ESO-710/improve-filter-button-discoverability",
-    "updatedAt": "2026-03-12T17:02:03Z"
-  },
-  {
     "pr": 869,
     "title": "refactor(discord): move PR notifications to Cloudflare Worker with forum categories",
     "branch": "refactor/discord-updates-clean",
@@ -86,5 +80,11 @@
     "title": "fix(ESO-703): resolve Unknown Skill Line for renamed abilities via ID lookup",
     "branch": "ESO-703/fix-stone-giant-unknown-skill-line",
     "updatedAt": "2026-03-12T18:36:29Z"
+  },
+  {
+    "pr": 867,
+    "title": "ESO-710 feat(players): improve discoverability of stat chip filter button",
+    "branch": "ESO-710/improve-filter-button-discoverability",
+    "updatedAt": "2026-03-12T18:37:35Z"
   }
 ]
