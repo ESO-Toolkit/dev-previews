@@ -68,5 +68,11 @@
     "title": "fix(ESO-703): resolve Unknown Skill Line for renamed abilities via ID lookup",
     "branch": "ESO-703/fix-stone-giant-unknown-skill-line",
     "updatedAt": "2026-03-12T16:45:00Z"
+  },
+  {
+    "pr": 866,
+    "title": "feat(ESO-707): add food to default visible chips on players panel",
+    "branch": "ESO-707/add-food-to-default-chips",
+    "updatedAt": "2026-03-12T16:46:58Z"
   }
 ]
