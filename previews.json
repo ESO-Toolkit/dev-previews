@@ -64,12 +64,6 @@
     "updatedAt": "2026-03-12T07:08:05Z"
   },
   {
-    "pr": 865,
-    "title": "fix(ESO-703): resolve Unknown Skill Line for renamed abilities via ID lookup",
-    "branch": "ESO-703/fix-stone-giant-unknown-skill-line",
-    "updatedAt": "2026-03-12T16:45:00Z"
-  },
-  {
     "pr": 866,
     "title": "feat(ESO-707): add food to default visible chips on players panel",
     "branch": "ESO-707/add-food-to-default-chips",
@@ -86,5 +80,11 @@
     "title": "refactor(discord): move PR notifications to Cloudflare Worker with forum categories",
     "branch": "refactor/discord-updates-clean",
     "updatedAt": "2026-03-12T18:31:45Z"
+  },
+  {
+    "pr": 865,
+    "title": "fix(ESO-703): resolve Unknown Skill Line for renamed abilities via ID lookup",
+    "branch": "ESO-703/fix-stone-giant-unknown-skill-line",
+    "updatedAt": "2026-03-12T18:36:29Z"
   }
 ]
