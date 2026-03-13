@@ -86,5 +86,11 @@
     "title": "feat(insights): bespoke ESO-themed stat chip icons",
     "branch": "ESO-703/players-panel-bespoke-stat-icons",
     "updatedAt": "2026-03-13T19:26:48Z"
+  },
+  {
+    "pr": 873,
+    "title": "fix(ESO-702): prevent unhandled rejections from stream decompression",
+    "branch": "ESO-702/fix-roster-encoding-error",
+    "updatedAt": "2026-03-13T19:35:25Z"
   }
 ]
