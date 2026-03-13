@@ -70,12 +70,6 @@
     "updatedAt": "2026-03-12T18:31:45Z"
   },
   {
-    "pr": 867,
-    "title": "ESO-710 feat(players): improve discoverability of stat chip filter button",
-    "branch": "ESO-710/improve-filter-button-discoverability",
-    "updatedAt": "2026-03-12T18:37:35Z"
-  },
-  {
     "pr": 860,
     "title": "feat(roster-hub): Community roster marketplace with preview, comments, and UI polish",
     "branch": "feature/roster-builder-hub",
