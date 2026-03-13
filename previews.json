@@ -76,12 +76,6 @@
     "updatedAt": "2026-03-12T18:37:35Z"
   },
   {
-    "pr": 870,
-    "title": "refactor(discord): route PR notifications into forum category threads",
-    "branch": "refactor/discord-forum-routing",
-    "updatedAt": "2026-03-12T22:58:02Z"
-  },
-  {
     "pr": 860,
     "title": "feat(roster-hub): Community roster marketplace with preview, comments, and UI polish",
     "branch": "feature/roster-builder-hub",
