@@ -58,12 +58,6 @@
     "updatedAt": "2026-03-11T05:24:07Z"
   },
   {
-    "pr": 860,
-    "title": "feat(roster-hub): Community roster marketplace with preview, comments, and UI polish",
-    "branch": "feature/roster-builder-hub",
-    "updatedAt": "2026-03-12T07:08:05Z"
-  },
-  {
     "pr": 866,
     "title": "feat(ESO-707): add food to default visible chips on players panel",
     "branch": "ESO-707/add-food-to-default-chips",
@@ -92,5 +86,11 @@
     "title": "feat(player-card): add metrics wrap/scroll toggle to filter bar",
     "branch": "feat/metrics-wrap-toggle",
     "updatedAt": "2026-03-13T02:48:24Z"
+  },
+  {
+    "pr": 860,
+    "title": "feat(roster-hub): Community roster marketplace with preview, comments, and UI polish",
+    "branch": "feature/roster-builder-hub",
+    "updatedAt": "2026-03-13T02:55:41Z"
   }
 ]
