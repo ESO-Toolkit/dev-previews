@@ -92,11 +92,5 @@
     "title": "fix(ESO-702): prevent unhandled rejections from stream decompression",
     "branch": "ESO-702/fix-roster-encoding-error",
     "updatedAt": "2026-03-13T19:35:25Z"
-  },
-  {
-    "pr": 874,
-    "title": "fix(ESO-704): prevent unhandled rejections from stream decompression",
-    "branch": "ESO-704/fix-roster-encoding-error",
-    "updatedAt": "2026-03-13T19:45:33Z"
   }
 ]
