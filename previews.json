@@ -70,12 +70,6 @@
     "updatedAt": "2026-03-14T06:44:27Z"
   },
   {
-    "pr": 878,
-    "title": "fix(skeleton): rebuild skeleton loaders to match real panel layouts",
-    "branch": "refactor/insight-skeleton-loaders",
-    "updatedAt": "2026-03-14T16:46:55Z"
-  },
-  {
     "pr": 823,
     "title": "fix(roster-builder): Fix DPS gear data loss in share links and add comprehensive tests",
     "branch": "audit/roster-builder",
@@ -98,5 +92,11 @@
     "title": "feat(insights): bespoke ESO-themed stat chip icons",
     "branch": "ESO-703/players-panel-bespoke-stat-icons",
     "updatedAt": "2026-03-14T20:32:10Z"
+  },
+  {
+    "pr": 878,
+    "title": "fix(skeleton): rebuild skeleton loaders to match real panel layouts",
+    "branch": "refactor/insight-skeleton-loaders",
+    "updatedAt": "2026-03-14T20:43:52Z"
   }
 ]
