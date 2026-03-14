@@ -88,15 +88,15 @@
     "updatedAt": "2026-03-14T18:19:37Z"
   },
   {
-    "pr": 872,
-    "title": "feat(insights): bespoke ESO-themed stat chip icons",
-    "branch": "ESO-703/players-panel-bespoke-stat-icons",
-    "updatedAt": "2026-03-14T18:38:04Z"
-  },
-  {
     "pr": 877,
     "title": "feat(ESO-714): trial boss model mapping + 3D viewer page",
     "branch": "ESO-714/trial-boss-model-mapping",
     "updatedAt": "2026-03-14T18:42:18Z"
+  },
+  {
+    "pr": 872,
+    "title": "feat(insights): bespoke ESO-themed stat chip icons",
+    "branch": "ESO-703/players-panel-bespoke-stat-icons",
+    "updatedAt": "2026-03-14T18:49:49Z"
   }
 ]
