@@ -76,12 +76,6 @@
     "updatedAt": "2026-03-14T16:46:55Z"
   },
   {
-    "pr": 877,
-    "title": "feat(ESO-714): trial boss model mapping + 3D viewer page",
-    "branch": "ESO-714/trial-boss-model-mapping",
-    "updatedAt": "2026-03-14T17:56:11Z"
-  },
-  {
     "pr": 823,
     "title": "fix(roster-builder): Fix DPS gear data loss in share links and add comprehensive tests",
     "branch": "audit/roster-builder",
@@ -98,5 +92,11 @@
     "title": "feat(insights): bespoke ESO-themed stat chip icons",
     "branch": "ESO-703/players-panel-bespoke-stat-icons",
     "updatedAt": "2026-03-14T18:38:04Z"
+  },
+  {
+    "pr": 877,
+    "title": "feat(ESO-714): trial boss model mapping + 3D viewer page",
+    "branch": "ESO-714/trial-boss-model-mapping",
+    "updatedAt": "2026-03-14T18:42:18Z"
   }
 ]
