@@ -80,5 +80,11 @@
     "title": "feat(roster-hub): Community roster marketplace with preview, comments, and UI polish",
     "branch": "feature/roster-builder-hub",
     "updatedAt": "2026-03-14T00:36:01Z"
+  },
+  {
+    "pr": 875,
+    "title": "fix(tank-detection): improve role detection with gear-based heuristics",
+    "branch": "fix/tank-detection",
+    "updatedAt": "2026-03-14T01:49:16Z"
   }
 ]
