@@ -88,12 +88,6 @@
     "updatedAt": "2026-03-14T06:44:27Z"
   },
   {
-    "pr": 877,
-    "title": "feat(ESO-714): trial boss model mapping + 3D viewer page",
-    "branch": "ESO-714/trial-boss-model-mapping",
-    "updatedAt": "2026-03-14T08:19:18Z"
-  },
-  {
     "pr": 878,
     "title": "fix(skeleton): rebuild skeleton loaders to match real panel layouts",
     "branch": "refactor/insight-skeleton-loaders",
@@ -104,5 +98,11 @@
     "title": "fix(roster-builder): Fix DPS gear data loss in share links and add comprehensive tests",
     "branch": "audit/roster-builder",
     "updatedAt": "2026-03-14T17:43:11Z"
+  },
+  {
+    "pr": 877,
+    "title": "feat(ESO-714): trial boss model mapping + 3D viewer page",
+    "branch": "ESO-714/trial-boss-model-mapping",
+    "updatedAt": "2026-03-14T17:56:11Z"
   }
 ]
