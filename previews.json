@@ -82,12 +82,6 @@
     "updatedAt": "2026-03-14T19:20:30Z"
   },
   {
-    "pr": 860,
-    "title": "feat(roster-hub): Community roster marketplace with preview, comments, and UI polish",
-    "branch": "feature/roster-builder-hub",
-    "updatedAt": "2026-03-14T19:42:37Z"
-  },
-  {
     "pr": 872,
     "title": "feat(insights): bespoke ESO-themed stat chip icons",
     "branch": "ESO-703/players-panel-bespoke-stat-icons",
@@ -98,5 +92,11 @@
     "title": "fix(skeleton): rebuild skeleton loaders to match real panel layouts",
     "branch": "refactor/insight-skeleton-loaders",
     "updatedAt": "2026-03-14T20:58:35Z"
+  },
+  {
+    "pr": 860,
+    "title": "feat(roster-hub): Community roster marketplace with preview, comments, and UI polish",
+    "branch": "feature/roster-builder-hub",
+    "updatedAt": "2026-03-14T21:35:23Z"
   }
 ]
