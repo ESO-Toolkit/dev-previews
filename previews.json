@@ -88,15 +88,15 @@
     "updatedAt": "2026-03-14T06:40:13Z"
   },
   {
-    "pr": 877,
-    "title": "feat(ESO-714): trial boss model & texture mapping for three.js",
-    "branch": "ESO-714/trial-boss-model-mapping",
-    "updatedAt": "2026-03-14T06:42:49Z"
-  },
-  {
     "pr": 876,
     "title": "feat(ESO-713): role detection algorithm for ESO combat logs",
     "branch": "ESO-713/role-detection-algorithm",
     "updatedAt": "2026-03-14T06:44:27Z"
+  },
+  {
+    "pr": 877,
+    "title": "feat(ESO-714): trial boss model & texture mapping for three.js",
+    "branch": "ESO-714/trial-boss-model-mapping",
+    "updatedAt": "2026-03-14T06:58:10Z"
   }
 ]
