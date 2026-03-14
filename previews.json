@@ -40,12 +40,6 @@
     "updatedAt": "2026-03-10T06:10:50Z"
   },
   {
-    "pr": 823,
-    "title": "fix(roster-builder): Fix DPS gear data loss in share links and add comprehensive tests",
-    "branch": "audit/roster-builder",
-    "updatedAt": "2026-03-10T06:15:26Z"
-  },
-  {
     "pr": 855,
     "title": "fix(roster-encoding): await writer promises to prevent unhandled rejections (ESO-696)",
     "branch": "ESO-696/fix-unhandled-roster-encoding-rejections",
@@ -104,5 +98,11 @@
     "title": "fix(skeleton): rebuild skeleton loaders to match real panel layouts",
     "branch": "refactor/insight-skeleton-loaders",
     "updatedAt": "2026-03-14T16:46:55Z"
+  },
+  {
+    "pr": 823,
+    "title": "fix(roster-builder): Fix DPS gear data loss in share links and add comprehensive tests",
+    "branch": "audit/roster-builder",
+    "updatedAt": "2026-03-14T17:43:11Z"
   }
 ]
