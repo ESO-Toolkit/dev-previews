@@ -64,12 +64,6 @@
     "updatedAt": "2026-03-12T18:31:45Z"
   },
   {
-    "pr": 860,
-    "title": "feat(roster-hub): Community roster marketplace with preview, comments, and UI polish",
-    "branch": "feature/roster-builder-hub",
-    "updatedAt": "2026-03-14T00:36:01Z"
-  },
-  {
     "pr": 875,
     "title": "fix(tank-detection): improve role detection with gear-based heuristics",
     "branch": "fix/tank-detection",
@@ -104,5 +98,11 @@
     "title": "fix(roster-builder): Fix DPS gear data loss in share links and add comprehensive tests",
     "branch": "audit/roster-builder",
     "updatedAt": "2026-03-14T18:04:17Z"
+  },
+  {
+    "pr": 860,
+    "title": "feat(roster-hub): Community roster marketplace with preview, comments, and UI polish",
+    "branch": "feature/roster-builder-hub",
+    "updatedAt": "2026-03-14T18:19:37Z"
   }
 ]
