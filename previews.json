@@ -82,12 +82,6 @@
     "updatedAt": "2026-03-14T18:04:17Z"
   },
   {
-    "pr": 872,
-    "title": "feat(insights): bespoke ESO-themed stat chip icons",
-    "branch": "ESO-703/players-panel-bespoke-stat-icons",
-    "updatedAt": "2026-03-14T19:18:12Z"
-  },
-  {
     "pr": 877,
     "title": "feat(ESO-714): trial boss model mapping + 3D viewer page",
     "branch": "ESO-714/trial-boss-model-mapping",
@@ -98,5 +92,11 @@
     "title": "feat(roster-hub): Community roster marketplace with preview, comments, and UI polish",
     "branch": "feature/roster-builder-hub",
     "updatedAt": "2026-03-14T19:42:37Z"
+  },
+  {
+    "pr": 872,
+    "title": "feat(insights): bespoke ESO-themed stat chip icons",
+    "branch": "ESO-703/players-panel-bespoke-stat-icons",
+    "updatedAt": "2026-03-14T20:32:10Z"
   }
 ]
