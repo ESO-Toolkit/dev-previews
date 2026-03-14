@@ -64,12 +64,6 @@
     "updatedAt": "2026-03-12T18:31:45Z"
   },
   {
-    "pr": 872,
-    "title": "feat(insights): bespoke ESO-themed stat chip icons",
-    "branch": "ESO-703/players-panel-bespoke-stat-icons",
-    "updatedAt": "2026-03-14T06:40:13Z"
-  },
-  {
     "pr": 876,
     "title": "feat(ESO-713): role detection algorithm for ESO combat logs",
     "branch": "ESO-713/role-detection-algorithm",
@@ -98,5 +92,11 @@
     "title": "feat(roster-hub): Community roster marketplace with preview, comments, and UI polish",
     "branch": "feature/roster-builder-hub",
     "updatedAt": "2026-03-14T18:19:37Z"
+  },
+  {
+    "pr": 872,
+    "title": "feat(insights): bespoke ESO-themed stat chip icons",
+    "branch": "ESO-703/players-panel-bespoke-stat-icons",
+    "updatedAt": "2026-03-14T18:26:11Z"
   }
 ]
