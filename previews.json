@@ -98,5 +98,11 @@
     "title": "ESO-703 feat(players-panel): integrate role detection algorithm",
     "branch": "ESO-703/players-panel-bespoke-stat-icons",
     "updatedAt": "2026-03-14T22:01:19Z"
+  },
+  {
+    "pr": 879,
+    "title": "fix(discord): handle Jira prefix in PR title routing regex",
+    "branch": "fix/discord-forum-routing-regex",
+    "updatedAt": "2026-03-14T22:13:16Z"
   }
 ]
