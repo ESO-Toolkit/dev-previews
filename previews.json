@@ -64,12 +64,6 @@
     "updatedAt": "2026-03-12T18:31:45Z"
   },
   {
-    "pr": 876,
-    "title": "feat(ESO-713): role detection algorithm for ESO combat logs",
-    "branch": "ESO-713/role-detection-algorithm",
-    "updatedAt": "2026-03-14T06:44:27Z"
-  },
-  {
     "pr": 823,
     "title": "fix(roster-builder): Fix DPS gear data loss in share links and add comprehensive tests",
     "branch": "audit/roster-builder",
@@ -98,5 +92,11 @@
     "title": "ESO-703 feat(players-panel): integrate role detection algorithm",
     "branch": "ESO-703/players-panel-bespoke-stat-icons",
     "updatedAt": "2026-03-15T04:00:25Z"
+  },
+  {
+    "pr": 876,
+    "title": "feat(ESO-713): role detection algorithm for ESO combat logs",
+    "branch": "ESO-713/role-detection-algorithm",
+    "updatedAt": "2026-03-15T05:43:43Z"
   }
 ]
