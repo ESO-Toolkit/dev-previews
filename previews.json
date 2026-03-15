@@ -98,11 +98,5 @@
     "title": "fix(ESO-712): prevent accordions from jumping up when expanded",
     "branch": "ESO-712/accordions-move-up-when-opened",
     "updatedAt": "2026-03-15T07:03:40Z"
-  },
-  {
-    "pr": 882,
-    "title": "fix(ESO-705): prevent unhandled DecompressionStream rejections in roster decoding",
-    "branch": "ESO-705/fix-roster-encoding-error",
-    "updatedAt": "2026-03-15T07:30:01Z"
   }
 ]
