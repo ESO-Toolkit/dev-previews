@@ -104,5 +104,11 @@
     "title": "fix(ESO-706): validate decoded roster data and wrap non-Error exceptions",
     "branch": "ESO-706/fix-roster-encoding-error",
     "updatedAt": "2026-03-15T08:14:55Z"
+  },
+  {
+    "pr": 887,
+    "title": "ESO-715 feat: player card modal in damage and healing tabs",
+    "branch": "ESO-715/player-card-modal",
+    "updatedAt": "2026-03-15T18:59:38Z"
   }
 ]
