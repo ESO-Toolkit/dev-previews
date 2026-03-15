@@ -98,5 +98,11 @@
     "title": "feat(ESO-713): role detection algorithm for ESO combat logs",
     "branch": "ESO-713/role-detection-algorithm",
     "updatedAt": "2026-03-15T06:37:07Z"
+  },
+  {
+    "pr": 881,
+    "title": "fix(ESO-712): prevent accordions from jumping up when expanded",
+    "branch": "ESO-712/accordions-move-up-when-opened",
+    "updatedAt": "2026-03-15T07:03:40Z"
   }
 ]
