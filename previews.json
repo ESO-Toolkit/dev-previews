@@ -104,11 +104,5 @@
     "title": "fix(ESO-705): prevent unhandled DecompressionStream rejections in roster decoding",
     "branch": "ESO-705/fix-roster-encoding-error",
     "updatedAt": "2026-03-15T07:30:01Z"
-  },
-  {
-    "pr": 876,
-    "title": "feat(ESO-713): role detection algorithm for ESO combat logs",
-    "branch": "ESO-713/role-detection-algorithm",
-    "updatedAt": "2026-03-15T07:31:08Z"
   }
 ]
