@@ -92,11 +92,5 @@
     "title": "ESO-703 feat(players-panel): integrate role detection algorithm",
     "branch": "ESO-703/players-panel-bespoke-stat-icons",
     "updatedAt": "2026-03-15T04:00:25Z"
-  },
-  {
-    "pr": 881,
-    "title": "fix(ESO-712): prevent accordions from jumping up when expanded",
-    "branch": "ESO-712/accordions-move-up-when-opened",
-    "updatedAt": "2026-03-15T07:03:40Z"
   }
 ]
