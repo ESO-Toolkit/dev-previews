@@ -88,12 +88,6 @@
     "updatedAt": "2026-03-14T22:13:16Z"
   },
   {
-    "pr": 884,
-    "title": "docs(ESO-647): add worktree-aware dev server guidance to skills",
-    "branch": "ESO-647/update-dev-server-skill-worktree-context",
-    "updatedAt": "2026-03-15T07:57:59Z"
-  },
-  {
     "pr": 887,
     "title": "ESO-715 feat: player card modal in damage and healing tabs",
     "branch": "ESO-715/player-card-modal",
