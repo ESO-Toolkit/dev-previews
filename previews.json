@@ -64,12 +64,6 @@
     "updatedAt": "2026-03-12T18:31:45Z"
   },
   {
-    "pr": 823,
-    "title": "fix(roster-builder): Fix DPS gear data loss in share links and add comprehensive tests",
-    "branch": "audit/roster-builder",
-    "updatedAt": "2026-03-14T18:04:17Z"
-  },
-  {
     "pr": 877,
     "title": "feat(ESO-714): trial boss model mapping + 3D viewer page",
     "branch": "ESO-714/trial-boss-model-mapping",
@@ -92,5 +86,11 @@
     "title": "feat(build-editor): add save/share/view/publish system and build hub",
     "branch": "feat/build-editor",
     "updatedAt": "2026-03-16T07:12:32Z"
+  },
+  {
+    "pr": 823,
+    "title": "fix(roster-builder): Fix DPS gear data loss in share links and add comprehensive tests",
+    "branch": "audit/roster-builder",
+    "updatedAt": "2026-03-17T21:06:29Z"
   }
 ]
