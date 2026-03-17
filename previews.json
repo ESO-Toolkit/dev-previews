@@ -82,12 +82,6 @@
     "updatedAt": "2026-03-14T21:35:23Z"
   },
   {
-    "pr": 879,
-    "title": "fix(discord): handle Jira prefix in PR title routing regex",
-    "branch": "fix/discord-forum-routing-regex",
-    "updatedAt": "2026-03-14T22:13:16Z"
-  },
-  {
     "pr": 887,
     "title": "ESO-715 feat: player card modal in damage and healing tabs",
     "branch": "ESO-715/player-card-modal",
