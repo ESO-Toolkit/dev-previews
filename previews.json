@@ -92,11 +92,5 @@
     "title": "feat(build-editor): add save/share/view/publish system and build hub",
     "branch": "feat/build-editor",
     "updatedAt": "2026-03-16T07:12:32Z"
-  },
-  {
-    "pr": 895,
-    "title": "feat(roster): add metrics wrap/scroll toggle to player card filter bar",
-    "branch": "feat/metrics-wrap-toggle",
-    "updatedAt": "2026-03-17T18:40:26Z"
   }
 ]
