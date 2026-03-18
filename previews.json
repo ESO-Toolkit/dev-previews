@@ -70,12 +70,6 @@
     "updatedAt": "2026-03-14T19:20:30Z"
   },
   {
-    "pr": 860,
-    "title": "feat(roster-hub): Community roster marketplace with preview, comments, and UI polish",
-    "branch": "feature/roster-builder-hub",
-    "updatedAt": "2026-03-14T21:35:23Z"
-  },
-  {
     "pr": 887,
     "title": "ESO-715 feat: player card modal in damage and healing tabs",
     "branch": "ESO-715/player-card-modal",
@@ -86,5 +80,11 @@
     "title": "feat(build-editor): add save/share/view/publish system and build hub",
     "branch": "feat/build-editor",
     "updatedAt": "2026-03-16T07:12:32Z"
+  },
+  {
+    "pr": 860,
+    "title": "feat(roster-hub): Community roster marketplace with preview, comments, and UI polish",
+    "branch": "feature/roster-builder-hub",
+    "updatedAt": "2026-03-18T00:16:27Z"
   }
 ]
