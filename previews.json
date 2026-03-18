@@ -74,11 +74,5 @@
     "title": "feat(build-editor): add save/share/view/publish system and build hub",
     "branch": "feat/build-editor",
     "updatedAt": "2026-03-16T07:12:32Z"
-  },
-  {
-    "pr": 887,
-    "title": "ESO-715 feat: player card modal in damage and healing tabs",
-    "branch": "ESO-715/player-card-modal",
-    "updatedAt": "2026-03-18T03:07:48Z"
   }
 ]
