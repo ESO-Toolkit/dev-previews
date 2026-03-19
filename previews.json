@@ -76,12 +76,6 @@
     "updatedAt": "2026-03-18T22:16:59Z"
   },
   {
-    "pr": 900,
-    "title": "ESO-716 feat: bi-directional CSPS import/export for Roster Builder",
-    "branch": "ESO-716/csps-import-export",
-    "updatedAt": "2026-03-19T04:37:27Z"
-  },
-  {
     "pr": 901,
     "title": "chore: simplify CLAUDE.md to one-liner reference",
     "branch": "chore/simplify-claude-md",
@@ -92,5 +86,11 @@
     "title": "chore: remove broken cloudflare MCP server config",
     "branch": "chore/remove-broken-mcp-config",
     "updatedAt": "2026-03-19T05:02:10Z"
+  },
+  {
+    "pr": 900,
+    "title": "ESO-716 feat: bi-directional CSPS import/export for Build Editor",
+    "branch": "ESO-716/csps-import-export",
+    "updatedAt": "2026-03-19T15:44:48Z"
   }
 ]
