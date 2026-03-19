@@ -74,5 +74,11 @@
     "title": "feat(build-editor): add save/share/view/publish system and build hub",
     "branch": "feat/build-editor",
     "updatedAt": "2026-03-18T22:16:59Z"
+  },
+  {
+    "pr": 899,
+    "title": "chore: gitignore settings.local.json and remove from tracking",
+    "branch": "chore/fix-claude-settings",
+    "updatedAt": "2026-03-19T03:29:49Z"
   }
 ]
