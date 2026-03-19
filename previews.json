@@ -80,5 +80,11 @@
     "title": "ESO-716 feat: bi-directional CSPS import/export for Roster Builder",
     "branch": "ESO-716/csps-import-export",
     "updatedAt": "2026-03-19T04:37:27Z"
+  },
+  {
+    "pr": 901,
+    "title": "chore: simplify CLAUDE.md to one-liner reference",
+    "branch": "chore/simplify-claude-md",
+    "updatedAt": "2026-03-19T04:45:39Z"
   }
 ]
