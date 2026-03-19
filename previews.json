@@ -86,5 +86,11 @@
     "title": "chore: simplify CLAUDE.md to one-liner reference",
     "branch": "chore/simplify-claude-md",
     "updatedAt": "2026-03-19T04:45:39Z"
+  },
+  {
+    "pr": 902,
+    "title": "chore: remove broken cloudflare MCP server config",
+    "branch": "chore/remove-broken-mcp-config",
+    "updatedAt": "2026-03-19T05:02:10Z"
   }
 ]
