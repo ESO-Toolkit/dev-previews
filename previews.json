@@ -86,5 +86,11 @@
     "title": "ESO-717: Add dismiss button to fight chips with exclude list",
     "branch": "ESO-717/fight-chip-exclude-list",
     "updatedAt": "2026-03-21T18:34:26Z"
+  },
+  {
+    "pr": 907,
+    "title": "chore: add 173 untracked ability IDs to KnownAbilities enum",
+    "branch": "chore/add-untracked-ability-ids",
+    "updatedAt": "2026-03-21T19:10:30Z"
   }
 ]
