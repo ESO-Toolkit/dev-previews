@@ -76,12 +76,6 @@
     "updatedAt": "2026-03-18T22:16:59Z"
   },
   {
-    "pr": 900,
-    "title": "ESO-716 feat: bi-directional CSPS import/export for Build Editor",
-    "branch": "ESO-716/csps-import-export",
-    "updatedAt": "2026-03-21T09:18:06Z"
-  },
-  {
     "pr": 907,
     "title": "chore: add 173 untracked ability IDs to KnownAbilities enum",
     "branch": "chore/add-untracked-ability-ids",
@@ -98,5 +92,11 @@
     "title": "chore: add Discord notification to nightly tests",
     "branch": "chore/discord-nightly-test-notifications",
     "updatedAt": "2026-03-21T20:46:44Z"
+  },
+  {
+    "pr": 900,
+    "title": "ESO-716 feat: bi-directional CSPS import/export for Build Editor",
+    "branch": "ESO-716/csps-import-export",
+    "updatedAt": "2026-03-21T20:49:50Z"
   }
 ]
