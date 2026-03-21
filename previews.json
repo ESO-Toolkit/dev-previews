@@ -92,5 +92,11 @@
     "title": "ESO-717: Add dismiss button to fight chips with exclude list",
     "branch": "ESO-717/fight-chip-exclude-list",
     "updatedAt": "2026-03-21T19:35:45Z"
+  },
+  {
+    "pr": 908,
+    "title": "chore: add Discord notification to nightly tests",
+    "branch": "chore/discord-nightly-test-notifications",
+    "updatedAt": "2026-03-21T20:12:14Z"
   }
 ]
