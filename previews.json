@@ -76,12 +76,6 @@
     "updatedAt": "2026-03-21T19:35:45Z"
   },
   {
-    "pr": 900,
-    "title": "ESO-716 feat: bi-directional CSPS import/export for Build Editor",
-    "branch": "ESO-716/csps-import-export",
-    "updatedAt": "2026-03-21T20:49:50Z"
-  },
-  {
     "pr": 909,
     "title": "feat(ui): add page transitions and remove skeleton loader",
     "branch": "feat/page-transitions",
@@ -98,5 +92,11 @@
     "title": "chore: add 173 untracked ability IDs to KnownAbilities enum",
     "branch": "chore/add-untracked-ability-ids",
     "updatedAt": "2026-03-22T21:55:45Z"
+  },
+  {
+    "pr": 900,
+    "title": "ESO-716 feat: bi-directional CSPS import/export for Build Editor",
+    "branch": "ESO-716/csps-import-export",
+    "updatedAt": "2026-03-22T23:26:48Z"
   }
 ]
