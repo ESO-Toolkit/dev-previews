@@ -82,15 +82,15 @@
     "updatedAt": "2026-03-22T16:21:33Z"
   },
   {
-    "pr": 900,
-    "title": "ESO-716 feat: bi-directional CSPS import/export for Build Editor",
-    "branch": "ESO-716/csps-import-export",
-    "updatedAt": "2026-03-23T01:47:15Z"
-  },
-  {
     "pr": 906,
     "title": "ESO-717: Add dismiss button to fight chips with exclude list",
     "branch": "ESO-717/fight-chip-exclude-list",
     "updatedAt": "2026-03-23T05:31:05Z"
+  },
+  {
+    "pr": 900,
+    "title": "ESO-716 feat: bi-directional CSPS import/export for Build Editor",
+    "branch": "ESO-716/csps-import-export",
+    "updatedAt": "2026-03-23T05:31:19Z"
   }
 ]
