@@ -88,12 +88,6 @@
     "updatedAt": "2026-03-22T16:21:33Z"
   },
   {
-    "pr": 907,
-    "title": "chore: add 173 untracked ability IDs to KnownAbilities enum",
-    "branch": "chore/add-untracked-ability-ids",
-    "updatedAt": "2026-03-22T21:55:45Z"
-  },
-  {
     "pr": 900,
     "title": "ESO-716 feat: bi-directional CSPS import/export for Build Editor",
     "branch": "ESO-716/csps-import-export",
