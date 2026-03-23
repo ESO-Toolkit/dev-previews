@@ -98,11 +98,5 @@
     "title": "ESO-716 feat: bi-directional CSPS import/export for Build Editor",
     "branch": "ESO-716/csps-import-export",
     "updatedAt": "2026-03-23T01:19:22Z"
-  },
-  {
-    "pr": 910,
-    "title": "chore: standardize worktree location to .claude/worktrees/",
-    "branch": "chore/standardize-worktree-location",
-    "updatedAt": "2026-03-23T01:41:31Z"
   }
 ]
