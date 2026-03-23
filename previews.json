@@ -98,5 +98,11 @@
     "title": "ESO-716 feat: bi-directional CSPS import/export for Build Editor",
     "branch": "ESO-716/csps-import-export",
     "updatedAt": "2026-03-23T01:47:15Z"
+  },
+  {
+    "pr": 911,
+    "title": "chore: use dedicated worktree directory for ticket work",
+    "branch": "chore/dedicated-worktree-directory",
+    "updatedAt": "2026-03-23T01:54:32Z"
   }
 ]
