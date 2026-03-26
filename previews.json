@@ -76,12 +76,6 @@
     "updatedAt": "2026-03-23T17:01:54Z"
   },
   {
-    "pr": 909,
-    "title": "feat(ui): add page transitions and remove skeleton loader",
-    "branch": "feat/page-transitions",
-    "updatedAt": "2026-03-24T18:08:24Z"
-  },
-  {
     "pr": 889,
     "title": "feat(build-editor): add save/share/view/publish system and build hub",
     "branch": "feat/build-editor",
