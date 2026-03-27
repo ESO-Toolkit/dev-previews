@@ -74,11 +74,5 @@
     "title": "ESO-716 feat: bi-directional CSPS import/export for Build Editor",
     "branch": "ESO-716/csps-import-export",
     "updatedAt": "2026-03-23T17:01:54Z"
-  },
-  {
-    "pr": 889,
-    "title": "feat(build-editor): add save/share/view/publish system and build hub",
-    "branch": "feat/build-editor",
-    "updatedAt": "2026-03-27T01:14:02Z"
   }
 ]
