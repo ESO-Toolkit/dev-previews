@@ -92,11 +92,5 @@
     "title": "feat(build-hub): addon pack deep link integration",
     "branch": "feat/addon-packs",
     "updatedAt": "2026-03-28T20:37:46Z"
-  },
-  {
-    "pr": 926,
-    "title": "fix: stabilize logger context to prevent cascading re-renders",
-    "branch": "claude/revert-pr-909-rW6GO",
-    "updatedAt": "2026-03-28T20:49:29Z"
   }
 ]
