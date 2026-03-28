@@ -86,5 +86,11 @@
     "title": "feat(discord-bot): add roster ↔ Discord integration",
     "branch": "feat/discord-bot",
     "updatedAt": "2026-03-28T03:30:31Z"
+  },
+  {
+    "pr": 925,
+    "title": "feat(build-hub): addon pack deep link integration",
+    "branch": "feat/addon-packs",
+    "updatedAt": "2026-03-28T04:26:41Z"
   }
 ]
