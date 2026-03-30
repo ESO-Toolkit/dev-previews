@@ -86,5 +86,11 @@
     "title": "feat(discord-bot): add roster ↔ Discord integration",
     "branch": "feat/discord-bot",
     "updatedAt": "2026-03-30T04:58:43Z"
+  },
+  {
+    "pr": 936,
+    "title": "Refactor report fights view with Card component and enhanced styling",
+    "branch": "claude/upgrade-report-ui-design-RkZE7",
+    "updatedAt": "2026-03-30T23:10:14Z"
   }
 ]
