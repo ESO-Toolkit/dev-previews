@@ -94,12 +94,6 @@
     "updatedAt": "2026-03-30T02:23:22Z"
   },
   {
-    "pr": 928,
-    "title": "feat: add custom MCP servers for GitHub, CI, and worktree management",
-    "branch": "ESO-733/custom-mcp-servers",
-    "updatedAt": "2026-03-30T03:36:16Z"
-  },
-  {
     "pr": 924,
     "title": "feat(discord-bot): add roster ↔ Discord integration",
     "branch": "feat/discord-bot",
