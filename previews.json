@@ -86,11 +86,5 @@
     "title": "feat(discord-bot): add roster ↔ Discord integration",
     "branch": "feat/discord-bot",
     "updatedAt": "2026-03-30T04:58:43Z"
-  },
-  {
-    "pr": 935,
-    "title": "fix: workflow skill defaults to worktree instead of in-place checkout",
-    "branch": "fix/workflow-skill-always-worktree",
-    "updatedAt": "2026-03-30T15:31:38Z"
   }
 ]
