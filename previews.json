@@ -103,6 +103,6 @@
     "pr": 923,
     "title": "fix: add esotk.com to CORS and production build API URL",
     "branch": "fix/esotk-cors-and-api-url",
-    "updatedAt": "2026-03-31T22:56:30Z"
+    "updatedAt": "2026-03-31T23:22:05Z"
   }
 ]
