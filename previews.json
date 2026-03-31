@@ -100,12 +100,6 @@
     "updatedAt": "2026-03-31T15:40:08Z"
   },
   {
-    "pr": 939,
-    "title": "fix(roster-hub): Audit fixes for PR #937",
-    "branch": "claude/audit-pr-937-fixes-Fj78e",
-    "updatedAt": "2026-03-31T17:07:08Z"
-  },
-  {
     "pr": 900,
     "title": "ESO-716 feat: bi-directional CSPS import/export for Build Editor",
     "branch": "ESO-716/csps-import-export",
