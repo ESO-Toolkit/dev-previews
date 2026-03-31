@@ -1,0 +1,1 @@
+function a(r){const n=Date.now()-new Date(r).getTime(),t=Math.floor(n/6e4);if(t<1)return"just now";if(t<60)return`${t}m ago`;const e=Math.floor(t/60);if(e<24)return`${e}h ago`;const o=Math.floor(e/24);return o<7?`${o}d ago`:o<30?`${Math.floor(o/7)}w ago`:new Date(r).toLocaleDateString(void 0,{month:"short",day:"numeric"})}export{a as f};
