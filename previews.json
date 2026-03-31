@@ -104,5 +104,11 @@
     "title": "feat(roster-hub): Wire in roster addon pack upload support",
     "branch": "feat/roster-addon-packs",
     "updatedAt": "2026-03-31T15:40:08Z"
+  },
+  {
+    "pr": 939,
+    "title": "fix(roster-hub): Audit fixes for PR #937",
+    "branch": "claude/audit-pr-937-fixes-Fj78e",
+    "updatedAt": "2026-03-31T15:56:19Z"
   }
 ]
