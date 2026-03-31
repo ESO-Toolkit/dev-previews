@@ -88,12 +88,6 @@
     "updatedAt": "2026-03-31T01:42:48Z"
   },
   {
-    "pr": 900,
-    "title": "ESO-716 feat: bi-directional CSPS import/export for Build Editor",
-    "branch": "ESO-716/csps-import-export",
-    "updatedAt": "2026-03-31T06:22:17Z"
-  },
-  {
     "pr": 938,
     "title": "feat(discord-bot): add roster ↔ Discord integration",
     "branch": "claude/fix-roster-hub-bugs-k08Qw",
@@ -110,5 +104,11 @@
     "title": "fix(roster-hub): Audit fixes for PR #937",
     "branch": "claude/audit-pr-937-fixes-Fj78e",
     "updatedAt": "2026-03-31T17:07:08Z"
+  },
+  {
+    "pr": 900,
+    "title": "ESO-716 feat: bi-directional CSPS import/export for Build Editor",
+    "branch": "ESO-716/csps-import-export",
+    "updatedAt": "2026-03-31T17:25:32Z"
   }
 ]
