@@ -70,12 +70,6 @@
     "updatedAt": "2026-03-14T19:20:30Z"
   },
   {
-    "pr": 923,
-    "title": "fix: add esotk.com to CORS and production build API URL",
-    "branch": "fix/esotk-cors-and-api-url",
-    "updatedAt": "2026-03-27T22:39:59Z"
-  },
-  {
     "pr": 936,
     "title": "Refactor report fights view with Card component and enhanced styling",
     "branch": "claude/upgrade-report-ui-design-RkZE7",
@@ -104,5 +98,11 @@
     "title": "feat(roster-hub): Wire in roster addon pack upload support",
     "branch": "feat/roster-addon-packs",
     "updatedAt": "2026-03-31T22:52:29Z"
+  },
+  {
+    "pr": 923,
+    "title": "fix: add esotk.com to CORS and production build API URL",
+    "branch": "fix/esotk-cors-and-api-url",
+    "updatedAt": "2026-03-31T22:56:30Z"
   }
 ]
