@@ -92,5 +92,11 @@
     "title": "ESO-716 feat: bi-directional CSPS import/export for Build Editor",
     "branch": "ESO-716/csps-import-export",
     "updatedAt": "2026-03-31T03:05:25Z"
+  },
+  {
+    "pr": 937,
+    "title": "feat(roster-hub): Wire in roster addon pack upload support",
+    "branch": "feat/roster-addon-packs",
+    "updatedAt": "2026-03-31T05:12:56Z"
   }
 ]
