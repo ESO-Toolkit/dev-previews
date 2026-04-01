@@ -88,12 +88,6 @@
     "updatedAt": "2026-03-31T22:52:29Z"
   },
   {
-    "pr": 923,
-    "title": "fix: add esotk.com to CORS and production build API URL",
-    "branch": "fix/esotk-cors-and-api-url",
-    "updatedAt": "2026-03-31T23:22:05Z"
-  },
-  {
     "pr": 940,
     "title": "Add success screen for Kalpa desktop app OAuth flow",
     "branch": "claude/redesign-kalpa-signin-page-VOM8F",
