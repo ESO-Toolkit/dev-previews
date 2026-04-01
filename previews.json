@@ -82,15 +82,15 @@
     "updatedAt": "2026-03-31T22:52:29Z"
   },
   {
-    "pr": 940,
-    "title": "Add success screen for Kalpa desktop app OAuth flow",
-    "branch": "claude/redesign-kalpa-signin-page-VOM8F",
-    "updatedAt": "2026-04-01T01:53:57Z"
-  },
-  {
     "pr": 924,
     "title": "feat(discord-bot): add roster ↔ Discord integration",
     "branch": "feat/discord-bot",
     "updatedAt": "2026-04-01T02:16:12Z"
+  },
+  {
+    "pr": 940,
+    "title": "Add success screen for Kalpa desktop app OAuth flow",
+    "branch": "claude/redesign-kalpa-signin-page-VOM8F",
+    "updatedAt": "2026-04-01T15:39:39Z"
   }
 ]
