@@ -94,12 +94,6 @@
     "updatedAt": "2026-04-01T02:16:12Z"
   },
   {
-    "pr": 943,
-    "title": "ci: also verify PR author has signed CLA",
-    "branch": "ci/cla-check-pr-author",
-    "updatedAt": "2026-04-01T04:46:29Z"
-  },
-  {
     "pr": 936,
     "title": "Refactor report fights view with Card component and enhanced styling",
     "branch": "claude/upgrade-report-ui-design-RkZE7",
