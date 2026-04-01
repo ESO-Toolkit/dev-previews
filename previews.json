@@ -76,15 +76,15 @@
     "updatedAt": "2026-03-31T15:25:55Z"
   },
   {
-    "pr": 937,
-    "title": "feat(roster-hub): Wire in roster addon pack upload support",
-    "branch": "feat/roster-addon-packs",
-    "updatedAt": "2026-03-31T22:52:29Z"
-  },
-  {
     "pr": 924,
     "title": "feat(discord-bot): add roster ↔ Discord integration",
     "branch": "feat/discord-bot",
     "updatedAt": "2026-04-01T02:16:12Z"
+  },
+  {
+    "pr": 937,
+    "title": "feat(roster-hub): Wire in roster addon pack upload support",
+    "branch": "feat/roster-addon-packs",
+    "updatedAt": "2026-04-01T17:05:31Z"
   }
 ]
