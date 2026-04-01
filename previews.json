@@ -70,12 +70,6 @@
     "updatedAt": "2026-03-14T19:20:30Z"
   },
   {
-    "pr": 936,
-    "title": "Refactor report fights view with Card component and enhanced styling",
-    "branch": "claude/upgrade-report-ui-design-RkZE7",
-    "updatedAt": "2026-03-30T23:10:14Z"
-  },
-  {
     "pr": 938,
     "title": "feat(discord-bot): add roster ↔ Discord integration",
     "branch": "claude/fix-roster-hub-bugs-k08Qw",
@@ -104,5 +98,11 @@
     "title": "ci: also verify PR author has signed CLA",
     "branch": "ci/cla-check-pr-author",
     "updatedAt": "2026-04-01T04:46:29Z"
+  },
+  {
+    "pr": 936,
+    "title": "Refactor report fights view with Card component and enhanced styling",
+    "branch": "claude/upgrade-report-ui-design-RkZE7",
+    "updatedAt": "2026-04-01T05:14:14Z"
   }
 ]
