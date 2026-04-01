@@ -76,12 +76,6 @@
     "updatedAt": "2026-03-30T23:10:14Z"
   },
   {
-    "pr": 924,
-    "title": "feat(discord-bot): add roster ↔ Discord integration",
-    "branch": "feat/discord-bot",
-    "updatedAt": "2026-03-31T01:42:48Z"
-  },
-  {
     "pr": 938,
     "title": "feat(discord-bot): add roster ↔ Discord integration",
     "branch": "claude/fix-roster-hub-bugs-k08Qw",
@@ -110,5 +104,11 @@
     "title": "Add success screen for Kalpa desktop app OAuth flow",
     "branch": "claude/redesign-kalpa-signin-page-VOM8F",
     "updatedAt": "2026-04-01T01:53:57Z"
+  },
+  {
+    "pr": 924,
+    "title": "feat(discord-bot): add roster ↔ Discord integration",
+    "branch": "feat/discord-bot",
+    "updatedAt": "2026-04-01T02:16:12Z"
   }
 ]
