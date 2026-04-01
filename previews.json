@@ -106,12 +106,6 @@
     "updatedAt": "2026-03-31T23:22:05Z"
   },
   {
-    "pr": 941,
-    "title": "Fix day-name preview, tag normalization, and segBtn typing in roster UI",
-    "branch": "codex/audit-pr-for-bugs-and-implement-fixes",
-    "updatedAt": "2026-04-01T01:11:37Z"
-  },
-  {
     "pr": 940,
     "title": "Add success screen for Kalpa desktop app OAuth flow",
     "branch": "claude/redesign-kalpa-signin-page-VOM8F",
