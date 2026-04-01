@@ -92,5 +92,11 @@
     "title": "Add success screen for Kalpa desktop app OAuth flow",
     "branch": "claude/redesign-kalpa-signin-page-VOM8F",
     "updatedAt": "2026-04-01T15:39:39Z"
+  },
+  {
+    "pr": 944,
+    "title": "fix: correct JSON path for CLA signatures lookup",
+    "branch": "ci/cla-check-pr-author",
+    "updatedAt": "2026-04-01T16:05:45Z"
   }
 ]
