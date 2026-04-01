@@ -104,5 +104,11 @@
     "title": "feat(discord-bot): add roster ↔ Discord integration",
     "branch": "feat/discord-bot",
     "updatedAt": "2026-04-01T02:16:12Z"
+  },
+  {
+    "pr": 942,
+    "title": "ci: add claude to CLA allowlist",
+    "branch": "ci/cla-allowlist-claude",
+    "updatedAt": "2026-04-01T04:14:24Z"
   }
 ]
