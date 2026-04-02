@@ -88,12 +88,6 @@
     "updatedAt": "2026-04-02T02:14:31Z"
   },
   {
-    "pr": 948,
-    "title": "feat(profile): add public profiles and API hardening",
-    "branch": "feat/profile-and-hardening",
-    "updatedAt": "2026-04-02T02:57:47Z"
-  },
-  {
     "pr": 952,
     "title": "Refactor dropdown menus with modern Popover & styled components",
     "branch": "claude/modernize-header-submenu-Ha27C",
@@ -116,5 +110,11 @@
     "title": "Refactor dialog and component styling with glassmorphism design",
     "branch": "claude/design-system-overhaul-GnWom",
     "updatedAt": "2026-04-02T23:11:07Z"
+  },
+  {
+    "pr": 948,
+    "title": "feat(profile): add public profiles and API hardening",
+    "branch": "feat/profile-and-hardening",
+    "updatedAt": "2026-04-02T23:14:49Z"
   }
 ]
