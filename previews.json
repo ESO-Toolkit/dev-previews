@@ -116,5 +116,11 @@
     "title": "Improve ErrorBoundary UI/UX with better error details display",
     "branch": "claude/improve-error-messages-fBuxM",
     "updatedAt": "2026-04-02T02:15:38Z"
+  },
+  {
+    "pr": 945,
+    "title": "style(report): enhance fight card gradients, text sizing, and light mode",
+    "branch": "style/report-card-enhancements",
+    "updatedAt": "2026-04-02T02:21:36Z"
   }
 ]
