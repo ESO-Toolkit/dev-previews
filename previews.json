@@ -82,12 +82,6 @@
     "updatedAt": "2026-04-02T00:09:25Z"
   },
   {
-    "pr": 946,
-    "title": "Add preserve_settings option to addon manager deep links",
-    "branch": "claude/fix-addon-install-settings-eJV4n",
-    "updatedAt": "2026-04-02T01:24:37Z"
-  },
-  {
     "pr": 950,
     "title": "Add role-based sorting to players panel",
     "branch": "claude/player-card-default-order-eqgzK",
