@@ -80,5 +80,11 @@
     "title": "feat(discord-bot): add roster ↔ Discord integration",
     "branch": "feat/discord-bot",
     "updatedAt": "2026-04-01T23:36:13Z"
+  },
+  {
+    "pr": 946,
+    "title": "Add preserve_settings option to addon manager deep links",
+    "branch": "claude/fix-addon-install-settings-eJV4n",
+    "updatedAt": "2026-04-02T00:07:19Z"
   }
 ]
