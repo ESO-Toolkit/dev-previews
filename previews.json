@@ -88,12 +88,6 @@
     "updatedAt": "2026-04-02T02:14:31Z"
   },
   {
-    "pr": 951,
-    "title": "Improve ErrorBoundary UI/UX with better error details display",
-    "branch": "claude/improve-error-messages-fBuxM",
-    "updatedAt": "2026-04-02T02:15:38Z"
-  },
-  {
     "pr": 948,
     "title": "feat(profile): add public profiles and API hardening",
     "branch": "feat/profile-and-hardening",
@@ -110,5 +104,11 @@
     "title": "Refactor dropdown menus with modern Popover & styled components",
     "branch": "claude/modernize-header-submenu-Ha27C",
     "updatedAt": "2026-04-02T04:26:23Z"
+  },
+  {
+    "pr": 951,
+    "title": "Improve ErrorBoundary UI/UX with better error details display",
+    "branch": "claude/improve-error-messages-fBuxM",
+    "updatedAt": "2026-04-02T22:55:28Z"
   }
 ]
