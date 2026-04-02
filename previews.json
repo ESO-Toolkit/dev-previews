@@ -86,5 +86,11 @@
     "title": "Add preserve_settings option to addon manager deep links",
     "branch": "claude/fix-addon-install-settings-eJV4n",
     "updatedAt": "2026-04-02T00:07:19Z"
+  },
+  {
+    "pr": 947,
+    "title": "fix(hub): restore direct navigation for roster/build hub cards",
+    "branch": "claude/fix-hub-cards-modals-BwlLn",
+    "updatedAt": "2026-04-02T00:09:25Z"
   }
 ]
