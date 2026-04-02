@@ -118,15 +118,15 @@
     "updatedAt": "2026-04-02T02:57:47Z"
   },
   {
-    "pr": 952,
-    "title": "Refactor dropdown menus with modern Popover & styled components",
-    "branch": "claude/modernize-header-submenu-Ha27C",
-    "updatedAt": "2026-04-02T03:31:55Z"
-  },
-  {
     "pr": 924,
     "title": "feat(discord-bot): add roster ↔ Discord integration",
     "branch": "feat/discord-bot",
     "updatedAt": "2026-04-02T03:33:44Z"
+  },
+  {
+    "pr": 952,
+    "title": "Refactor dropdown menus with modern Popover & styled components",
+    "branch": "claude/modernize-header-submenu-Ha27C",
+    "updatedAt": "2026-04-02T04:26:23Z"
   }
 ]
