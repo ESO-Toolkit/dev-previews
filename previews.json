@@ -76,12 +76,6 @@
     "updatedAt": "2026-03-31T15:25:55Z"
   },
   {
-    "pr": 924,
-    "title": "feat(discord-bot): add roster ↔ Discord integration",
-    "branch": "feat/discord-bot",
-    "updatedAt": "2026-04-01T23:36:13Z"
-  },
-  {
     "pr": 947,
     "title": "fix(hub): restore direct navigation for roster/build hub cards",
     "branch": "claude/fix-hub-cards-modals-BwlLn",
@@ -128,5 +122,11 @@
     "title": "Refactor dropdown menus with modern Popover & styled components",
     "branch": "claude/modernize-header-submenu-Ha27C",
     "updatedAt": "2026-04-02T03:31:55Z"
+  },
+  {
+    "pr": 924,
+    "title": "feat(discord-bot): add roster ↔ Discord integration",
+    "branch": "feat/discord-bot",
+    "updatedAt": "2026-04-02T03:33:44Z"
   }
 ]
