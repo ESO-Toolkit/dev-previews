@@ -92,5 +92,11 @@
     "title": "Add preserve_settings option to addon manager deep links",
     "branch": "claude/fix-addon-install-settings-eJV4n",
     "updatedAt": "2026-04-02T01:24:37Z"
+  },
+  {
+    "pr": 948,
+    "title": "feat(profile): add public profiles and API hardening",
+    "branch": "feat/profile-and-hardening",
+    "updatedAt": "2026-04-02T01:50:38Z"
   }
 ]
