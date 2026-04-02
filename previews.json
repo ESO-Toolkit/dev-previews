@@ -122,5 +122,11 @@
     "title": "feat(profile): add public profiles and API hardening",
     "branch": "feat/profile-and-hardening",
     "updatedAt": "2026-04-02T02:57:47Z"
+  },
+  {
+    "pr": 952,
+    "title": "Refactor dropdown menus with modern Popover & styled components",
+    "branch": "claude/modernize-header-submenu-Ha27C",
+    "updatedAt": "2026-04-02T03:04:21Z"
   }
 ]
