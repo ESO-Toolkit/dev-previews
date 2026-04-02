@@ -100,12 +100,6 @@
     "updatedAt": "2026-04-02T01:50:38Z"
   },
   {
-    "pr": 949,
-    "title": "Redesign cookie consent banner with glassmorphism UI",
-    "branch": "claude/modernize-consent-banner-qb5Ke",
-    "updatedAt": "2026-04-02T02:13:23Z"
-  },
-  {
     "pr": 950,
     "title": "Add role-based sorting to players panel",
     "branch": "claude/player-card-default-order-eqgzK",
@@ -122,5 +116,11 @@
     "title": "style(report): enhance fight card gradients, text sizing, and light mode",
     "branch": "style/report-card-enhancements",
     "updatedAt": "2026-04-02T02:21:36Z"
+  },
+  {
+    "pr": 949,
+    "title": "Redesign cookie consent banner with glassmorphism UI",
+    "branch": "claude/modernize-consent-banner-qb5Ke",
+    "updatedAt": "2026-04-02T02:30:12Z"
   }
 ]
