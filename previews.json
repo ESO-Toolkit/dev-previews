@@ -100,12 +100,6 @@
     "updatedAt": "2026-04-02T02:15:38Z"
   },
   {
-    "pr": 945,
-    "title": "style(report): enhance fight card gradients, text sizing, and light mode",
-    "branch": "style/report-card-enhancements",
-    "updatedAt": "2026-04-02T02:21:36Z"
-  },
-  {
     "pr": 949,
     "title": "Redesign cookie consent banner with glassmorphism UI",
     "branch": "claude/modernize-consent-banner-qb5Ke",
