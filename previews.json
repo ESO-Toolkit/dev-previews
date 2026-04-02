@@ -128,11 +128,5 @@
     "title": "Refactor dropdown menus with modern Popover & styled components",
     "branch": "claude/modernize-header-submenu-Ha27C",
     "updatedAt": "2026-04-02T04:26:23Z"
-  },
-  {
-    "pr": 953,
-    "title": "test: expand nightly regression coverage for demo prep",
-    "branch": "test/nightly-coverage-improvements",
-    "updatedAt": "2026-04-02T05:40:41Z"
   }
 ]
