@@ -100,12 +100,6 @@
     "updatedAt": "2026-04-02T02:15:38Z"
   },
   {
-    "pr": 949,
-    "title": "Redesign cookie consent banner with glassmorphism UI",
-    "branch": "claude/modernize-consent-banner-qb5Ke",
-    "updatedAt": "2026-04-02T02:42:41Z"
-  },
-  {
     "pr": 948,
     "title": "feat(profile): add public profiles and API hardening",
     "branch": "feat/profile-and-hardening",
