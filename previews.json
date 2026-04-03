@@ -94,12 +94,6 @@
     "updatedAt": "2026-04-02T04:26:23Z"
   },
   {
-    "pr": 924,
-    "title": "feat(discord-bot): add roster ↔ Discord integration",
-    "branch": "feat/discord-bot",
-    "updatedAt": "2026-04-02T23:09:52Z"
-  },
-  {
     "pr": 954,
     "title": "Refactor dialog and component styling with glassmorphism design",
     "branch": "claude/design-system-overhaul-GnWom",
@@ -110,5 +104,11 @@
     "title": "feat(profile): add public profiles and API hardening",
     "branch": "feat/profile-and-hardening",
     "updatedAt": "2026-04-02T23:14:49Z"
+  },
+  {
+    "pr": 924,
+    "title": "feat(discord-bot): add roster ↔ Discord integration",
+    "branch": "feat/discord-bot",
+    "updatedAt": "2026-04-03T17:47:41Z"
   }
 ]
