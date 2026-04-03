@@ -94,12 +94,6 @@
     "updatedAt": "2026-04-02T04:26:23Z"
   },
   {
-    "pr": 951,
-    "title": "Improve ErrorBoundary UI/UX with better error details display",
-    "branch": "claude/improve-error-messages-fBuxM",
-    "updatedAt": "2026-04-02T22:55:28Z"
-  },
-  {
     "pr": 924,
     "title": "feat(discord-bot): add roster ↔ Discord integration",
     "branch": "feat/discord-bot",
