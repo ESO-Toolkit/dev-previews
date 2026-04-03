@@ -116,11 +116,5 @@
     "title": "feat(profile): add public profiles and API hardening",
     "branch": "feat/profile-and-hardening",
     "updatedAt": "2026-04-02T23:14:49Z"
-  },
-  {
-    "pr": 955,
-    "title": "fix: prevent infinite token refresh loop in Apollo error link",
-    "branch": "fix/token-refresh-infinite-loop",
-    "updatedAt": "2026-04-03T15:44:19Z"
   }
 ]
