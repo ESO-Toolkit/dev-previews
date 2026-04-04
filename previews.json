@@ -110,5 +110,11 @@
     "title": "feat(discord-bot): add roster ↔ Discord integration",
     "branch": "feat/discord-bot",
     "updatedAt": "2026-04-04T04:13:42Z"
+  },
+  {
+    "pr": 958,
+    "title": "Replace CSS variables with theme-aware gradients in TextEditor",
+    "branch": "claude/text-editor-background-style-pt29c",
+    "updatedAt": "2026-04-04T06:04:39Z"
   }
 ]
