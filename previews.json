@@ -116,5 +116,11 @@
     "title": "feat(ui): profile hardening, header redesign, and view transitions",
     "branch": "feat/profile-and-hardening",
     "updatedAt": "2026-04-04T08:10:33Z"
+  },
+  {
+    "pr": 960,
+    "title": "feat: improve deaths page UX with filtering, timeline view, and better layout",
+    "branch": "claude/improve-deaths-page-ux-yqKch",
+    "updatedAt": "2026-04-04T08:31:56Z"
   }
 ]
