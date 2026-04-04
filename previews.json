@@ -100,15 +100,15 @@
     "updatedAt": "2026-04-02T23:14:49Z"
   },
   {
-    "pr": 924,
-    "title": "feat(discord-bot): add roster ↔ Discord integration",
-    "branch": "feat/discord-bot",
-    "updatedAt": "2026-04-03T17:50:32Z"
-  },
-  {
     "pr": 957,
     "title": "feat(ui): profile hardening, header redesign, and view transitions",
     "branch": "feat/profile-and-hardening",
     "updatedAt": "2026-04-04T04:08:10Z"
+  },
+  {
+    "pr": 924,
+    "title": "feat(discord-bot): add roster ↔ Discord integration",
+    "branch": "feat/discord-bot",
+    "updatedAt": "2026-04-04T04:13:42Z"
   }
 ]
