@@ -128,11 +128,5 @@
     "title": "docs: audit MCP tool gaps, update skills to prefer MCP over raw CLI",
     "branch": "claude/investigate-mcp-gaps-WsjVJ",
     "updatedAt": "2026-04-06T18:14:36Z"
-  },
-  {
-    "pr": 971,
-    "title": "fix(ESO-721): harden GraphQL API client and remove dead code",
-    "branch": "ESO-721/graphql-review",
-    "updatedAt": "2026-04-06T23:33:09Z"
   }
 ]
