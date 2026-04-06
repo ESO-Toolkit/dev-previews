@@ -134,5 +134,11 @@
     "title": "refactor(ESO-722): review & fix report details feature",
     "branch": "ESO-722/review-report-details",
     "updatedAt": "2026-04-06T22:50:36Z"
+  },
+  {
+    "pr": 973,
+    "title": "fix(ESO-720): review & fix web workers and heavy computation",
+    "branch": "ESO-720/review-fix-web-workers",
+    "updatedAt": "2026-04-06T22:51:37Z"
   }
 ]
