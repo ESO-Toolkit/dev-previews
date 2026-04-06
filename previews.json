@@ -140,11 +140,5 @@
     "title": "fix(ESO-720): review & fix web workers and heavy computation",
     "branch": "ESO-720/review-fix-web-workers",
     "updatedAt": "2026-04-06T22:51:37Z"
-  },
-  {
-    "pr": 974,
-    "title": "fix(ESO-723): review & fix Fight Replay 3D visualization",
-    "branch": "ESO-723/review-fight-replay-3d",
-    "updatedAt": "2026-04-06T22:53:19Z"
   }
 ]
