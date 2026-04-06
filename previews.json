@@ -130,12 +130,6 @@
     "updatedAt": "2026-04-06T18:14:36Z"
   },
   {
-    "pr": 976,
-    "title": "feat: add unified tooling-audit skill",
-    "branch": "claude/mcp-tooling-audit-skill-x8GnT",
-    "updatedAt": "2026-04-06T23:47:35Z"
-  },
-  {
     "pr": 977,
     "title": "chore: enforce branch naming convention via PreToolUse hook",
     "branch": "claude/branch-naming-conventions-TYZDA",
