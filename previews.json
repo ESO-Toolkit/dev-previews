@@ -124,15 +124,15 @@
     "updatedAt": "2026-04-07T03:09:30Z"
   },
   {
-    "pr": 960,
-    "title": "feat: improve deaths page UX with filtering, timeline view, and better layout",
-    "branch": "claude/improve-deaths-page-ux-yqKch",
-    "updatedAt": "2026-04-07T05:15:27Z"
-  },
-  {
     "pr": 957,
     "title": "feat(ui): profile hardening, header redesign, and view transitions",
     "branch": "feat/profile-and-hardening",
     "updatedAt": "2026-04-07T05:37:48Z"
+  },
+  {
+    "pr": 960,
+    "title": "feat: improve deaths page UX with filtering, timeline view, and better layout",
+    "branch": "claude/improve-deaths-page-ux-yqKch",
+    "updatedAt": "2026-04-07T05:52:40Z"
   }
 ]
