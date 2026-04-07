@@ -112,12 +112,6 @@
     "updatedAt": "2026-04-04T06:04:39Z"
   },
   {
-    "pr": 960,
-    "title": "feat: improve deaths page UX with filtering, timeline view, and better layout",
-    "branch": "claude/improve-deaths-page-ux-yqKch",
-    "updatedAt": "2026-04-04T23:21:25Z"
-  },
-  {
     "pr": 970,
     "title": "docs: audit MCP tool gaps, update skills to prefer MCP over raw CLI",
     "branch": "claude/investigate-mcp-gaps-WsjVJ",
@@ -134,5 +128,11 @@
     "title": "feat(ui): profile hardening, header redesign, and view transitions",
     "branch": "feat/profile-and-hardening",
     "updatedAt": "2026-04-07T04:28:13Z"
+  },
+  {
+    "pr": 960,
+    "title": "feat: improve deaths page UX with filtering, timeline view, and better layout",
+    "branch": "claude/improve-deaths-page-ux-yqKch",
+    "updatedAt": "2026-04-07T05:15:27Z"
   }
 ]
