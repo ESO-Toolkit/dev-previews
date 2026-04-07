@@ -128,5 +128,11 @@
     "title": "docs: audit MCP tool gaps, update skills to prefer MCP over raw CLI",
     "branch": "claude/investigate-mcp-gaps-WsjVJ",
     "updatedAt": "2026-04-06T18:14:36Z"
+  },
+  {
+    "pr": 978,
+    "title": "feat(router): agentic model router with TUI, device auth, and tool calling",
+    "branch": "claude/dynamic-agent-model-selection-74UNo",
+    "updatedAt": "2026-04-07T03:09:30Z"
   }
 ]
