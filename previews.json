@@ -118,12 +118,6 @@
     "updatedAt": "2026-04-04T23:21:25Z"
   },
   {
-    "pr": 957,
-    "title": "feat(ui): profile hardening, header redesign, and view transitions",
-    "branch": "feat/profile-and-hardening",
-    "updatedAt": "2026-04-05T18:43:24Z"
-  },
-  {
     "pr": 970,
     "title": "docs: audit MCP tool gaps, update skills to prefer MCP over raw CLI",
     "branch": "claude/investigate-mcp-gaps-WsjVJ",
@@ -134,5 +128,11 @@
     "title": "feat(router): agentic model router with TUI, device auth, and tool calling",
     "branch": "claude/dynamic-agent-model-selection-74UNo",
     "updatedAt": "2026-04-07T03:09:30Z"
+  },
+  {
+    "pr": 957,
+    "title": "feat(ui): profile hardening, header redesign, and view transitions",
+    "branch": "feat/profile-and-hardening",
+    "updatedAt": "2026-04-07T03:10:30Z"
   }
 ]
