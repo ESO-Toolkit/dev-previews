@@ -1,0 +1,1 @@
+import{a as c}from"./redux-DkDY_IPw.js";const s="eso:sk:";function u(t,r){try{const e=localStorage.getItem(s+t);if(e!==null){const o=parseInt(e,10);if(o>0)return o}}catch{}return r}function i(t,r){const[e,o]=c.useState(()=>u(t,r)),a=c.useCallback(n=>{if(n>0){o(n);try{localStorage.setItem(s+t,String(n))}catch{}}},[t]);return[e,a]}export{i as u};
