@@ -118,12 +118,6 @@
     "updatedAt": "2026-04-06T18:14:36Z"
   },
   {
-    "pr": 957,
-    "title": "feat(ui): profile hardening, header redesign, and view transitions",
-    "branch": "feat/profile-and-hardening",
-    "updatedAt": "2026-04-07T05:37:48Z"
-  },
-  {
     "pr": 960,
     "title": "feat: improve deaths page UX with filtering, timeline view, and better layout",
     "branch": "claude/improve-deaths-page-ux-yqKch",
@@ -140,5 +134,11 @@
     "title": "Persist skeleton loading states from actual data",
     "branch": "claude/fix-skeleton-loading-MtHJT",
     "updatedAt": "2026-04-08T00:30:25Z"
+  },
+  {
+    "pr": 957,
+    "title": "feat(ui): profile hardening, header redesign, and view transitions",
+    "branch": "feat/profile-and-hardening",
+    "updatedAt": "2026-04-08T00:35:57Z"
   }
 ]
