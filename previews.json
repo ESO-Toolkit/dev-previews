@@ -134,5 +134,11 @@
     "title": "feat(router): agentic model router with TUI, device auth, and tool calling",
     "branch": "claude/dynamic-agent-model-selection-74UNo",
     "updatedAt": "2026-04-07T22:43:49Z"
+  },
+  {
+    "pr": 979,
+    "title": "Persist skeleton loading states from actual data",
+    "branch": "claude/fix-skeleton-loading-MtHJT",
+    "updatedAt": "2026-04-08T00:16:50Z"
   }
 ]
