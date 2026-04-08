@@ -106,12 +106,6 @@
     "updatedAt": "2026-04-04T04:13:42Z"
   },
   {
-    "pr": 958,
-    "title": "Replace CSS variables with theme-aware gradients in TextEditor",
-    "branch": "claude/text-editor-background-style-pt29c",
-    "updatedAt": "2026-04-04T06:04:39Z"
-  },
-  {
     "pr": 970,
     "title": "docs: audit MCP tool gaps, update skills to prefer MCP over raw CLI",
     "branch": "claude/investigate-mcp-gaps-WsjVJ",
@@ -146,5 +140,11 @@
     "title": "feat(deaths): merge iridescent styling with skeleton refactor and fidelity improvements",
     "branch": "claude/merge-ui-improvements-BFqs4",
     "updatedAt": "2026-04-08T04:35:12Z"
+  },
+  {
+    "pr": 958,
+    "title": "Replace CSS variables with theme-aware gradients in TextEditor",
+    "branch": "claude/text-editor-background-style-pt29c",
+    "updatedAt": "2026-04-08T05:02:29Z"
   }
 ]
