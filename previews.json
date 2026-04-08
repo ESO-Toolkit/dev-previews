@@ -130,12 +130,6 @@
     "updatedAt": "2026-04-08T02:38:58Z"
   },
   {
-    "pr": 960,
-    "title": "feat: improve deaths page UX with filtering, timeline view, and better layout",
-    "branch": "claude/improve-deaths-page-ux-yqKch",
-    "updatedAt": "2026-04-08T03:30:15Z"
-  },
-  {
     "pr": 982,
     "title": "feat(deaths): merge iridescent styling with skeleton refactor and fidelity improvements",
     "branch": "claude/merge-ui-improvements-BFqs4",
@@ -146,5 +140,11 @@
     "title": "Replace CSS variables with theme-aware gradients in TextEditor",
     "branch": "claude/text-editor-background-style-pt29c",
     "updatedAt": "2026-04-08T07:08:46Z"
+  },
+  {
+    "pr": 960,
+    "title": "refactor(ui): improve deaths page UX with filtering, timeline view, and better layout",
+    "branch": "claude/improve-deaths-page-ux-yqKch",
+    "updatedAt": "2026-04-08T07:21:03Z"
   }
 ]
