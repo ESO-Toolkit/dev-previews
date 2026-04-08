@@ -140,5 +140,11 @@
     "title": "feat: improve deaths page UX with filtering, timeline view, and better layout",
     "branch": "claude/improve-deaths-page-ux-yqKch",
     "updatedAt": "2026-04-08T03:30:15Z"
+  },
+  {
+    "pr": 982,
+    "title": "feat(deaths): merge iridescent styling with skeleton refactor and fidelity improvements",
+    "branch": "claude/merge-ui-improvements-BFqs4",
+    "updatedAt": "2026-04-08T04:24:07Z"
   }
 ]
