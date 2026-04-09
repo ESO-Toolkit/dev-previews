@@ -134,5 +134,11 @@
     "title": "fix(ci): pass vars context through input to composite action",
     "branch": "fix/composite-action-vars-context",
     "updatedAt": "2026-04-09T02:47:20Z"
+  },
+  {
+    "pr": 986,
+    "title": "fix(deploy): pass Discord client ID through action inputs",
+    "branch": "fix/deploy-vars-context",
+    "updatedAt": "2026-04-09T02:53:25Z"
   }
 ]
