@@ -1,1 +1,0 @@
-const e=["beginner","score-push","farm","#1"],a={beginner:"#22c55e","score-push":"#ef4444",farm:"#14b8a6","#1":"#eab308",normal:"#22c55e",vet:"#f97316",hm:"#ef4444",trainer:"#60a5fa"};export{e as P,a as T};

@@ -100,12 +100,6 @@
     "updatedAt": "2026-04-02T23:14:49Z"
   },
   {
-    "pr": 924,
-    "title": "feat(discord-bot): add roster ↔ Discord integration",
-    "branch": "feat/discord-bot",
-    "updatedAt": "2026-04-04T04:13:42Z"
-  },
-  {
     "pr": 970,
     "title": "docs: audit MCP tool gaps, update skills to prefer MCP over raw CLI",
     "branch": "claude/investigate-mcp-gaps-WsjVJ",
