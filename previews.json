@@ -128,5 +128,11 @@
     "title": "refactor(ui): improve deaths page UX with filtering, timeline view, and better layout",
     "branch": "claude/improve-deaths-page-ux-yqKch",
     "updatedAt": "2026-04-08T07:21:03Z"
+  },
+  {
+    "pr": 985,
+    "title": "fix(ci): pass vars context through input to composite action",
+    "branch": "fix/composite-action-vars-context",
+    "updatedAt": "2026-04-09T02:37:26Z"
   }
 ]
