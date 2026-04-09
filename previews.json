@@ -140,11 +140,5 @@
     "title": "refactor(ui): improve deaths page UX with filtering, timeline view, and better layout",
     "branch": "claude/improve-deaths-page-ux-yqKch",
     "updatedAt": "2026-04-08T07:21:03Z"
-  },
-  {
-    "pr": 984,
-    "title": "fix(nightly): resolve WebKit screenshot timeouts and SPA-redirect navigation failures",
-    "branch": "fix/nightly-webkit-failures",
-    "updatedAt": "2026-04-08T20:45:50Z"
   }
 ]
