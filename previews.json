@@ -134,5 +134,11 @@
     "title": "fix(deploy): pass Discord client ID through action inputs",
     "branch": "fix/deploy-vars-context",
     "updatedAt": "2026-04-09T02:53:25Z"
+  },
+  {
+    "pr": 987,
+    "title": "feat(ui): impeccable design pass — landing page typography & visual polish (ESO-764)",
+    "branch": "ESO-764/ui-impeccable-design-pass",
+    "updatedAt": "2026-04-10T02:06:21Z"
   }
 ]
