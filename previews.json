@@ -164,5 +164,11 @@
     "title": "fix(deploy): pass Discord client ID through action inputs",
     "branch": "fix/deploy-vars-context",
     "updatedAt": "2026-04-11T21:06:54Z"
+  },
+  {
+    "pr": 996,
+    "title": "feat(api): Cloudflare Worker GQL proxy for ESO Logs API",
+    "branch": "ESO-765/cf-gql-proxy",
+    "updatedAt": "2026-04-11T21:12:37Z"
   }
 ]
