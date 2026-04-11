@@ -134,5 +134,11 @@
     "title": "feat: Persist skeleton loading states from actual data",
     "branch": "claude/fix-skeleton-loading-MtHJT",
     "updatedAt": "2026-04-11T21:53:18Z"
+  },
+  {
+    "pr": 1000,
+    "title": "fix(ci): scope deploy Discord notification to commits since last deploy (ESO-767)",
+    "branch": "claude/goofy-pike",
+    "updatedAt": "2026-04-11T23:12:55Z"
   }
 ]
