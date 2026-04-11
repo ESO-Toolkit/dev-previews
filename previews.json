@@ -140,5 +140,11 @@
     "title": "feat(build-hub): allow unauthenticated access to build hub",
     "branch": "claude/fix-pack-hub-500",
     "updatedAt": "2026-04-11T20:38:27Z"
+  },
+  {
+    "pr": 992,
+    "title": "feat(ci): Discord notifications for nightly tests and releases",
+    "branch": "claude/suspicious-heisenberg",
+    "updatedAt": "2026-04-11T20:44:31Z"
   }
 ]
