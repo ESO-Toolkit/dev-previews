@@ -140,11 +140,5 @@
     "title": "fix(ui): Kalpa download fallback + view transitions skill",
     "branch": "claude/fix-pack-hub-kalpa-download-fallback",
     "updatedAt": "2026-04-11T23:42:35Z"
-  },
-  {
-    "pr": 1003,
-    "title": "fix(ui): pluralize Latest Report nav item",
-    "branch": "claude/pedantic-zhukovsky",
-    "updatedAt": "2026-04-11T23:46:36Z"
   }
 ]
