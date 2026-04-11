@@ -152,11 +152,5 @@
     "title": "fix(deploy): pass Discord client ID through action inputs",
     "branch": "fix/deploy-vars-context",
     "updatedAt": "2026-04-11T21:06:54Z"
-  },
-  {
-    "pr": 960,
-    "title": "refactor(ui): improve deaths page UX with filtering, timeline view, and better layout",
-    "branch": "claude/improve-deaths-page-ux-yqKch",
-    "updatedAt": "2026-04-11T21:20:21Z"
   }
 ]
