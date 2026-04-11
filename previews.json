@@ -112,12 +112,6 @@
     "updatedAt": "2026-04-07T22:43:49Z"
   },
   {
-    "pr": 957,
-    "title": "feat(ui): profile hardening, header redesign, and view transitions",
-    "branch": "feat/profile-and-hardening",
-    "updatedAt": "2026-04-08T00:35:57Z"
-  },
-  {
     "pr": 979,
     "title": "Persist skeleton loading states from actual data",
     "branch": "claude/fix-skeleton-loading-MtHJT",
@@ -140,5 +134,11 @@
     "title": "feat(ui): impeccable design pass — landing page typography & visual polish (ESO-764)",
     "branch": "ESO-764/ui-impeccable-design-pass",
     "updatedAt": "2026-04-10T02:06:21Z"
+  },
+  {
+    "pr": 957,
+    "title": "feat(ui): profile hardening, header redesign, and view transitions",
+    "branch": "feat/profile-and-hardening",
+    "updatedAt": "2026-04-11T00:17:24Z"
   }
 ]
