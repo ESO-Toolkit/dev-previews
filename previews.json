@@ -118,12 +118,6 @@
     "updatedAt": "2026-04-10T02:06:21Z"
   },
   {
-    "pr": 990,
-    "title": "feat(build-hub): allow unauthenticated access to build hub",
-    "branch": "claude/fix-pack-hub-500",
-    "updatedAt": "2026-04-11T20:38:27Z"
-  },
-  {
     "pr": 992,
     "title": "feat(ci): Discord notifications for nightly tests and releases",
     "branch": "claude/suspicious-heisenberg",
@@ -146,5 +140,11 @@
     "title": "feat: Persist skeleton loading states from actual data",
     "branch": "claude/fix-skeleton-loading-MtHJT",
     "updatedAt": "2026-04-11T21:53:18Z"
+  },
+  {
+    "pr": 990,
+    "title": "fix(hub): resolve pack hub 500, MMOUI addon search, and public build hub",
+    "branch": "claude/fix-pack-hub-500",
+    "updatedAt": "2026-04-11T22:00:36Z"
   }
 ]
