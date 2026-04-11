@@ -142,12 +142,6 @@
     "updatedAt": "2026-04-11T20:58:06Z"
   },
   {
-    "pr": 998,
-    "title": "feat(ci): add manual Cloudflare Worker deploy workflow (ESO-768)",
-    "branch": "ESO-768/deploy-worker-workflow",
-    "updatedAt": "2026-04-11T21:51:24Z"
-  },
-  {
     "pr": 979,
     "title": "feat: Persist skeleton loading states from actual data",
     "branch": "claude/fix-skeleton-loading-MtHJT",
