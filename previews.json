@@ -112,12 +112,6 @@
     "updatedAt": "2026-04-07T22:43:49Z"
   },
   {
-    "pr": 960,
-    "title": "refactor(ui): improve deaths page UX with filtering, timeline view, and better layout",
-    "branch": "claude/improve-deaths-page-ux-yqKch",
-    "updatedAt": "2026-04-08T07:21:03Z"
-  },
-  {
     "pr": 987,
     "title": "feat(ui): impeccable design pass — landing page typography & visual polish (ESO-764)",
     "branch": "ESO-764/ui-impeccable-design-pass",
@@ -170,5 +164,11 @@
     "title": "feat(api): Cloudflare Worker GQL proxy for ESO Logs API",
     "branch": "ESO-765/cf-gql-proxy",
     "updatedAt": "2026-04-11T21:12:37Z"
+  },
+  {
+    "pr": 960,
+    "title": "refactor(ui): improve deaths page UX with filtering, timeline view, and better layout",
+    "branch": "claude/improve-deaths-page-ux-yqKch",
+    "updatedAt": "2026-04-11T21:13:45Z"
   }
 ]
