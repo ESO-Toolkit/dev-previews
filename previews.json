@@ -142,12 +142,6 @@
     "updatedAt": "2026-04-11T23:42:35Z"
   },
   {
-    "pr": 1002,
-    "title": "fix(auth): remove unnecessary AuthenticatedRoute from public pages",
-    "branch": "claude/ecstatic-bartik",
-    "updatedAt": "2026-04-11T23:43:51Z"
-  },
-  {
     "pr": 1003,
     "title": "fix(ui): pluralize Latest Report nav item",
     "branch": "claude/pedantic-zhukovsky",
