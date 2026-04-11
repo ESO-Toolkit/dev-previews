@@ -152,5 +152,11 @@
     "title": "Reverse fight stats fill to show damage progress",
     "branch": "claude/reverse-fight-stats-display",
     "updatedAt": "2026-04-11T20:46:48Z"
+  },
+  {
+    "pr": 993,
+    "title": "feat(infra): mirror legacy-sports worktree and node_modules infrastructure",
+    "branch": "claude/confident-khorana",
+    "updatedAt": "2026-04-11T20:52:04Z"
   }
 ]
