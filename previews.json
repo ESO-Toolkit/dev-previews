@@ -134,5 +134,11 @@
     "title": "feat: Persist skeleton loading states from actual data",
     "branch": "claude/fix-skeleton-loading-MtHJT",
     "updatedAt": "2026-04-11T21:53:18Z"
+  },
+  {
+    "pr": 999,
+    "title": "fix(auth): show log URL input to unauthenticated visitors on landing page",
+    "branch": "claude/wizardly-rosalind",
+    "updatedAt": "2026-04-11T22:56:48Z"
   }
 ]
