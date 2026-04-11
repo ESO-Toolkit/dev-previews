@@ -148,15 +148,15 @@
     "updatedAt": "2026-04-11T21:06:54Z"
   },
   {
-    "pr": 979,
-    "title": "feat: Persist skeleton loading states from actual data",
-    "branch": "claude/fix-skeleton-loading-MtHJT",
-    "updatedAt": "2026-04-11T21:50:27Z"
-  },
-  {
     "pr": 998,
     "title": "feat(ci): add manual Cloudflare Worker deploy workflow (ESO-768)",
     "branch": "ESO-768/deploy-worker-workflow",
     "updatedAt": "2026-04-11T21:51:24Z"
+  },
+  {
+    "pr": 979,
+    "title": "feat: Persist skeleton loading states from actual data",
+    "branch": "claude/fix-skeleton-loading-MtHJT",
+    "updatedAt": "2026-04-11T21:53:18Z"
   }
 ]
