@@ -112,12 +112,6 @@
     "updatedAt": "2026-04-07T22:43:49Z"
   },
   {
-    "pr": 979,
-    "title": "Persist skeleton loading states from actual data",
-    "branch": "claude/fix-skeleton-loading-MtHJT",
-    "updatedAt": "2026-04-08T02:38:58Z"
-  },
-  {
     "pr": 960,
     "title": "refactor(ui): improve deaths page UX with filtering, timeline view, and better layout",
     "branch": "claude/improve-deaths-page-ux-yqKch",
@@ -134,5 +128,11 @@
     "title": "feat(ui): impeccable design pass — landing page typography & visual polish (ESO-764)",
     "branch": "ESO-764/ui-impeccable-design-pass",
     "updatedAt": "2026-04-10T02:06:21Z"
+  },
+  {
+    "pr": 979,
+    "title": "feat: Persist skeleton loading states from actual data",
+    "branch": "claude/fix-skeleton-loading-MtHJT",
+    "updatedAt": "2026-04-11T01:25:36Z"
   }
 ]
