@@ -124,12 +124,6 @@
     "updatedAt": "2026-04-11T20:44:31Z"
   },
   {
-    "pr": 991,
-    "title": "Reverse fight stats fill to show damage progress",
-    "branch": "claude/reverse-fight-stats-display",
-    "updatedAt": "2026-04-11T20:46:48Z"
-  },
-  {
     "pr": 995,
     "title": "Improve KalpaBanner responsive layout and add alpha status",
     "branch": "claude/kalpa-banner-mobile-fix-LwOqh",
