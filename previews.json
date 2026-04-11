@@ -118,12 +118,6 @@
     "updatedAt": "2026-04-08T07:21:03Z"
   },
   {
-    "pr": 986,
-    "title": "fix(deploy): pass Discord client ID through action inputs",
-    "branch": "fix/deploy-vars-context",
-    "updatedAt": "2026-04-09T02:53:25Z"
-  },
-  {
     "pr": 987,
     "title": "feat(ui): impeccable design pass — landing page typography & visual polish (ESO-764)",
     "branch": "ESO-764/ui-impeccable-design-pass",
@@ -164,5 +158,11 @@
     "title": "Improve KalpaBanner responsive layout and add alpha status",
     "branch": "claude/kalpa-banner-mobile-fix-LwOqh",
     "updatedAt": "2026-04-11T20:58:06Z"
+  },
+  {
+    "pr": 986,
+    "title": "fix(deploy): pass Discord client ID through action inputs",
+    "branch": "fix/deploy-vars-context",
+    "updatedAt": "2026-04-11T21:06:54Z"
   }
 ]
