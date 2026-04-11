@@ -146,5 +146,11 @@
     "title": "feat(ci): Discord notifications for nightly tests and releases",
     "branch": "claude/suspicious-heisenberg",
     "updatedAt": "2026-04-11T20:44:31Z"
+  },
+  {
+    "pr": 991,
+    "title": "Reverse fight stats fill to show damage progress",
+    "branch": "claude/reverse-fight-stats-display",
+    "updatedAt": "2026-04-11T20:46:48Z"
   }
 ]
