@@ -152,5 +152,11 @@
     "title": "fix(deploy): pass Discord client ID through action inputs",
     "branch": "fix/deploy-vars-context",
     "updatedAt": "2026-04-11T21:06:54Z"
+  },
+  {
+    "pr": 998,
+    "title": "feat(ci): add manual Cloudflare Worker deploy workflow (ESO-768)",
+    "branch": "ESO-768/deploy-worker-workflow",
+    "updatedAt": "2026-04-11T21:46:43Z"
   }
 ]
