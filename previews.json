@@ -140,5 +140,11 @@
     "title": "fix(ui): Kalpa download fallback + view transitions skill",
     "branch": "claude/fix-pack-hub-kalpa-download-fallback",
     "updatedAt": "2026-04-11T23:42:35Z"
+  },
+  {
+    "pr": 1002,
+    "title": "fix(auth): remove unnecessary AuthenticatedRoute from public pages",
+    "branch": "claude/ecstatic-bartik",
+    "updatedAt": "2026-04-11T23:43:51Z"
   }
 ]
