@@ -158,5 +158,11 @@
     "title": "refactor(ui): improve deaths page UX with filtering, timeline view, and better layout",
     "branch": "claude/improve-deaths-page-ux-yqKch",
     "updatedAt": "2026-04-11T21:20:21Z"
+  },
+  {
+    "pr": 997,
+    "title": "feat(auth): remove login requirement for public pages (ESO-766)",
+    "branch": "claude/amazing-bose",
+    "updatedAt": "2026-04-11T21:23:06Z"
   }
 ]
