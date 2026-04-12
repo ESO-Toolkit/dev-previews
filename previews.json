@@ -145,6 +145,6 @@
     "pr": 1013,
     "title": "perf(mobile): gate blur/motion on detected device tier",
     "branch": "perf/mobile-low-end-tiering",
-    "updatedAt": "2026-04-12T20:02:46Z"
+    "updatedAt": "2026-04-12T20:10:38Z"
   }
 ]
