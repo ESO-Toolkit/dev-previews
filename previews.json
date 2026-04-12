@@ -134,11 +134,5 @@
     "title": "feat: Persist skeleton loading states from actual data",
     "branch": "claude/fix-skeleton-loading-MtHJT",
     "updatedAt": "2026-04-11T21:53:18Z"
-  },
-  {
-    "pr": 1012,
-    "title": "perf(build-editor): Complete Phase 1-3 perf audit + follow-ups",
-    "branch": "fix/build-view-weapon-name-mislabel",
-    "updatedAt": "2026-04-12T22:11:13Z"
   }
 ]
