@@ -140,5 +140,11 @@
     "title": "Replace discrete performance colors with smooth gradient in damage bars",
     "branch": "claude/fix-percentage-color-gradient-bFUUD",
     "updatedAt": "2026-04-12T00:13:07Z"
+  },
+  {
+    "pr": 1005,
+    "title": "feat(ci): deploy nightly Playwright reports to GH Pages with Discord link",
+    "branch": "claude/gracious-turing",
+    "updatedAt": "2026-04-12T00:16:32Z"
   }
 ]
