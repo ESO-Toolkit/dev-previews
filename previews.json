@@ -134,11 +134,5 @@
     "title": "feat: Persist skeleton loading states from actual data",
     "branch": "claude/fix-skeleton-loading-MtHJT",
     "updatedAt": "2026-04-11T21:53:18Z"
-  },
-  {
-    "pr": 1001,
-    "title": "fix(ui): Kalpa download fallback + view transitions skill",
-    "branch": "claude/fix-pack-hub-kalpa-download-fallback",
-    "updatedAt": "2026-04-11T23:42:35Z"
   }
 ]
