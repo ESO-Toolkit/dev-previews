@@ -134,5 +134,11 @@
     "title": "feat: Persist skeleton loading states from actual data",
     "branch": "claude/fix-skeleton-loading-MtHJT",
     "updatedAt": "2026-04-11T21:53:18Z"
+  },
+  {
+    "pr": 1004,
+    "title": "Replace discrete performance colors with smooth gradient in damage bars",
+    "branch": "claude/fix-percentage-color-gradient-bFUUD",
+    "updatedAt": "2026-04-12T00:13:07Z"
   }
 ]
