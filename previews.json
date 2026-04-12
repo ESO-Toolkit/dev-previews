@@ -136,12 +136,6 @@
     "updatedAt": "2026-04-11T21:53:18Z"
   },
   {
-    "pr": 1013,
-    "title": "perf(mobile): gate blur/motion on detected device tier",
-    "branch": "perf/mobile-low-end-tiering",
-    "updatedAt": "2026-04-12T21:16:37Z"
-  },
-  {
     "pr": 1004,
     "title": "Replace discrete performance colors with smooth gradient in damage bars",
     "branch": "claude/fix-percentage-color-gradient-bFUUD",
