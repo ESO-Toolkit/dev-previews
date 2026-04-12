@@ -146,11 +146,5 @@
     "title": "feat(ci): deploy nightly Playwright reports to GH Pages with Discord link",
     "branch": "claude/gracious-turing",
     "updatedAt": "2026-04-12T00:16:32Z"
-  },
-  {
-    "pr": 1006,
-    "title": "fix(ui): Fix Kalpa deep link protocol and launch method",
-    "branch": "claude/fix-kalpa-deep-link-protocol",
-    "updatedAt": "2026-04-12T00:51:29Z"
   }
 ]
