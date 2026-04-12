@@ -140,11 +140,5 @@
     "title": "Replace discrete performance colors with smooth gradient in damage bars",
     "branch": "claude/fix-percentage-color-gradient-bFUUD",
     "updatedAt": "2026-04-12T00:13:07Z"
-  },
-  {
-    "pr": 1011,
-    "title": "perf(build-editor): reduce CPU and GPU usage across build editor page",
-    "branch": "ESO-769/build-editor-perf",
-    "updatedAt": "2026-04-12T04:24:20Z"
   }
 ]
