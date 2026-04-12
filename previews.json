@@ -140,5 +140,11 @@
     "title": "Replace discrete performance colors with smooth gradient in damage bars",
     "branch": "claude/fix-percentage-color-gradient-bFUUD",
     "updatedAt": "2026-04-12T00:13:07Z"
+  },
+  {
+    "pr": 1007,
+    "title": "[WIP] Review code for performance issues on roster builder page",
+    "branch": "copilot/review-roster-builder-performance",
+    "updatedAt": "2026-04-12T02:13:22Z"
   }
 ]
