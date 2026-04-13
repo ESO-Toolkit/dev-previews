@@ -134,5 +134,11 @@
     "title": "feat: Persist skeleton loading states from actual data",
     "branch": "claude/fix-skeleton-loading-MtHJT",
     "updatedAt": "2026-04-11T21:53:18Z"
+  },
+  {
+    "pr": 1014,
+    "title": "fix(build-view): show specific weapon type (Sword/Dagger/Bow/...) instead of generic \"Weapon\"",
+    "branch": "fix/weapon-label-specific-types",
+    "updatedAt": "2026-04-13T01:52:28Z"
   }
 ]
