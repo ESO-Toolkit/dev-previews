@@ -140,11 +140,5 @@
     "title": "fix(build-editor): gate off-hand when main-hand is a 2H weapon (Staff/Greatsword/Bow/...)",
     "branch": "fix/weapon-2h-slot-gating",
     "updatedAt": "2026-04-13T04:30:20Z"
-  },
-  {
-    "pr": 1029,
-    "title": "fix(loadout-manager): preserve weapon element when picking from set",
-    "branch": "fix/preserve-weapon-element-in-picker",
-    "updatedAt": "2026-04-14T06:13:50Z"
   }
 ]
