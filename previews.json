@@ -140,5 +140,11 @@
     "title": "fix(build-editor): gate off-hand when main-hand is a 2H weapon (Staff/Greatsword/Bow/...)",
     "branch": "fix/weapon-2h-slot-gating",
     "updatedAt": "2026-04-13T04:30:20Z"
+  },
+  {
+    "pr": 1027,
+    "title": "Decode HTML entities in pack hub API responses",
+    "branch": "claude/fix-spikes-card-title-iPeJf",
+    "updatedAt": "2026-04-14T00:44:38Z"
   }
 ]
