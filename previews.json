@@ -145,6 +145,6 @@
     "pr": 1028,
     "title": "fix(loadout-manager): distinguish inferno/frost/lightning/resto staff in weapon labels",
     "branch": "fix/staff-weapon-type-labels",
-    "updatedAt": "2026-04-14T03:27:57Z"
+    "updatedAt": "2026-04-14T03:38:27Z"
   }
 ]
