@@ -140,5 +140,11 @@
     "title": "fix(build-editor): gate off-hand when main-hand is a 2H weapon (Staff/Greatsword/Bow/...)",
     "branch": "fix/weapon-2h-slot-gating",
     "updatedAt": "2026-04-13T04:30:20Z"
+  },
+  {
+    "pr": 1030,
+    "title": "Fix dropdown selection hangs in nightly regression tests",
+    "branch": "claude/fix-nightly-test-failure-b6iHT",
+    "updatedAt": "2026-04-14T19:18:46Z"
   }
 ]
