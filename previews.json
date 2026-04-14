@@ -140,11 +140,5 @@
     "title": "fix(build-editor): gate off-hand when main-hand is a 2H weapon (Staff/Greatsword/Bow/...)",
     "branch": "fix/weapon-2h-slot-gating",
     "updatedAt": "2026-04-13T04:30:20Z"
-  },
-  {
-    "pr": 1028,
-    "title": "fix(loadout-manager): distinguish inferno/frost/lightning/resto staff in weapon labels",
-    "branch": "fix/staff-weapon-type-labels",
-    "updatedAt": "2026-04-14T03:38:27Z"
   }
 ]
