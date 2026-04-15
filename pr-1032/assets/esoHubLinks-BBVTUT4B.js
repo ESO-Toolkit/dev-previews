@@ -1,1 +1,0 @@
-import{e as r}from"./skillLineSkills-DCKaa9c9.js";let l=null;function t(){return l||(l=r()),l}function o(e){return t().get(e)}function u(e){return`https://eso-hub.com/en/sets/${e.toLowerCase().replace(/['''\u2019]/g,"").replace(/\s+/g,"-").replace(/[^a-z0-9-]/g,"")}`}export{o as a,u as g};
