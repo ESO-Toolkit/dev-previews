@@ -1,1 +1,0 @@
-import{dC as o}from"./index-CMuvm9k3.js";const s=new Map;Object.values(o).forEach(e=>{e&&typeof e=="object"&&e.name&&e.sourceUrl&&s.set(e.name,e.sourceUrl)});function t(e){return s.get(e)}function c(e){return`https://eso-hub.com/en/sets/${e.toLowerCase().replace(/['''\u2019]/g,"").replace(/\s+/g,"-").replace(/[^a-z0-9-]/g,"")}`}export{t as a,c as g};
