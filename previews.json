@@ -146,5 +146,11 @@
     "title": "Fix dropdown selection hangs in nightly regression tests",
     "branch": "claude/fix-nightly-test-failure-b6iHT",
     "updatedAt": "2026-04-14T19:18:46Z"
+  },
+  {
+    "pr": 1031,
+    "title": "fix(loadout-manager): correct slot labels for 1155 mislabeled staff items",
+    "branch": "fix/mislabeled-staff-items",
+    "updatedAt": "2026-04-15T02:47:16Z"
   }
 ]
