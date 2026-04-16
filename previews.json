@@ -152,5 +152,11 @@
     "title": "fix(loadout-manager): correct slot labels for 1155 mislabeled staff items",
     "branch": "fix/mislabeled-staff-items",
     "updatedAt": "2026-04-15T02:47:16Z"
+  },
+  {
+    "pr": 1008,
+    "title": "[WIP] Add Copilot to CLA exclusions list",
+    "branch": "copilot/add-copilot-to-cla-exclusions",
+    "updatedAt": "2026-04-16T00:30:27Z"
   }
 ]
