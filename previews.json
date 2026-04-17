@@ -166,12 +166,6 @@
     "updatedAt": "2026-04-17T06:16:39Z"
   },
   {
-    "pr": 1040,
-    "title": "refactor(ui): modernize synergies tab with glassmorphism and card layout",
-    "branch": "claude/modernize-synergies-ui-mE3PV",
-    "updatedAt": "2026-04-17T12:39:19Z"
-  },
-  {
     "pr": 1041,
     "title": "feat(build-view): redesign /bv header + action buttons",
     "branch": "claude/modernize-header-ui-z584w",
