@@ -152,11 +152,5 @@
     "title": "[WIP] Add Copilot to CLA exclusions list",
     "branch": "copilot/add-copilot-to-cla-exclusions",
     "updatedAt": "2026-04-16T00:30:27Z"
-  },
-  {
-    "pr": 1037,
-    "title": "feat(build-view): mobile-first UX overhaul for /bv page",
-    "branch": "pr-1030",
-    "updatedAt": "2026-04-17T03:10:07Z"
   }
 ]
