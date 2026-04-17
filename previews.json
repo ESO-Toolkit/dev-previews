@@ -152,5 +152,11 @@
     "title": "[WIP] Add Copilot to CLA exclusions list",
     "branch": "copilot/add-copilot-to-cla-exclusions",
     "updatedAt": "2026-04-16T00:30:27Z"
+  },
+  {
+    "pr": 1036,
+    "title": "chore(claude): add systemPrompt to .claude/settings.json",
+    "branch": "claude/zen-sammet",
+    "updatedAt": "2026-04-17T01:22:14Z"
   }
 ]
