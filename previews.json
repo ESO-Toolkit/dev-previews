@@ -154,15 +154,15 @@
     "updatedAt": "2026-04-16T00:30:27Z"
   },
   {
-    "pr": 1038,
-    "title": "feat(tooltips): redesign skill and gear tooltips with metric highlighting",
-    "branch": "feat/skill-tooltip-redesign-v2",
-    "updatedAt": "2026-04-17T06:09:38Z"
-  },
-  {
     "pr": 1039,
     "title": "fix(build-view): show skill tooltips immediately on mobile touch",
     "branch": "claude/awesome-hypatia",
     "updatedAt": "2026-04-17T06:13:05Z"
+  },
+  {
+    "pr": 1038,
+    "title": "feat(tooltips): redesign skill and gear tooltips with metric highlighting",
+    "branch": "feat/skill-tooltip-redesign-v2",
+    "updatedAt": "2026-04-17T06:16:39Z"
   }
 ]
