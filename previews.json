@@ -164,5 +164,11 @@
     "title": "feat(tooltips): redesign skill and gear tooltips with metric highlighting",
     "branch": "feat/skill-tooltip-redesign-v2",
     "updatedAt": "2026-04-17T06:16:39Z"
+  },
+  {
+    "pr": 1040,
+    "title": "refactor(ui): modernize synergies tab with glassmorphism and card layout",
+    "branch": "claude/modernize-synergies-ui-mE3PV",
+    "updatedAt": "2026-04-17T12:39:19Z"
   }
 ]
