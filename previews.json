@@ -152,11 +152,5 @@
     "title": "feat(ESO-772): allow roster editor and build editor without authentication",
     "branch": "ESO-772/unauthenticated-editors",
     "updatedAt": "2026-04-18T17:17:44Z"
-  },
-  {
-    "pr": 1045,
-    "title": "docs(workflow): adopt legacy-sports two-flow pattern for worktree setup",
-    "branch": "claude/strange-engelbart-5d7e9a",
-    "updatedAt": "2026-04-18T17:47:48Z"
   }
 ]
