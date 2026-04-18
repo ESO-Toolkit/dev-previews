@@ -164,11 +164,5 @@
     "title": "feat(tooltips): redesign skill and gear tooltips with metric highlighting",
     "branch": "feat/skill-tooltip-redesign-v2",
     "updatedAt": "2026-04-17T06:16:39Z"
-  },
-  {
-    "pr": 1041,
-    "title": "feat(build-view): redesign /bv header + action buttons",
-    "branch": "claude/modernize-header-ui-z584w",
-    "updatedAt": "2026-04-18T00:15:04Z"
   }
 ]
