@@ -152,5 +152,11 @@
     "title": "Enhance server picker UX with improved onboarding and copy-to-clipboard",
     "branch": "claude/improve-discord-bot-setup-VHehi",
     "updatedAt": "2026-04-18T19:10:45Z"
+  },
+  {
+    "pr": 1047,
+    "title": "feat(build-viewer): add CSPS export to /bv page header",
+    "branch": "feat/bv-csps-export",
+    "updatedAt": "2026-04-18T21:40:06Z"
   }
 ]
