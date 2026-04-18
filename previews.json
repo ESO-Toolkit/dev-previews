@@ -158,11 +158,5 @@
     "title": "feat(tooltips): redesign skill and gear tooltips with metric highlighting",
     "branch": "feat/skill-tooltip-redesign-v2",
     "updatedAt": "2026-04-17T06:16:39Z"
-  },
-  {
-    "pr": 1031,
-    "title": "fix(loadout-manager): correct slot labels for 1155 mislabeled staff items",
-    "branch": "fix/mislabeled-staff-items",
-    "updatedAt": "2026-04-18T00:41:18Z"
   }
 ]
