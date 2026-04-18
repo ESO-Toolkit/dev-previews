@@ -146,5 +146,11 @@
     "title": "feat(tooltips): redesign skill and gear tooltips with metric highlighting",
     "branch": "feat/skill-tooltip-redesign-v2",
     "updatedAt": "2026-04-18T04:43:37Z"
+  },
+  {
+    "pr": 1042,
+    "title": "Fix BuildFilterBar layout overflow issues with CSS Grid",
+    "branch": "claude/fix-mobile-overflow-dNhE8",
+    "updatedAt": "2026-04-18T05:25:38Z"
   }
 ]
