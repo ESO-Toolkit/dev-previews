@@ -152,5 +152,11 @@
     "title": "feat(ESO-772): allow roster editor and build editor without authentication",
     "branch": "ESO-772/unauthenticated-editors",
     "updatedAt": "2026-04-18T17:17:44Z"
+  },
+  {
+    "pr": 1044,
+    "title": "fix(charts): add chartRegistration.ts to sideEffects whitelist",
+    "branch": "fix/chart-registration-sideeffects",
+    "updatedAt": "2026-04-18T17:30:29Z"
   }
 ]
