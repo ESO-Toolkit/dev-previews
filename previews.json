@@ -142,12 +142,6 @@
     "updatedAt": "2026-04-13T04:30:20Z"
   },
   {
-    "pr": 1031,
-    "title": "fix(loadout-manager): correct slot labels for 1155 mislabeled staff items",
-    "branch": "fix/mislabeled-staff-items",
-    "updatedAt": "2026-04-15T02:47:16Z"
-  },
-  {
     "pr": 1008,
     "title": "[WIP] Add Copilot to CLA exclusions list",
     "branch": "copilot/add-copilot-to-cla-exclusions",
@@ -164,5 +158,11 @@
     "title": "feat(tooltips): redesign skill and gear tooltips with metric highlighting",
     "branch": "feat/skill-tooltip-redesign-v2",
     "updatedAt": "2026-04-17T06:16:39Z"
+  },
+  {
+    "pr": 1031,
+    "title": "fix(loadout-manager): correct slot labels for 1155 mislabeled staff items",
+    "branch": "fix/mislabeled-staff-items",
+    "updatedAt": "2026-04-18T00:41:18Z"
   }
 ]
