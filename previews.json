@@ -142,12 +142,6 @@
     "updatedAt": "2026-04-13T04:30:20Z"
   },
   {
-    "pr": 1008,
-    "title": "[WIP] Add Copilot to CLA exclusions list",
-    "branch": "copilot/add-copilot-to-cla-exclusions",
-    "updatedAt": "2026-04-16T00:30:27Z"
-  },
-  {
     "pr": 1038,
     "title": "feat(tooltips): redesign skill and gear tooltips with metric highlighting",
     "branch": "feat/skill-tooltip-redesign-v2",
