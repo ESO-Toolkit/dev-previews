@@ -146,11 +146,5 @@
     "title": "Fix BuildFilterBar layout overflow issues with CSS Grid",
     "branch": "claude/fix-mobile-overflow-dNhE8",
     "updatedAt": "2026-04-18T05:25:38Z"
-  },
-  {
-    "pr": 1043,
-    "title": "feat(ESO-772): allow roster editor and build editor without authentication",
-    "branch": "ESO-772/unauthenticated-editors",
-    "updatedAt": "2026-04-18T17:17:44Z"
   }
 ]
