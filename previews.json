@@ -157,6 +157,6 @@
     "pr": 1048,
     "title": "feat(hub): use short ?id= URLs for published builds and rosters",
     "branch": "feat/hub-id-short-urls",
-    "updatedAt": "2026-04-19T00:51:59Z"
+    "updatedAt": "2026-04-19T00:59:33Z"
   }
 ]
