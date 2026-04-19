@@ -154,12 +154,6 @@
     "updatedAt": "2026-04-19T07:38:35Z"
   },
   {
-    "pr": 1051,
-    "title": "Add pack preview dialog with addon filtering and installation",
-    "branch": "claude/improve-pack-preview-ui-zo9sb",
-    "updatedAt": "2026-04-19T18:54:35Z"
-  },
-  {
     "pr": 1052,
     "title": "feat(pack-hub): pack sync service, required/optional display, fresh roster data",
     "branch": "fix/pack-required-optional-display",
