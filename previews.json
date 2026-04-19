@@ -152,5 +152,11 @@
     "title": "Enhance server picker UX with improved onboarding and copy-to-clipboard",
     "branch": "claude/improve-discord-bot-setup-VHehi",
     "updatedAt": "2026-04-18T19:10:45Z"
+  },
+  {
+    "pr": 1050,
+    "title": "feat(dashboard): redesign Raid Dashboard UI to match handoff design",
+    "branch": "claude/brave-sinoussi-7c1dbc",
+    "updatedAt": "2026-04-19T06:49:33Z"
   }
 ]
