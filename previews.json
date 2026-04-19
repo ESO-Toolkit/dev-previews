@@ -152,5 +152,11 @@
     "title": "Enhance server picker UX with improved onboarding and copy-to-clipboard",
     "branch": "claude/improve-discord-bot-setup-VHehi",
     "updatedAt": "2026-04-18T19:10:45Z"
+  },
+  {
+    "pr": 1048,
+    "title": "feat(hub): use short ?id= URLs for published builds and rosters",
+    "branch": "feat/hub-id-short-urls",
+    "updatedAt": "2026-04-19T00:51:59Z"
   }
 ]
