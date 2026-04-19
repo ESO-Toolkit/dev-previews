@@ -152,5 +152,11 @@
     "title": "Enhance server picker UX with improved onboarding and copy-to-clipboard",
     "branch": "claude/improve-discord-bot-setup-VHehi",
     "updatedAt": "2026-04-18T19:10:45Z"
+  },
+  {
+    "pr": 1049,
+    "title": "fix(roster-hub): populate skill lines and ultimates in #1 leaderboard rosters",
+    "branch": "fix/leaderboard-sync-skills",
+    "updatedAt": "2026-04-19T04:42:53Z"
   }
 ]
