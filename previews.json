@@ -136,12 +136,6 @@
     "updatedAt": "2026-04-11T21:53:18Z"
   },
   {
-    "pr": 1016,
-    "title": "fix(build-editor): gate off-hand when main-hand is a 2H weapon (Staff/Greatsword/Bow/...)",
-    "branch": "fix/weapon-2h-slot-gating",
-    "updatedAt": "2026-04-13T04:30:20Z"
-  },
-  {
     "pr": 1042,
     "title": "Fix BuildFilterBar layout overflow issues with CSS Grid",
     "branch": "claude/fix-mobile-overflow-dNhE8",
