@@ -142,15 +142,15 @@
     "updatedAt": "2026-04-19T07:38:35Z"
   },
   {
-    "pr": 1054,
-    "title": "Fix layout wrapping and overflow in DamageDonePanel header",
-    "branch": "claude/fix-damage-tab-overflow-4rOPy",
-    "updatedAt": "2026-04-20T03:49:11Z"
-  },
-  {
     "pr": 1055,
     "title": "Add rich tooltips for skills and gear sets in build detail",
     "branch": "claude/fix-rv-tooltips-XsOtj",
     "updatedAt": "2026-04-20T03:58:44Z"
+  },
+  {
+    "pr": 1054,
+    "title": "Fix layout wrapping and overflow in DamageDonePanel header",
+    "branch": "claude/fix-damage-tab-overflow-4rOPy",
+    "updatedAt": "2026-04-20T04:23:29Z"
   }
 ]
