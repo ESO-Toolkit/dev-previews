@@ -146,5 +146,11 @@
     "title": "Fix layout wrapping and overflow in DamageDonePanel header",
     "branch": "claude/fix-damage-tab-overflow-4rOPy",
     "updatedAt": "2026-04-20T05:47:13Z"
+  },
+  {
+    "pr": 1066,
+    "title": "Detect and badge empty/bugged ESO Logs reports",
+    "branch": "feat/empty-report-badges",
+    "updatedAt": "2026-04-24T01:23:01Z"
   }
 ]
