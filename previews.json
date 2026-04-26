@@ -152,11 +152,5 @@
     "title": "Detect and badge empty/bugged ESO Logs reports",
     "branch": "feat/empty-report-badges",
     "updatedAt": "2026-04-24T02:27:07Z"
-  },
-  {
-    "pr": 1073,
-    "title": "fix(api): check edge cache before rate limiting to prevent 429 cascades",
-    "branch": "fix/rate-limit-and-pagination",
-    "updatedAt": "2026-04-26T13:44:44Z"
   }
 ]
