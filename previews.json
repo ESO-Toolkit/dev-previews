@@ -158,5 +158,11 @@
     "title": "perf(reports): reduce buff event API requests and add proxy caching",
     "branch": "perf/buff-event-request-reduction",
     "updatedAt": "2026-04-26T01:08:34Z"
+  },
+  {
+    "pr": 1068,
+    "title": "feat(auth): redirect users back after login from public pages",
+    "branch": "worktree-log-in-redirect",
+    "updatedAt": "2026-04-26T01:13:51Z"
   }
 ]
