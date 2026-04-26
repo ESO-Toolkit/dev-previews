@@ -152,5 +152,11 @@
     "title": "Detect and badge empty/bugged ESO Logs reports",
     "branch": "feat/empty-report-badges",
     "updatedAt": "2026-04-24T02:27:07Z"
+  },
+  {
+    "pr": 1070,
+    "title": "fix(api): switch GraphQL rate limiting to in-memory, raise to 300/min",
+    "branch": "fix/graphql-rate-limit-429",
+    "updatedAt": "2026-04-26T03:11:19Z"
   }
 ]
