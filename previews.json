@@ -152,5 +152,11 @@
     "title": "Detect and badge empty/bugged ESO Logs reports",
     "branch": "feat/empty-report-badges",
     "updatedAt": "2026-04-24T02:27:07Z"
+  },
+  {
+    "pr": 1069,
+    "title": "perf(reports): reduce buff event API requests and add proxy caching",
+    "branch": "perf/buff-event-request-reduction",
+    "updatedAt": "2026-04-26T00:55:48Z"
   }
 ]
