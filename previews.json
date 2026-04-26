@@ -152,11 +152,5 @@
     "title": "Detect and badge empty/bugged ESO Logs reports",
     "branch": "feat/empty-report-badges",
     "updatedAt": "2026-04-24T02:27:07Z"
-  },
-  {
-    "pr": 1071,
-    "title": "fix(reports): fix broken pagination on Latest Reports page",
-    "branch": "fix/latest-reports-pagination",
-    "updatedAt": "2026-04-26T04:12:37Z"
   }
 ]
