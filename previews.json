@@ -158,5 +158,11 @@
     "title": "fix(build-view): normalize skill slot indices so ultimates display correctly",
     "branch": "fix/bv-ultimate-slot",
     "updatedAt": "2026-04-30T03:03:16Z"
+  },
+  {
+    "pr": 1082,
+    "title": "fix(api): revert rate limiter and TanStack Query, keep edge caching + singleflight",
+    "branch": "fix/revert-api-rate-limiting",
+    "updatedAt": "2026-04-30T03:53:28Z"
   }
 ]
