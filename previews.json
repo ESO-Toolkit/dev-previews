@@ -158,5 +158,11 @@
     "title": "revert(api): remove rate limiting changes causing user-facing 429s",
     "branch": "fix/revert-api-rate-limiting",
     "updatedAt": "2026-04-30T01:51:18Z"
+  },
+  {
+    "pr": 1081,
+    "title": "fix(build-view): normalize skill slot indices so ultimates display correctly",
+    "branch": "fix/bv-ultimate-slot",
+    "updatedAt": "2026-04-30T02:53:21Z"
   }
 ]
