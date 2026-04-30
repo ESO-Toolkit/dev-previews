@@ -164,5 +164,11 @@
     "title": "fix(calculator): use correct aura ID for Blessing at the Peak",
     "branch": "fix/blessing-peak-aura-id",
     "updatedAt": "2026-04-30T15:19:53Z"
+  },
+  {
+    "pr": 1085,
+    "title": "fix: update Dragonknight skills for ESO Update 49 class rework",
+    "branch": "fix/dragonknight-u49-skill-rework",
+    "updatedAt": "2026-04-30T16:04:58Z"
   }
 ]
