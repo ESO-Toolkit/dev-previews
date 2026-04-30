@@ -158,5 +158,11 @@
     "title": "fix(build-view): normalize skill slot indices so ultimates display correctly",
     "branch": "fix/bv-ultimate-slot",
     "updatedAt": "2026-04-30T03:03:16Z"
+  },
+  {
+    "pr": 1084,
+    "title": "fix(calculator): use correct aura ID for Blessing at the Peak",
+    "branch": "fix/blessing-peak-aura-id",
+    "updatedAt": "2026-04-30T15:19:53Z"
   }
 ]
