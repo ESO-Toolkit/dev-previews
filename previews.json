@@ -164,11 +164,5 @@
     "title": "fix(calculator): use correct aura ID for Blessing at the Peak",
     "branch": "fix/blessing-peak-aura-id",
     "updatedAt": "2026-04-30T15:19:53Z"
-  },
-  {
-    "pr": 1086,
-    "title": "fix: enable horizontal scroll for metrics on mobile player cards",
-    "branch": "fix/mobile-metrics-scroll",
-    "updatedAt": "2026-04-30T18:27:25Z"
   }
 ]
