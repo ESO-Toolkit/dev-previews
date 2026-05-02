@@ -148,15 +148,15 @@
     "updatedAt": "2026-04-20T05:47:13Z"
   },
   {
-    "pr": 1066,
-    "title": "Detect and badge empty/bugged ESO Logs reports",
-    "branch": "feat/empty-report-badges",
-    "updatedAt": "2026-04-24T02:27:07Z"
-  },
-  {
     "pr": 1081,
     "title": "fix(build-view): normalize skill slot indices so ultimates display correctly",
     "branch": "fix/bv-ultimate-slot",
     "updatedAt": "2026-04-30T03:03:16Z"
+  },
+  {
+    "pr": 1066,
+    "title": "Detect and badge empty/bugged ESO Logs reports",
+    "branch": "feat/empty-report-badges",
+    "updatedAt": "2026-05-02T20:26:02Z"
   }
 ]
