@@ -164,5 +164,11 @@
     "title": "fix(calculator): use correct aura ID for Blessing at the Peak",
     "branch": "fix/blessing-peak-aura-id",
     "updatedAt": "2026-04-30T15:19:53Z"
+  },
+  {
+    "pr": 1088,
+    "title": "deps: upgrade uuid from 11.1.0 to 14.0.0",
+    "branch": "deps/uuid-14",
+    "updatedAt": "2026-05-02T18:26:24Z"
   }
 ]
