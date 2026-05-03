@@ -152,5 +152,11 @@
     "title": "fix(build-view): normalize skill slot indices so ultimates display correctly",
     "branch": "fix/bv-ultimate-slot",
     "updatedAt": "2026-04-30T03:03:16Z"
+  },
+  {
+    "pr": 1090,
+    "title": "fix(roster-hub): display updated_at instead of created_at on roster cards",
+    "branch": "fix/roster-card-date-display",
+    "updatedAt": "2026-05-03T00:25:25Z"
   }
 ]
