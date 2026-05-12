@@ -158,5 +158,11 @@
     "title": "fix(security): address vulnerabilities found by DeepSec audit",
     "branch": "fix/deepsec-security-findings",
     "updatedAt": "2026-05-11T04:50:27Z"
+  },
+  {
+    "pr": 1113,
+    "title": "fix(security): DeepSec audit — 15 vulnerability fixes",
+    "branch": "fix/deepsec-security-audit",
+    "updatedAt": "2026-05-12T01:52:42Z"
   }
 ]
