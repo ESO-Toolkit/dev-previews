@@ -166,12 +166,6 @@
     "updatedAt": "2026-05-17T05:13:05Z"
   },
   {
-    "pr": 1050,
-    "title": "feat(dashboard): redesign Raid Dashboard UI to match handoff design",
-    "branch": "claude/brave-sinoussi-7c1dbc",
-    "updatedAt": "2026-05-17T23:34:17Z"
-  },
-  {
     "pr": 1117,
     "title": "fix(deepsec): ignore export findings/ directory",
     "branch": "fix/deepsec-gitignore",
