@@ -170,5 +170,11 @@
     "title": "feat(charts): migrate to Apache ECharts 6 with enhanced UX",
     "branch": "feat/evil-charts",
     "updatedAt": "2026-05-17T05:13:05Z"
+  },
+  {
+    "pr": 1117,
+    "title": "fix(deepsec): ignore export findings/ directory",
+    "branch": "fix/deepsec-gitignore",
+    "updatedAt": "2026-05-17T20:18:12Z"
   }
 ]
