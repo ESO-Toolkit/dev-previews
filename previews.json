@@ -136,12 +136,6 @@
     "updatedAt": "2026-04-11T21:53:18Z"
   },
   {
-    "pr": 1050,
-    "title": "feat(dashboard): redesign Raid Dashboard UI to match handoff design",
-    "branch": "claude/brave-sinoussi-7c1dbc",
-    "updatedAt": "2026-04-19T07:38:35Z"
-  },
-  {
     "pr": 1054,
     "title": "Fix layout wrapping and overflow in DamageDonePanel header",
     "branch": "claude/fix-damage-tab-overflow-4rOPy",
@@ -176,5 +170,11 @@
     "title": "fix(deepsec): ignore export findings/ directory",
     "branch": "fix/deepsec-gitignore",
     "updatedAt": "2026-05-17T23:26:22Z"
+  },
+  {
+    "pr": 1050,
+    "title": "feat(dashboard): redesign Raid Dashboard UI to match handoff design",
+    "branch": "claude/brave-sinoussi-7c1dbc",
+    "updatedAt": "2026-05-17T23:34:17Z"
   }
 ]
