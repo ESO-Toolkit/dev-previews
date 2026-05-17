@@ -164,5 +164,11 @@
     "title": "fix(tests): stop clicking unrelated buttons in nightly live-log test",
     "branch": "claude/investigate-test-failure-XW30l",
     "updatedAt": "2026-05-13T18:12:46Z"
+  },
+  {
+    "pr": 1115,
+    "title": "feat(charts): migrate to Apache ECharts 6 with enhanced UX",
+    "branch": "feat/evil-charts",
+    "updatedAt": "2026-05-17T01:00:00Z"
   }
 ]
