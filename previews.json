@@ -175,6 +175,6 @@
     "pr": 1116,
     "title": "fix(ui): prevent iOS Safari white screen crash from background animations",
     "branch": "fix/ios-safari-white-screen",
-    "updatedAt": "2026-05-17T15:39:24Z"
+    "updatedAt": "2026-05-17T17:26:36Z"
   }
 ]
