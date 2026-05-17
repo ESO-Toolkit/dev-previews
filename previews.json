@@ -175,6 +175,6 @@
     "pr": 1117,
     "title": "fix(deepsec): ignore export findings/ directory",
     "branch": "fix/deepsec-gitignore",
-    "updatedAt": "2026-05-17T20:18:12Z"
+    "updatedAt": "2026-05-17T23:26:22Z"
   }
 ]
