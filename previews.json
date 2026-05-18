@@ -164,5 +164,11 @@
     "title": "feat(charts): migrate to Apache ECharts 6 with enhanced UX",
     "branch": "feat/evil-charts",
     "updatedAt": "2026-05-17T05:13:05Z"
+  },
+  {
+    "pr": 1120,
+    "title": "fix(security): DeepSec audit round 2 — 30+ vulnerability fixes",
+    "branch": "fix/deepsec-round2-clean",
+    "updatedAt": "2026-05-18T06:23:25Z"
   }
 ]
