@@ -164,5 +164,11 @@
     "title": "feat(charts): migrate to Apache ECharts 6 with enhanced UX",
     "branch": "feat/evil-charts",
     "updatedAt": "2026-05-17T05:13:05Z"
+  },
+  {
+    "pr": 1135,
+    "title": "chore(deps): remove unused chart.js deps after ECharts migration",
+    "branch": "claude/pr-1115-merge-i7fwc",
+    "updatedAt": "2026-05-21T18:49:32Z"
   }
 ]
