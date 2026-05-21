@@ -164,5 +164,11 @@
     "title": "feat(charts): migrate to Apache ECharts 6 with enhanced UX",
     "branch": "feat/evil-charts",
     "updatedAt": "2026-05-17T05:13:05Z"
+  },
+  {
+    "pr": 1136,
+    "title": "ci(security): add supply-chain guard + harden cla.yml against injection",
+    "branch": "claude/megalodon-github-campaign-XBHfd",
+    "updatedAt": "2026-05-21T21:54:04Z"
   }
 ]
