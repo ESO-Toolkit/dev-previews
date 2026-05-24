@@ -170,5 +170,11 @@
     "title": "ci(security): add supply-chain guard + harden cla.yml against injection",
     "branch": "claude/megalodon-github-campaign-XBHfd",
     "updatedAt": "2026-05-21T21:54:04Z"
+  },
+  {
+    "pr": 1139,
+    "title": "fix: comprehensive codebase audit — security, deps, MUI 9, Vite 8, TS 6, a11y",
+    "branch": "fix/comprehensive-audit-may-2026",
+    "updatedAt": "2026-05-24T13:49:16Z"
   }
 ]
