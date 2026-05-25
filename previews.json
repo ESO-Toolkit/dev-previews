@@ -196,12 +196,6 @@
     "updatedAt": "2026-05-25T16:25:02Z"
   },
   {
-    "pr": 1151,
-    "title": "fix: remove overly-broad 44px min-height rules breaking mobile layouts",
-    "branch": "fix/responsive-min-height-regression",
-    "updatedAt": "2026-05-25T18:33:48Z"
-  },
-  {
     "pr": 1147,
     "title": "fix(tooltips): show full scribing details — confidence %, sources, detection method",
     "branch": "fix/scribing-tooltip-details",
