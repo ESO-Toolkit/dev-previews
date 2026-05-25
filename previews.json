@@ -176,5 +176,11 @@
     "title": "feat(ui): combine Target and Player filters into single dropdown",
     "branch": "worktree-dropdown-ui",
     "updatedAt": "2026-05-25T02:51:08Z"
+  },
+  {
+    "pr": 1144,
+    "title": "fix: filter zeroed gear items to prevent empty Gear section on player cards",
+    "branch": "fix/filter-zeroed-gear",
+    "updatedAt": "2026-05-25T04:31:35Z"
   }
 ]
