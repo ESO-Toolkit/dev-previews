@@ -170,5 +170,11 @@
     "title": "ci(security): add supply-chain guard + harden cla.yml against injection",
     "branch": "claude/megalodon-github-campaign-XBHfd",
     "updatedAt": "2026-05-21T21:54:04Z"
+  },
+  {
+    "pr": 1140,
+    "title": "feat(ui): combine Target and Player filters into single dropdown",
+    "branch": "worktree-dropdown-ui",
+    "updatedAt": "2026-05-25T02:39:02Z"
   }
 ]
