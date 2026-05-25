@@ -205,6 +205,6 @@
     "pr": 1151,
     "title": "fix: remove overly-broad 44px min-height rules breaking mobile layouts",
     "branch": "fix/responsive-min-height-regression",
-    "updatedAt": "2026-05-25T18:29:21Z"
+    "updatedAt": "2026-05-25T18:33:48Z"
   }
 ]
