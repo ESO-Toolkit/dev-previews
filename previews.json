@@ -188,5 +188,11 @@
     "title": "a11y: comprehensive WCAG 2.2 AA accessibility audit and implementation",
     "branch": "fix/a11y-audit",
     "updatedAt": "2026-05-25T05:05:10Z"
+  },
+  {
+    "pr": 1141,
+    "title": "fix: add Opulent Ordeal + Ossein Cage trial support and fix encounter data bugs",
+    "branch": "worktree-roster-per-fight",
+    "updatedAt": "2026-05-25T05:27:19Z"
   }
 ]
