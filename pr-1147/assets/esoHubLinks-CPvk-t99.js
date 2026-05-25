@@ -1,0 +1,1 @@
+import{i as e}from"./skillLineSkills-CC8TgWNg.js";var t=null;function n(){return t||(t=e()),t}function r(e){return n().get(e)}function i(e){return`https://eso-hub.com/en/sets/${e.toLowerCase().replace(/[''']/g,``).replace(/\s+/g,`-`).replace(/[^a-z0-9-]/g,``)}`}export{r as n,i as t};
