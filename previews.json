@@ -191,8 +191,8 @@
   },
   {
     "pr": 1140,
-    "title": "feat(ui): combine Target and Player filters into single dropdown",
+    "title": "feat(ui): redesign report details — combined filter dropdown, fight header, stat chips modal, players toolbar",
     "branch": "worktree-dropdown-ui",
-    "updatedAt": "2026-05-25T09:40:13Z"
+    "updatedAt": "2026-05-25T09:43:31Z"
   }
 ]
