@@ -190,15 +190,15 @@
     "updatedAt": "2026-05-25T10:04:49Z"
   },
   {
-    "pr": 1147,
-    "title": "fix(tooltips): show full scribing details — confidence %, sources, detection method",
-    "branch": "fix/scribing-tooltip-details",
-    "updatedAt": "2026-05-25T14:28:41Z"
-  },
-  {
     "pr": 1150,
     "title": "fix(test): resolve nightly test failures — SPA timing, double-slash URLs, stale matchers",
     "branch": "fix/nightly-test-failures",
     "updatedAt": "2026-05-25T16:25:02Z"
+  },
+  {
+    "pr": 1147,
+    "title": "fix(tooltips): show full scribing details — confidence %, sources, detection method",
+    "branch": "fix/scribing-tooltip-details",
+    "updatedAt": "2026-05-25T17:26:02Z"
   }
 ]
