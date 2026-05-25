@@ -172,12 +172,6 @@
     "updatedAt": "2026-05-21T21:54:04Z"
   },
   {
-    "pr": 1140,
-    "title": "feat(ui): combine Target and Player filters into single dropdown",
-    "branch": "worktree-dropdown-ui",
-    "updatedAt": "2026-05-25T02:51:08Z"
-  },
-  {
     "pr": 1143,
     "title": "feat: comprehensive WCAG 2.2 AA accessibility implementation",
     "branch": "claude/refine-local-plan-T8L9k",
@@ -194,5 +188,11 @@
     "title": "fix(tooltips): show full scribing details — confidence %, sources, detection method",
     "branch": "fix/scribing-tooltip-details",
     "updatedAt": "2026-05-25T09:12:32Z"
+  },
+  {
+    "pr": 1140,
+    "title": "feat(ui): combine Target and Player filters into single dropdown",
+    "branch": "worktree-dropdown-ui",
+    "updatedAt": "2026-05-25T09:38:34Z"
   }
 ]
