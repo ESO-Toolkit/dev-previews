@@ -182,5 +182,11 @@
     "title": "feat: comprehensive WCAG 2.2 AA accessibility implementation",
     "branch": "claude/refine-local-plan-T8L9k",
     "updatedAt": "2026-05-25T04:59:48Z"
+  },
+  {
+    "pr": 1145,
+    "title": "a11y: comprehensive WCAG 2.2 AA accessibility audit and implementation",
+    "branch": "fix/a11y-audit",
+    "updatedAt": "2026-05-25T05:05:10Z"
   }
 ]
