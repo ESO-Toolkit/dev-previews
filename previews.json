@@ -188,5 +188,11 @@
     "title": "fix(a11y): comprehensive responsive audit — touch targets, breakpoints, mobile overflow",
     "branch": "fix/responsive-audit",
     "updatedAt": "2026-05-25T07:06:33Z"
+  },
+  {
+    "pr": 1147,
+    "title": "fix(tooltips): show full scribing details — confidence %, sources, detection method",
+    "branch": "fix/scribing-tooltip-details",
+    "updatedAt": "2026-05-25T07:34:49Z"
   }
 ]
