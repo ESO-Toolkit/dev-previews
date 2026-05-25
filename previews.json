@@ -206,5 +206,11 @@
     "title": "fix(tooltips): show full scribing details — confidence %, sources, detection method",
     "branch": "fix/scribing-tooltip-details",
     "updatedAt": "2026-05-25T18:35:21Z"
+  },
+  {
+    "pr": 1152,
+    "title": "fix: add Ossein Cage + Opulent Ordeal roster builder data and fix OAC naming",
+    "branch": "fix/ossein-cage-opulent-ordeal-trial-data",
+    "updatedAt": "2026-05-25T18:36:02Z"
   }
 ]
