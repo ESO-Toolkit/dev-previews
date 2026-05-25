@@ -1,0 +1,1 @@
+var e=new Set([`F4f2bMwWtgVKxjB9`,`YArFDbq7BdhwL691`]),t=t=>typeof t==`string`&&e.has(t),n=[...e],r=e=>`/sample-reports/${e}/report.json`;export{r as n,t as r,n as t};
