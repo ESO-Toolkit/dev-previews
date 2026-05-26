@@ -188,11 +188,5 @@
     "title": "feat(ui): redesign report details — combined filter dropdown, fight header, stat chips modal, players toolbar",
     "branch": "worktree-dropdown-ui",
     "updatedAt": "2026-05-26T00:54:54Z"
-  },
-  {
-    "pr": 1153,
-    "title": "fix(roster): responsive mobile layout for role composition picker",
-    "branch": "fix/role-picker-mobile-layout",
-    "updatedAt": "2026-05-26T01:12:20Z"
   }
 ]
