@@ -1,1 +1,0 @@
-import{a as e}from"./rolldown-runtime-Cyuzqnbw.js";import{C as t}from"./apollo-BegL6o-9.js";import{b as n}from"./redux-K13nbDgR.js";import{i as r}from"./reportSelectors-BrJKhEOj.js";var i=e(t()),a=e=>{let t=n(t=>r(t,e));return i.useMemo(()=>!e.fightId||!Array.isArray(t)?null:t.find(t=>t&&t.id===e.fightId)??null,[e.fightId,t])};export{a as t};
