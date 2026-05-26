@@ -182,11 +182,5 @@
     "title": "feat(ui): redesign report details — combined filter dropdown, fight header, stat chips modal, players toolbar",
     "branch": "worktree-dropdown-ui",
     "updatedAt": "2026-05-26T00:54:54Z"
-  },
-  {
-    "pr": 1102,
-    "title": "fix(security): address vulnerabilities found by DeepSec audit",
-    "branch": "fix/deepsec-security-findings",
-    "updatedAt": "2026-05-26T01:37:41Z"
   }
 ]
