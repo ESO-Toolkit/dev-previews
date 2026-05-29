@@ -184,12 +184,6 @@
     "updatedAt": "2026-05-29T05:13:18Z"
   },
   {
-    "pr": 1154,
-    "title": "Improve skill picker UX: label morphs with names and descriptions",
-    "branch": "claude/skill-modal-ux-uwvpn",
-    "updatedAt": "2026-05-29T06:02:51Z"
-  },
-  {
     "pr": 1155,
     "title": "fix(roster): repair group data loss, harden robustness, remove dead encoder",
     "branch": "fix/roster-builder-audit-remediation",
