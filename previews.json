@@ -178,12 +178,6 @@
     "updatedAt": "2026-05-26T00:54:54Z"
   },
   {
-    "pr": 1143,
-    "title": "feat: comprehensive WCAG 2.2 AA accessibility implementation",
-    "branch": "claude/refine-local-plan-T8L9k",
-    "updatedAt": "2026-05-29T05:13:18Z"
-  },
-  {
     "pr": 1155,
     "title": "fix(roster): repair group data loss, harden robustness, remove dead encoder",
     "branch": "fix/roster-builder-audit-remediation",
