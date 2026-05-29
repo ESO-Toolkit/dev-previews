@@ -187,6 +187,6 @@
     "pr": 1155,
     "title": "fix(roster): repair group data loss, harden robustness, remove dead encoder",
     "branch": "fix/roster-builder-audit-remediation",
-    "updatedAt": "2026-05-29T15:41:25Z"
+    "updatedAt": "2026-05-29T16:42:00Z"
   }
 ]
