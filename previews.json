@@ -182,11 +182,5 @@
     "title": "fix(report-details): insights/report-page audit remediation",
     "branch": "fix/insights-report-audit-remediation",
     "updatedAt": "2026-05-29T12:45:03Z"
-  },
-  {
-    "pr": 1155,
-    "title": "fix(roster): repair group data loss, harden robustness, remove dead encoder",
-    "branch": "fix/roster-builder-audit-remediation",
-    "updatedAt": "2026-05-29T18:08:27Z"
   }
 ]
