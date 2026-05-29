@@ -182,5 +182,11 @@
     "title": "feat: comprehensive WCAG 2.2 AA accessibility implementation",
     "branch": "claude/refine-local-plan-T8L9k",
     "updatedAt": "2026-05-29T05:13:18Z"
+  },
+  {
+    "pr": 1154,
+    "title": "Improve skill picker UX: label morphs with names and descriptions",
+    "branch": "claude/skill-modal-ux-uwvpn",
+    "updatedAt": "2026-05-29T06:02:51Z"
   }
 ]
