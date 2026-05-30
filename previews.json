@@ -188,5 +188,11 @@
     "title": "fix(fight-replay): audit-driven a11y, correctness & test improvements",
     "branch": "feat/fight-replay-audit-improvements",
     "updatedAt": "2026-05-30T22:56:01Z"
+  },
+  {
+    "pr": 1161,
+    "title": "fix(sample-reports): resolve bundled sample URL against base path",
+    "branch": "fix/sample-report-base-path",
+    "updatedAt": "2026-05-30T23:03:52Z"
   }
 ]
