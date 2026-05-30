@@ -182,5 +182,11 @@
     "title": "fix(fight-replay): audit-driven a11y, correctness & test improvements",
     "branch": "feat/fight-replay-audit-improvements",
     "updatedAt": "2026-05-30T18:26:26Z"
+  },
+  {
+    "pr": 1159,
+    "title": "fix(skill-icons): repair broken skill-line icons (Magma Fist +12) + add CI guard",
+    "branch": "fix/skill-line-icons",
+    "updatedAt": "2026-05-30T18:44:02Z"
   }
 ]
