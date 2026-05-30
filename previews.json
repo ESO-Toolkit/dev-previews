@@ -176,5 +176,11 @@
     "title": "feat(ui): redesign report details — combined filter dropdown, fight header, stat chips modal, players toolbar",
     "branch": "worktree-dropdown-ui",
     "updatedAt": "2026-05-26T00:54:54Z"
+  },
+  {
+    "pr": 1158,
+    "title": "fix(fight-replay): audit-driven a11y, correctness & test improvements",
+    "branch": "feat/fight-replay-audit-improvements",
+    "updatedAt": "2026-05-30T16:27:28Z"
   }
 ]
