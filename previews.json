@@ -182,5 +182,11 @@
     "title": "wip(fight-replay): on-demand paused-render gate [VERIFICATION ONLY — DO NOT MERGE]",
     "branch": "wip/fight-replay-ondemand-render",
     "updatedAt": "2026-05-30T19:47:03Z"
+  },
+  {
+    "pr": 1162,
+    "title": "feat(fight-replay): modern UX/design overhaul — immersive viewport, transport bar, timeline & a11y",
+    "branch": "feat/fight-replay-ux",
+    "updatedAt": "2026-05-31T01:52:32Z"
   }
 ]
