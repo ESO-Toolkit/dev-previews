@@ -188,11 +188,5 @@
     "title": "feat(fight-replay): modern UX/design overhaul — immersive viewport, transport bar, timeline & a11y",
     "branch": "feat/fight-replay-ux",
     "updatedAt": "2026-05-31T07:14:32Z"
-  },
-  {
-    "pr": 1163,
-    "title": "feat(player-card): electric-border effect on top-DPS card",
-    "branch": "feat/top-dps-electric-border",
-    "updatedAt": "2026-05-31T16:38:31Z"
   }
 ]
