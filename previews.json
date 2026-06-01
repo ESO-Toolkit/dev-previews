@@ -160,12 +160,6 @@
     "updatedAt": "2026-05-17T05:13:05Z"
   },
   {
-    "pr": 1136,
-    "title": "ci(security): add supply-chain guard + harden cla.yml against injection",
-    "branch": "claude/megalodon-github-campaign-XBHfd",
-    "updatedAt": "2026-05-21T21:54:04Z"
-  },
-  {
     "pr": 1146,
     "title": "fix(a11y): comprehensive responsive audit — touch targets, breakpoints, mobile overflow",
     "branch": "fix/responsive-audit",
