@@ -184,15 +184,15 @@
     "updatedAt": "2026-06-02T01:01:42Z"
   },
   {
-    "pr": 1168,
-    "title": "feat(trial-boss-models): audited boss model set + extraction toolchain + /boss-models viewer",
-    "branch": "feat/trial-boss-models",
-    "updatedAt": "2026-06-02T03:27:46Z"
-  },
-  {
     "pr": 1180,
     "title": "feat(fight-replay): live role-aware stats panel on lock-on",
     "branch": "feat/replay-stats-panel",
     "updatedAt": "2026-06-02T03:33:02Z"
+  },
+  {
+    "pr": 1168,
+    "title": "feat(trial-boss-models): audited boss model set + extraction toolchain + /boss-models viewer",
+    "branch": "feat/trial-boss-models",
+    "updatedAt": "2026-06-02T04:37:46Z"
   }
 ]
