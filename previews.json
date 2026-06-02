@@ -178,12 +178,6 @@
     "updatedAt": "2026-05-30T19:47:03Z"
   },
   {
-    "pr": 1180,
-    "title": "feat(fight-replay): live role-aware stats panel on lock-on",
-    "branch": "feat/replay-stats-panel",
-    "updatedAt": "2026-06-02T05:55:32Z"
-  },
-  {
     "pr": 1168,
     "title": "feat(trial-boss-models): audited boss model set + extraction toolchain + /boss-models viewer",
     "branch": "feat/trial-boss-models",
@@ -194,5 +188,11 @@
     "title": "feat(fight-replay): boss models + humanoid markers, camera/keyboard UX, compact transport overlay",
     "branch": "feat/replay-ux",
     "updatedAt": "2026-06-02T19:44:10Z"
+  },
+  {
+    "pr": 1180,
+    "title": "feat(fight-replay): live role-aware stats panel on lock-on",
+    "branch": "feat/replay-stats-panel",
+    "updatedAt": "2026-06-02T19:46:23Z"
   }
 ]
