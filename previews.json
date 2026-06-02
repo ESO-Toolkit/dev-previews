@@ -182,11 +182,5 @@
     "title": "feat(trial-boss-models): audited boss model set + extraction toolchain + /boss-models viewer",
     "branch": "feat/trial-boss-models",
     "updatedAt": "2026-06-02T06:26:44Z"
-  },
-  {
-    "pr": 1180,
-    "title": "feat(fight-replay): live role-aware stats panel on lock-on",
-    "branch": "feat/replay-stats-panel",
-    "updatedAt": "2026-06-02T20:00:49Z"
   }
 ]
