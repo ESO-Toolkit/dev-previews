@@ -184,12 +184,6 @@
     "updatedAt": "2026-06-02T06:26:44Z"
   },
   {
-    "pr": 1167,
-    "title": "feat(fight-replay): boss models + humanoid markers, camera/keyboard UX, compact transport overlay",
-    "branch": "feat/replay-ux",
-    "updatedAt": "2026-06-02T19:44:10Z"
-  },
-  {
     "pr": 1180,
     "title": "feat(fight-replay): live role-aware stats panel on lock-on",
     "branch": "feat/replay-stats-panel",
