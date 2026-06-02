@@ -182,5 +182,11 @@
     "title": "feat(trial-boss-models): audited boss model set + extraction toolchain + /boss-models viewer",
     "branch": "feat/trial-boss-models",
     "updatedAt": "2026-06-02T00:22:21Z"
+  },
+  {
+    "pr": 1167,
+    "title": "feat(fight-replay): boss models + humanoid markers, camera/keyboard UX, compact transport overlay",
+    "branch": "feat/replay-ux",
+    "updatedAt": "2026-06-02T00:53:29Z"
   }
 ]
