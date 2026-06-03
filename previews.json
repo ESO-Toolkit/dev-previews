@@ -182,5 +182,11 @@
     "title": "feat(trial-boss-models): audited boss model set + extraction toolchain + /boss-models viewer",
     "branch": "feat/trial-boss-models",
     "updatedAt": "2026-06-02T06:26:44Z"
+  },
+  {
+    "pr": 1181,
+    "title": "feat(fight-replay): mobile refactor — inline preview → pseudo-fullscreen interactive mode",
+    "branch": "feat/replay-mobile",
+    "updatedAt": "2026-06-03T00:30:20Z"
   }
 ]
