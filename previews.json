@@ -184,15 +184,15 @@
     "updatedAt": "2026-06-02T06:26:44Z"
   },
   {
-    "pr": 1181,
-    "title": "feat(fight-replay): mobile refactor — inline preview → pseudo-fullscreen interactive mode",
-    "branch": "feat/replay-mobile",
-    "updatedAt": "2026-06-03T02:56:15Z"
-  },
-  {
     "pr": 1182,
     "title": "feat(fight-replay): declutter 3D player name tags when actors stack",
     "branch": "feat/name-tag-declutter",
     "updatedAt": "2026-06-03T03:58:45Z"
+  },
+  {
+    "pr": 1181,
+    "title": "feat(fight-replay): mobile refactor — inline preview → pseudo-fullscreen interactive mode",
+    "branch": "feat/replay-mobile",
+    "updatedAt": "2026-06-03T04:10:25Z"
   }
 ]
