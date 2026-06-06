@@ -194,5 +194,11 @@
     "title": "fix(Footer): stop decorative gradient overflowing rounded panel corners",
     "branch": "claude/footer-gradient-overflow-spY7U",
     "updatedAt": "2026-06-06T22:21:51Z"
+  },
+  {
+    "pr": 1188,
+    "title": "Swap fight card colors: green = kill, blue = near-kill wipe",
+    "branch": "claude/boss-health-bar-colors-vVnZX",
+    "updatedAt": "2026-06-06T23:33:14Z"
   }
 ]
