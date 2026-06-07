@@ -200,5 +200,11 @@
     "title": "Swap fight card colors: green = kill, blue = near-kill wipe",
     "branch": "claude/boss-health-bar-colors-vVnZX",
     "updatedAt": "2026-06-06T23:33:14Z"
+  },
+  {
+    "pr": 1189,
+    "title": "feat(fight-replay): elevate map floor rendering + fix camera zoom & mid-fight map switching",
+    "branch": "feat/replay-map-rendering",
+    "updatedAt": "2026-06-07T00:44:03Z"
   }
 ]
