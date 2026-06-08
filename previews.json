@@ -236,5 +236,11 @@
     "title": "docs(addons): ESOTK Companion in-game add-on — research & strategy",
     "branch": "claude/eso-addon-research-7087jx",
     "updatedAt": "2026-06-08T20:19:57Z"
+  },
+  {
+    "pr": 1197,
+    "title": "feat(report-details): authoritative trial/dungeon/fight detection",
+    "branch": "claude/fight-reports-detection-audit-f5o1ry",
+    "updatedAt": "2026-06-08T20:22:10Z"
   }
 ]
