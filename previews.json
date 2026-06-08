@@ -226,12 +226,6 @@
     "updatedAt": "2026-06-08T20:16:45Z"
   },
   {
-    "pr": 1196,
-    "title": "docs(addons): ESOTK Companion in-game add-on — research & strategy",
-    "branch": "claude/eso-addon-research-7087jx",
-    "updatedAt": "2026-06-08T20:19:57Z"
-  },
-  {
     "pr": 1197,
     "title": "feat(report-details): authoritative trial/dungeon/fight detection",
     "branch": "claude/fight-reports-detection-audit-f5o1ry",
@@ -242,5 +236,11 @@
     "title": "fix(discord-bot): repair roster bot defects found in audit",
     "branch": "claude/discord-roster-bot-audit-zf12bk",
     "updatedAt": "2026-06-08T20:26:33Z"
+  },
+  {
+    "pr": 1196,
+    "title": "docs(addons): ESOTK Companion add-on — full research & strategy (capture → raid-command platform)",
+    "branch": "claude/eso-addon-research-7087jx",
+    "updatedAt": "2026-06-08T20:35:27Z"
   }
 ]
