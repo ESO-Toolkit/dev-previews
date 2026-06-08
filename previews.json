@@ -208,12 +208,6 @@
     "updatedAt": "2026-06-07T00:44:03Z"
   },
   {
-    "pr": 1194,
-    "title": "feat(fight-replay): in-replay chapter rail to skip between bosses & trash",
-    "branch": "claude/fight-replay-boss-timestamps-qvr1N",
-    "updatedAt": "2026-06-08T18:50:44Z"
-  },
-  {
     "pr": 1195,
     "title": "fix(discord-bot): repair roster bot defects found in audit",
     "branch": "claude/discord-roster-bot-audit-zf12bk",
@@ -236,5 +230,11 @@
     "title": "feat(loadout-manager): add all ESO group dungeons to the activity selector",
     "branch": "claude/dungeons-optimization-KspKB",
     "updatedAt": "2026-06-08T20:06:09Z"
+  },
+  {
+    "pr": 1194,
+    "title": "feat(fight-replay): continuous full-trial replay + chapter navigation",
+    "branch": "claude/fight-replay-boss-timestamps-qvr1N",
+    "updatedAt": "2026-06-08T20:07:44Z"
   }
 ]
