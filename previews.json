@@ -208,12 +208,6 @@
     "updatedAt": "2026-06-07T00:44:03Z"
   },
   {
-    "pr": 1193,
-    "title": "feat(loadout-manager): add all ESO group dungeons to the activity selector",
-    "branch": "claude/dungeons-optimization-KspKB",
-    "updatedAt": "2026-06-08T17:41:04Z"
-  },
-  {
     "pr": 1194,
     "title": "feat(fight-replay): in-replay chapter rail to skip between bosses & trash",
     "branch": "claude/fight-replay-boss-timestamps-qvr1N",
@@ -236,5 +230,11 @@
     "title": "docs(addons): ESOTK Companion in-game add-on — research & strategy",
     "branch": "claude/eso-addon-research-7087jx",
     "updatedAt": "2026-06-08T20:02:05Z"
+  },
+  {
+    "pr": 1193,
+    "title": "feat(loadout-manager): add all ESO group dungeons to the activity selector",
+    "branch": "claude/dungeons-optimization-KspKB",
+    "updatedAt": "2026-06-08T20:06:09Z"
   }
 ]
