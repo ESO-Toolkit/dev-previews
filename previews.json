@@ -220,12 +220,6 @@
     "updatedAt": "2026-06-08T20:09:24Z"
   },
   {
-    "pr": 1194,
-    "title": "feat(fight-replay): continuous full-trial replay + chapter navigation",
-    "branch": "claude/fight-replay-boss-timestamps-qvr1N",
-    "updatedAt": "2026-06-08T20:16:45Z"
-  },
-  {
     "pr": 1197,
     "title": "feat(report-details): authoritative trial/dungeon/fight detection",
     "branch": "claude/fight-reports-detection-audit-f5o1ry",
@@ -242,5 +236,11 @@
     "title": "docs(addons): ESOTK Companion add-on — full research & strategy (capture → raid-command platform)",
     "branch": "claude/eso-addon-research-7087jx",
     "updatedAt": "2026-06-08T20:53:25Z"
+  },
+  {
+    "pr": 1194,
+    "title": "feat(fight-replay): continuous full-trial replay + chapter navigation",
+    "branch": "claude/fight-replay-boss-timestamps-qvr1N",
+    "updatedAt": "2026-06-08T21:22:26Z"
   }
 ]
