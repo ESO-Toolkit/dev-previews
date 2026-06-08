@@ -208,12 +208,6 @@
     "updatedAt": "2026-06-07T00:44:03Z"
   },
   {
-    "pr": 1194,
-    "title": "feat(fight-replay): trial chapter data layer for boss-skip navigation",
-    "branch": "claude/fight-replay-boss-timestamps-qvr1N",
-    "updatedAt": "2026-06-08T16:24:21Z"
-  },
-  {
     "pr": 1193,
     "title": "feat(loadout-manager): add all ESO group dungeons to the activity selector",
     "branch": "claude/dungeons-optimization-KspKB",
@@ -224,5 +218,11 @@
     "title": "feat(fight-replay): 3D scene — floor rendering, map scaling, gated cosmos/bloom, SOTA quality pass & hi-res tile seam",
     "branch": "feat/replay-map-scaling",
     "updatedAt": "2026-06-08T17:05:22Z"
+  },
+  {
+    "pr": 1194,
+    "title": "feat(fight-replay): trial chapter data layer for boss-skip navigation",
+    "branch": "claude/fight-replay-boss-timestamps-qvr1N",
+    "updatedAt": "2026-06-08T17:34:55Z"
   }
 ]
