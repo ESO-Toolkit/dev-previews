@@ -226,15 +226,15 @@
     "updatedAt": "2026-06-08T18:50:44Z"
   },
   {
-    "pr": 1196,
-    "title": "docs(addons): ESOTK Companion in-game add-on — research & strategy",
-    "branch": "claude/eso-addon-research-7087jx",
-    "updatedAt": "2026-06-08T18:58:20Z"
-  },
-  {
     "pr": 1195,
     "title": "fix(discord-bot): repair roster bot defects found in audit",
     "branch": "claude/discord-roster-bot-audit-zf12bk",
     "updatedAt": "2026-06-08T19:12:37Z"
+  },
+  {
+    "pr": 1196,
+    "title": "docs(addons): ESOTK Companion in-game add-on — research & strategy",
+    "branch": "claude/eso-addon-research-7087jx",
+    "updatedAt": "2026-06-08T19:53:53Z"
   }
 ]
