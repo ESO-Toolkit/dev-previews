@@ -230,5 +230,11 @@
     "title": "fix(discord-bot): repair roster bot defects found in audit",
     "branch": "claude/discord-roster-bot-audit-zf12bk",
     "updatedAt": "2026-06-08T18:26:13Z"
+  },
+  {
+    "pr": 1196,
+    "title": "docs(addons): ESOTK Companion in-game add-on — research & strategy",
+    "branch": "claude/eso-addon-research-7087jx",
+    "updatedAt": "2026-06-08T18:27:10Z"
   }
 ]
