@@ -206,5 +206,11 @@
     "title": "feat(fight-replay): elevate map floor rendering + fix camera zoom & mid-fight map switching",
     "branch": "feat/replay-map-rendering",
     "updatedAt": "2026-06-07T00:44:03Z"
+  },
+  {
+    "pr": 1192,
+    "title": "feat(fight-replay): 3D scene — floor rendering, map scaling, gated cosmos/bloom, SOTA quality pass & hi-res tile seam",
+    "branch": "feat/replay-map-scaling",
+    "updatedAt": "2026-06-08T14:52:53Z"
   }
 ]
