@@ -220,12 +220,6 @@
     "updatedAt": "2026-06-08T20:09:24Z"
   },
   {
-    "pr": 1196,
-    "title": "docs(addons): ESOTK Companion in-game add-on — research & strategy",
-    "branch": "claude/eso-addon-research-7087jx",
-    "updatedAt": "2026-06-08T20:15:30Z"
-  },
-  {
     "pr": 1194,
     "title": "feat(fight-replay): continuous full-trial replay + chapter navigation",
     "branch": "claude/fight-replay-boss-timestamps-qvr1N",
@@ -236,5 +230,11 @@
     "title": "fix(discord-bot): repair roster bot defects found in audit",
     "branch": "claude/discord-roster-bot-audit-zf12bk",
     "updatedAt": "2026-06-08T20:19:07Z"
+  },
+  {
+    "pr": 1196,
+    "title": "docs(addons): ESOTK Companion in-game add-on — research & strategy",
+    "branch": "claude/eso-addon-research-7087jx",
+    "updatedAt": "2026-06-08T20:19:57Z"
   }
 ]
