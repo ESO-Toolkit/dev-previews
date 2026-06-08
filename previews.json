@@ -218,5 +218,11 @@
     "title": "feat(loadout-manager): add all ESO group dungeons to the activity selector",
     "branch": "claude/dungeons-optimization-KspKB",
     "updatedAt": "2026-06-08T16:06:43Z"
+  },
+  {
+    "pr": 1194,
+    "title": "feat(fight-replay): trial chapter data layer for boss-skip navigation",
+    "branch": "claude/fight-replay-boss-timestamps-qvr1N",
+    "updatedAt": "2026-06-08T16:24:21Z"
   }
 ]
