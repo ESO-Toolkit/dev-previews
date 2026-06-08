@@ -220,15 +220,15 @@
     "updatedAt": "2026-06-08T17:41:04Z"
   },
   {
-    "pr": 1195,
-    "title": "fix(discord-bot): repair roster bot defects found in audit",
-    "branch": "claude/discord-roster-bot-audit-zf12bk",
-    "updatedAt": "2026-06-08T18:15:33Z"
-  },
-  {
     "pr": 1192,
     "title": "feat(fight-replay): 3D scene — floor rendering, map scaling, gated cosmos/bloom, SOTA quality pass & hi-res tile seam",
     "branch": "feat/replay-map-scaling",
     "updatedAt": "2026-06-08T18:18:36Z"
+  },
+  {
+    "pr": 1195,
+    "title": "fix(discord-bot): repair roster bot defects found in audit",
+    "branch": "claude/discord-roster-bot-audit-zf12bk",
+    "updatedAt": "2026-06-08T18:26:13Z"
   }
 ]
