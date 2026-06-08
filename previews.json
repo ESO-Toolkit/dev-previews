@@ -232,15 +232,15 @@
     "updatedAt": "2026-06-08T20:26:33Z"
   },
   {
-    "pr": 1196,
-    "title": "docs(addons): ESOTK Companion add-on — full research & strategy (capture → raid-command platform)",
-    "branch": "claude/eso-addon-research-7087jx",
-    "updatedAt": "2026-06-08T20:53:25Z"
-  },
-  {
     "pr": 1194,
     "title": "feat(fight-replay): continuous full-trial replay + chapter navigation",
     "branch": "claude/fight-replay-boss-timestamps-qvr1N",
     "updatedAt": "2026-06-08T21:22:26Z"
+  },
+  {
+    "pr": 1196,
+    "title": "docs(addons): ESOTK Companion add-on — full research & strategy (capture → raid-command platform)",
+    "branch": "claude/eso-addon-research-7087jx",
+    "updatedAt": "2026-06-08T21:25:34Z"
   }
 ]
