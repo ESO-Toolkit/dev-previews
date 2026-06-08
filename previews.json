@@ -226,15 +226,15 @@
     "updatedAt": "2026-06-08T20:02:05Z"
   },
   {
-    "pr": 1193,
-    "title": "feat(loadout-manager): add all ESO group dungeons to the activity selector",
-    "branch": "claude/dungeons-optimization-KspKB",
-    "updatedAt": "2026-06-08T20:06:09Z"
-  },
-  {
     "pr": 1194,
     "title": "feat(fight-replay): continuous full-trial replay + chapter navigation",
     "branch": "claude/fight-replay-boss-timestamps-qvr1N",
     "updatedAt": "2026-06-08T20:07:44Z"
+  },
+  {
+    "pr": 1193,
+    "title": "feat(loadout-manager): add all ESO group dungeons to the activity selector",
+    "branch": "claude/dungeons-optimization-KspKB",
+    "updatedAt": "2026-06-08T20:09:24Z"
   }
 ]
