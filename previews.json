@@ -220,12 +220,6 @@
     "updatedAt": "2026-06-08T20:00:41Z"
   },
   {
-    "pr": 1194,
-    "title": "feat(fight-replay): continuous full-trial replay + chapter navigation",
-    "branch": "claude/fight-replay-boss-timestamps-qvr1N",
-    "updatedAt": "2026-06-08T20:07:44Z"
-  },
-  {
     "pr": 1193,
     "title": "feat(loadout-manager): add all ESO group dungeons to the activity selector",
     "branch": "claude/dungeons-optimization-KspKB",
@@ -236,5 +230,11 @@
     "title": "docs(addons): ESOTK Companion in-game add-on — research & strategy",
     "branch": "claude/eso-addon-research-7087jx",
     "updatedAt": "2026-06-08T20:15:30Z"
+  },
+  {
+    "pr": 1194,
+    "title": "feat(fight-replay): continuous full-trial replay + chapter navigation",
+    "branch": "claude/fight-replay-boss-timestamps-qvr1N",
+    "updatedAt": "2026-06-08T20:16:45Z"
   }
 ]
