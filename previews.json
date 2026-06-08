@@ -220,12 +220,6 @@
     "updatedAt": "2026-06-08T18:50:44Z"
   },
   {
-    "pr": 1196,
-    "title": "docs(addons): ESOTK Companion in-game add-on — research & strategy",
-    "branch": "claude/eso-addon-research-7087jx",
-    "updatedAt": "2026-06-08T19:53:53Z"
-  },
-  {
     "pr": 1195,
     "title": "fix(discord-bot): repair roster bot defects found in audit",
     "branch": "claude/discord-roster-bot-audit-zf12bk",
@@ -236,5 +230,11 @@
     "title": "feat(fight-replay): 3D scene — floor rendering, map scaling, gated cosmos/bloom, SOTA quality pass & hi-res tile seam",
     "branch": "feat/replay-map-scaling",
     "updatedAt": "2026-06-08T20:00:41Z"
+  },
+  {
+    "pr": 1196,
+    "title": "docs(addons): ESOTK Companion in-game add-on — research & strategy",
+    "branch": "claude/eso-addon-research-7087jx",
+    "updatedAt": "2026-06-08T20:02:05Z"
   }
 ]
