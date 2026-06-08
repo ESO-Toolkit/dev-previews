@@ -214,12 +214,6 @@
     "updatedAt": "2026-06-08T17:41:04Z"
   },
   {
-    "pr": 1192,
-    "title": "feat(fight-replay): 3D scene — floor rendering, map scaling, gated cosmos/bloom, SOTA quality pass & hi-res tile seam",
-    "branch": "feat/replay-map-scaling",
-    "updatedAt": "2026-06-08T18:29:16Z"
-  },
-  {
     "pr": 1194,
     "title": "feat(fight-replay): in-replay chapter rail to skip between bosses & trash",
     "branch": "claude/fight-replay-boss-timestamps-qvr1N",
@@ -236,5 +230,11 @@
     "title": "fix(discord-bot): repair roster bot defects found in audit",
     "branch": "claude/discord-roster-bot-audit-zf12bk",
     "updatedAt": "2026-06-08T19:58:30Z"
+  },
+  {
+    "pr": 1192,
+    "title": "feat(fight-replay): 3D scene — floor rendering, map scaling, gated cosmos/bloom, SOTA quality pass & hi-res tile seam",
+    "branch": "feat/replay-map-scaling",
+    "updatedAt": "2026-06-08T20:00:41Z"
   }
 ]
