@@ -202,12 +202,6 @@
     "updatedAt": "2026-06-07T00:44:03Z"
   },
   {
-    "pr": 1192,
-    "title": "feat(fight-replay): 3D scene — floor rendering, map scaling, gated cosmos/bloom, SOTA quality pass & hi-res tile seam",
-    "branch": "feat/replay-map-scaling",
-    "updatedAt": "2026-06-08T20:00:41Z"
-  },
-  {
     "pr": 1193,
     "title": "feat(loadout-manager): add all ESO group dungeons to the activity selector",
     "branch": "claude/dungeons-optimization-KspKB",
@@ -248,5 +242,11 @@
     "title": "feat(roster-builder): multi-select trial picker for Hub discovery",
     "branch": "claude/roster-builder-trial-dungeon-eyxerq",
     "updatedAt": "2026-06-09T05:44:21Z"
+  },
+  {
+    "pr": 1192,
+    "title": "feat(fight-replay): 3D scene — floor rendering, map scaling, gated cosmos/bloom, SOTA quality pass & hi-res tile seam",
+    "branch": "feat/replay-map-scaling",
+    "updatedAt": "2026-06-09T06:19:30Z"
   }
 ]
