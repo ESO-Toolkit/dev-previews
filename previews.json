@@ -214,12 +214,6 @@
     "updatedAt": "2026-06-08T20:26:33Z"
   },
   {
-    "pr": 1194,
-    "title": "feat(fight-replay): continuous full-trial replay + chapter navigation",
-    "branch": "claude/fight-replay-boss-timestamps-qvr1N",
-    "updatedAt": "2026-06-08T22:42:18Z"
-  },
-  {
     "pr": 1197,
     "title": "feat(report-details): authoritative trial/dungeon/fight detection",
     "branch": "claude/fight-reports-detection-audit-f5o1ry",
@@ -248,5 +242,11 @@
     "title": "feat(fight-replay): 3D scene — floor rendering, map scaling, gated cosmos/bloom, SOTA quality pass & hi-res tile seam",
     "branch": "feat/replay-map-scaling",
     "updatedAt": "2026-06-09T06:27:37Z"
+  },
+  {
+    "pr": 1194,
+    "title": "feat(fight-replay): continuous full-trial replay + chapter navigation",
+    "branch": "claude/fight-replay-boss-timestamps-qvr1N",
+    "updatedAt": "2026-06-09T14:01:08Z"
   }
 ]
