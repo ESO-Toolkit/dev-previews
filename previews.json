@@ -238,15 +238,15 @@
     "updatedAt": "2026-06-09T03:31:10Z"
   },
   {
-    "pr": 1198,
-    "title": "feat(roster-builder): multi-select trial picker for Hub discovery",
-    "branch": "claude/roster-builder-trial-dungeon-eyxerq",
-    "updatedAt": "2026-06-09T04:35:26Z"
-  },
-  {
     "pr": 1196,
     "title": "docs(addons): ESOTK Companion add-on — full research & strategy (capture → raid-command platform)",
     "branch": "claude/eso-addon-research-7087jx",
     "updatedAt": "2026-06-09T05:37:44Z"
+  },
+  {
+    "pr": 1198,
+    "title": "feat(roster-builder): multi-select trial picker for Hub discovery",
+    "branch": "claude/roster-builder-trial-dungeon-eyxerq",
+    "updatedAt": "2026-06-09T05:44:21Z"
   }
 ]
