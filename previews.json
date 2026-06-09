@@ -238,15 +238,15 @@
     "updatedAt": "2026-06-09T05:44:21Z"
   },
   {
-    "pr": 1192,
-    "title": "feat(fight-replay): 3D scene — floor rendering, map scaling, gated cosmos/bloom, SOTA quality pass & hi-res tile seam",
-    "branch": "feat/replay-map-scaling",
-    "updatedAt": "2026-06-09T06:27:37Z"
-  },
-  {
     "pr": 1194,
     "title": "feat(fight-replay): continuous full-trial replay + chapter navigation",
     "branch": "claude/fight-replay-boss-timestamps-qvr1N",
     "updatedAt": "2026-06-09T18:11:01Z"
+  },
+  {
+    "pr": 1192,
+    "title": "feat(fight-replay): 3D scene — floor rendering, map scaling, gated cosmos/bloom, SOTA quality pass & hi-res tile seam",
+    "branch": "feat/replay-map-scaling",
+    "updatedAt": "2026-06-09T18:31:41Z"
   }
 ]
