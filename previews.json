@@ -214,12 +214,6 @@
     "updatedAt": "2026-06-08T20:09:24Z"
   },
   {
-    "pr": 1197,
-    "title": "feat(report-details): authoritative trial/dungeon/fight detection",
-    "branch": "claude/fight-reports-detection-audit-f5o1ry",
-    "updatedAt": "2026-06-08T20:22:10Z"
-  },
-  {
     "pr": 1195,
     "title": "fix(discord-bot): repair roster bot defects found in audit",
     "branch": "claude/discord-roster-bot-audit-zf12bk",
@@ -242,5 +236,11 @@
     "title": "Swap fight card colors: green = kill, blue = near-kill wipe",
     "branch": "claude/boss-health-bar-colors-vVnZX",
     "updatedAt": "2026-06-09T03:25:39Z"
+  },
+  {
+    "pr": 1197,
+    "title": "feat(report-details): authoritative trial/dungeon/fight detection",
+    "branch": "claude/fight-reports-detection-audit-f5o1ry",
+    "updatedAt": "2026-06-09T03:29:49Z"
   }
 ]
