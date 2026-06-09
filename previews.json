@@ -244,12 +244,6 @@
     "updatedAt": "2026-06-09T18:31:41Z"
   },
   {
-    "pr": 1194,
-    "title": "feat(fight-replay): continuous full-trial replay + chapter navigation",
-    "branch": "claude/fight-replay-boss-timestamps-qvr1N",
-    "updatedAt": "2026-06-09T22:58:15Z"
-  },
-  {
     "pr": 1200,
     "title": "Round HUD corner accent brackets to match fight card border radius",
     "branch": "claude/fight-report-card-borders-llxrl9",
@@ -260,5 +254,11 @@
     "title": "feat(fight-replay): add/edit/delete custom map markers with persistence, drag-to-move &amp; undo",
     "branch": "claude/custom-map-markers-f5f1k9",
     "updatedAt": "2026-06-09T23:36:58Z"
+  },
+  {
+    "pr": 1194,
+    "title": "feat(fight-replay): continuous full-trial replay + chapter navigation",
+    "branch": "claude/fight-replay-boss-timestamps-qvr1N",
+    "updatedAt": "2026-06-09T23:43:48Z"
   }
 ]
