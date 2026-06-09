@@ -226,12 +226,6 @@
     "updatedAt": "2026-06-08T22:42:18Z"
   },
   {
-    "pr": 1196,
-    "title": "docs(addons): ESOTK Companion add-on — full research & strategy (capture → raid-command platform)",
-    "branch": "claude/eso-addon-research-7087jx",
-    "updatedAt": "2026-06-08T23:37:53Z"
-  },
-  {
     "pr": 1197,
     "title": "feat(report-details): authoritative trial/dungeon/fight detection",
     "branch": "claude/fight-reports-detection-audit-f5o1ry",
@@ -242,5 +236,11 @@
     "title": "Swap fight card colors: green = kill, blue = near-kill wipe",
     "branch": "claude/boss-health-bar-colors-vVnZX",
     "updatedAt": "2026-06-09T03:31:10Z"
+  },
+  {
+    "pr": 1196,
+    "title": "docs(addons): ESOTK Companion add-on — full research & strategy (capture → raid-command platform)",
+    "branch": "claude/eso-addon-research-7087jx",
+    "updatedAt": "2026-06-09T03:34:50Z"
   }
 ]
