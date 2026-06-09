@@ -250,12 +250,6 @@
     "updatedAt": "2026-06-09T23:34:57Z"
   },
   {
-    "pr": 1199,
-    "title": "feat(fight-replay): add/edit/delete custom map markers with persistence, drag-to-move &amp; undo",
-    "branch": "claude/custom-map-markers-f5f1k9",
-    "updatedAt": "2026-06-09T23:36:58Z"
-  },
-  {
     "pr": 1194,
     "title": "feat(fight-replay): continuous full-trial replay + chapter navigation",
     "branch": "claude/fight-replay-boss-timestamps-qvr1N",
@@ -266,5 +260,11 @@
     "title": "feat(reports): hide empty logs from Latest Reports, badge them in personal/profile lists",
     "branch": "claude/empty-logs-ui-ux-k5z1u3",
     "updatedAt": "2026-06-09T23:50:14Z"
+  },
+  {
+    "pr": 1199,
+    "title": "feat(fight-replay): add/edit/delete custom map markers with persistence, drag-to-move &amp; undo",
+    "branch": "claude/custom-map-markers-f5f1k9",
+    "updatedAt": "2026-06-09T23:50:57Z"
   }
 ]
