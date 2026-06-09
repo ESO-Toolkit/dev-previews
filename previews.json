@@ -260,5 +260,11 @@
     "title": "feat(fight-replay): continuous full-trial replay + chapter navigation",
     "branch": "claude/fight-replay-boss-timestamps-qvr1N",
     "updatedAt": "2026-06-09T23:43:48Z"
+  },
+  {
+    "pr": 1201,
+    "title": "feat(reports): hide empty logs from Latest Reports, badge them in personal/profile lists",
+    "branch": "claude/empty-logs-ui-ux-k5z1u3",
+    "updatedAt": "2026-06-09T23:50:14Z"
   }
 ]
