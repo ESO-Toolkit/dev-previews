@@ -244,15 +244,15 @@
     "updatedAt": "2026-06-09T18:31:41Z"
   },
   {
-    "pr": 1194,
-    "title": "feat(fight-replay): continuous full-trial replay + chapter navigation",
-    "branch": "claude/fight-replay-boss-timestamps-qvr1N",
-    "updatedAt": "2026-06-09T20:12:50Z"
-  },
-  {
     "pr": 1199,
     "title": "feat(fight-replay): add/edit/delete custom map markers with persistence, drag-to-move &amp; undo",
     "branch": "claude/custom-map-markers-f5f1k9",
     "updatedAt": "2026-06-09T21:29:19Z"
+  },
+  {
+    "pr": 1194,
+    "title": "feat(fight-replay): continuous full-trial replay + chapter navigation",
+    "branch": "claude/fight-replay-boss-timestamps-qvr1N",
+    "updatedAt": "2026-06-09T21:47:41Z"
   }
 ]
