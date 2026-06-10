@@ -278,5 +278,11 @@
     "title": "fix(fight-replay): UX audit of #1199 — flat marker icon picker, mobile redo, touch-target fixes",
     "branch": "claude/pr-1199-ux-audit-1dlnk8",
     "updatedAt": "2026-06-10T20:17:36Z"
+  },
+  {
+    "pr": 1207,
+    "title": "feat(fight-replay): consolidate continuous trial replay (#1194) + custom map markers (#1199/#1206)",
+    "branch": "claude/map-markers-ui-consolidation-dw0z52",
+    "updatedAt": "2026-06-10T22:45:06Z"
   }
 ]
