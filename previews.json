@@ -272,5 +272,11 @@
     "title": "Round HUD corner accent brackets to match fight card border radius",
     "branch": "claude/fight-report-card-borders-llxrl9",
     "updatedAt": "2026-06-10T01:11:00Z"
+  },
+  {
+    "pr": 1203,
+    "title": "feat(game-data): ESO Update 50 game-data refresh",
+    "branch": "feat/u50-game-data",
+    "updatedAt": "2026-06-10T06:15:06Z"
   }
 ]
