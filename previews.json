@@ -274,15 +274,15 @@
     "updatedAt": "2026-06-10T14:40:27Z"
   },
   {
-    "pr": 1203,
-    "title": "feat(game-data): ESO Update 50 game-data refresh",
-    "branch": "feat/u50-game-data",
-    "updatedAt": "2026-06-10T17:33:10Z"
-  },
-  {
     "pr": 1186,
     "title": "feat(skill-data): self-sourced tooltip data pipeline + dependency cleanup",
     "branch": "feat/tooltip-data-pipeline",
     "updatedAt": "2026-06-10T18:12:07Z"
+  },
+  {
+    "pr": 1203,
+    "title": "feat(game-data): ESO Update 50 game-data refresh",
+    "branch": "feat/u50-game-data",
+    "updatedAt": "2026-06-10T18:15:43Z"
   }
 ]
