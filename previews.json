@@ -278,5 +278,11 @@
     "title": "feat(fight-replay): continuous full-trial replay + chapter navigation",
     "branch": "claude/fight-replay-boss-timestamps-qvr1N",
     "updatedAt": "2026-06-10T06:32:42Z"
+  },
+  {
+    "pr": 1204,
+    "title": "fix(dev-server): proxy roster-hub API same-origin so any dev port works",
+    "branch": "fix/dev-roster-hub-cors",
+    "updatedAt": "2026-06-10T12:33:06Z"
   }
 ]
