@@ -244,12 +244,6 @@
     "updatedAt": "2026-06-09T18:31:41Z"
   },
   {
-    "pr": 1200,
-    "title": "Round HUD corner accent brackets to match fight card border radius",
-    "branch": "claude/fight-report-card-borders-llxrl9",
-    "updatedAt": "2026-06-09T23:34:57Z"
-  },
-  {
     "pr": 1201,
     "title": "feat(reports): hide empty logs from Latest Reports, badge them in personal/profile lists",
     "branch": "claude/empty-logs-ui-ux-k5z1u3",
@@ -272,5 +266,11 @@
     "title": "feat(fight-replay): add/edit/delete custom map markers with persistence, drag-to-move &amp; undo",
     "branch": "claude/custom-map-markers-f5f1k9",
     "updatedAt": "2026-06-10T00:27:20Z"
+  },
+  {
+    "pr": 1200,
+    "title": "Round HUD corner accent brackets to match fight card border radius",
+    "branch": "claude/fight-report-card-borders-llxrl9",
+    "updatedAt": "2026-06-10T00:43:36Z"
   }
 ]
