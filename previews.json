@@ -220,12 +220,6 @@
     "updatedAt": "2026-06-09T03:31:10Z"
   },
   {
-    "pr": 1196,
-    "title": "docs(addons): ESOTK Companion add-on — full research & strategy (capture → raid-command platform)",
-    "branch": "claude/eso-addon-research-7087jx",
-    "updatedAt": "2026-06-09T05:37:44Z"
-  },
-  {
     "pr": 1198,
     "title": "feat(roster-builder): multi-select trial picker for Hub discovery",
     "branch": "claude/roster-builder-trial-dungeon-eyxerq",
@@ -290,5 +284,11 @@
     "title": "feat(skill-data): U50 tooltip refresh from in-game dump + Class Mastery skill lines",
     "branch": "feat/u50-tooltip-refresh",
     "updatedAt": "2026-06-11T05:20:50Z"
+  },
+  {
+    "pr": 1196,
+    "title": "feat(companion): ESOTK Companion — capture champion points + build gaps, show them on player cards",
+    "branch": "claude/eso-addon-research-7087jx",
+    "updatedAt": "2026-06-11T05:24:04Z"
   }
 ]
