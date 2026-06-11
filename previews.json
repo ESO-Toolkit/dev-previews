@@ -280,15 +280,15 @@
     "updatedAt": "2026-06-11T04:57:47Z"
   },
   {
-    "pr": 1208,
-    "title": "feat(skill-data): U50 tooltip refresh from in-game dump + Class Mastery skill lines",
-    "branch": "feat/u50-tooltip-refresh",
-    "updatedAt": "2026-06-11T05:20:50Z"
-  },
-  {
     "pr": 1196,
     "title": "feat(companion): ESOTK Companion — capture champion points + build gaps, show them on player cards",
     "branch": "claude/eso-addon-research-7087jx",
     "updatedAt": "2026-06-11T05:24:04Z"
+  },
+  {
+    "pr": 1208,
+    "title": "feat(skill-data): U50 tooltip refresh from in-game dump + Class Mastery skill lines",
+    "branch": "feat/u50-tooltip-refresh",
+    "updatedAt": "2026-06-11T05:27:46Z"
   }
 ]
