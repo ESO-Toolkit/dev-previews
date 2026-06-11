@@ -268,12 +268,6 @@
     "updatedAt": "2026-06-10T12:53:22Z"
   },
   {
-    "pr": 1194,
-    "title": "feat(fight-replay): continuous full-trial replay + chapter navigation",
-    "branch": "claude/fight-replay-boss-timestamps-qvr1N",
-    "updatedAt": "2026-06-10T14:40:27Z"
-  },
-  {
     "pr": 1206,
     "title": "fix(fight-replay): UX audit of #1199 — flat marker icon picker, mobile redo, touch-target fixes",
     "branch": "claude/pr-1199-ux-audit-1dlnk8",
@@ -284,5 +278,11 @@
     "title": "feat(fight-replay): consolidate continuous trial replay (#1194) + custom map markers (#1199/#1206)",
     "branch": "claude/map-markers-ui-consolidation-dw0z52",
     "updatedAt": "2026-06-10T22:45:06Z"
+  },
+  {
+    "pr": 1194,
+    "title": "feat(fight-replay): continuous full-trial replay + chapter navigation",
+    "branch": "claude/fight-replay-boss-timestamps-qvr1N",
+    "updatedAt": "2026-06-11T04:19:15Z"
   }
 ]
