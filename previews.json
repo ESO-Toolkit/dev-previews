@@ -280,15 +280,15 @@
     "updatedAt": "2026-06-10T22:45:06Z"
   },
   {
-    "pr": 1208,
-    "title": "feat(skill-data): U50 tooltip refresh from in-game dump + Class Mastery skill lines",
-    "branch": "feat/u50-tooltip-refresh",
-    "updatedAt": "2026-06-11T04:39:09Z"
-  },
-  {
     "pr": 1194,
     "title": "feat(fight-replay): continuous full-trial replay + chapter navigation",
     "branch": "claude/fight-replay-boss-timestamps-qvr1N",
     "updatedAt": "2026-06-11T04:57:47Z"
+  },
+  {
+    "pr": 1208,
+    "title": "feat(skill-data): U50 tooltip refresh from in-game dump + Class Mastery skill lines",
+    "branch": "feat/u50-tooltip-refresh",
+    "updatedAt": "2026-06-11T05:02:00Z"
   }
 ]
