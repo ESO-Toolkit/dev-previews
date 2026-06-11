@@ -302,5 +302,11 @@
     "title": "feat(build-editor): apply U50 Class Mastery crit-damage passives in the calculator",
     "branch": "feat/class-mastery-calculator",
     "updatedAt": "2026-06-11T20:49:47Z"
+  },
+  {
+    "pr": 1213,
+    "title": "feat(footer): refresh nav links to cover newer pages",
+    "branch": "feat/footer-links",
+    "updatedAt": "2026-06-11T21:47:08Z"
   }
 ]
