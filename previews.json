@@ -284,11 +284,5 @@
     "title": "feat(companion): ESOTK Companion — capture champion points + build gaps, show them on player cards",
     "branch": "claude/eso-addon-research-7087jx",
     "updatedAt": "2026-06-11T05:24:04Z"
-  },
-  {
-    "pr": 1208,
-    "title": "feat(skill-data): U50 tooltip refresh + Class Mastery skill lines and build-editor section",
-    "branch": "feat/u50-tooltip-refresh",
-    "updatedAt": "2026-06-11T05:33:34Z"
   }
 ]
