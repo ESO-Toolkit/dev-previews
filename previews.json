@@ -284,5 +284,11 @@
     "title": "feat(companion): ESOTK Companion — capture champion points + build gaps, show them on player cards",
     "branch": "claude/eso-addon-research-7087jx",
     "updatedAt": "2026-06-11T05:24:04Z"
+  },
+  {
+    "pr": 1210,
+    "title": "feat(ultimate-simulator): Arcanist ult-gen Monte Carlo engine + page",
+    "branch": "feat/arcanist-ult-simulator",
+    "updatedAt": "2026-06-11T18:37:36Z"
   }
 ]
