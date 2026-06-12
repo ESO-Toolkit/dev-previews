@@ -308,11 +308,5 @@
     "title": "Build editor mobile UX/UI audit & remediation plan (docs only)",
     "branch": "claude/build-editor-mobile-audit-uh9b07",
     "updatedAt": "2026-06-12T18:59:59Z"
-  },
-  {
-    "pr": 1219,
-    "title": "fix(fight-replay): stop fight-name bar overlapping marker hint on mobile",
-    "branch": "claude/fight-name-marker-mobile-q71094",
-    "updatedAt": "2026-06-12T19:26:32Z"
   }
 ]
