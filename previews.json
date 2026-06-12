@@ -302,5 +302,11 @@
     "title": "feat(companion): ESOTK Companion — capture champion points + build gaps, show them on player cards",
     "branch": "claude/eso-addon-research-7087jx",
     "updatedAt": "2026-06-12T18:19:23Z"
+  },
+  {
+    "pr": 1216,
+    "title": "fix(tests): stop nightly WebKit \"minimal content\" flake + live-log false click",
+    "branch": "claude/failed-nightly-tests-krf5np",
+    "updatedAt": "2026-06-12T18:32:48Z"
   }
 ]
