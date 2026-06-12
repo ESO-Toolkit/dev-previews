@@ -304,12 +304,6 @@
     "updatedAt": "2026-06-12T18:19:23Z"
   },
   {
-    "pr": 1216,
-    "title": "fix(tests): stop nightly WebKit \"minimal content\" flake + live-log false click",
-    "branch": "claude/failed-nightly-tests-krf5np",
-    "updatedAt": "2026-06-12T18:32:48Z"
-  },
-  {
     "pr": 1217,
     "title": "Build editor mobile UX/UI audit & remediation plan (docs only)",
     "branch": "claude/build-editor-mobile-audit-uh9b07",
