@@ -308,11 +308,5 @@
     "title": "Build editor mobile UX/UI audit & remediation plan (docs only)",
     "branch": "claude/build-editor-mobile-audit-uh9b07",
     "updatedAt": "2026-06-12T18:42:32Z"
-  },
-  {
-    "pr": 1218,
-    "title": "fix(fight-replay): restore mobile marker editing + persistent close/restore in immersive (PR #1207 fixes)",
-    "branch": "claude/pr-1207-consolidation-issues-h7lpgg",
-    "updatedAt": "2026-06-12T18:48:47Z"
   }
 ]
