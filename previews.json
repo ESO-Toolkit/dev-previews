@@ -280,12 +280,6 @@
     "updatedAt": "2026-06-11T04:57:47Z"
   },
   {
-    "pr": 1196,
-    "title": "feat(companion): ESOTK Companion — capture champion points + build gaps, show them on player cards",
-    "branch": "claude/eso-addon-research-7087jx",
-    "updatedAt": "2026-06-11T05:24:04Z"
-  },
-  {
     "pr": 1210,
     "title": "feat(ultimate-simulator): Arcanist ult-gen Monte Carlo engine + page",
     "branch": "feat/arcanist-ult-simulator",
@@ -308,5 +302,11 @@
     "title": "feat(build-editor): lock armor weight per set + dedupe gear picker variants",
     "branch": "feat/build-editor-gear-weights",
     "updatedAt": "2026-06-12T18:17:36Z"
+  },
+  {
+    "pr": 1196,
+    "title": "feat(companion): ESOTK Companion — capture champion points + build gaps, show them on player cards",
+    "branch": "claude/eso-addon-research-7087jx",
+    "updatedAt": "2026-06-12T18:19:23Z"
   }
 ]
