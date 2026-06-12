@@ -298,15 +298,15 @@
     "updatedAt": "2026-06-12T18:19:23Z"
   },
   {
-    "pr": 1217,
-    "title": "Build editor mobile UX/UI audit & remediation plan (docs only)",
-    "branch": "claude/build-editor-mobile-audit-uh9b07",
-    "updatedAt": "2026-06-12T18:42:32Z"
-  },
-  {
     "pr": 1207,
     "title": "feat(fight-replay): consolidate continuous trial replay (#1194) + custom map markers (#1199/#1206)",
     "branch": "claude/map-markers-ui-consolidation-dw0z52",
     "updatedAt": "2026-06-12T18:55:59Z"
+  },
+  {
+    "pr": 1217,
+    "title": "Build editor mobile UX/UI audit & remediation plan (docs only)",
+    "branch": "claude/build-editor-mobile-audit-uh9b07",
+    "updatedAt": "2026-06-12T18:59:59Z"
   }
 ]
