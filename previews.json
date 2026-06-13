@@ -280,12 +280,6 @@
     "updatedAt": "2026-06-11T22:31:16Z"
   },
   {
-    "pr": 1211,
-    "title": "feat(build-editor): apply U50 Class Mastery crit-damage passives in the calculator",
-    "branch": "feat/class-mastery-calculator",
-    "updatedAt": "2026-06-11T23:02:03Z"
-  },
-  {
     "pr": 1214,
     "title": "feat(build-editor): lock armor weight per set + dedupe gear picker variants",
     "branch": "feat/build-editor-gear-weights",
