@@ -292,12 +292,6 @@
     "updatedAt": "2026-06-14T06:47:08Z"
   },
   {
-    "pr": 1224,
-    "title": "fix(scribing): correct affix/signature script detection accuracy",
-    "branch": "fix/scribing-script-accuracy",
-    "updatedAt": "2026-06-14T16:31:27Z"
-  },
-  {
     "pr": 1225,
     "title": "fix(report): correct broken Magma Fist (and similar) ability icons",
     "branch": "fix/magma-fist-ability-icon",
@@ -308,5 +302,11 @@
     "title": "feat(latest-reports): rework with filters, hybrid search, and URL state",
     "branch": "worktree-latest-projects-rework",
     "updatedAt": "2026-06-14T16:56:39Z"
+  },
+  {
+    "pr": 1224,
+    "title": "fix(scribing): correct affix/signature script detection accuracy",
+    "branch": "fix/scribing-script-accuracy",
+    "updatedAt": "2026-06-14T17:23:53Z"
   }
 ]
