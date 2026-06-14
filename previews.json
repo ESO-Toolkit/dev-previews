@@ -298,12 +298,6 @@
     "updatedAt": "2026-06-12T19:39:42Z"
   },
   {
-    "pr": 1215,
-    "title": "deps(deps): bump the graphql group across 1 directory with 2 updates",
-    "branch": "dependabot/npm_and_yarn/graphql-0221b342ab",
-    "updatedAt": "2026-06-14T05:59:37Z"
-  },
-  {
     "pr": 1220,
     "title": "fix(mobile): Build editor mobile UX remediation — audit items C1–M6, L2–L3",
     "branch": "claude/build-editor-mobile-ux-5vf06j",
