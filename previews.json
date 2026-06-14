@@ -310,15 +310,15 @@
     "updatedAt": "2026-06-14T23:21:16Z"
   },
   {
-    "pr": 1229,
-    "title": "feat(calculator): all-class Ultimate Calculator tab on /calculator",
-    "branch": "worktree-ult-calculator",
-    "updatedAt": "2026-06-14T23:38:25Z"
-  },
-  {
     "pr": 1221,
     "title": "fix(player-card): defer hover-only tooltips to stop high-player-count freeze",
     "branch": "claude/pr-1209-audit-fixes-4psgf0",
     "updatedAt": "2026-06-14T23:53:36Z"
+  },
+  {
+    "pr": 1229,
+    "title": "feat(calculator): all-class Ultimate Calculator tab on /calculator",
+    "branch": "worktree-ult-calculator",
+    "updatedAt": "2026-06-14T23:55:00Z"
   }
 ]
