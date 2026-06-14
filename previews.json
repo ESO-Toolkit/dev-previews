@@ -298,15 +298,15 @@
     "updatedAt": "2026-06-14T16:31:27Z"
   },
   {
-    "pr": 1223,
-    "title": "feat(latest-reports): rework with filters, hybrid search, and URL state",
-    "branch": "worktree-latest-projects-rework",
-    "updatedAt": "2026-06-14T16:39:36Z"
-  },
-  {
     "pr": 1225,
     "title": "fix(report): correct broken Magma Fist (and similar) ability icons",
     "branch": "fix/magma-fist-ability-icon",
     "updatedAt": "2026-06-14T16:41:33Z"
+  },
+  {
+    "pr": 1223,
+    "title": "feat(latest-reports): rework with filters, hybrid search, and URL state",
+    "branch": "worktree-latest-projects-rework",
+    "updatedAt": "2026-06-14T16:56:39Z"
   }
 ]
