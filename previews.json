@@ -290,11 +290,5 @@
     "title": "feat(fight-replay): consolidate continuous trial replay (#1194) + custom map markers (#1199/#1206)",
     "branch": "claude/map-markers-ui-consolidation-dw0z52",
     "updatedAt": "2026-06-14T06:47:08Z"
-  },
-  {
-    "pr": 1222,
-    "title": "fix(tooltips): resolve scribed grimoire morphs to their skill line",
-    "branch": "claude/tool-tub-data-validation-gl5uti",
-    "updatedAt": "2026-06-14T06:56:49Z"
   }
 ]
