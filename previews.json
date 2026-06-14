@@ -296,5 +296,11 @@
     "title": "feat(latest-reports): rework with filters, hybrid search, and URL state",
     "branch": "worktree-latest-projects-rework",
     "updatedAt": "2026-06-14T09:24:34Z"
+  },
+  {
+    "pr": 1224,
+    "title": "fix(scribing): correct affix/signature script detection accuracy",
+    "branch": "fix/scribing-script-accuracy",
+    "updatedAt": "2026-06-14T16:31:27Z"
   }
 ]
