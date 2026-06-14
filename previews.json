@@ -184,12 +184,6 @@
     "updatedAt": "2026-06-02T06:26:44Z"
   },
   {
-    "pr": 1187,
-    "title": "fix(Footer): stop decorative gradient overflowing rounded panel corners",
-    "branch": "claude/footer-gradient-overflow-spY7U",
-    "updatedAt": "2026-06-06T22:21:51Z"
-  },
-  {
     "pr": 1189,
     "title": "feat(fight-replay): elevate map floor rendering + fix camera zoom & mid-fight map switching",
     "branch": "feat/replay-map-rendering",
