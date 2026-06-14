@@ -302,5 +302,11 @@
     "title": "fix(player-card): defer hover-only tooltips to stop high-player-count freeze",
     "branch": "claude/pr-1209-audit-fixes-4psgf0",
     "updatedAt": "2026-06-14T22:16:32Z"
+  },
+  {
+    "pr": 1226,
+    "title": "fix(player-card): hide redundant Class Mastery chip from skill-line row",
+    "branch": "fix/class-mastery-skill-line-chip",
+    "updatedAt": "2026-06-14T22:37:51Z"
   }
 ]
