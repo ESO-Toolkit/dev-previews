@@ -280,12 +280,6 @@
     "updatedAt": "2026-06-11T22:31:16Z"
   },
   {
-    "pr": 1214,
-    "title": "feat(build-editor): lock armor weight per set + dedupe gear picker variants",
-    "branch": "feat/build-editor-gear-weights",
-    "updatedAt": "2026-06-12T18:17:36Z"
-  },
-  {
     "pr": 1196,
     "title": "feat(companion): ESOTK Companion — capture champion points + build gaps, show them on player cards",
     "branch": "claude/eso-addon-research-7087jx",
