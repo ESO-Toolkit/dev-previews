@@ -298,15 +298,15 @@
     "updatedAt": "2026-06-12T19:39:42Z"
   },
   {
-    "pr": 1221,
-    "title": "fix(player-card): defer hover-only tooltips to stop high-player-count freeze",
-    "branch": "claude/pr-1209-audit-fixes-4psgf0",
-    "updatedAt": "2026-06-14T06:08:54Z"
-  },
-  {
     "pr": 1220,
     "title": "fix(mobile): Build editor mobile UX remediation — audit items C1–M6, L2–L3",
     "branch": "claude/build-editor-mobile-ux-5vf06j",
     "updatedAt": "2026-06-14T06:13:11Z"
+  },
+  {
+    "pr": 1221,
+    "title": "fix(player-card): defer hover-only tooltips to stop high-player-count freeze",
+    "branch": "claude/pr-1209-audit-fixes-4psgf0",
+    "updatedAt": "2026-06-14T06:15:08Z"
   }
 ]
