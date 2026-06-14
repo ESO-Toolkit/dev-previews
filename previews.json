@@ -320,5 +320,11 @@
     "title": "feat(calculator): structured, verified tooltips for /calculator",
     "branch": "feat/calculator-tooltips",
     "updatedAt": "2026-06-14T23:21:16Z"
+  },
+  {
+    "pr": 1229,
+    "title": "feat(calculator): all-class Ultimate Calculator tab on /calculator",
+    "branch": "worktree-ult-calculator",
+    "updatedAt": "2026-06-14T23:36:49Z"
   }
 ]
