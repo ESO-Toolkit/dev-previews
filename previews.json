@@ -314,5 +314,11 @@
     "title": "feat(fight-replay): consolidate continuous trial replay (#1194) + custom map markers (#1199/#1206)",
     "branch": "claude/map-markers-ui-consolidation-dw0z52",
     "updatedAt": "2026-06-14T23:20:10Z"
+  },
+  {
+    "pr": 1228,
+    "title": "feat(calculator): structured, verified tooltips for /calculator",
+    "branch": "feat/calculator-tooltips",
+    "updatedAt": "2026-06-14T23:21:16Z"
   }
 ]
