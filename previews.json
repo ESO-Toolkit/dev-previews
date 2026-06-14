@@ -292,15 +292,15 @@
     "updatedAt": "2026-06-14T06:47:08Z"
   },
   {
-    "pr": 1223,
-    "title": "feat(latest-reports): rework with filters, hybrid search, and URL state",
-    "branch": "worktree-latest-projects-rework",
-    "updatedAt": "2026-06-14T09:24:34Z"
-  },
-  {
     "pr": 1224,
     "title": "fix(scribing): correct affix/signature script detection accuracy",
     "branch": "fix/scribing-script-accuracy",
     "updatedAt": "2026-06-14T16:31:27Z"
+  },
+  {
+    "pr": 1223,
+    "title": "feat(latest-reports): rework with filters, hybrid search, and URL state",
+    "branch": "worktree-latest-projects-rework",
+    "updatedAt": "2026-06-14T16:39:36Z"
   }
 ]
