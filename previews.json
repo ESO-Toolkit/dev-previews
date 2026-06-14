@@ -232,12 +232,6 @@
     "updatedAt": "2026-06-09T18:31:41Z"
   },
   {
-    "pr": 1201,
-    "title": "feat(reports): hide empty logs from Latest Reports, badge them in personal/profile lists",
-    "branch": "claude/empty-logs-ui-ux-k5z1u3",
-    "updatedAt": "2026-06-09T23:50:14Z"
-  },
-  {
     "pr": 1199,
     "title": "feat(fight-replay): add/edit/delete custom map markers with persistence, drag-to-move &amp; undo",
     "branch": "claude/custom-map-markers-f5f1k9",
