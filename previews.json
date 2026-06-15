@@ -302,5 +302,11 @@
     "title": "feat(calculator): all-class Ultimate Calculator tab on /calculator (re-land + Codex fixes)",
     "branch": "reland-ult-calculator",
     "updatedAt": "2026-06-15T18:17:29Z"
+  },
+  {
+    "pr": 1248,
+    "title": "feat(fight-replay): H1/H2 healer markers + directional arrows for map markers",
+    "branch": "worktree-1207-performance",
+    "updatedAt": "2026-06-15T18:26:32Z"
   }
 ]
