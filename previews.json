@@ -292,12 +292,6 @@
     "updatedAt": "2026-06-15T03:38:53Z"
   },
   {
-    "pr": 1236,
-    "title": "feat(roster-builder): multi-trial per-fight builds (rail editor + run-sheet share view)",
-    "branch": "feat/roster-builder-multitrial-perfight",
-    "updatedAt": "2026-06-15T21:47:58Z"
-  },
-  {
     "pr": 1235,
     "title": "feat(calculator): all-class Ultimate Calculator tab on /calculator (re-land + Codex fixes)",
     "branch": "reland-ult-calculator",
