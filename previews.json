@@ -286,12 +286,6 @@
     "updatedAt": "2026-06-14T23:57:44Z"
   },
   {
-    "pr": 1223,
-    "title": "feat(latest-reports): rework with filters, hybrid search, and URL state",
-    "branch": "worktree-latest-projects-rework",
-    "updatedAt": "2026-06-15T00:31:12Z"
-  },
-  {
     "pr": 1227,
     "title": "feat(roster-builder): complete & canonicalize per-fight trial encounters",
     "branch": "feat/roster-builder-trial-encounters",
