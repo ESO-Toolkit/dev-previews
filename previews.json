@@ -274,12 +274,6 @@
     "updatedAt": "2026-06-15T01:07:32Z"
   },
   {
-    "pr": 1192,
-    "title": "feat(fight-replay): 3D scene — floor rendering, map scaling, gated cosmos/bloom, SOTA quality pass & hi-res tile seam",
-    "branch": "feat/replay-map-scaling",
-    "updatedAt": "2026-06-15T01:23:00Z"
-  },
-  {
     "pr": 1229,
     "title": "feat(calculator): all-class Ultimate Calculator tab on /calculator",
     "branch": "worktree-ult-calculator",
@@ -290,5 +284,11 @@
     "title": "Audit of #1197 + #1193: fight detection fixes for mixed/chaotic logs, dungeon metadata integration, conflict resolution with main",
     "branch": "claude/pr-1197-audit-kwvh7t",
     "updatedAt": "2026-06-15T01:42:44Z"
+  },
+  {
+    "pr": 1192,
+    "title": "feat(fight-replay): 3D scene — floor rendering, map scaling, gated cosmos/bloom, SOTA quality pass & hi-res tile seam",
+    "branch": "feat/replay-map-scaling",
+    "updatedAt": "2026-06-15T01:48:42Z"
   }
 ]
