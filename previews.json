@@ -290,5 +290,11 @@
     "title": "Audit of #1197 + #1193: fight detection fixes for mixed/chaotic logs, dungeon metadata integration, conflict resolution with main",
     "branch": "claude/pr-1197-audit-kwvh7t",
     "updatedAt": "2026-06-15T01:53:37Z"
+  },
+  {
+    "pr": 1230,
+    "title": "refactor(fight-replay): declutter the replay UI + a11y/polish pass",
+    "branch": "fix/replay-ux-declutter",
+    "updatedAt": "2026-06-15T01:59:37Z"
   }
 ]
