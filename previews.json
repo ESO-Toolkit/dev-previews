@@ -286,15 +286,15 @@
     "updatedAt": "2026-06-15T02:40:44Z"
   },
   {
-    "pr": 1233,
-    "title": "fix(ultimate-calculator): Codex review follow-ups (banked ult, cost reductions, calibration, Cryptcanon)",
-    "branch": "fix/ult-calculator-codex-followups",
-    "updatedAt": "2026-06-15T03:26:42Z"
-  },
-  {
     "pr": 1234,
     "title": "Revert \"feat(calculator): all-class Ultimate Calculator tab on /calculator\"",
     "branch": "revert-1229-worktree-ult-calculator",
     "updatedAt": "2026-06-15T03:37:52Z"
+  },
+  {
+    "pr": 1233,
+    "title": "fix(ultimate-calculator): Codex review follow-ups (banked ult, cost reductions, calibration, Cryptcanon)",
+    "branch": "fix/ult-calculator-codex-followups",
+    "updatedAt": "2026-06-15T03:38:53Z"
   }
 ]
