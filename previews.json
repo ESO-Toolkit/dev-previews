@@ -296,5 +296,11 @@
     "title": "feat(calculator): all-class Ultimate Calculator tab on /calculator (re-land + Codex fixes)",
     "branch": "reland-ult-calculator",
     "updatedAt": "2026-06-15T21:52:54Z"
+  },
+  {
+    "pr": 1249,
+    "title": "feat(latest-reports): upgrade mobile filter sheet & touch UX",
+    "branch": "claude/latest-reports-mobile-design-b66sbs",
+    "updatedAt": "2026-06-15T22:59:34Z"
   }
 ]
