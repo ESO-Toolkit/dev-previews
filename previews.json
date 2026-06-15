@@ -292,12 +292,6 @@
     "updatedAt": "2026-06-14T23:19:26Z"
   },
   {
-    "pr": 1207,
-    "title": "feat(fight-replay): consolidate continuous trial replay (#1194) + custom map markers (#1199/#1206)",
-    "branch": "claude/map-markers-ui-consolidation-dw0z52",
-    "updatedAt": "2026-06-14T23:20:10Z"
-  },
-  {
     "pr": 1221,
     "title": "fix(player-card): defer hover-only tooltips to stop high-player-count freeze",
     "branch": "claude/pr-1209-audit-fixes-4psgf0",
@@ -320,5 +314,11 @@
     "title": "feat(latest-reports): rework with filters, hybrid search, and URL state",
     "branch": "worktree-latest-projects-rework",
     "updatedAt": "2026-06-15T00:31:12Z"
+  },
+  {
+    "pr": 1207,
+    "title": "feat(fight-replay): consolidate continuous trial replay (#1194) + custom map markers (#1199/#1206)",
+    "branch": "claude/map-markers-ui-consolidation-dw0z52",
+    "updatedAt": "2026-06-15T00:35:19Z"
   }
 ]
