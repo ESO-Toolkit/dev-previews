@@ -250,12 +250,6 @@
     "updatedAt": "2026-06-10T20:17:36Z"
   },
   {
-    "pr": 1194,
-    "title": "feat(fight-replay): continuous full-trial replay + chapter navigation",
-    "branch": "claude/fight-replay-boss-timestamps-qvr1N",
-    "updatedAt": "2026-06-11T04:57:47Z"
-  },
-  {
     "pr": 1210,
     "title": "feat(ultimate-simulator): Arcanist ult-gen Monte Carlo engine + page",
     "branch": "feat/arcanist-ult-simulator",
