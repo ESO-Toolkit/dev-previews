@@ -278,5 +278,11 @@
     "title": "refactor(fight-replay): declutter the replay UI + a11y/polish pass",
     "branch": "fix/replay-ux-declutter",
     "updatedAt": "2026-06-15T01:59:37Z"
+  },
+  {
+    "pr": 1231,
+    "title": "feat(roster-builder): scope Per-Fight Builds to the Built-for trials",
+    "branch": "feat/roster-builder-unify-trial-selector",
+    "updatedAt": "2026-06-15T02:19:34Z"
   }
 ]
