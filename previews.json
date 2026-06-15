@@ -220,12 +220,6 @@
     "updatedAt": "2026-06-09T05:44:21Z"
   },
   {
-    "pr": 1192,
-    "title": "feat(fight-replay): 3D scene — floor rendering, map scaling, gated cosmos/bloom, SOTA quality pass & hi-res tile seam",
-    "branch": "feat/replay-map-scaling",
-    "updatedAt": "2026-06-09T18:31:41Z"
-  },
-  {
     "pr": 1199,
     "title": "feat(fight-replay): add/edit/delete custom map markers with persistence, drag-to-move &amp; undo",
     "branch": "claude/custom-map-markers-f5f1k9",
@@ -290,5 +284,11 @@
     "title": "feat(roster-builder): complete & canonicalize per-fight trial encounters",
     "branch": "feat/roster-builder-trial-encounters",
     "updatedAt": "2026-06-15T01:07:32Z"
+  },
+  {
+    "pr": 1192,
+    "title": "feat(fight-replay): 3D scene — floor rendering, map scaling, gated cosmos/bloom, SOTA quality pass & hi-res tile seam",
+    "branch": "feat/replay-map-scaling",
+    "updatedAt": "2026-06-15T01:23:00Z"
   }
 ]
