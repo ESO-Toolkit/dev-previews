@@ -304,12 +304,6 @@
     "updatedAt": "2026-06-15T23:10:06Z"
   },
   {
-    "pr": 1251,
-    "title": "fix(roster): correct perfected/non-perfected set names so Edit Roster populates sets",
-    "branch": "fix/roster-set-name-perfected-collision",
-    "updatedAt": "2026-06-16T05:16:58Z"
-  },
-  {
     "pr": 1250,
     "title": "feat(roster-builder): rebuild \"All Sets\" tab as a full assignable-set browser",
     "branch": "feat/roster-all-sets-browser",
