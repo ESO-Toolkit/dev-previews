@@ -304,12 +304,6 @@
     "updatedAt": "2026-06-15T23:10:06Z"
   },
   {
-    "pr": 1251,
-    "title": "fix(roster): correct perfected/non-perfected set names so Edit Roster populates sets",
-    "branch": "fix/roster-set-name-perfected-collision",
-    "updatedAt": "2026-06-16T04:40:04Z"
-  },
-  {
     "pr": 1252,
     "title": "fix(roster): wrap per-fight role rows on the /rv run sheet (mobile overflow)",
     "branch": "fix/rv-runsheet-mobile-wrap",
@@ -320,5 +314,11 @@
     "title": "feat(roster-builder): rebuild \"All Sets\" tab as a full assignable-set browser",
     "branch": "feat/roster-all-sets-browser",
     "updatedAt": "2026-06-16T04:57:40Z"
+  },
+  {
+    "pr": 1251,
+    "title": "fix(roster): correct perfected/non-perfected set names so Edit Roster populates sets",
+    "branch": "fix/roster-set-name-perfected-collision",
+    "updatedAt": "2026-06-16T05:16:58Z"
   }
 ]
