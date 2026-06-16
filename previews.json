@@ -308,11 +308,5 @@
     "title": "feat(roster): collapsible per-fight cards on the /rv run sheet",
     "branch": "feat/rv-runsheet-collapsible-fights",
     "updatedAt": "2026-06-16T06:23:28Z"
-  },
-  {
-    "pr": 1255,
-    "title": "fix(roster-builder): keep Quick Assign popover within the viewport on mobile",
-    "branch": "claude/roster-quick-assignment-scroll-lgqqoh",
-    "updatedAt": "2026-06-16T18:25:29Z"
   }
 ]
