@@ -304,15 +304,15 @@
     "updatedAt": "2026-06-15T23:10:06Z"
   },
   {
-    "pr": 1251,
-    "title": "fix(roster): correct perfected/non-perfected set names so Edit Roster populates sets",
-    "branch": "fix/roster-set-name-perfected-collision",
-    "updatedAt": "2026-06-16T04:31:38Z"
-  },
-  {
     "pr": 1250,
     "title": "feat(roster-builder): rebuild \"All Sets\" tab as a full assignable-set browser",
     "branch": "feat/roster-all-sets-browser",
     "updatedAt": "2026-06-16T04:34:01Z"
+  },
+  {
+    "pr": 1251,
+    "title": "fix(roster): correct perfected/non-perfected set names so Edit Roster populates sets",
+    "branch": "fix/roster-set-name-perfected-collision",
+    "updatedAt": "2026-06-16T04:40:04Z"
   }
 ]
