@@ -308,11 +308,5 @@
     "title": "feat(roster): collapsible per-fight cards on the /rv run sheet",
     "branch": "feat/rv-runsheet-collapsible-fights",
     "updatedAt": "2026-06-16T06:23:28Z"
-  },
-  {
-    "pr": 1250,
-    "title": "feat(roster-builder): rebuild \"All Sets\" tab as a full assignable-set browser",
-    "branch": "feat/roster-all-sets-browser",
-    "updatedAt": "2026-06-16T15:42:32Z"
   }
 ]
