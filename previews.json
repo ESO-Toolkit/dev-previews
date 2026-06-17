@@ -308,5 +308,11 @@
     "title": "feat(roster): collapsible per-fight cards on the /rv run sheet",
     "branch": "feat/rv-runsheet-collapsible-fights",
     "updatedAt": "2026-06-16T06:23:28Z"
+  },
+  {
+    "pr": 1257,
+    "title": "feat(gear-data): perfected stat tier for all 62 perfected sets + dump-addon fix",
+    "branch": "fix/dump-capture-perfected-tiers",
+    "updatedAt": "2026-06-17T01:31:20Z"
   }
 ]
