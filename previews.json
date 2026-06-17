@@ -298,12 +298,6 @@
     "updatedAt": "2026-06-15T21:52:54Z"
   },
   {
-    "pr": 1249,
-    "title": "feat(latest-reports): upgrade mobile filter sheet & touch UX",
-    "branch": "claude/latest-reports-mobile-design-b66sbs",
-    "updatedAt": "2026-06-15T23:10:06Z"
-  },
-  {
     "pr": 1256,
     "title": "fix(roster): set-picker hardening (closes #1254)",
     "branch": "fix/roster-set-picker-hardening",
