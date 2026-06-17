@@ -314,5 +314,11 @@
     "title": "feat(gear-data): perfected stat tier for all 62 perfected sets + dump-addon fix",
     "branch": "fix/dump-capture-perfected-tiers",
     "updatedAt": "2026-06-17T01:31:20Z"
+  },
+  {
+    "pr": 1256,
+    "title": "fix(roster): set-picker hardening (closes #1254)",
+    "branch": "fix/roster-set-picker-hardening",
+    "updatedAt": "2026-06-17T01:32:37Z"
   }
 ]
