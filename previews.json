@@ -304,15 +304,15 @@
     "updatedAt": "2026-06-15T23:10:06Z"
   },
   {
-    "pr": 1253,
-    "title": "feat(roster): collapsible per-fight cards on the /rv run sheet",
-    "branch": "feat/rv-runsheet-collapsible-fights",
-    "updatedAt": "2026-06-16T06:23:28Z"
-  },
-  {
     "pr": 1256,
     "title": "fix(roster): set-picker hardening (closes #1254)",
     "branch": "fix/roster-set-picker-hardening",
     "updatedAt": "2026-06-17T01:32:37Z"
+  },
+  {
+    "pr": 1253,
+    "title": "feat(roster): collapsible per-fight cards on the /rv run sheet",
+    "branch": "feat/rv-runsheet-collapsible-fights",
+    "updatedAt": "2026-06-17T02:38:02Z"
   }
 ]
