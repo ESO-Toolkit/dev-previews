@@ -308,5 +308,11 @@
     "title": "feat(roster): collapsible per-fight cards on the /rv run sheet",
     "branch": "feat/rv-runsheet-collapsible-fights",
     "updatedAt": "2026-06-17T02:38:02Z"
+  },
+  {
+    "pr": 1258,
+    "title": "Design audit: perfect the Ultimate Calculator UI (stacked on #1235)",
+    "branch": "claude/pr-1235-design-audit-ei6vbq",
+    "updatedAt": "2026-06-17T18:49:29Z"
   }
 ]
