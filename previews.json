@@ -310,12 +310,6 @@
     "updatedAt": "2026-06-17T02:38:02Z"
   },
   {
-    "pr": 1261,
-    "title": "Add Shift +10 step to champion passive stars",
-    "branch": "claude/passive-starts-shift-add-s3nx8a",
-    "updatedAt": "2026-06-18T04:05:19Z"
-  },
-  {
     "pr": 1259,
     "title": "feat(calculator): Gear Upgrade Optimizer — third /calculator pill (stacked on #1235)",
     "branch": "claude/calculator-feature-discussion-oikby7",
