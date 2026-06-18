@@ -320,5 +320,11 @@
     "title": "Design audit: perfect the Ultimate Calculator UI (stacked on #1235)",
     "branch": "claude/pr-1235-design-audit-ei6vbq",
     "updatedAt": "2026-06-18T03:48:00Z"
+  },
+  {
+    "pr": 1261,
+    "title": "Add Shift +10 step to champion passive stars",
+    "branch": "claude/passive-starts-shift-add-s3nx8a",
+    "updatedAt": "2026-06-18T04:03:09Z"
   }
 ]
