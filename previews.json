@@ -316,15 +316,15 @@
     "updatedAt": "2026-06-18T04:05:19Z"
   },
   {
-    "pr": 1258,
-    "title": "Design audit: perfect the Ultimate Calculator UI (stacked on #1235)",
-    "branch": "claude/pr-1235-design-audit-ei6vbq",
-    "updatedAt": "2026-06-18T04:39:50Z"
-  },
-  {
     "pr": 1259,
     "title": "feat(calculator): Gear Upgrade Optimizer — third /calculator pill (stacked on #1235)",
     "branch": "claude/calculator-feature-discussion-oikby7",
     "updatedAt": "2026-06-18T04:54:35Z"
+  },
+  {
+    "pr": 1258,
+    "title": "Design audit: perfect the Ultimate Calculator UI (stacked on #1235)",
+    "branch": "claude/pr-1235-design-audit-ei6vbq",
+    "updatedAt": "2026-06-18T05:01:18Z"
   }
 ]
