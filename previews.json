@@ -326,5 +326,11 @@
     "title": "Design audit: perfect the Ultimate Calculator UI (stacked on #1235)",
     "branch": "claude/pr-1235-design-audit-ei6vbq",
     "updatedAt": "2026-06-18T18:24:50Z"
+  },
+  {
+    "pr": 1262,
+    "title": "fix(discord-bot): harden roster publishing edge cases",
+    "branch": "codex/audit-discord-roster-bot-for-issues",
+    "updatedAt": "2026-06-18T19:58:13Z"
   }
 ]
