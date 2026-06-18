@@ -332,5 +332,11 @@
     "title": "fix(discord-bot): harden roster publishing edge cases",
     "branch": "codex/audit-discord-roster-bot-for-issues",
     "updatedAt": "2026-06-18T19:58:13Z"
+  },
+  {
+    "pr": 1263,
+    "title": "fix(replay): respect text-entry targets and keep ?actorId deep-links route-aware",
+    "branch": "codex/audit-fight-replay-system-for-improvements",
+    "updatedAt": "2026-06-18T19:59:11Z"
   }
 ]
