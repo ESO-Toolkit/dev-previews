@@ -326,5 +326,11 @@
     "title": "Design audit: perfect the Ultimate Calculator UI (stacked on #1235)",
     "branch": "claude/pr-1235-design-audit-ei6vbq",
     "updatedAt": "2026-06-18T05:01:18Z"
+  },
+  {
+    "pr": 1232,
+    "title": "feat(build-hub): enforce Private / Link Only build visibility end-to-end",
+    "branch": "worktree-latest-builds",
+    "updatedAt": "2026-06-18T05:49:09Z"
   }
 ]
