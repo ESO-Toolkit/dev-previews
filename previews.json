@@ -316,12 +316,6 @@
     "updatedAt": "2026-06-18T02:43:30Z"
   },
   {
-    "pr": 1260,
-    "title": "fix(calculator): keep mobile gear button a perfect circle",
-    "branch": "claude/mobile-armor-gear-icons-8se6gh",
-    "updatedAt": "2026-06-18T03:33:07Z"
-  },
-  {
     "pr": 1258,
     "title": "Design audit: perfect the Ultimate Calculator UI (stacked on #1235)",
     "branch": "claude/pr-1235-design-audit-ei6vbq",
