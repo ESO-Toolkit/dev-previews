@@ -314,5 +314,11 @@
     "title": "Design audit: perfect the Ultimate Calculator UI (stacked on #1235)",
     "branch": "claude/pr-1235-design-audit-ei6vbq",
     "updatedAt": "2026-06-18T02:32:21Z"
+  },
+  {
+    "pr": 1259,
+    "title": "feat(calculator): computed gear-upgrade optimizer (engine + UI)",
+    "branch": "claude/calculator-feature-discussion-oikby7",
+    "updatedAt": "2026-06-18T02:37:36Z"
   }
 ]
