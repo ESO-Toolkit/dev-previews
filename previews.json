@@ -332,11 +332,5 @@
     "title": "Design audit: perfect the Ultimate Calculator UI (stacked on #1235)",
     "branch": "claude/pr-1235-design-audit-ei6vbq",
     "updatedAt": "2026-06-18T22:51:49Z"
-  },
-  {
-    "pr": 1264,
-    "title": "fix(tooltips): consolidate scoped dump data and perfected set handling",
-    "branch": "claude/missing-gear-icons-ni0ozr",
-    "updatedAt": "2026-06-19T22:05:29Z"
   }
 ]
