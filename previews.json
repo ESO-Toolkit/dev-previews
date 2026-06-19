@@ -335,8 +335,8 @@
   },
   {
     "pr": 1264,
-    "title": "fix(gear-tooltip): parse \"(N perfected items)\" tier in set tooltips",
+    "title": "fix(tooltips): consolidate scoped dump data and perfected set handling",
     "branch": "claude/missing-gear-icons-ni0ozr",
-    "updatedAt": "2026-06-19T21:58:35Z"
+    "updatedAt": "2026-06-19T22:05:29Z"
   }
 ]
