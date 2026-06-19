@@ -334,12 +334,6 @@
     "updatedAt": "2026-06-18T22:51:49Z"
   },
   {
-    "pr": 1265,
-    "title": "fix(insights): resolve status-effect names/icons + Atronach/Horn icons",
-    "branch": "fix/fight-insights-names-icons",
-    "updatedAt": "2026-06-19T06:15:34Z"
-  },
-  {
     "pr": 1264,
     "title": "fix(gear-tooltip): parse \"(N perfected items)\" tier in set tooltips",
     "branch": "claude/missing-gear-icons-ni0ozr",
