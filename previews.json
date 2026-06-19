@@ -316,12 +316,6 @@
     "updatedAt": "2026-06-18T04:54:35Z"
   },
   {
-    "pr": 1232,
-    "title": "feat(build-hub): enforce Private / Link Only build visibility end-to-end",
-    "branch": "worktree-latest-builds",
-    "updatedAt": "2026-06-18T16:08:30Z"
-  },
-  {
     "pr": 1262,
     "title": "fix(discord-bot): harden roster publishing edge cases",
     "branch": "codex/audit-discord-roster-bot-for-issues",
@@ -350,5 +344,11 @@
     "title": "fix(insights): resolve status-effect names/icons + Atronach/Horn icons",
     "branch": "fix/fight-insights-names-icons",
     "updatedAt": "2026-06-19T04:45:13Z"
+  },
+  {
+    "pr": 1232,
+    "title": "feat(build-hub): enforce Private / Link Only build visibility end-to-end",
+    "branch": "worktree-latest-builds",
+    "updatedAt": "2026-06-19T05:19:48Z"
   }
 ]
