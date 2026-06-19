@@ -340,12 +340,6 @@
     "updatedAt": "2026-06-19T03:43:03Z"
   },
   {
-    "pr": 1232,
-    "title": "feat(build-hub): enforce Private / Link Only build visibility end-to-end",
-    "branch": "worktree-latest-builds",
-    "updatedAt": "2026-06-19T05:19:48Z"
-  },
-  {
     "pr": 1265,
     "title": "fix(insights): resolve status-effect names/icons + Atronach/Horn icons",
     "branch": "fix/fight-insights-names-icons",
