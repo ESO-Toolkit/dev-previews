@@ -334,12 +334,6 @@
     "updatedAt": "2026-06-20T02:41:06Z"
   },
   {
-    "pr": 1258,
-    "title": "Design audit: perfect the Ultimate Calculator UI (stacked on #1235)",
-    "branch": "claude/pr-1235-design-audit-ei6vbq",
-    "updatedAt": "2026-06-20T02:41:57Z"
-  },
-  {
     "pr": 1272,
     "title": "fix(role-detection): use boss subType for taunt scoring + consistent class-analysis primary",
     "branch": "fix/role-detection-accuracy",
@@ -362,5 +356,11 @@
     "title": "fix(dropdowns): open Select menus below the field + unify premium styling site-wide",
     "branch": "fix/dropdown-positioning-sitewide",
     "updatedAt": "2026-06-20T02:56:46Z"
+  },
+  {
+    "pr": 1258,
+    "title": "Design audit: perfect the Ultimate Calculator UI (stacked on #1235)",
+    "branch": "claude/pr-1235-design-audit-ei6vbq",
+    "updatedAt": "2026-06-20T03:00:38Z"
   }
 ]
