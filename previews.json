@@ -428,5 +428,11 @@
     "title": "Redesign Latest Reports fight cards for modern UI/UX",
     "branch": "claude/fight-cards-ui-ux-5wza82",
     "updatedAt": "2026-06-20T08:40:01Z"
+  },
+  {
+    "pr": 1307,
+    "title": "perf(report-summary): activate the batch event fetch safely (#7)",
+    "branch": "perf/report-events-batch-activate",
+    "updatedAt": "2026-06-20T08:46:45Z"
   }
 ]
