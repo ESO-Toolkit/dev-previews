@@ -334,12 +334,6 @@
     "updatedAt": "2026-06-20T01:57:11Z"
   },
   {
-    "pr": 1258,
-    "title": "Design audit: perfect the Ultimate Calculator UI (stacked on #1235)",
-    "branch": "claude/pr-1235-design-audit-ei6vbq",
-    "updatedAt": "2026-06-20T01:58:40Z"
-  },
-  {
     "pr": 1270,
     "title": "fix(replay): split multi-instance NPCs into per-copy pucks",
     "branch": "worktree-fight-enemy-bug",
@@ -356,5 +350,11 @@
     "title": "fix(build-editor): apply Warden Frozen Armor + accurate completeness/CP state",
     "branch": "fix/build-editor-passive-completeness",
     "updatedAt": "2026-06-20T02:41:06Z"
+  },
+  {
+    "pr": 1258,
+    "title": "Design audit: perfect the Ultimate Calculator UI (stacked on #1235)",
+    "branch": "claude/pr-1235-design-audit-ei6vbq",
+    "updatedAt": "2026-06-20T02:41:57Z"
   }
 ]
