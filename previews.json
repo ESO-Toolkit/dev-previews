@@ -356,5 +356,11 @@
     "title": "Design audit: perfect the Ultimate Calculator UI (stacked on #1235)",
     "branch": "claude/pr-1235-design-audit-ei6vbq",
     "updatedAt": "2026-06-20T03:00:38Z"
+  },
+  {
+    "pr": 1274,
+    "title": "fix(calculator): include armor pieces in PvE/PvP resistance + correct stat constants",
+    "branch": "fix/calculator-stats-math",
+    "updatedAt": "2026-06-20T03:04:21Z"
   }
 ]
