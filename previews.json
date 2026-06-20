@@ -346,12 +346,6 @@
     "updatedAt": "2026-06-20T05:30:59Z"
   },
   {
-    "pr": 1284,
-    "title": "fix(utils): drop dead binary search + don't bypass source filter for sourceID 0",
-    "branch": "fix/pure-utils-correctness",
-    "updatedAt": "2026-06-20T05:34:06Z"
-  },
-  {
     "pr": 1286,
     "title": "fix(report-data): stale-response guards + coherent death% + refresh teardown",
     "branch": "fix/report-data-client-robustness",
