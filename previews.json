@@ -398,5 +398,11 @@
     "title": "fix(leaderboard): guard out-of-order fetches + show empty-state instead of error",
     "branch": "fix/leaderboard-fetch-robustness",
     "updatedAt": "2026-06-20T05:17:42Z"
+  },
+  {
+    "pr": 1282,
+    "title": "fix(build-viewer): sanitize banner URL + harden ?b= decode + stabilize gear memo",
+    "branch": "fix/build-viewer-safety",
+    "updatedAt": "2026-06-20T05:24:21Z"
   }
 ]
