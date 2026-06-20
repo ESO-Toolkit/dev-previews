@@ -440,11 +440,5 @@
     "title": "feat(ultimate-calculator): make Solo/Group/PvP + role drive realistic archetype presets",
     "branch": "feat/ult-calc-playstyle-presets",
     "updatedAt": "2026-06-20T08:55:49Z"
-  },
-  {
-    "pr": 1285,
-    "title": "fix(build-editor): round-trip Class Mastery through CSPS export/import",
-    "branch": "fix/class-mastery-csps-transfer",
-    "updatedAt": "2026-06-20T08:58:39Z"
   }
 ]
