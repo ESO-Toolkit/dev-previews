@@ -428,5 +428,11 @@
     "title": "fix(insights): unique React keys for build issues + uptime timeline legend",
     "branch": "fix/insights-react-keys",
     "updatedAt": "2026-06-20T05:45:28Z"
+  },
+  {
+    "pr": 1288,
+    "title": "fix(build-editor): allow dual wield off-hand weapons",
+    "branch": "codex/fix-build-editor-offhand",
+    "updatedAt": "2026-06-20T05:57:27Z"
   }
 ]
