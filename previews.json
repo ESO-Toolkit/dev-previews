@@ -422,5 +422,11 @@
     "title": "feat(ultimate-calculator): make Solo/Group/PvP + role drive realistic archetype presets",
     "branch": "feat/ult-calc-playstyle-presets",
     "updatedAt": "2026-06-20T18:21:25Z"
+  },
+  {
+    "pr": 1314,
+    "title": "fix(profile): fix \"Player not found\" — store author_name raw + owner Recent Logs fallback",
+    "branch": "fix/profile-author-name-escaping",
+    "updatedAt": "2026-06-20T18:59:32Z"
   }
 ]
