@@ -430,12 +430,6 @@
     "updatedAt": "2026-06-20T17:24:49Z"
   },
   {
-    "pr": 1303,
-    "title": "Modernize mobile recent-report and view-all CTA design",
-    "branch": "claude/mobile-cta-reports-design-3zx2fe",
-    "updatedAt": "2026-06-20T17:27:34Z"
-  },
-  {
     "pr": 1306,
     "title": "Redesign Latest Reports fight cards for modern UI/UX",
     "branch": "claude/fight-cards-ui-ux-5wza82",
@@ -446,5 +440,11 @@
     "title": "fix(auth): add CSRF state to the ESO Logs PKCE flow (#24) — needs live login verification",
     "branch": "fix/oauth-csrf-state",
     "updatedAt": "2026-06-20T17:37:11Z"
+  },
+  {
+    "pr": 1303,
+    "title": "Modernize mobile recent-report and view-all CTA design",
+    "branch": "claude/mobile-cta-reports-design-3zx2fe",
+    "updatedAt": "2026-06-20T17:42:46Z"
   }
 ]
