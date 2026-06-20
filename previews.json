@@ -410,5 +410,11 @@
     "title": "fix(store): memoize worker-task selector factories + skip already-aborted work",
     "branch": "fix/worker-results-selectors-abort",
     "updatedAt": "2026-06-20T07:48:25Z"
+  },
+  {
+    "pr": 1298,
+    "title": "perf(parse): make analyzeWeaving's preceding-cast lookup linear",
+    "branch": "perf/weave-linear",
+    "updatedAt": "2026-06-20T07:50:00Z"
   }
 ]
