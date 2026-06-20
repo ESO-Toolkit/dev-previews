@@ -406,12 +406,6 @@
     "updatedAt": "2026-06-20T08:06:35Z"
   },
   {
-    "pr": 1308,
-    "title": "fix(parse-analysis): attribute pet/summon damage to the owner in calculateDPS (#42)",
-    "branch": "fix/calculate-dps-include-pets",
-    "updatedAt": "2026-06-20T08:51:22Z"
-  },
-  {
     "pr": 1313,
     "title": "feat(build-editor): setup/part duplication, bulk gear editing, paste-text import",
     "branch": "worktree-build-editor-duplicator",
@@ -434,5 +428,11 @@
     "title": "feat(ultimate-calculator): make Solo/Group/PvP + role drive realistic archetype presets",
     "branch": "feat/ult-calc-playstyle-presets",
     "updatedAt": "2026-06-20T18:21:25Z"
+  },
+  {
+    "pr": 1308,
+    "title": "fix(parse-analysis): attribute pet/summon damage to the owner in calculateDPS (#42)",
+    "branch": "fix/calculate-dps-include-pets",
+    "updatedAt": "2026-06-20T18:26:10Z"
   }
 ]
