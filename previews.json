@@ -412,12 +412,6 @@
     "updatedAt": "2026-06-20T08:51:22Z"
   },
   {
-    "pr": 1311,
-    "title": "feat(ultimate-calculator): make Solo/Group/PvP + role drive realistic archetype presets",
-    "branch": "feat/ult-calc-playstyle-presets",
-    "updatedAt": "2026-06-20T08:55:49Z"
-  },
-  {
     "pr": 1313,
     "title": "feat(build-editor): setup/part duplication, bulk gear editing, paste-text import",
     "branch": "worktree-build-editor-duplicator",
@@ -434,5 +428,11 @@
     "title": "fix(role-detection): populate shieldAppliedToOthers so shield healers are classified (#12)",
     "branch": "fix/shield-healer-signal",
     "updatedAt": "2026-06-20T18:09:47Z"
+  },
+  {
+    "pr": 1311,
+    "title": "feat(ultimate-calculator): make Solo/Group/PvP + role drive realistic archetype presets",
+    "branch": "feat/ult-calc-playstyle-presets",
+    "updatedAt": "2026-06-20T18:21:25Z"
   }
 ]
