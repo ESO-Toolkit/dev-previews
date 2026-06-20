@@ -446,5 +446,11 @@
     "title": "fix(build-editor): round-trip Class Mastery through CSPS export/import",
     "branch": "fix/class-mastery-csps-transfer",
     "updatedAt": "2026-06-20T08:58:39Z"
+  },
+  {
+    "pr": 1312,
+    "title": "fix(gear-data): reconcile contradictory set categories across weight files (#22)",
+    "branch": "fix/gear-settype-reconcile",
+    "updatedAt": "2026-06-20T09:06:14Z"
   }
 ]
