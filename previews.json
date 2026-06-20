@@ -292,12 +292,6 @@
     "updatedAt": "2026-06-15T03:38:53Z"
   },
   {
-    "pr": 1235,
-    "title": "feat(calculator): all-class Ultimate Calculator tab on /calculator (re-land + Codex fixes)",
-    "branch": "reland-ult-calculator",
-    "updatedAt": "2026-06-15T21:52:54Z"
-  },
-  {
     "pr": 1256,
     "title": "fix(roster): set-picker hardening (closes #1254)",
     "branch": "fix/roster-set-picker-hardening",
@@ -470,5 +464,11 @@
     "title": "fix(parse-analysis): stop resetting the live-fight poll countdown on every analyze",
     "branch": "fix/live-poll-interval",
     "updatedAt": "2026-06-20T06:36:01Z"
+  },
+  {
+    "pr": 1235,
+    "title": "feat(calculator): all-class Ultimate Calculator tab on /calculator (re-land + Codex fixes)",
+    "branch": "reland-ult-calculator",
+    "updatedAt": "2026-06-20T06:37:19Z"
   }
 ]
