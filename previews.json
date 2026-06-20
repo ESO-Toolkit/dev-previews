@@ -412,12 +412,6 @@
     "updatedAt": "2026-06-20T08:24:42Z"
   },
   {
-    "pr": 1305,
-    "title": "Update Kalpa banner from alpha to beta",
-    "branch": "claude/kalpa-banner-beta-ijy7m7",
-    "updatedAt": "2026-06-20T08:29:27Z"
-  },
-  {
     "pr": 1306,
     "title": "Redesign Latest Reports fight cards for modern UI/UX",
     "branch": "claude/fight-cards-ui-ux-5wza82",
