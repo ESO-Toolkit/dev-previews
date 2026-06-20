@@ -346,12 +346,6 @@
     "updatedAt": "2026-06-20T02:56:46Z"
   },
   {
-    "pr": 1258,
-    "title": "Design audit: perfect the Ultimate Calculator UI (stacked on #1235)",
-    "branch": "claude/pr-1235-design-audit-ei6vbq",
-    "updatedAt": "2026-06-20T03:00:38Z"
-  },
-  {
     "pr": 1274,
     "title": "fix(calculator): include armor pieces in PvE/PvP resistance + correct stat constants",
     "branch": "fix/calculator-stats-math",
@@ -362,5 +356,11 @@
     "title": "fix(roster): preserve DPS slot reorder across encode + fix Unknown set-id collision",
     "branch": "fix/roster-encoding-integrity",
     "updatedAt": "2026-06-20T03:10:20Z"
+  },
+  {
+    "pr": 1258,
+    "title": "Design audit: perfect the Ultimate Calculator UI (stacked on #1235)",
+    "branch": "claude/pr-1235-design-audit-ei6vbq",
+    "updatedAt": "2026-06-20T03:11:33Z"
   }
 ]
