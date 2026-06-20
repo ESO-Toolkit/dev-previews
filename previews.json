@@ -446,5 +446,11 @@
     "title": "fix(role-detection): populate shieldAppliedToOthers so shield healers are classified (#12)",
     "branch": "fix/shield-healer-signal",
     "updatedAt": "2026-06-20T08:52:14Z"
+  },
+  {
+    "pr": 1311,
+    "title": "feat(ultimate-calculator): make Solo/Group/PvP + role drive realistic archetype presets",
+    "branch": "feat/ult-calc-playstyle-presets",
+    "updatedAt": "2026-06-20T08:55:49Z"
   }
 ]
