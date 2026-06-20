@@ -422,5 +422,11 @@
     "title": "fix(build-editor): round-trip Class Mastery through CSPS export/import",
     "branch": "fix/class-mastery-csps-transfer",
     "updatedAt": "2026-06-20T08:39:04Z"
+  },
+  {
+    "pr": 1306,
+    "title": "Redesign Latest Reports fight cards for modern UI/UX",
+    "branch": "claude/fight-cards-ui-ux-5wza82",
+    "updatedAt": "2026-06-20T08:40:01Z"
   }
 ]
