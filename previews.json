@@ -422,11 +422,5 @@
     "title": "Modernize mobile recent-report and view-all CTA design",
     "branch": "claude/mobile-cta-reports-design-3zx2fe",
     "updatedAt": "2026-06-20T19:01:58Z"
-  },
-  {
-    "pr": 1314,
-    "title": "fix(profile): fix \"Player not found\" — store author_name raw + owner Recent Logs fallback",
-    "branch": "fix/profile-author-name-escaping",
-    "updatedAt": "2026-06-20T19:06:00Z"
   }
 ]
