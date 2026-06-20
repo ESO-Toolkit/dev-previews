@@ -356,5 +356,11 @@
     "title": "fix(calculator): include armor pieces in PvE/PvP resistance + correct stat constants",
     "branch": "fix/calculator-stats-math",
     "updatedAt": "2026-06-20T03:04:21Z"
+  },
+  {
+    "pr": 1275,
+    "title": "fix(roster): preserve DPS slot reorder across encode + fix Unknown set-id collision",
+    "branch": "fix/roster-encoding-integrity",
+    "updatedAt": "2026-06-20T03:10:20Z"
   }
 ]
