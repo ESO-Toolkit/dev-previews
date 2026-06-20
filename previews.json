@@ -410,11 +410,5 @@
     "title": "Modernize mobile recent-report and view-all CTA design",
     "branch": "claude/mobile-cta-reports-design-3zx2fe",
     "updatedAt": "2026-06-20T19:01:58Z"
-  },
-  {
-    "pr": 1313,
-    "title": "feat(build-editor): setup/part duplication, bulk gear editing, paste-text import",
-    "branch": "worktree-build-editor-duplicator",
-    "updatedAt": "2026-06-20T21:44:56Z"
   }
 ]
