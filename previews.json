@@ -406,12 +406,6 @@
     "updatedAt": "2026-06-20T08:06:35Z"
   },
   {
-    "pr": 1306,
-    "title": "Redesign Latest Reports fight cards for modern UI/UX",
-    "branch": "claude/fight-cards-ui-ux-5wza82",
-    "updatedAt": "2026-06-20T08:40:01Z"
-  },
-  {
     "pr": 1308,
     "title": "fix(parse-analysis): attribute pet/summon damage to the owner in calculateDPS (#42)",
     "branch": "fix/calculate-dps-include-pets",
@@ -446,5 +440,11 @@
     "title": "Modernize mobile recent-report and view-all CTA design",
     "branch": "claude/mobile-cta-reports-design-3zx2fe",
     "updatedAt": "2026-06-20T17:27:34Z"
+  },
+  {
+    "pr": 1306,
+    "title": "Redesign Latest Reports fight cards for modern UI/UX",
+    "branch": "claude/fight-cards-ui-ux-5wza82",
+    "updatedAt": "2026-06-20T17:35:22Z"
   }
 ]
