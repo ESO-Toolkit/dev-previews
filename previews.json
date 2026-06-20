@@ -316,12 +316,6 @@
     "updatedAt": "2026-06-18T19:59:11Z"
   },
   {
-    "pr": 1271,
-    "title": "fix(build-editor): apply Warden Frozen Armor + accurate completeness/CP state",
-    "branch": "fix/build-editor-passive-completeness",
-    "updatedAt": "2026-06-20T02:41:06Z"
-  },
-  {
     "pr": 1272,
     "title": "fix(role-detection): use boss subType for taunt scoring + consistent class-analysis primary",
     "branch": "fix/role-detection-accuracy",
