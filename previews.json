@@ -374,5 +374,11 @@
     "title": "fix(page-transitions): land hero morphs on lazy routes + harden View Transitions",
     "branch": "worktree-page-transitions-audit",
     "updatedAt": "2026-06-20T03:25:33Z"
+  },
+  {
+    "pr": 1278,
+    "title": "fix(workers): terminate threads, release progress proxies, recover on timeout",
+    "branch": "fix/worker-pool-lifecycle",
+    "updatedAt": "2026-06-20T03:27:19Z"
   }
 ]
