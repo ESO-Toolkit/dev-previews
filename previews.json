@@ -412,12 +412,6 @@
     "updatedAt": "2026-06-20T17:24:49Z"
   },
   {
-    "pr": 1311,
-    "title": "feat(ultimate-calculator): make Solo/Group/PvP + role drive realistic archetype presets",
-    "branch": "feat/ult-calc-playstyle-presets",
-    "updatedAt": "2026-06-20T18:21:25Z"
-  },
-  {
     "pr": 1303,
     "title": "Modernize mobile recent-report and view-all CTA design",
     "branch": "claude/mobile-cta-reports-design-3zx2fe",
