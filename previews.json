@@ -340,12 +340,6 @@
     "updatedAt": "2026-06-20T02:55:10Z"
   },
   {
-    "pr": 1268,
-    "title": "fix(dropdowns): open Select menus below the field + unify premium styling site-wide",
-    "branch": "fix/dropdown-positioning-sitewide",
-    "updatedAt": "2026-06-20T02:56:46Z"
-  },
-  {
     "pr": 1274,
     "title": "fix(calculator): include armor pieces in PvE/PvP resistance + correct stat constants",
     "branch": "fix/calculator-stats-math",
