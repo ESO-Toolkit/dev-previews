@@ -340,12 +340,6 @@
     "updatedAt": "2026-06-20T03:31:41Z"
   },
   {
-    "pr": 1280,
-    "title": "fix(loadout-manager): harden setup rendering, fix mythic trait + stale gear icon",
-    "branch": "fix/loadout-manager-robustness",
-    "updatedAt": "2026-06-20T05:13:49Z"
-  },
-  {
     "pr": 1281,
     "title": "fix(leaderboard): guard out-of-order fetches + show empty-state instead of error",
     "branch": "fix/leaderboard-fetch-robustness",
