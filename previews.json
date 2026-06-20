@@ -430,12 +430,6 @@
     "updatedAt": "2026-06-20T17:24:49Z"
   },
   {
-    "pr": 1306,
-    "title": "Redesign Latest Reports fight cards for modern UI/UX",
-    "branch": "claude/fight-cards-ui-ux-5wza82",
-    "updatedAt": "2026-06-20T17:35:22Z"
-  },
-  {
     "pr": 1303,
     "title": "Modernize mobile recent-report and view-all CTA design",
     "branch": "claude/mobile-cta-reports-design-3zx2fe",
