@@ -362,5 +362,11 @@
     "title": "Design audit: perfect the Ultimate Calculator UI (stacked on #1235)",
     "branch": "claude/pr-1235-design-audit-ei6vbq",
     "updatedAt": "2026-06-20T03:11:33Z"
+  },
+  {
+    "pr": 1276,
+    "title": "fix(data): damage-type flag parsing + duplicate/mislabeled ultimate ids",
+    "branch": "fix/game-data-integrity",
+    "updatedAt": "2026-06-20T03:19:28Z"
   }
 ]
