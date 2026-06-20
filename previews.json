@@ -422,5 +422,11 @@
     "title": "fix(report-data): stale-response guards + coherent death% + refresh teardown",
     "branch": "fix/report-data-client-robustness",
     "updatedAt": "2026-06-20T05:41:48Z"
+  },
+  {
+    "pr": 1287,
+    "title": "fix(insights): unique React keys for build issues + uptime timeline legend",
+    "branch": "fix/insights-react-keys",
+    "updatedAt": "2026-06-20T05:45:28Z"
   }
 ]
