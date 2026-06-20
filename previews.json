@@ -404,5 +404,11 @@
     "title": "fix(build-viewer): sanitize banner URL + harden ?b= decode + stabilize gear memo",
     "branch": "fix/build-viewer-safety",
     "updatedAt": "2026-06-20T05:24:21Z"
+  },
+  {
+    "pr": 1283,
+    "title": "fix(store): persist chartIntensity + prune fight index + clear stale context",
+    "branch": "fix/redux-store-robustness",
+    "updatedAt": "2026-06-20T05:30:59Z"
   }
 ]
