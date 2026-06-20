@@ -380,5 +380,11 @@
     "title": "fix(workers): terminate threads, release progress proxies, recover on timeout",
     "branch": "fix/worker-pool-lifecycle",
     "updatedAt": "2026-06-20T03:27:19Z"
+  },
+  {
+    "pr": 1279,
+    "title": "fix(pack-hub): tolerate null fields, guard addon search, keep search paginating",
+    "branch": "fix/pack-hub-robustness",
+    "updatedAt": "2026-06-20T03:31:41Z"
   }
 ]
