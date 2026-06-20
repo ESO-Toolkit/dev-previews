@@ -328,12 +328,6 @@
     "updatedAt": "2026-06-20T02:55:10Z"
   },
   {
-    "pr": 1275,
-    "title": "fix(roster): preserve DPS slot reorder across encode + fix Unknown set-id collision",
-    "branch": "fix/roster-encoding-integrity",
-    "updatedAt": "2026-06-20T03:10:20Z"
-  },
-  {
     "pr": 1276,
     "title": "fix(data): damage-type flag parsing + duplicate/mislabeled ultimate ids",
     "branch": "fix/game-data-integrity",
