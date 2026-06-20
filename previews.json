@@ -448,12 +448,6 @@
     "updatedAt": "2026-06-20T06:26:42Z"
   },
   {
-    "pr": 1285,
-    "title": "fix(build-editor): round-trip Class Mastery through CSPS export/import",
-    "branch": "fix/class-mastery-csps-transfer",
-    "updatedAt": "2026-06-20T06:27:52Z"
-  },
-  {
     "pr": 1291,
     "title": "fix(async): guard out-of-order responses in guild-config, avatars, comments, death-analysis",
     "branch": "fix/async-stale-guards",
@@ -470,5 +464,11 @@
     "title": "feat(calculator): all-class Ultimate Calculator tab on /calculator (re-land + Codex fixes)",
     "branch": "reland-ult-calculator",
     "updatedAt": "2026-06-20T06:37:19Z"
+  },
+  {
+    "pr": 1285,
+    "title": "fix(build-editor): round-trip Class Mastery through CSPS export/import",
+    "branch": "fix/class-mastery-csps-transfer",
+    "updatedAt": "2026-06-20T06:44:26Z"
   }
 ]
