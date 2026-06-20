@@ -412,12 +412,6 @@
     "updatedAt": "2026-06-20T17:24:49Z"
   },
   {
-    "pr": 1303,
-    "title": "Modernize mobile recent-report and view-all CTA design",
-    "branch": "claude/mobile-cta-reports-design-3zx2fe",
-    "updatedAt": "2026-06-20T17:54:40Z"
-  },
-  {
     "pr": 1311,
     "title": "feat(ultimate-calculator): make Solo/Group/PvP + role drive realistic archetype presets",
     "branch": "feat/ult-calc-playstyle-presets",
@@ -428,5 +422,11 @@
     "title": "fix(profile): fix \"Player not found\" — store author_name raw + owner Recent Logs fallback",
     "branch": "fix/profile-author-name-escaping",
     "updatedAt": "2026-06-20T18:59:32Z"
+  },
+  {
+    "pr": 1303,
+    "title": "Modernize mobile recent-report and view-all CTA design",
+    "branch": "claude/mobile-cta-reports-design-3zx2fe",
+    "updatedAt": "2026-06-20T19:01:58Z"
   }
 ]
