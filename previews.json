@@ -452,5 +452,11 @@
     "title": "fix(ui): clear player-navigation timers on close + stale gear icon",
     "branch": "fix/timer-cleanup-stale-icons",
     "updatedAt": "2026-06-20T06:14:50Z"
+  },
+  {
+    "pr": 1293,
+    "title": "fix(user-reports): correct display page size + clamp page + guard avatar read",
+    "branch": "fix/user-reports-pagination",
+    "updatedAt": "2026-06-20T06:19:25Z"
   }
 ]
