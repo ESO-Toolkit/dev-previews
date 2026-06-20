@@ -436,12 +436,6 @@
     "updatedAt": "2026-06-20T17:35:22Z"
   },
   {
-    "pr": 1310,
-    "title": "fix(auth): add CSRF state to the ESO Logs PKCE flow (#24) — needs live login verification",
-    "branch": "fix/oauth-csrf-state",
-    "updatedAt": "2026-06-20T17:37:11Z"
-  },
-  {
     "pr": 1303,
     "title": "Modernize mobile recent-report and view-all CTA design",
     "branch": "claude/mobile-cta-reports-design-3zx2fe",
