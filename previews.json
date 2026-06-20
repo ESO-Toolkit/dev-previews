@@ -386,5 +386,11 @@
     "title": "fix(pack-hub): tolerate null fields, guard addon search, keep search paginating",
     "branch": "fix/pack-hub-robustness",
     "updatedAt": "2026-06-20T03:31:41Z"
+  },
+  {
+    "pr": 1280,
+    "title": "fix(loadout-manager): harden setup rendering, fix mythic trait + stale gear icon",
+    "branch": "fix/loadout-manager-robustness",
+    "updatedAt": "2026-06-20T05:13:49Z"
   }
 ]
