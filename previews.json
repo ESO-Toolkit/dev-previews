@@ -412,12 +412,6 @@
     "updatedAt": "2026-06-20T08:51:22Z"
   },
   {
-    "pr": 1309,
-    "title": "fix(role-detection): populate shieldAppliedToOthers so shield healers are classified (#12)",
-    "branch": "fix/shield-healer-signal",
-    "updatedAt": "2026-06-20T08:52:14Z"
-  },
-  {
     "pr": 1311,
     "title": "feat(ultimate-calculator): make Solo/Group/PvP + role drive realistic archetype presets",
     "branch": "feat/ult-calc-playstyle-presets",
@@ -434,5 +428,11 @@
     "title": "Modernize mobile recent-report and view-all CTA design",
     "branch": "claude/mobile-cta-reports-design-3zx2fe",
     "updatedAt": "2026-06-20T17:42:46Z"
+  },
+  {
+    "pr": 1309,
+    "title": "fix(role-detection): populate shieldAppliedToOthers so shield healers are classified (#12)",
+    "branch": "fix/shield-healer-signal",
+    "updatedAt": "2026-06-20T17:52:26Z"
   }
 ]
