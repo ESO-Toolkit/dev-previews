@@ -416,5 +416,11 @@
     "title": "feat(calculator): Gear Upgrade Optimizer — third /calculator pill",
     "branch": "claude/calculator-feature-discussion-oikby7",
     "updatedAt": "2026-06-20T07:50:47Z"
+  },
+  {
+    "pr": 1300,
+    "title": "fix(loadout): preserve mixed Lua tables + trash boss label on Wizard's Wardrobe round-trip",
+    "branch": "fix/wizard-wardrobe-roundtrip",
+    "updatedAt": "2026-06-20T07:52:23Z"
   }
 ]
