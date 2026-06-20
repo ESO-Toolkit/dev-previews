@@ -368,5 +368,11 @@
     "title": "fix(data): damage-type flag parsing + duplicate/mislabeled ultimate ids",
     "branch": "fix/game-data-integrity",
     "updatedAt": "2026-06-20T03:19:28Z"
+  },
+  {
+    "pr": 1277,
+    "title": "fix(page-transitions): land hero morphs on lazy routes + harden View Transitions",
+    "branch": "worktree-page-transitions-audit",
+    "updatedAt": "2026-06-20T03:25:33Z"
   }
 ]
