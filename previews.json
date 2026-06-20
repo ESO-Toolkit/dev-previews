@@ -394,12 +394,6 @@
     "updatedAt": "2026-06-20T07:48:25Z"
   },
   {
-    "pr": 1298,
-    "title": "perf(parse): make analyzeWeaving's preceding-cast lookup linear",
-    "branch": "perf/weave-linear",
-    "updatedAt": "2026-06-20T07:50:00Z"
-  },
-  {
     "pr": 1300,
     "title": "fix(loadout): preserve mixed Lua tables + trash boss label on Wizard's Wardrobe round-trip",
     "branch": "fix/wizard-wardrobe-roundtrip",
