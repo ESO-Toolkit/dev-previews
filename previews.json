@@ -376,12 +376,6 @@
     "updatedAt": "2026-06-20T06:03:07Z"
   },
   {
-    "pr": 1290,
-    "title": "fix(events): re-fetch buff-event windows after partial failure instead of caching it",
-    "branch": "fix/event-fetch-error-surfacing",
-    "updatedAt": "2026-06-20T06:05:14Z"
-  },
-  {
     "pr": 1292,
     "title": "fix(ui): clear player-navigation timers on close + stale gear icon",
     "branch": "fix/timer-cleanup-stale-icons",
