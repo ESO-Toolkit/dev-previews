@@ -428,5 +428,11 @@
     "title": "fix(build-editor): round-trip Class Mastery through CSPS export/import",
     "branch": "fix/class-mastery-csps-transfer",
     "updatedAt": "2026-06-20T06:00:54Z"
+  },
+  {
+    "pr": 1289,
+    "title": "fix(data): correct heavy-head armor typo + guard zero-duration death rate",
+    "branch": "fix/death-rate-and-armor-data",
+    "updatedAt": "2026-06-20T06:03:07Z"
   }
 ]
