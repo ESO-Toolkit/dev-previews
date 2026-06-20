@@ -388,12 +388,6 @@
     "updatedAt": "2026-06-20T07:20:23Z"
   },
   {
-    "pr": 1285,
-    "title": "fix(build-editor): round-trip Class Mastery through CSPS export/import",
-    "branch": "fix/class-mastery-csps-transfer",
-    "updatedAt": "2026-06-20T07:44:19Z"
-  },
-  {
     "pr": 1297,
     "title": "perf(replay): hoist loop-invariant work out of the actor-position timestamp loop",
     "branch": "perf/actor-positions-hoist",
@@ -428,5 +422,11 @@
     "title": "feat(calculator): Gear Upgrade Optimizer — third /calculator pill",
     "branch": "claude/calculator-feature-discussion-oikby7",
     "updatedAt": "2026-06-20T08:06:35Z"
+  },
+  {
+    "pr": 1285,
+    "title": "fix(build-editor): round-trip Class Mastery through CSPS export/import",
+    "branch": "fix/class-mastery-csps-transfer",
+    "updatedAt": "2026-06-20T08:11:27Z"
   }
 ]
