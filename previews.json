@@ -398,5 +398,11 @@
     "title": "fix(build-editor): round-trip Class Mastery through CSPS export/import",
     "branch": "fix/class-mastery-csps-transfer",
     "updatedAt": "2026-06-20T07:09:59Z"
+  },
+  {
+    "pr": 1296,
+    "title": "perf(replay): bucket damage-over-time in a single linear sweep",
+    "branch": "perf/dot-over-time-linear",
+    "updatedAt": "2026-06-20T07:20:23Z"
   }
 ]
