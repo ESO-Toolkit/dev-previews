@@ -388,12 +388,6 @@
     "updatedAt": "2026-06-20T07:20:23Z"
   },
   {
-    "pr": 1259,
-    "title": "feat(calculator): Gear Upgrade Optimizer — third /calculator pill",
-    "branch": "claude/calculator-feature-discussion-oikby7",
-    "updatedAt": "2026-06-20T07:27:23Z"
-  },
-  {
     "pr": 1285,
     "title": "fix(build-editor): round-trip Class Mastery through CSPS export/import",
     "branch": "fix/class-mastery-csps-transfer",
@@ -416,5 +410,11 @@
     "title": "perf(parse): make analyzeWeaving's preceding-cast lookup linear",
     "branch": "perf/weave-linear",
     "updatedAt": "2026-06-20T07:50:00Z"
+  },
+  {
+    "pr": 1259,
+    "title": "feat(calculator): Gear Upgrade Optimizer — third /calculator pill",
+    "branch": "claude/calculator-feature-discussion-oikby7",
+    "updatedAt": "2026-06-20T07:50:47Z"
   }
 ]
