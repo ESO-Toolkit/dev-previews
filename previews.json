@@ -434,5 +434,11 @@
     "title": "fix(data): correct heavy-head armor typo + guard zero-duration death rate",
     "branch": "fix/death-rate-and-armor-data",
     "updatedAt": "2026-06-20T06:03:07Z"
+  },
+  {
+    "pr": 1290,
+    "title": "fix(events): re-fetch buff-event windows after partial failure instead of caching it",
+    "branch": "fix/event-fetch-error-surfacing",
+    "updatedAt": "2026-06-20T06:05:14Z"
   }
 ]
