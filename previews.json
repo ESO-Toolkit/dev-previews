@@ -433,6 +433,6 @@
     "pr": 1309,
     "title": "fix(role-detection): populate shieldAppliedToOthers so shield healers are classified (#12)",
     "branch": "fix/shield-healer-signal",
-    "updatedAt": "2026-06-20T18:01:15Z"
+    "updatedAt": "2026-06-20T18:09:47Z"
   }
 ]
