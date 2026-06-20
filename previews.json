@@ -406,12 +406,6 @@
     "updatedAt": "2026-06-20T05:34:06Z"
   },
   {
-    "pr": 1285,
-    "title": "fix(build-editor): round-trip Class Mastery through CSPS export/import",
-    "branch": "fix/class-mastery-csps-transfer",
-    "updatedAt": "2026-06-20T05:39:59Z"
-  },
-  {
     "pr": 1286,
     "title": "fix(report-data): stale-response guards + coherent death% + refresh teardown",
     "branch": "fix/report-data-client-robustness",
@@ -428,5 +422,11 @@
     "title": "fix(build-editor): allow dual wield off-hand weapons",
     "branch": "codex/fix-build-editor-offhand",
     "updatedAt": "2026-06-20T05:57:27Z"
+  },
+  {
+    "pr": 1285,
+    "title": "fix(build-editor): round-trip Class Mastery through CSPS export/import",
+    "branch": "fix/class-mastery-csps-transfer",
+    "updatedAt": "2026-06-20T06:00:54Z"
   }
 ]
