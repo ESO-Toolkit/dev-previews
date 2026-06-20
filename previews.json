@@ -404,5 +404,11 @@
     "title": "perf(replay): hoist loop-invariant work out of the actor-position timestamp loop",
     "branch": "perf/actor-positions-hoist",
     "updatedAt": "2026-06-20T07:47:03Z"
+  },
+  {
+    "pr": 1301,
+    "title": "fix(store): memoize worker-task selector factories + skip already-aborted work",
+    "branch": "fix/worker-results-selectors-abort",
+    "updatedAt": "2026-06-20T07:48:25Z"
   }
 ]
