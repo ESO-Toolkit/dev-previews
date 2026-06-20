@@ -440,5 +440,11 @@
     "title": "fix(parse-analysis): attribute pet/summon damage to the owner in calculateDPS (#42)",
     "branch": "fix/calculate-dps-include-pets",
     "updatedAt": "2026-06-20T08:51:22Z"
+  },
+  {
+    "pr": 1309,
+    "title": "fix(role-detection): populate shieldAppliedToOthers so shield healers are classified (#12)",
+    "branch": "fix/shield-healer-signal",
+    "updatedAt": "2026-06-20T08:52:14Z"
   }
 ]
