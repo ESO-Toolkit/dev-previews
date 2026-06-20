@@ -332,5 +332,11 @@
     "title": "Design audit: perfect the Ultimate Calculator UI (stacked on #1235)",
     "branch": "claude/pr-1235-design-audit-ei6vbq",
     "updatedAt": "2026-06-18T22:51:49Z"
+  },
+  {
+    "pr": 1268,
+    "title": "fix(dropdowns): open Select menus below the field site-wide",
+    "branch": "fix/dropdown-positioning-sitewide",
+    "updatedAt": "2026-06-20T01:57:11Z"
   }
 ]
