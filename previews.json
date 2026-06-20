@@ -403,6 +403,6 @@
     "pr": 1285,
     "title": "fix(build-editor): round-trip Class Mastery through CSPS export/import",
     "branch": "fix/class-mastery-csps-transfer",
-    "updatedAt": "2026-06-20T06:44:26Z"
+    "updatedAt": "2026-06-20T07:09:59Z"
   }
 ]
