@@ -422,5 +422,11 @@
     "title": "Modernize mobile recent-report and view-all CTA design",
     "branch": "claude/mobile-cta-reports-design-3zx2fe",
     "updatedAt": "2026-06-20T08:24:42Z"
+  },
+  {
+    "pr": 1305,
+    "title": "Update Kalpa banner from alpha to beta",
+    "branch": "claude/kalpa-banner-beta-ijy7m7",
+    "updatedAt": "2026-06-20T08:29:27Z"
   }
 ]
