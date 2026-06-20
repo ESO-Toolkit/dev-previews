@@ -440,5 +440,11 @@
     "title": "feat(ultimate-calculator): make Solo/Group/PvP + role drive realistic archetype presets",
     "branch": "feat/ult-calc-playstyle-presets",
     "updatedAt": "2026-06-20T08:55:49Z"
+  },
+  {
+    "pr": 1310,
+    "title": "fix(auth): add CSRF state to the ESO Logs PKCE flow (#24) — needs live login verification",
+    "branch": "fix/oauth-csrf-state",
+    "updatedAt": "2026-06-20T17:12:38Z"
   }
 ]
