@@ -344,5 +344,11 @@
     "title": "fix(latest-reports): hide logs with no parsed fights",
     "branch": "worktree-latest-reports-empty",
     "updatedAt": "2026-06-20T02:05:22Z"
+  },
+  {
+    "pr": 1270,
+    "title": "fix(replay): split multi-instance NPCs into per-copy pucks",
+    "branch": "worktree-fight-enemy-bug",
+    "updatedAt": "2026-06-20T02:34:46Z"
   }
 ]
