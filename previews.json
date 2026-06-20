@@ -388,12 +388,6 @@
     "updatedAt": "2026-06-20T07:20:23Z"
   },
   {
-    "pr": 1301,
-    "title": "fix(store): memoize worker-task selector factories + skip already-aborted work",
-    "branch": "fix/worker-results-selectors-abort",
-    "updatedAt": "2026-06-20T07:48:25Z"
-  },
-  {
     "pr": 1300,
     "title": "fix(loadout): preserve mixed Lua tables + trash boss label on Wizard's Wardrobe round-trip",
     "branch": "fix/wizard-wardrobe-roundtrip",
