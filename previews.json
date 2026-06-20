@@ -430,12 +430,6 @@
     "updatedAt": "2026-06-20T08:40:01Z"
   },
   {
-    "pr": 1307,
-    "title": "perf(report-summary): activate the batch event fetch safely (#7)",
-    "branch": "perf/report-events-batch-activate",
-    "updatedAt": "2026-06-20T08:46:45Z"
-  },
-  {
     "pr": 1308,
     "title": "fix(parse-analysis): attribute pet/summon damage to the owner in calculateDPS (#42)",
     "branch": "fix/calculate-dps-include-pets",
