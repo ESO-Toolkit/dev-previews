@@ -440,5 +440,11 @@
     "title": "fix(auth): add CSRF state to the ESO Logs PKCE flow (#24) — needs live login verification",
     "branch": "fix/oauth-csrf-state",
     "updatedAt": "2026-06-20T17:12:38Z"
+  },
+  {
+    "pr": 1313,
+    "title": "feat(build-editor): setup/part duplication, bulk gear editing, paste-text import",
+    "branch": "worktree-build-editor-duplicator",
+    "updatedAt": "2026-06-20T17:24:49Z"
   }
 ]
