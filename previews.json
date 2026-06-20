@@ -322,12 +322,6 @@
     "updatedAt": "2026-06-18T19:59:11Z"
   },
   {
-    "pr": 1268,
-    "title": "fix(dropdowns): open Select menus below the field site-wide",
-    "branch": "fix/dropdown-positioning-sitewide",
-    "updatedAt": "2026-06-20T01:57:11Z"
-  },
-  {
     "pr": 1269,
     "title": "fix(latest-reports): hide logs with no parsed fights",
     "branch": "worktree-latest-reports-empty",
@@ -362,5 +356,11 @@
     "title": "fix(auth): clamp token-refresh timer + validate hash redirects + guard OAuth unmount",
     "branch": "fix/auth-app-shell-security",
     "updatedAt": "2026-06-20T02:55:10Z"
+  },
+  {
+    "pr": 1268,
+    "title": "fix(dropdowns): open Select menus below the field + unify premium styling site-wide",
+    "branch": "fix/dropdown-positioning-sitewide",
+    "updatedAt": "2026-06-20T02:56:46Z"
   }
 ]
