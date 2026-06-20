@@ -350,5 +350,11 @@
     "title": "fix(latest-reports): hide logs with no parsed fights",
     "branch": "worktree-latest-reports-empty",
     "updatedAt": "2026-06-20T02:38:51Z"
+  },
+  {
+    "pr": 1271,
+    "title": "fix(build-editor): apply Warden Frozen Armor + accurate completeness/CP state",
+    "branch": "fix/build-editor-passive-completeness",
+    "updatedAt": "2026-06-20T02:41:06Z"
   }
 ]
