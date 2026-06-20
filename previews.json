@@ -398,5 +398,11 @@
     "title": "fix(build-editor): round-trip Class Mastery through CSPS export/import",
     "branch": "fix/class-mastery-csps-transfer",
     "updatedAt": "2026-06-20T07:44:19Z"
+  },
+  {
+    "pr": 1297,
+    "title": "perf(replay): hoist loop-invariant work out of the actor-position timestamp loop",
+    "branch": "perf/actor-positions-hoist",
+    "updatedAt": "2026-06-20T07:47:03Z"
   }
 ]
