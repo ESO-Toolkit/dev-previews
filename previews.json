@@ -428,5 +428,11 @@
     "title": "fix(build-editor): round-trip Class Mastery through CSPS export/import",
     "branch": "fix/class-mastery-csps-transfer",
     "updatedAt": "2026-06-20T08:23:31Z"
+  },
+  {
+    "pr": 1303,
+    "title": "Modernize mobile recent-report and view-all CTA design",
+    "branch": "claude/mobile-cta-reports-design-3zx2fe",
+    "updatedAt": "2026-06-20T08:24:42Z"
   }
 ]
