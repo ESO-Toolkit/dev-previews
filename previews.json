@@ -412,12 +412,6 @@
     "updatedAt": "2026-06-20T07:50:00Z"
   },
   {
-    "pr": 1259,
-    "title": "feat(calculator): Gear Upgrade Optimizer — third /calculator pill",
-    "branch": "claude/calculator-feature-discussion-oikby7",
-    "updatedAt": "2026-06-20T07:50:47Z"
-  },
-  {
     "pr": 1300,
     "title": "fix(loadout): preserve mixed Lua tables + trash boss label on Wizard's Wardrobe round-trip",
     "branch": "fix/wizard-wardrobe-roundtrip",
@@ -428,5 +422,11 @@
     "title": "perf(buffs): compute group-average buff/debuff uptime in a single pass",
     "branch": "perf/group-uptime-single-pass-v2",
     "updatedAt": "2026-06-20T07:55:18Z"
+  },
+  {
+    "pr": 1259,
+    "title": "feat(calculator): Gear Upgrade Optimizer — third /calculator pill",
+    "branch": "claude/calculator-feature-discussion-oikby7",
+    "updatedAt": "2026-06-20T07:57:55Z"
   }
 ]
