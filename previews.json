@@ -394,12 +394,6 @@
     "updatedAt": "2026-06-20T06:36:01Z"
   },
   {
-    "pr": 1235,
-    "title": "feat(calculator): all-class Ultimate Calculator tab on /calculator (re-land + Codex fixes)",
-    "branch": "reland-ult-calculator",
-    "updatedAt": "2026-06-20T06:37:19Z"
-  },
-  {
     "pr": 1285,
     "title": "fix(build-editor): round-trip Class Mastery through CSPS export/import",
     "branch": "fix/class-mastery-csps-transfer",
