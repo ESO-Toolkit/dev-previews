@@ -446,5 +446,11 @@
     "title": "fix(async): guard out-of-order responses in guild-config, avatars, comments, death-analysis",
     "branch": "fix/async-stale-guards",
     "updatedAt": "2026-06-20T06:10:25Z"
+  },
+  {
+    "pr": 1292,
+    "title": "fix(ui): clear player-navigation timers on close + stale gear icon",
+    "branch": "fix/timer-cleanup-stale-icons",
+    "updatedAt": "2026-06-20T06:14:50Z"
   }
 ]
