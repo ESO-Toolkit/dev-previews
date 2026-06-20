@@ -410,5 +410,11 @@
     "title": "fix(utils): drop dead binary search + don't bypass source filter for sourceID 0",
     "branch": "fix/pure-utils-correctness",
     "updatedAt": "2026-06-20T05:34:06Z"
+  },
+  {
+    "pr": 1285,
+    "title": "fix(build-editor): round-trip Class Mastery through CSPS export/import",
+    "branch": "fix/class-mastery-csps-transfer",
+    "updatedAt": "2026-06-20T05:39:59Z"
   }
 ]
