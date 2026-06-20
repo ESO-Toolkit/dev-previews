@@ -338,5 +338,11 @@
     "title": "Design audit: perfect the Ultimate Calculator UI (stacked on #1235)",
     "branch": "claude/pr-1235-design-audit-ei6vbq",
     "updatedAt": "2026-06-20T01:58:40Z"
+  },
+  {
+    "pr": 1269,
+    "title": "fix(latest-reports): hide logs with no parsed fights",
+    "branch": "worktree-latest-reports-empty",
+    "updatedAt": "2026-06-20T02:05:22Z"
   }
 ]
