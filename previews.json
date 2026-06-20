@@ -356,5 +356,11 @@
     "title": "fix(discord-bot): harden roster publishing edge cases",
     "branch": "codex/audit-discord-roster-bot-for-issues",
     "updatedAt": "2026-06-20T02:49:44Z"
+  },
+  {
+    "pr": 1273,
+    "title": "fix(auth): clamp token-refresh timer + validate hash redirects + guard OAuth unmount",
+    "branch": "fix/auth-app-shell-security",
+    "updatedAt": "2026-06-20T02:55:10Z"
   }
 ]
