@@ -352,12 +352,6 @@
     "updatedAt": "2026-06-20T05:41:48Z"
   },
   {
-    "pr": 1288,
-    "title": "fix(build-editor): allow dual wield off-hand weapons",
-    "branch": "codex/fix-build-editor-offhand",
-    "updatedAt": "2026-06-20T05:57:27Z"
-  },
-  {
     "pr": 1289,
     "title": "fix(data): correct heavy-head armor typo + guard zero-duration death rate",
     "branch": "fix/death-rate-and-armor-data",
