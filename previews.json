@@ -398,5 +398,11 @@
     "title": "feat(replay): drawable shapes (lines/zones/circles/rects/rulers) for the marker editor",
     "branch": "feat/replay-drawn-shapes",
     "updatedAt": "2026-06-21T17:29:20Z"
+  },
+  {
+    "pr": 1316,
+    "title": "feat(report-summary): audit, correctness fixes + premium redesign",
+    "branch": "worktree-raid-summarry-audit",
+    "updatedAt": "2026-06-21T21:53:10Z"
   }
 ]
