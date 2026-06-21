@@ -398,5 +398,11 @@
     "title": "feat(replay): drawable shapes (lines/zones/circles/rects/rulers) for the marker editor",
     "branch": "feat/replay-drawn-shapes",
     "updatedAt": "2026-06-21T17:29:20Z"
+  },
+  {
+    "pr": 1317,
+    "title": "feat(scribing): overhaul the Scribing Simulator into an accurate live planner",
+    "branch": "feat/scribing-simulator-overhaul",
+    "updatedAt": "2026-06-21T22:47:58Z"
   }
 ]
