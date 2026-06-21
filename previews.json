@@ -406,12 +406,6 @@
     "updatedAt": "2026-06-20T08:06:35Z"
   },
   {
-    "pr": 1303,
-    "title": "Modernize mobile recent-report and view-all CTA design",
-    "branch": "claude/mobile-cta-reports-design-3zx2fe",
-    "updatedAt": "2026-06-20T19:01:58Z"
-  },
-  {
     "pr": 1315,
     "title": "feat(replay): drawable shapes (lines/zones/circles/rects/rulers) for the marker editor",
     "branch": "feat/replay-drawn-shapes",
