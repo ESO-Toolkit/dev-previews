@@ -280,12 +280,6 @@
     "updatedAt": "2026-06-15T02:19:34Z"
   },
   {
-    "pr": 1230,
-    "title": "refactor(fight-replay): declutter the replay UI + a11y/polish pass",
-    "branch": "fix/replay-ux-declutter",
-    "updatedAt": "2026-06-15T02:40:44Z"
-  },
-  {
     "pr": 1233,
     "title": "fix(ultimate-calculator): Codex review follow-ups (banked ult, cost reductions, calibration, Cryptcanon)",
     "branch": "fix/ult-calculator-codex-followups",
