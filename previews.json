@@ -446,5 +446,11 @@
     "title": "feat(scribing): overhaul the Scribing Simulator into an accurate live planner",
     "branch": "feat/scribing-simulator-overhaul",
     "updatedAt": "2026-06-22T20:37:25Z"
+  },
+  {
+    "pr": 1337,
+    "title": "feat(loadouts): Loadout Library (Section A of build⇄loadout bridge)",
+    "branch": "claude/eso-loadout-library-wayqav",
+    "updatedAt": "2026-06-22T20:40:59Z"
   }
 ]
