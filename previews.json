@@ -404,5 +404,11 @@
     "title": "feat(scribing): overhaul the Scribing Simulator into an accurate live planner",
     "branch": "feat/scribing-simulator-overhaul",
     "updatedAt": "2026-06-21T22:47:58Z"
+  },
+  {
+    "pr": 1318,
+    "title": "perf(replay): hit 120fps via lossless GPU/CPU wins + adaptive resolution",
+    "branch": "feat/replay-fps-120",
+    "updatedAt": "2026-06-22T01:33:54Z"
   }
 ]
