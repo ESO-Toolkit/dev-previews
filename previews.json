@@ -464,5 +464,11 @@
     "title": "refactor(loadouts): adopt shared GearPickerDialog in loadout gear editor (B2)",
     "branch": "claude/eso-loadout-gear-adopt",
     "updatedAt": "2026-06-22T21:07:40Z"
+  },
+  {
+    "pr": 1341,
+    "title": "refactor(loadouts): adopt shared SkillBarPicker in loadout skill editor (B3b)",
+    "branch": "claude/eso-loadout-skill-adopt",
+    "updatedAt": "2026-06-22T21:16:03Z"
   }
 ]
