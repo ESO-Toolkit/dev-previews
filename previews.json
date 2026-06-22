@@ -452,5 +452,11 @@
     "title": "feat(loadouts): Loadout Library (Section A of build⇄loadout bridge)",
     "branch": "claude/eso-loadout-library-wayqav",
     "updatedAt": "2026-06-22T20:48:11Z"
+  },
+  {
+    "pr": 1338,
+    "title": "refactor(gear): extract GearPicker core to neutral src/components/gear (B1)",
+    "branch": "claude/eso-gearpicker-core",
+    "updatedAt": "2026-06-22T20:54:30Z"
   }
 ]
