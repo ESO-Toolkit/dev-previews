@@ -422,5 +422,11 @@
     "title": "feat(loadout): Wizard's Wardrobe export + Build Editor to Loadout bridge",
     "branch": "feat/build-loadout-bridge",
     "updatedAt": "2026-06-22T18:21:02Z"
+  },
+  {
+    "pr": 1333,
+    "title": "feat(loadout↔build bridge): close the Phase-1 gate — export weapon slots to Wizard's Wardrobe",
+    "branch": "claude/build-loadout-bridge-p1-fxe1jg",
+    "updatedAt": "2026-06-22T18:43:51Z"
   }
 ]
