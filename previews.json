@@ -410,5 +410,11 @@
     "title": "feat(scribing): overhaul the Scribing Simulator into an accurate live planner",
     "branch": "feat/scribing-simulator-overhaul",
     "updatedAt": "2026-06-22T04:35:29Z"
+  },
+  {
+    "pr": 1329,
+    "title": "Add Discord roster bot operator guide page",
+    "branch": "claude/discord-roster-bot-docs-r73rqs",
+    "updatedAt": "2026-06-22T15:32:10Z"
   }
 ]
