@@ -458,5 +458,11 @@
     "title": "refactor(gear): extract GearPicker core to neutral src/components/gear (B1)",
     "branch": "claude/eso-gearpicker-core",
     "updatedAt": "2026-06-22T20:54:30Z"
+  },
+  {
+    "pr": 1339,
+    "title": "refactor(loadouts): adopt shared GearPickerDialog in loadout gear editor (B2)",
+    "branch": "claude/eso-loadout-gear-adopt",
+    "updatedAt": "2026-06-22T21:00:25Z"
   }
 ]
