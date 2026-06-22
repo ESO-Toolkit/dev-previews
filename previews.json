@@ -434,5 +434,11 @@
     "title": "feat(build↔loadout bridge): Send to Wizard's Wardrobe from the Build Editor (Phase 2)",
     "branch": "claude/build-loadout-bridge-p2-send-to-wizard",
     "updatedAt": "2026-06-22T20:12:36Z"
+  },
+  {
+    "pr": 1335,
+    "title": "feat(routing): rename /loadout-manager → /loadouts with redirect (Phase 3 IA)",
+    "branch": "claude/loadouts-route-rename-p3",
+    "updatedAt": "2026-06-22T20:14:56Z"
   }
 ]
