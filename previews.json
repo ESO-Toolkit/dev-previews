@@ -440,5 +440,11 @@
     "title": "feat(routing): rename /loadout-manager → /loadouts with redirect (Phase 3 IA)",
     "branch": "claude/loadouts-route-rename-p3",
     "updatedAt": "2026-06-22T20:14:56Z"
+  },
+  {
+    "pr": 1336,
+    "title": "docs: implementation plan for remaining build↔loadout bridge phases",
+    "branch": "claude/bridge-phases-plan",
+    "updatedAt": "2026-06-22T20:21:10Z"
   }
 ]
