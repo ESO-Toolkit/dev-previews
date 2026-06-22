@@ -406,12 +406,6 @@
     "updatedAt": "2026-06-22T01:33:54Z"
   },
   {
-    "pr": 1317,
-    "title": "feat(scribing): overhaul the Scribing Simulator into an accurate live planner",
-    "branch": "feat/scribing-simulator-overhaul",
-    "updatedAt": "2026-06-22T04:35:29Z"
-  },
-  {
     "pr": 1332,
     "title": "feat(loadout): Wizard's Wardrobe export + Build Editor to Loadout bridge",
     "branch": "feat/build-loadout-bridge",
@@ -446,5 +440,11 @@
     "title": "docs: implementation plan for remaining build↔loadout bridge phases",
     "branch": "claude/bridge-phases-plan",
     "updatedAt": "2026-06-22T20:21:10Z"
+  },
+  {
+    "pr": 1317,
+    "title": "feat(scribing): overhaul the Scribing Simulator into an accurate live planner",
+    "branch": "feat/scribing-simulator-overhaul",
+    "updatedAt": "2026-06-22T20:37:25Z"
   }
 ]
