@@ -482,5 +482,11 @@
     "title": "feat(build-hub): pre-fill publish dialog from the build's name and description",
     "branch": "feat/publish-dialog-prefill",
     "updatedAt": "2026-06-23T18:30:43Z"
+  },
+  {
+    "pr": 1345,
+    "title": "feat(loadout-manager): account sync + .lua file export & install guide",
+    "branch": "feat/loadout-account-sync",
+    "updatedAt": "2026-06-23T19:13:37Z"
   }
 ]
