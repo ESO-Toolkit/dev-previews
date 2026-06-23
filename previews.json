@@ -476,5 +476,11 @@
     "title": "Add Discord roster bot operator guide page",
     "branch": "claude/discord-roster-bot-docs-r73rqs",
     "updatedAt": "2026-06-23T15:41:34Z"
+  },
+  {
+    "pr": 1344,
+    "title": "feat(build-hub): pre-fill publish dialog from the build's name and description",
+    "branch": "feat/publish-dialog-prefill",
+    "updatedAt": "2026-06-23T18:30:43Z"
   }
 ]
