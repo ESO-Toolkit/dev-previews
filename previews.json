@@ -406,12 +406,6 @@
     "updatedAt": "2026-06-22T18:21:02Z"
   },
   {
-    "pr": 1329,
-    "title": "Add Discord roster bot operator guide page",
-    "branch": "claude/discord-roster-bot-docs-r73rqs",
-    "updatedAt": "2026-06-22T19:57:29Z"
-  },
-  {
     "pr": 1335,
     "title": "feat(routing): rename /loadout-manager → /loadouts with redirect (Phase 3 IA)",
     "branch": "claude/loadouts-route-rename-p3",
@@ -476,5 +470,11 @@
     "title": "feat(loadouts): combined dev-preview — build↔loadout bridge, Loadout Library + shared refactors",
     "branch": "test/loadouts-combined",
     "updatedAt": "2026-06-23T06:20:44Z"
+  },
+  {
+    "pr": 1329,
+    "title": "Add Discord roster bot operator guide page",
+    "branch": "claude/discord-roster-bot-docs-r73rqs",
+    "updatedAt": "2026-06-23T15:38:22Z"
   }
 ]
