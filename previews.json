@@ -400,12 +400,6 @@
     "updatedAt": "2026-06-21T17:29:20Z"
   },
   {
-    "pr": 1318,
-    "title": "perf(replay): hit 120fps via lossless GPU/CPU wins + adaptive resolution",
-    "branch": "feat/replay-fps-120",
-    "updatedAt": "2026-06-22T01:33:54Z"
-  },
-  {
     "pr": 1332,
     "title": "feat(loadout): Wizard's Wardrobe export + Build Editor to Loadout bridge",
     "branch": "feat/build-loadout-bridge",
@@ -470,5 +464,11 @@
     "title": "refactor(loadouts): adopt shared SkillBarPicker in loadout skill editor (B3b)",
     "branch": "claude/eso-loadout-skill-adopt",
     "updatedAt": "2026-06-22T21:16:03Z"
+  },
+  {
+    "pr": 1318,
+    "title": "perf(replay): hit 120fps via lossless GPU/CPU wins + adaptive resolution",
+    "branch": "feat/replay-fps-120",
+    "updatedAt": "2026-06-23T02:06:38Z"
   }
 ]
