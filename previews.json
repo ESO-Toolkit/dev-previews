@@ -460,12 +460,6 @@
     "updatedAt": "2026-06-22T21:07:40Z"
   },
   {
-    "pr": 1341,
-    "title": "refactor(loadouts): adopt shared SkillBarPicker in loadout skill editor (B3b)",
-    "branch": "claude/eso-loadout-skill-adopt",
-    "updatedAt": "2026-06-22T21:16:03Z"
-  },
-  {
     "pr": 1318,
     "title": "perf(replay): hit 120fps via lossless GPU/CPU wins + adaptive resolution",
     "branch": "feat/replay-fps-120",
@@ -482,5 +476,11 @@
     "title": "refactor(skills): relocate SkillBarPicker to neutral src/components/skills (B3a)",
     "branch": "claude/eso-skillbar-core",
     "updatedAt": "2026-06-23T02:43:38Z"
+  },
+  {
+    "pr": 1341,
+    "title": "refactor(loadouts): adopt shared SkillBarPicker in loadout skill editor (B3b)",
+    "branch": "claude/eso-loadout-skill-adopt",
+    "updatedAt": "2026-06-23T02:45:02Z"
   }
 ]
