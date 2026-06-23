@@ -470,5 +470,11 @@
     "title": "perf(replay): hit 120fps via lossless GPU/CPU wins + adaptive resolution",
     "branch": "feat/replay-fps-120",
     "updatedAt": "2026-06-23T02:06:38Z"
+  },
+  {
+    "pr": 1342,
+    "title": "refactor(engine): relocate stat engine to neutral src/engine (B4a)",
+    "branch": "claude/eso-engine-relocate",
+    "updatedAt": "2026-06-23T02:39:32Z"
   }
 ]
