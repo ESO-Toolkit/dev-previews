@@ -476,5 +476,11 @@
     "title": "refactor(engine): relocate stat engine to neutral src/engine (B4a)",
     "branch": "claude/eso-engine-relocate",
     "updatedAt": "2026-06-23T02:39:32Z"
+  },
+  {
+    "pr": 1340,
+    "title": "refactor(skills): relocate SkillBarPicker to neutral src/components/skills (B3a)",
+    "branch": "claude/eso-skillbar-core",
+    "updatedAt": "2026-06-23T02:43:38Z"
   }
 ]
