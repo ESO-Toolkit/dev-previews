@@ -476,11 +476,5 @@
     "title": "feat(replay): drawable shapes (lines/zones/circles/rects/rulers) for the marker editor",
     "branch": "feat/replay-drawn-shapes",
     "updatedAt": "2026-06-24T05:58:35Z"
-  },
-  {
-    "pr": 1348,
-    "title": "feat(build-editor): expand all sections by default on mobile",
-    "branch": "claude/mobile-accordion-auto-open-pdn22f",
-    "updatedAt": "2026-06-24T06:04:19Z"
   }
 ]
