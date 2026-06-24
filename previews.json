@@ -488,5 +488,11 @@
     "title": "feat(loadout-manager): account sync + .lua file export & install guide",
     "branch": "feat/loadout-account-sync",
     "updatedAt": "2026-06-23T21:58:49Z"
+  },
+  {
+    "pr": 1346,
+    "title": "Remove misleading \"+\" from crit damage targets in sticky footer",
+    "branch": "claude/calculator-sticky-plus-icon-q75e8p",
+    "updatedAt": "2026-06-24T02:12:34Z"
   }
 ]
