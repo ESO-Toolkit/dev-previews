@@ -412,12 +412,6 @@
     "updatedAt": "2026-06-22T20:21:10Z"
   },
   {
-    "pr": 1317,
-    "title": "feat(scribing): overhaul the Scribing Simulator into an accurate live planner",
-    "branch": "feat/scribing-simulator-overhaul",
-    "updatedAt": "2026-06-22T20:45:52Z"
-  },
-  {
     "pr": 1337,
     "title": "feat(loadouts): Loadout Library (Section A of build⇄loadout bridge)",
     "branch": "claude/eso-loadout-library-wayqav",
@@ -470,5 +464,11 @@
     "title": "Add Discord roster bot operator guide page",
     "branch": "claude/discord-roster-bot-docs-r73rqs",
     "updatedAt": "2026-06-24T18:28:57Z"
+  },
+  {
+    "pr": 1317,
+    "title": "feat(scribing): overhaul the Scribing Simulator into an accurate live planner",
+    "branch": "feat/scribing-simulator-overhaul",
+    "updatedAt": "2026-06-24T18:30:52Z"
   }
 ]
