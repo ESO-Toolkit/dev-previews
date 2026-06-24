@@ -460,12 +460,6 @@
     "updatedAt": "2026-06-23T21:58:49Z"
   },
   {
-    "pr": 1329,
-    "title": "Add Discord roster bot operator guide page",
-    "branch": "claude/discord-roster-bot-docs-r73rqs",
-    "updatedAt": "2026-06-24T18:28:57Z"
-  },
-  {
     "pr": 1317,
     "title": "feat(scribing): overhaul the Scribing Simulator into an accurate live planner",
     "branch": "feat/scribing-simulator-overhaul",
