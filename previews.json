@@ -470,5 +470,11 @@
     "title": "feat(scribing): overhaul the Scribing Simulator into an accurate live planner",
     "branch": "feat/scribing-simulator-overhaul",
     "updatedAt": "2026-06-24T18:30:52Z"
+  },
+  {
+    "pr": 1349,
+    "title": "feat: loadout stats + Max Health/EHP engine, health badge & comparator (B4b·C1·C2·C3)",
+    "branch": "feat/loadout-stats-and-comparator",
+    "updatedAt": "2026-06-24T21:12:35Z"
   }
 ]
