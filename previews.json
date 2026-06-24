@@ -472,12 +472,6 @@
     "updatedAt": "2026-06-23T21:58:49Z"
   },
   {
-    "pr": 1346,
-    "title": "Remove misleading \"+\" from crit damage targets in sticky footer",
-    "branch": "claude/calculator-sticky-plus-icon-q75e8p",
-    "updatedAt": "2026-06-24T02:12:34Z"
-  },
-  {
     "pr": 1315,
     "title": "feat(replay): drawable shapes (lines/zones/circles/rects/rulers) for the marker editor",
     "branch": "feat/replay-drawn-shapes",
