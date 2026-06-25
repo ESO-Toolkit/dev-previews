@@ -388,12 +388,6 @@
     "updatedAt": "2026-06-20T07:55:18Z"
   },
   {
-    "pr": 1259,
-    "title": "feat(calculator): Gear Upgrade Optimizer — third /calculator pill",
-    "branch": "claude/calculator-feature-discussion-oikby7",
-    "updatedAt": "2026-06-20T08:06:35Z"
-  },
-  {
     "pr": 1332,
     "title": "feat(loadout): Wizard's Wardrobe export + Build Editor to Loadout bridge",
     "branch": "feat/build-loadout-bridge",
@@ -470,5 +464,11 @@
     "title": "feat: loadout stats + Max Health/EHP engine, health badge & comparator (B4b·C1·C2·C3)",
     "branch": "feat/loadout-stats-and-comparator",
     "updatedAt": "2026-06-24T21:12:35Z"
+  },
+  {
+    "pr": 1259,
+    "title": "feat(calculator): Gear Upgrade Optimizer — third /calculator pill",
+    "branch": "claude/calculator-feature-discussion-oikby7",
+    "updatedAt": "2026-06-25T02:23:25Z"
   }
 ]
