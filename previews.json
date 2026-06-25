@@ -476,5 +476,11 @@
     "title": "Fix crit damage source links to point to ESO Logs",
     "branch": "claude/esoui-log-links-t0uuh8",
     "updatedAt": "2026-06-25T23:21:24Z"
+  },
+  {
+    "pr": 1352,
+    "title": "fix(latest-reports): never hide an entire page of empty logs",
+    "branch": "fix/latest-reports-all-empty",
+    "updatedAt": "2026-06-25T23:44:12Z"
   }
 ]
