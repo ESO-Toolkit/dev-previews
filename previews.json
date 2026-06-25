@@ -470,5 +470,11 @@
     "title": "feat(calculator): Gear Upgrade Optimizer — third /calculator pill",
     "branch": "claude/calculator-feature-discussion-oikby7",
     "updatedAt": "2026-06-25T02:36:29Z"
+  },
+  {
+    "pr": 1350,
+    "title": "Default Backstabber to off on the Critical Damage tab",
+    "branch": "claude/backstabber-critical-damage-default-3gm2ag",
+    "updatedAt": "2026-06-25T07:59:41Z"
   }
 ]
