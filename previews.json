@@ -470,5 +470,11 @@
     "title": "feat(scribing): overhaul the Scribing Simulator into an accurate live planner",
     "branch": "feat/scribing-simulator-overhaul",
     "updatedAt": "2026-06-25T19:44:13Z"
+  },
+  {
+    "pr": 1351,
+    "title": "Fix crit damage source links to point to ESO Logs",
+    "branch": "claude/esoui-log-links-t0uuh8",
+    "updatedAt": "2026-06-25T23:17:08Z"
   }
 ]
