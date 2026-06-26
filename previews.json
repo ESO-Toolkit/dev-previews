@@ -442,12 +442,6 @@
     "updatedAt": "2026-06-23T02:45:02Z"
   },
   {
-    "pr": 1343,
-    "title": "feat(loadouts): combined dev-preview — build↔loadout bridge, Loadout Library + shared refactors",
-    "branch": "test/loadouts-combined",
-    "updatedAt": "2026-06-23T06:20:44Z"
-  },
-  {
     "pr": 1349,
     "title": "feat: loadout stats + Max Health/EHP engine, health badge & comparator (B4b·C1·C2·C3)",
     "branch": "feat/loadout-stats-and-comparator",
@@ -464,5 +458,11 @@
     "title": "feat(calculator): Gear Upgrade Optimizer — third /calculator pill",
     "branch": "claude/calculator-feature-discussion-oikby7",
     "updatedAt": "2026-06-26T00:33:28Z"
+  },
+  {
+    "pr": 1343,
+    "title": "feat(loadouts): combined dev-preview — build↔loadout bridge, Loadout Library + shared refactors",
+    "branch": "test/loadouts-combined",
+    "updatedAt": "2026-06-26T03:38:47Z"
   }
 ]
