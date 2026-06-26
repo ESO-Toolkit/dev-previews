@@ -481,6 +481,6 @@
     "pr": 1353,
     "title": "fix(hub): preload hub route chunks so lateral page transitions don't duplicate",
     "branch": "worktree-hub-page-transitions",
-    "updatedAt": "2026-06-26T00:22:21Z"
+    "updatedAt": "2026-06-26T00:30:31Z"
   }
 ]
