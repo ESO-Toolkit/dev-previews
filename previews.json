@@ -466,12 +466,6 @@
     "updatedAt": "2026-06-25T19:44:13Z"
   },
   {
-    "pr": 1353,
-    "title": "fix(hub): preload hub route chunks so lateral page transitions don't duplicate",
-    "branch": "worktree-hub-page-transitions",
-    "updatedAt": "2026-06-26T00:30:31Z"
-  },
-  {
     "pr": 1259,
     "title": "feat(calculator): Gear Upgrade Optimizer — third /calculator pill",
     "branch": "claude/calculator-feature-discussion-oikby7",
@@ -482,5 +476,11 @@
     "title": "Default Fighting Finesse to off on the Critical Damage tab",
     "branch": "claude/fighting-finesse-default-off-3gm2ag",
     "updatedAt": "2026-06-26T01:02:04Z"
+  },
+  {
+    "pr": 1353,
+    "title": "fix(hub): preload hub route chunks so lateral page transitions don't duplicate",
+    "branch": "worktree-hub-page-transitions",
+    "updatedAt": "2026-06-26T01:03:18Z"
   }
 ]
