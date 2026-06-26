@@ -482,5 +482,11 @@
     "title": "feat(calculator): Gear Upgrade Optimizer — third /calculator pill",
     "branch": "claude/calculator-feature-discussion-oikby7",
     "updatedAt": "2026-06-26T00:33:28Z"
+  },
+  {
+    "pr": 1354,
+    "title": "Default Fighting Finesse to off on the Critical Damage tab",
+    "branch": "claude/fighting-finesse-default-off-3gm2ag",
+    "updatedAt": "2026-06-26T00:56:32Z"
   }
 ]
