@@ -460,12 +460,6 @@
     "updatedAt": "2026-06-24T21:12:35Z"
   },
   {
-    "pr": 1259,
-    "title": "feat(calculator): Gear Upgrade Optimizer — third /calculator pill",
-    "branch": "claude/calculator-feature-discussion-oikby7",
-    "updatedAt": "2026-06-25T02:36:29Z"
-  },
-  {
     "pr": 1317,
     "title": "feat(scribing): overhaul the Scribing Simulator into an accurate live planner",
     "branch": "feat/scribing-simulator-overhaul",
@@ -482,5 +476,11 @@
     "title": "fix(hub): preload hub route chunks so lateral page transitions don't duplicate",
     "branch": "worktree-hub-page-transitions",
     "updatedAt": "2026-06-26T00:30:31Z"
+  },
+  {
+    "pr": 1259,
+    "title": "feat(calculator): Gear Upgrade Optimizer — third /calculator pill",
+    "branch": "claude/calculator-feature-discussion-oikby7",
+    "updatedAt": "2026-06-26T00:33:28Z"
   }
 ]
