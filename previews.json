@@ -472,12 +472,6 @@
     "updatedAt": "2026-06-26T00:33:28Z"
   },
   {
-    "pr": 1354,
-    "title": "Default Fighting Finesse to off on the Critical Damage tab",
-    "branch": "claude/fighting-finesse-default-off-3gm2ag",
-    "updatedAt": "2026-06-26T01:02:04Z"
-  },
-  {
     "pr": 1353,
     "title": "fix(hub): preload hub route chunks so lateral page transitions don't duplicate",
     "branch": "worktree-hub-page-transitions",
