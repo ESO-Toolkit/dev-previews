@@ -464,11 +464,5 @@
     "title": "feat(calculator): Gear Upgrade Optimizer — third /calculator pill",
     "branch": "claude/calculator-feature-discussion-oikby7",
     "updatedAt": "2026-06-26T00:33:28Z"
-  },
-  {
-    "pr": 1345,
-    "title": "feat(loadout-manager): account sync + .lua file export & install guide",
-    "branch": "feat/loadout-account-sync",
-    "updatedAt": "2026-06-26T03:05:45Z"
   }
 ]
