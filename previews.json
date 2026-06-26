@@ -466,12 +466,6 @@
     "updatedAt": "2026-06-25T19:44:13Z"
   },
   {
-    "pr": 1352,
-    "title": "fix(latest-reports): never hide an entire page of empty logs",
-    "branch": "fix/latest-reports-all-empty",
-    "updatedAt": "2026-06-25T23:44:12Z"
-  },
-  {
     "pr": 1353,
     "title": "fix(hub): preload hub route chunks so lateral page transitions don't duplicate",
     "branch": "worktree-hub-page-transitions",
