@@ -470,11 +470,5 @@
     "title": "feat(calculator): Gear Upgrade Optimizer — third /calculator pill",
     "branch": "claude/calculator-feature-discussion-oikby7",
     "updatedAt": "2026-06-26T00:33:28Z"
-  },
-  {
-    "pr": 1353,
-    "title": "fix(hub): preload hub route chunks so lateral page transitions don't duplicate",
-    "branch": "worktree-hub-page-transitions",
-    "updatedAt": "2026-06-26T01:03:18Z"
   }
 ]
