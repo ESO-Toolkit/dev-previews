@@ -469,6 +469,6 @@
     "pr": 1355,
     "title": "fix(latest-reports): force network fetch so Refresh clears healed empty logs",
     "branch": "fix/latest-reports-refresh-cache",
-    "updatedAt": "2026-06-26T20:13:51Z"
+    "updatedAt": "2026-06-26T20:20:51Z"
   }
 ]
