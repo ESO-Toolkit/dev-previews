@@ -464,5 +464,11 @@
     "title": "feat(loadouts): combined dev-preview — build↔loadout bridge, Loadout Library + shared refactors",
     "branch": "test/loadouts-combined",
     "updatedAt": "2026-06-26T03:38:47Z"
+  },
+  {
+    "pr": 1357,
+    "title": "fix(build-editor): transfer Class Mastery, gear traits/enchants & weapon type on Extract Build",
+    "branch": "fix/extract-build-cm-gear-transfer",
+    "updatedAt": "2026-06-27T04:59:50Z"
   }
 ]
