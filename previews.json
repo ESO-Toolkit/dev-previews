@@ -466,15 +466,15 @@
     "updatedAt": "2026-06-26T03:38:47Z"
   },
   {
-    "pr": 1357,
-    "title": "fix(build-editor): transfer Class Mastery, gear traits/enchants & weapon type on Extract Build",
-    "branch": "fix/extract-build-cm-gear-transfer",
-    "updatedAt": "2026-06-27T17:24:15Z"
-  },
-  {
     "pr": 1358,
     "title": "feat(report): show chosen Class Mastery passives on player cards",
     "branch": "feat/class-mastery-on-player-cards",
     "updatedAt": "2026-06-27T17:28:55Z"
+  },
+  {
+    "pr": 1357,
+    "title": "fix(build-editor): transfer Class Mastery, gear traits/enchants & weapon type on Extract Build",
+    "branch": "fix/extract-build-cm-gear-transfer",
+    "updatedAt": "2026-06-27T17:44:51Z"
   }
 ]
