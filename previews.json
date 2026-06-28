@@ -470,11 +470,5 @@
     "title": "fix(build-editor): transfer Class Mastery, gear traits/enchants & weapon type on Extract Build",
     "branch": "fix/extract-build-cm-gear-transfer",
     "updatedAt": "2026-06-27T17:44:51Z"
-  },
-  {
-    "pr": 1359,
-    "title": "[codex] Fix live player fallback data",
-    "branch": "codex/live-player-masterdata-fallback",
-    "updatedAt": "2026-06-28T20:37:09Z"
   }
 ]
