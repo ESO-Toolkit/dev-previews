@@ -470,5 +470,11 @@
     "title": "feat(companion): ESOTK Companion — capture champion points + build gaps, show them on player cards",
     "branch": "claude/eso-addon-research-7087jx",
     "updatedAt": "2026-06-29T02:29:10Z"
+  },
+  {
+    "pr": 1360,
+    "title": "feat(insights): surface class mastery uptimes",
+    "branch": "codex/class-mastery-insights",
+    "updatedAt": "2026-06-29T02:53:43Z"
   }
 ]
