@@ -482,11 +482,5 @@
     "title": "fix(reports): use Kalpa evidence for class mastery",
     "branch": "codex/class-mastery-detection",
     "updatedAt": "2026-06-29T18:54:07Z"
-  },
-  {
-    "pr": 1371,
-    "title": "fix(reports): keep encounter header readable on mobile with long boss names",
-    "branch": "claude/mobile-fight-name-layout-5ivxej",
-    "updatedAt": "2026-06-29T20:08:15Z"
   }
 ]
