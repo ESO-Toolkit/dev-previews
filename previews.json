@@ -244,12 +244,6 @@
     "updatedAt": "2026-06-11T22:31:16Z"
   },
   {
-    "pr": 1196,
-    "title": "feat(companion): ESOTK Companion — capture champion points + build gaps, show them on player cards",
-    "branch": "claude/eso-addon-research-7087jx",
-    "updatedAt": "2026-06-12T18:19:23Z"
-  },
-  {
     "pr": 1217,
     "title": "Build editor mobile UX/UI audit & remediation plan (docs only)",
     "branch": "claude/build-editor-mobile-audit-uh9b07",
@@ -470,5 +464,11 @@
     "title": "fix(build-editor): transfer Class Mastery, gear traits/enchants & weapon type on Extract Build",
     "branch": "fix/extract-build-cm-gear-transfer",
     "updatedAt": "2026-06-27T17:44:51Z"
+  },
+  {
+    "pr": 1196,
+    "title": "feat(companion): ESOTK Companion — capture champion points + build gaps, show them on player cards",
+    "branch": "claude/eso-addon-research-7087jx",
+    "updatedAt": "2026-06-29T01:13:39Z"
   }
 ]
