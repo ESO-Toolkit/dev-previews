@@ -476,5 +476,11 @@
     "title": "feat(companion): ESOTK Companion — capture champion points + build gaps, show them on player cards",
     "branch": "claude/eso-addon-research-7087jx",
     "updatedAt": "2026-06-30T03:48:11Z"
+  },
+  {
+    "pr": 1372,
+    "title": "fix(reports): show fallback combatant gear",
+    "branch": "codex/fix-live-player-gear-details",
+    "updatedAt": "2026-06-30T04:39:47Z"
   }
 ]
