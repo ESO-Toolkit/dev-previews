@@ -476,11 +476,5 @@
     "title": "feat(companion): ESOTK Companion — capture champion points + build gaps, show them on player cards",
     "branch": "claude/eso-addon-research-7087jx",
     "updatedAt": "2026-06-29T06:59:17Z"
-  },
-  {
-    "pr": 1370,
-    "title": "feat(reports): persist Kalpa build evidence sidecars",
-    "branch": "codex/class-mastery-detection",
-    "updatedAt": "2026-06-30T01:46:31Z"
   }
 ]
