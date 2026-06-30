@@ -19,12 +19,12 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".?v=0107e73df8e1782716306664",
+  "start_url": ".?v=01007a298b91782791239881",
   "display": "standalone",
   "theme_color": "#7289da",
   "background_color": "#1a1a1a",
-  "version": "0.1.0-7e73df8e-1782716306664",
-  "version_name": "0.1.0 (7e73df8e)",
+  "version": "0.1.0-07a298b9-1782791239881",
+  "version_name": "0.1.0 (07a298b9)",
   "original_description": "Advanced analytics and visualization tool for Elder Scrolls Online combat logs",
   "original_start_url": "."
 }
