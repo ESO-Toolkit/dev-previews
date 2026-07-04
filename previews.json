@@ -482,5 +482,11 @@
     "title": "fix(reports): show fallback combatant gear",
     "branch": "codex/fix-live-player-gear-details",
     "updatedAt": "2026-07-02T06:40:01Z"
+  },
+  {
+    "pr": 1373,
+    "title": "feat(reports): persist Kalpa ground-truth scribing scripts",
+    "branch": "feat/kalpa-scribing-scripts-persist",
+    "updatedAt": "2026-07-04T06:45:32Z"
   }
 ]
