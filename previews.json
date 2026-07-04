@@ -500,5 +500,11 @@
     "title": "feat(reports): persist Kalpa build-evidence fields (scribing scripts + Mundus)",
     "branch": "feat/kalpa-scribing-scripts-persist",
     "updatedAt": "2026-07-04T20:54:29Z"
+  },
+  {
+    "pr": 1376,
+    "title": "feat(reports): surface more CP stars from Kalpa's full passives",
+    "branch": "feat/kalpa-full-cp-stars",
+    "updatedAt": "2026-07-04T20:57:53Z"
   }
 ]
