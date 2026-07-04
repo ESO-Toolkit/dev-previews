@@ -494,5 +494,11 @@
     "title": "feat(reports): persist Kalpa ground-truth scribing scripts",
     "branch": "feat/kalpa-scribing-scripts-persist",
     "updatedAt": "2026-07-04T14:56:42Z"
+  },
+  {
+    "pr": 1375,
+    "title": "feat(reports): fall back to Kalpa Mundus evidence when auras miss it",
+    "branch": "feat/kalpa-mundus-display",
+    "updatedAt": "2026-07-04T15:01:25Z"
   }
 ]
