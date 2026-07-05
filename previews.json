@@ -484,12 +484,6 @@
     "updatedAt": "2026-07-02T06:40:01Z"
   },
   {
-    "pr": 1375,
-    "title": "feat(reports): fall back to Kalpa Mundus evidence when auras miss it",
-    "branch": "feat/kalpa-mundus-display",
-    "updatedAt": "2026-07-04T15:01:25Z"
-  },
-  {
     "pr": 1377,
     "title": "[DEMO – do not merge] All Kalpa sidecar displays combined (preview)",
     "branch": "demo/kalpa-all-displays",
