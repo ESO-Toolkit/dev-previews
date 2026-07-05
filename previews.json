@@ -472,12 +472,6 @@
     "updatedAt": "2026-06-29T02:53:43Z"
   },
   {
-    "pr": 1196,
-    "title": "feat(companion): ESOTK Companion — capture champion points + build gaps, show them on player cards",
-    "branch": "claude/eso-addon-research-7087jx",
-    "updatedAt": "2026-06-30T03:48:11Z"
-  },
-  {
     "pr": 1372,
     "title": "fix(reports): show fallback combatant gear",
     "branch": "codex/fix-live-player-gear-details",
@@ -488,5 +482,11 @@
     "title": "[DEMO – do not merge] All Kalpa sidecar displays combined (preview)",
     "branch": "demo/kalpa-all-displays",
     "updatedAt": "2026-07-04T21:09:41Z"
+  },
+  {
+    "pr": 1196,
+    "title": "feat(companion): ESOTK Companion — capture champion points + build gaps, show them on player cards",
+    "branch": "claude/eso-addon-research-7087jx",
+    "updatedAt": "2026-07-05T14:48:26Z"
   }
 ]
