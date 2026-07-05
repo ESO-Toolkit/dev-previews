@@ -496,12 +496,6 @@
     "updatedAt": "2026-07-04T15:01:25Z"
   },
   {
-    "pr": 1376,
-    "title": "feat(reports): surface more CP stars from Kalpa's full passives",
-    "branch": "feat/kalpa-full-cp-stars",
-    "updatedAt": "2026-07-04T20:57:53Z"
-  },
-  {
     "pr": 1377,
     "title": "[DEMO – do not merge] All Kalpa sidecar displays combined (preview)",
     "branch": "demo/kalpa-all-displays",
