@@ -484,12 +484,6 @@
     "updatedAt": "2026-07-02T06:40:01Z"
   },
   {
-    "pr": 1374,
-    "title": "feat(reports): show Kalpa ground-truth scribing scripts on the player card",
-    "branch": "feat/kalpa-scribing-scripts-display",
-    "updatedAt": "2026-07-04T07:00:09Z"
-  },
-  {
     "pr": 1375,
     "title": "feat(reports): fall back to Kalpa Mundus evidence when auras miss it",
     "branch": "feat/kalpa-mundus-display",
