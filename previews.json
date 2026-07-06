@@ -482,5 +482,11 @@
     "title": "[DEMO – do not merge] All Kalpa sidecar displays combined (preview)",
     "branch": "demo/kalpa-all-displays",
     "updatedAt": "2026-07-04T21:09:41Z"
+  },
+  {
+    "pr": 1380,
+    "title": "feat(companion): surface matched-build provenance + fix tie-break",
+    "branch": "feat/companion-matcher-provenance",
+    "updatedAt": "2026-07-06T02:03:16Z"
   }
 ]
