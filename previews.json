@@ -488,5 +488,11 @@
     "title": "audit: esotk.com full-platform review + quick-win fixes",
     "branch": "claude/session-xrrovc",
     "updatedAt": "2026-07-06T07:15:17Z"
+  },
+  {
+    "pr": 1385,
+    "title": "fix(latest-reports): never list empty logs & untangle empty/error report states",
+    "branch": "fix/latest-reports-empty-logs",
+    "updatedAt": "2026-07-06T17:37:59Z"
   }
 ]
