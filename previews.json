@@ -490,12 +490,6 @@
     "updatedAt": "2026-07-06T07:15:17Z"
   },
   {
-    "pr": 1385,
-    "title": "fix(latest-reports): never list empty logs & untangle empty/error report states",
-    "branch": "fix/latest-reports-empty-logs",
-    "updatedAt": "2026-07-06T17:37:59Z"
-  },
-  {
     "pr": 1386,
     "title": "feat(companion): capture true Class Mastery from the live client",
     "branch": "feat/class-mastery-companion-capture",
