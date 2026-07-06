@@ -482,11 +482,5 @@
     "title": "[DEMO – do not merge] All Kalpa sidecar displays combined (preview)",
     "branch": "demo/kalpa-all-displays",
     "updatedAt": "2026-07-04T21:09:41Z"
-  },
-  {
-    "pr": 1379,
-    "title": "feat(companion): accept forwarded companion snapshots from the sidecar",
-    "branch": "feat/companion-sidecar-accept",
-    "updatedAt": "2026-07-06T01:05:48Z"
   }
 ]
