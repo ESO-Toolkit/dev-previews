@@ -484,12 +484,6 @@
     "updatedAt": "2026-07-04T21:09:41Z"
   },
   {
-    "pr": 1196,
-    "title": "feat(companion): ESOTK Companion — capture champion points + build gaps, show them on player cards",
-    "branch": "claude/eso-addon-research-7087jx",
-    "updatedAt": "2026-07-05T21:01:02Z"
-  },
-  {
     "pr": 1378,
     "title": "feat(crit-damage): gate Fighting Finesse & Backstabber on companion CP",
     "branch": "feat/companion-crit-awareness",
