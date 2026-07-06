@@ -488,11 +488,5 @@
     "title": "audit: esotk.com full-platform review + quick-win fixes",
     "branch": "claude/session-xrrovc",
     "updatedAt": "2026-07-06T07:15:17Z"
-  },
-  {
-    "pr": 1386,
-    "title": "feat(companion): capture true Class Mastery from the live client",
-    "branch": "feat/class-mastery-companion-capture",
-    "updatedAt": "2026-07-06T17:56:00Z"
   }
 ]
