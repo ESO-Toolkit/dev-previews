@@ -482,5 +482,11 @@
     "title": "[DEMO – do not merge] All Kalpa sidecar displays combined (preview)",
     "branch": "demo/kalpa-all-displays",
     "updatedAt": "2026-07-04T21:09:41Z"
+  },
+  {
+    "pr": 1382,
+    "title": "audit: esotk.com full-platform review + quick-win fixes",
+    "branch": "claude/session-xrrovc",
+    "updatedAt": "2026-07-06T07:15:17Z"
   }
 ]
