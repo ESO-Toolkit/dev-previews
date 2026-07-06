@@ -482,11 +482,5 @@
     "title": "[DEMO – do not merge] All Kalpa sidecar displays combined (preview)",
     "branch": "demo/kalpa-all-displays",
     "updatedAt": "2026-07-04T21:09:41Z"
-  },
-  {
-    "pr": 1381,
-    "title": "fix(companion-addon): decouple SavedVars storage version from parse-schema",
-    "branch": "feat/companion-addon-schema-decouple",
-    "updatedAt": "2026-07-06T02:07:22Z"
   }
 ]
