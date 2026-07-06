@@ -488,5 +488,11 @@
     "title": "feat(companion): surface matched-build provenance + fix tie-break",
     "branch": "feat/companion-matcher-provenance",
     "updatedAt": "2026-07-06T02:03:16Z"
+  },
+  {
+    "pr": 1381,
+    "title": "fix(companion-addon): decouple SavedVars storage version from parse-schema",
+    "branch": "feat/companion-addon-schema-decouple",
+    "updatedAt": "2026-07-06T02:07:22Z"
   }
 ]
