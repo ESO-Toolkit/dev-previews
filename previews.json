@@ -518,5 +518,11 @@
     "title": "feat(replay): Auto/High/Performance/Barebones quality presets + a real 30fps frame cap",
     "branch": "feat/replay-quality-presets",
     "updatedAt": "2026-07-21T06:35:41Z"
+  },
+  {
+    "pr": 1398,
+    "title": "perf(insights): offload the Players-tab analysis burst to the worker pool",
+    "branch": "perf/players-panel-offload",
+    "updatedAt": "2026-07-21T07:00:47Z"
   }
 ]
