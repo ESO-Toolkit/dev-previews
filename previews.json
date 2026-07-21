@@ -506,5 +506,11 @@
     "title": "fix(a11y): keep spinners animating under OS reduced motion",
     "branch": "fix/reduced-motion-spinners",
     "updatedAt": "2026-07-21T16:31:06Z"
+  },
+  {
+    "pr": 1400,
+    "title": "perf(loadout): ship itemIdMap as a fetched JSON asset with an async init gate",
+    "branch": "perf/item-id-map-json",
+    "updatedAt": "2026-07-21T17:35:57Z"
   }
 ]
