@@ -500,11 +500,5 @@
     "title": "perf(insights): offload the Players-tab analysis burst to the worker pool",
     "branch": "perf/players-panel-offload",
     "updatedAt": "2026-07-21T07:00:47Z"
-  },
-  {
-    "pr": 1400,
-    "title": "perf(loadout): ship itemIdMap as a fetched JSON asset with an async init gate",
-    "branch": "perf/item-id-map-json",
-    "updatedAt": "2026-07-21T17:35:57Z"
   }
 ]
