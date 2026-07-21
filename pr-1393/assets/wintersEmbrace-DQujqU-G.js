@@ -1,0 +1,45 @@
+import{t as e}from"./classSkillIds-B9BPH4dn.js";var t={id:`class.winter-s-embrace`,name:`Winter's Embrace`,class:`Warden`,category:`class`,icon:`ability_warden_006`,skills:[{id:e.WARDEN_SLEET_STORM,name:`Sleet Storm`,type:`ultimate`,icon:`ability_warden_006`,description:`Twist a violent storm around you, dealing 4229 Frost Damage every 1 second for 8 seconds to enemies around you and reducing their Movement Speed by 40%.
+
+You and nearby allies gain Major Protection, reducing your damage taken by 10%.`,isUltimate:!0,baseSkillId:e.WARDEN_SLEET_STORM},{id:e.WARDEN_NORTHERN_STORM,name:`Northern Storm`,type:`ultimate`,icon:`ability_warden_006_a`,description:`Twist a violent storm around you, dealing 4368 Frost Damage every 1 second for 8 seconds to enemies around you and reducing their Movement Speed by 40%. As the storm holds, your damage done increases by 4%, reduced to 1% while Battle Spirit is active, every 1 second for 12 seconds, up to 9 stacks max.
+
+You and nearby allies gain Major Protection, reducing your damage taken by 10%.`,isUltimate:!0,baseSkillId:e.WARDEN_SLEET_STORM},{id:e.WARDEN_PERMAFROST,name:`Permafrost`,type:`ultimate`,icon:`ability_warden_006_b`,description:`Twist a violent storm around you, dealing 577 Frost Damage every 1 second for 13 seconds to enemies around you and reducing their Movement Speed by 70% and applying the Chilled status effect.
+
+You and nearby allies gain Major Protection, reducing your damage taken by 10%.`,isUltimate:!0,baseSkillId:e.WARDEN_SLEET_STORM,alternateIds:[86117]},{id:e.WARDEN_ARCTIC_WIND,name:`Arctic Wind`,type:`active`,icon:`ability_warden_003`,description:`Envelop yourself in winter winds, instantly healing for 5816 Health and an additional 1162 Health every 2 seconds over 10 seconds. This ability scales off your Max Health.`,baseSkillId:e.WARDEN_ARCTIC_WIND},{id:e.WARDEN_ARCTIC_BLAST,name:`Arctic Blast`,type:`active`,icon:`ability_warden_003_b`,description:`Envelop yourself in winter winds, instantly dealing 6946 Frost Damage to nearby enemies. If no enemies are hit, you heal for 8181 Health.
+
+The winds persist for 20 seconds and chill your foes to the bone, dealing 1090 Frost Damage every 2 seconds, after 2 seconds. The damage has a higher chance to apply the Chilled status effect.
+
+Stuns enemies after the delay for 3 seconds.`,baseSkillId:e.WARDEN_ARCTIC_WIND},{id:e.WARDEN_POLAR_WIND,name:`Polar Wind`,type:`active`,icon:`ability_warden_003_a`,description:`Envelop yourself in winter winds, instantly healing for 5816 Health and healing for an additional 1601 Health every 2 seconds over 10 seconds. You also heal a nearby ally for 3877 Health. This ability scales off your Max Health.`,baseSkillId:e.WARDEN_ARCTIC_WIND},{id:e.WARDEN_CRYSTALLIZED_SHIELD,name:`Crystallized Shield`,type:`active`,icon:`ability_warden_002`,description:`Spin a shield of ice around you, absorbing up to 19007 damage from 3 projectiles.
+
+Each time you absorb a projectile you gain 2 Ultimate.`,baseSkillId:e.WARDEN_CRYSTALLIZED_SHIELD},{id:e.WARDEN_CRYSTALLIZED_SLAB,name:`Crystallized Slab`,type:`active`,icon:`ability_warden_002_a`,description:`Spin a shield of ice around you, absorbing up to 28510 damage from 3 projectiles.
+
+Each time you absorb a projectile you launch an icy bolt back at the enemy, dealing 4892 Frost Damage and stunning them for 3 seconds.`,baseSkillId:e.WARDEN_CRYSTALLIZED_SHIELD},{id:e.WARDEN_SHIMMERING_SHIELD,name:`Shimmering Shield`,type:`active`,icon:`ability_warden_002_b`,description:`Spin a shield of ice around you, absorbing up to 19007 damage from 3 projectiles.
+
+Each time you absorb a projectile you gain 2 Ultimate and gain Major Heroism for 6 seconds, granting you 3 Ultimate every 1.5 seconds.`,baseSkillId:e.WARDEN_CRYSTALLIZED_SHIELD},{id:e.WARDEN_FROST_CLOAK,name:`Frost Cloak`,type:`active`,icon:`ability_warden_001`,description:`Wrap a thick cloak of ice around you and your grouped allies. The ice grants Major Resolve, increasing your Physical and Spell Resistance by 5948 for 20 seconds.`,baseSkillId:e.WARDEN_FROST_CLOAK},{id:e.WARDEN_EXPANSIVE_FROST_CLOAK,name:`Expansive Frost Cloak`,type:`active`,icon:`ability_warden_001_a`,description:`Wrap a thick cloak of ice around you and your grouped allies. The ice grants Major Resolve, increasing your Physical and Spell Resistance by 5948 for 20 seconds.`,baseSkillId:e.WARDEN_FROST_CLOAK},{id:e.WARDEN_ICE_FORTRESS,name:`Ice Fortress`,type:`active`,icon:`ability_warden_001_b`,description:`Wrap a thick cloak of ice around you and your grouped allies. The ice grants Major Resolve, increasing your Physical and Spell Resistance by 5948 for 30 seconds.
+
+You gain Minor Protection, reducing your damage taken by 5% for 30 seconds.`,baseSkillId:e.WARDEN_FROST_CLOAK},{id:e.WARDEN_FROZEN_GATE,name:`Frozen Gate`,type:`active`,icon:`ability_warden_005`,description:`Summon an ancient portal, which arms after 1.5 seconds and lasts for 15 seconds.
+
+When triggered the enemy is teleported to you if within range, immobilized for 3 seconds, and dealt 7104 Frost Damage.
+
+You can have up to 3 Frozen Gates active at a time.`,baseSkillId:e.WARDEN_FROZEN_GATE},{id:e.WARDEN_FROZEN_DEVICE,name:`Frozen Device`,type:`active`,icon:`ability_warden_005_a`,description:`Summon an ancient portal, which arms after 1.5 seconds.
+
+When triggered the enemy is teleported to you if within range, immobilized for 3 seconds, dealt 7339 Frost Damage, and afflicted with Major Maim, reducing their damage done by 10% for 4 seconds.
+
+You can have up to 3 Frozen Devices active at a time.`,baseSkillId:e.WARDEN_FROZEN_GATE},{id:e.WARDEN_FROZEN_RETREAT,name:`Frozen Retreat`,type:`active`,icon:`ability_warden_005_b`,description:`Summon an ancient portal, which arms after 1.5 seconds.
+
+When triggered the enemy is teleported to you if within range, immobilized for 3 seconds, and dealt 7339 Frost Damage.
+
+An ally in the portal can activate the Icy Escape synergy, teleporting them to you and granting them Major Expedition, increasing their Movement Speed by 30% for 8 seconds.
+
+You can have up to 3 Frozen Retreats active at a time.`,baseSkillId:e.WARDEN_FROZEN_GATE},{id:e.WARDEN_IMPALING_SHARDS,name:`Impaling Shards`,type:`active`,icon:`ability_warden_004`,description:`Conjure icy shards around you to skewer enemies in the area, dealing 466 Frost Damage every 1 second for 12 seconds.
+
+Enemies hit are overcome with bitter cold, reducing their Movement Speed by 30% for 3 seconds.
+
+Damage done is based on your Max Health, and has a higher chance to apply the Chilled status effect.`,baseSkillId:e.WARDEN_IMPALING_SHARDS},{id:e.WARDEN_GRIPPING_SHARDS,name:`Gripping Shards`,type:`active`,icon:`ability_warden_004_a`,description:`Conjure icy shards around you to skewer enemies in the area, immobilizing them for 3 seconds and dealing 482 Frost Damage every 1 second for 12 seconds.
+
+Enemies hit are overcome with bitter cold, reducing their Movement Speed by 30% for 3 seconds.
+
+Damage done is based on your Max Health and has a higher chance to apply the Chilled status effect.`,baseSkillId:e.WARDEN_IMPALING_SHARDS},{id:e.WARDEN_WINTER_S_REVENGE,name:`Winter's Revenge`,type:`active`,icon:`ability_warden_004_b`,description:`Conjure icy shards at the target location to skewer enemies in the area, dealing 1075 Frost Damage every 1 second for 12 seconds. This damage increases by 30% if cast with a Destruction Staff equipped.
+
+Enemies hit are overcome with bitter cold, reducing their Movement Speed by 30% for 3 seconds.
+
+This ability has a higher chance to apply the Chilled status effect.`,baseSkillId:e.WARDEN_IMPALING_SHARDS},{id:e.WARDEN_FROZEN_ARMOR,alternateIds:[86189,86190],name:`Frozen Armor`,type:`passive`,icon:`passive_warden_001`,description:`Increases your Physical and Spell Resistance by 1240 for each Winter's Embrace ability slotted.`,isPassive:!0},{id:e.WARDEN_GLACIAL_PRESENCE,alternateIds:[86191,86192,134679,134680],name:`Glacial Presence`,type:`passive`,icon:`passive_warden_002`,description:`Increases your chance to apply the Chilled status effect by 250% and increases its damage by 541. The damage increasing effect scales off the higher of your Weapon or Spell Damage.`,isPassive:!0},{id:e.WARDEN_ICY_AURA,alternateIds:[86193,86194],name:`Icy Aura`,type:`passive`,icon:`passive_warden_003`,description:`When you take direct damage from an enemy in melee range, you apply a stack of Bite of Winter to them for 3 seconds, up to 5 stacks max. Attackers at max stacks are afflicted with Major Maim for 3 seconds, reducing their damage done by 10%.`,isPassive:!0},{id:e.WARDEN_PIERCING_COLD,alternateIds:[86195,86196,228521,228522,228523,228524,228525,228526],name:`Piercing Cold`,type:`passive`,icon:`passive_warden_004`,description:`Increases the amount of damage you block by 8% and increases your Frost Damage by 15%.`,isPassive:!0}]};export{t};

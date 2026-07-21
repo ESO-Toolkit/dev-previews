@@ -488,5 +488,11 @@
     "title": "audit: esotk.com full-platform review + quick-win fixes",
     "branch": "claude/session-xrrovc",
     "updatedAt": "2026-07-06T07:15:17Z"
+  },
+  {
+    "pr": 1393,
+    "title": "perf(bundle): cut the entry chunk from 11.3 MB to ~830 kB",
+    "branch": "perf/entry-bundle-item-data",
+    "updatedAt": "2026-07-21T03:59:59Z"
   }
 ]
