@@ -500,5 +500,11 @@
     "title": "perf(insights): offload the Players-tab analysis burst to the worker pool",
     "branch": "perf/players-panel-offload",
     "updatedAt": "2026-07-21T07:00:47Z"
+  },
+  {
+    "pr": 1399,
+    "title": "fix(a11y): keep spinners animating under OS reduced motion",
+    "branch": "fix/reduced-motion-spinners",
+    "updatedAt": "2026-07-21T16:31:06Z"
   }
 ]
