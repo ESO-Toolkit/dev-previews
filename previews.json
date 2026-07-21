@@ -496,12 +496,6 @@
     "updatedAt": "2026-07-21T04:36:54Z"
   },
   {
-    "pr": 1395,
-    "title": "perf(replay): lossless CPU/GPU wins — idle waste, allocations, declutter throttle, preserveDrawingBuffer",
-    "branch": "perf/replay-lossless-wins",
-    "updatedAt": "2026-07-21T05:06:44Z"
-  },
-  {
     "pr": 1396,
     "title": "perf(runtime): visibility-gated pollers, isolated countdown, deferred Monte-Carlo, composited AttributeBar",
     "branch": "perf/runtime-quick-wins",
