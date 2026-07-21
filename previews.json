@@ -494,5 +494,11 @@
     "title": "perf(bundle): cut the entry chunk from 11.3 MB to ~830 kB",
     "branch": "perf/entry-bundle-item-data",
     "updatedAt": "2026-07-21T03:59:59Z"
+  },
+  {
+    "pr": 1394,
+    "title": "perf(site): make the low tier truly barebones — animations, background, hub blur",
+    "branch": "perf/site-low-mode",
+    "updatedAt": "2026-07-21T04:36:54Z"
   }
 ]
