@@ -512,5 +512,11 @@
     "title": "perf(runtime): visibility-gated pollers, isolated countdown, deferred Monte-Carlo, composited AttributeBar",
     "branch": "perf/runtime-quick-wins",
     "updatedAt": "2026-07-21T05:38:26Z"
+  },
+  {
+    "pr": 1397,
+    "title": "feat(replay): Auto/High/Performance/Barebones quality presets + a real 30fps frame cap",
+    "branch": "feat/replay-quality-presets",
+    "updatedAt": "2026-07-21T06:35:41Z"
   }
 ]
