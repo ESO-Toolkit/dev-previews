@@ -500,11 +500,5 @@
     "title": "perf(insights): offload the Players-tab analysis burst to the worker pool",
     "branch": "perf/players-panel-offload",
     "updatedAt": "2026-07-21T07:00:47Z"
-  },
-  {
-    "pr": 1401,
-    "title": "fix(perf): honor detect-gpu result type and pin backgrounds behind content",
-    "branch": "claude/performance-toggle-zindex-7jn3c6",
-    "updatedAt": "2026-07-22T02:36:17Z"
   }
 ]
