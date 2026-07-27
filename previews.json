@@ -500,5 +500,11 @@
     "title": "perf(insights): offload the Players-tab analysis burst to the worker pool",
     "branch": "perf/players-panel-offload",
     "updatedAt": "2026-07-21T07:00:47Z"
+  },
+  {
+    "pr": 1409,
+    "title": "docs(design): design-sync bundle for Claude Design + fix stale ui-updates skill",
+    "branch": "claude/design-pattern-gaps-f511ba",
+    "updatedAt": "2026-07-27T05:37:32Z"
   }
 ]
