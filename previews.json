@@ -508,12 +508,6 @@
     "updatedAt": "2026-07-27T05:37:32Z"
   },
   {
-    "pr": 1414,
-    "title": "fix: remediate 2026-08 codebase audit (60 findings)",
-    "branch": "fix/audit-2026-08-remediation",
-    "updatedAt": "2026-08-04T01:36:02Z"
-  },
-  {
     "pr": 1419,
     "title": "ci: add manual D1 migration workflow",
     "branch": "ci/d1-migrate-workflow",
@@ -524,5 +518,11 @@
     "title": "feat(build-leaderboard): cluster top DPS parses into starter build archetypes",
     "branch": "claude/dps-builds-leaderboard-3f8c19",
     "updatedAt": "2026-08-04T21:19:02Z"
+  },
+  {
+    "pr": 1414,
+    "title": "fix: remediate 2026-08 codebase audit (60 findings)",
+    "branch": "fix/audit-2026-08-remediation",
+    "updatedAt": "2026-08-04T22:06:39Z"
   }
 ]
