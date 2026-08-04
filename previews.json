@@ -512,5 +512,11 @@
     "title": "feat(build-leaderboard): cluster top DPS parses into starter build archetypes",
     "branch": "claude/dps-builds-leaderboard-3f8c19",
     "updatedAt": "2026-08-03T03:34:56Z"
+  },
+  {
+    "pr": 1414,
+    "title": "fix: remediate 2026-08 codebase audit (60 findings)",
+    "branch": "fix/audit-2026-08-remediation",
+    "updatedAt": "2026-08-04T01:23:54Z"
   }
 ]
