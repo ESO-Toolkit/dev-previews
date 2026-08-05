@@ -518,5 +518,11 @@
     "title": "fix(api): limit failed token validations per IP",
     "branch": "fix/auth-introspection-limiter",
     "updatedAt": "2026-08-05T05:57:38Z"
+  },
+  {
+    "pr": 1423,
+    "title": "refactor(types): widen PlayerGear trait/type to raw numeric codes",
+    "branch": "claude/nice-bardeen-772084",
+    "updatedAt": "2026-08-05T06:04:04Z"
   }
 ]
