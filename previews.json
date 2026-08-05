@@ -512,5 +512,11 @@
     "title": "feat(build-leaderboard): cluster top DPS parses into starter build archetypes",
     "branch": "claude/dps-builds-leaderboard-3f8c19",
     "updatedAt": "2026-08-05T03:27:02Z"
+  },
+  {
+    "pr": 1420,
+    "title": "chore(deps): npm audit fix — 16 advisories down to 2",
+    "branch": "chore/npm-audit-2026-08",
+    "updatedAt": "2026-08-05T03:28:07Z"
   }
 ]
