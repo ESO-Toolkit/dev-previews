@@ -506,11 +506,5 @@
     "title": "docs(design): design-sync bundle for Claude Design + fix stale ui-updates skill",
     "branch": "claude/design-pattern-gaps-f511ba",
     "updatedAt": "2026-07-27T05:37:32Z"
-  },
-  {
-    "pr": 1413,
-    "title": "feat(build-leaderboard): cluster top DPS parses into starter build archetypes",
-    "branch": "claude/dps-builds-leaderboard-3f8c19",
-    "updatedAt": "2026-08-05T04:06:29Z"
   }
 ]
