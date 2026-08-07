@@ -524,5 +524,11 @@
     "title": "fix(api): surface silent DPS-sync failures",
     "branch": "fix/dps-sync-observability",
     "updatedAt": "2026-08-07T06:18:05Z"
+  },
+  {
+    "pr": 1427,
+    "title": "chore(test): lint and typecheck the Playwright specs",
+    "branch": "chore/lint-typecheck-playwright-specs",
+    "updatedAt": "2026-08-07T06:59:14Z"
   }
 ]
