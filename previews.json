@@ -518,11 +518,5 @@
     "title": "feat(roster-hub-api): apply the dps_parses schema via the D1 binding",
     "branch": "claude/d1-schema-bootstrap",
     "updatedAt": "2026-08-05T06:05:38Z"
-  },
-  {
-    "pr": 1427,
-    "title": "chore(test): lint and typecheck the Playwright specs",
-    "branch": "chore/lint-typecheck-playwright-specs",
-    "updatedAt": "2026-08-07T06:59:14Z"
   }
 ]
