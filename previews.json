@@ -518,5 +518,11 @@
     "title": "feat(roster-hub-api): apply the dps_parses schema via the D1 binding",
     "branch": "claude/d1-schema-bootstrap",
     "updatedAt": "2026-08-05T06:05:38Z"
+  },
+  {
+    "pr": 1432,
+    "title": "fix(discord-bot): move to @cloudflare/workers-types v5",
+    "branch": "fix/discord-bot-workers-types-v5",
+    "updatedAt": "2026-08-10T11:16:25Z"
   }
 ]
