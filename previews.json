@@ -286,12 +286,6 @@
     "updatedAt": "2026-06-17T01:32:37Z"
   },
   {
-    "pr": 1253,
-    "title": "feat(roster): collapsible per-fight cards on the /rv run sheet",
-    "branch": "feat/rv-runsheet-collapsible-fights",
-    "updatedAt": "2026-06-17T02:38:02Z"
-  },
-  {
     "pr": 1263,
     "title": "fix(replay): respect text-entry targets and keep ?actorId deep-links route-aware",
     "branch": "codex/audit-fight-replay-system-for-improvements",
