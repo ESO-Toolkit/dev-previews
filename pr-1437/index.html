@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="/dev-previews/pr-1437/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <!-- Force browsers and intermediaries to revalidate index.html so hashed assets stay in sync -->
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="ESO Toolkit — Advanced analytics and visualization tool for Elder Scrolls Online combat logs. Analyze damage, healing, buffs, and performance with beautiful charts and detailed breakdowns."
+    />
+    <meta property="og:title" content="ESO Toolkit" />
+    <meta
+      property="og:description"
+      content="Advanced analytics and visualization tool for Elder Scrolls Online combat logs. Analyze damage, healing, buffs, and performance with beautiful charts and detailed breakdowns."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="/" />
+    <meta property="og:image" content="/dev-previews/pr-1437/android-chrome-512x512.png" />
+    <meta property="og:site_name" content="ESO Toolkit" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="ESO Toolkit" />
+    <meta
+      name="twitter:description"
+      content="Advanced analytics and visualization tool for Elder Scrolls Online combat logs. Analyze damage, healing, buffs, and performance with beautiful charts and detailed breakdowns."
+    />
+    <meta name="twitter:image" content="/dev-previews/pr-1437/android-chrome-512x512.png" />
+    <link rel="apple-touch-icon" href="/dev-previews/pr-1437/apple-touch-icon.png" />
+    <link rel="manifest" href="/dev-previews/pr-1437/manifest.json" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Space+Grotesk:wght@300..700&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Material Symbols for ligature icons (e.g., skull, swords).
+         display=block (not swap): swapping a ligature icon font would flash the
+         raw ligature TEXT ("skull") before the glyph loads; block hides it. -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&display=block"
+      rel="stylesheet"
+    />
+    <title>ESO Toolkit</title>
+    <script>
+      // SPA deep-link restoration — runs synchronously before React mounts so the
+      // router sees the correct URL on its very first render, preventing the
+      // landing-page flash that would otherwise occur when reloading a deep link.
+      //
+      // Flow: when a deep link is requested, GitHub Pages serves 404.html which
+      // stores the intended path in sessionStorage (with a ?redirect= URL param
+      // as fallback) and redirects to the root. Without this script, React would
+      // render the Landing Page for one frame before HashRouteRedirect's useEffect
+      // fires and navigates away. By patching window.location synchronously here
+      // we ensure BrowserRouter reads the correct URL from the very first render.
+      (function () {
+        function isValidPath(p) {
+          return (
+            typeof p === 'string' &&
+            p.length > 1 &&
+            p.charAt(0) === '/' &&
+            p.charAt(1) !== '/' &&
+            p.indexOf('://') === -1
+          );
+        }
+
+        // Method 1: sessionStorage set by 404.html
+        var redirectPath = null;
+        try {
+          redirectPath = sessionStorage.getItem('redirectPath');
+        } catch (_) {
+          // SecurityError – sessionStorage unavailable (e.g. restricted iframe)
+        }
+
+        if (redirectPath && isValidPath(redirectPath)) {
+          try {
+            history.replaceState(null, '', redirectPath);
+            // Remove only after a successful replaceState so that HashRouteRedirect
+            // can still act as a fallback if replaceState threw a SecurityError.
+            try {
+              sessionStorage.removeItem('redirectPath');
+            } catch (_) {}
+            return;
+          } catch (_) {
+            // SecurityError – history.replaceState not permitted; leave sessionStorage
+            // intact so HashRouteRedirect can handle it (with the flash fallback).
+          }
+        }
+
+        // Method 2: ?redirect= URL param (written by 404.html when sessionStorage
+        // is unavailable, e.g. cookies/storage blocked by the browser).
+        try {
+          var params = new URLSearchParams(window.location.search);
+          var paramPath = params.get('redirect');
+          if (paramPath && isValidPath(paramPath)) {
+            history.replaceState(null, '', paramPath);
+          }
+        } catch (_) {
+          // URLSearchParams or replaceState unavailable – HashRouteRedirect will handle it.
+        }
+      })();
+    </script>
+    <script type="module" crossorigin src="/dev-previews/pr-1437/assets/index-DRRdpVM2.js"></script>
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/rolldown-runtime-B0Z9INg1.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/apollo-Cq3VIBwj.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/mui-BvY3amuS.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/vendor-Bwf-dfXM.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/redux-CMqotWCH.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/router-BvIsWtNZ.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/logger-cxnCibpg.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/LoggerContext-DBzFsm9p.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/envUtils-B6uorHrV.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/auth-BiLJvhdx.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/masterDataSelectors-CoWQrX4S.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/Constants-Ip94KH4Y.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/consentManager-BjQ45GTP.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/errorTracking-Cbcjt8os.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/EsoLogsClientContext-CTIYoUxy.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/graphql-ByuTV633.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/cacheBusting-Cvp_cDiO.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/analytics-CH3yTtZT.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/ErrorBoundary-BBLJXkPO.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/sampleReports-DAoiL6Rh.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/reportSlice-CCXUXpQw.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/useViewTransitionNavigate-BO-CUx7-.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/v4-DTuiBaMx.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/classSkillIds-CpZRSmfI.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/classMastery-CmctsZn5.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/gearItemOracle-BcG0P3sg.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/classMasteryTransfer-DrfA9-oD.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/setupTransfer-smVZYZnj.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/requestTracking-DnsxU1yt.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/combatantInfoEventsSlice-CJBtYD1C.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/WorkerManager-C084Dhi9.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/workerTaskSliceFactory-CpRowmFt.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/debuffLookupSlice-2ESMrBMu.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/friendlyBuffEventsSlice-x-IVhLvV.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/resourceEventsSlice-CoTYZK3G.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/hostileBuffEventsSlice-lJfxbb1e.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/reportSelectors-DVXN3S27.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/friendlyBuffEventsSelectors-bRlcNf2c.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/hostileBuffEventsSelectors--KATAcRj.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/debuffEventsSelectors-9ueFd-wj.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/combatantInfoEventsSelectors-D3PSfxKh.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/playerDetails-BdPokJnD.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/memoize-one.esm-BETsHwqM.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/selectors-Cfg5kflh.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/uiSelectors-DP-_Qcb-.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/useAppDispatch-xO5SEGGV.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/damageEventsSelectors-BO99IBji.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/deathEventsSelectors-bgqS1X0u.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/BuffLookupUtils-TsCdPU2i.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/castEventsSelectors-D2nrl0lh.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/eventsSelectors-Dlyk7WaN.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/ReportActionBar-CznHYjpu.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/discord-auth-B4-T12Sx.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/abilityIconCorrections-Dv-DzCDg.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/useReportMasterData-BwJzoWaL.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/useReportData-Ct72FLB0.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/abilities-B1dBLvLL.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/useFightForContext-DGSnJW2O.js">
+    <link rel="modulepreload" crossorigin href="/dev-previews/pr-1437/assets/useWorkerTaskDependencies-DH1Wuz13.js">
+    <link rel="stylesheet" crossorigin href="/dev-previews/pr-1437/assets/index-D-fvxPmH.css">
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+  </body>
+</html>
