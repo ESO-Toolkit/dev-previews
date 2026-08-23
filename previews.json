@@ -518,5 +518,11 @@
     "title": "feat(build-leaderboard): redesign archetype comparison experience",
     "branch": "t3code/design-build-leaderboard",
     "updatedAt": "2026-08-23T13:49:46Z"
+  },
+  {
+    "pr": 1443,
+    "title": "fix: harden public release readiness and forum launch",
+    "branch": "fix/forum-release-readiness",
+    "updatedAt": "2026-08-23T15:57:56Z"
   }
 ]
