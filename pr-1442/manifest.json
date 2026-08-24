@@ -1,7 +1,7 @@
 {
-  "short_name": "ESO Log Insights",
-  "name": "ESO Log Insights by NotaGuild",
-  "description": "Advanced analytics and visualization tool for Elder Scrolls Online combat logs",
+  "short_name": "ESO Toolkit",
+  "name": "ESO Toolkit",
+  "description": "Advanced analytics and visualization for Elder Scrolls Online combat logs",
   "icons": [
     {
       "src": "favicon.ico",
@@ -19,12 +19,15 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".?v=010dd0159761787534269721",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
-  "theme_color": "#7289da",
-  "background_color": "#1a1a1a",
-  "version": "0.1.0-dd015976-1787534269721",
-  "version_name": "0.1.0 (dd015976)",
-  "original_description": "Advanced analytics and visualization tool for Elder Scrolls Online combat logs",
-  "original_start_url": "."
+  "lang": "en-US",
+  "categories": [
+    "utilities",
+    "productivity"
+  ],
+  "theme_color": "#0b1220",
+  "background_color": "#0b1220"
 }
