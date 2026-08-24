@@ -523,6 +523,6 @@
     "pr": 1447,
     "title": "perf: avoid full reports checkout",
     "branch": "fix/report-publisher-sparse-clone",
-    "updatedAt": "2026-08-24T08:41:25Z"
+    "updatedAt": "2026-08-24T08:54:25Z"
   }
 ]
