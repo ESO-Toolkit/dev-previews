@@ -518,11 +518,5 @@
     "title": "feat(build-leaderboard): redesign archetype comparison experience",
     "branch": "t3code/design-build-leaderboard",
     "updatedAt": "2026-08-24T08:38:57Z"
-  },
-  {
-    "pr": 1447,
-    "title": "perf: avoid full reports checkout",
-    "branch": "fix/report-publisher-sparse-clone",
-    "updatedAt": "2026-08-24T09:08:36Z"
   }
 ]
