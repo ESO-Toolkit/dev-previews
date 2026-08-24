@@ -518,5 +518,11 @@
     "title": "feat(build-leaderboard): redesign archetype comparison experience",
     "branch": "t3code/design-build-leaderboard",
     "updatedAt": "2026-08-24T01:18:39Z"
+  },
+  {
+    "pr": 1446,
+    "title": "fix: restore player username fonts and serialize report deploys",
+    "branch": "fix/deploy-reports-concurrency",
+    "updatedAt": "2026-08-24T06:44:25Z"
   }
 ]
