@@ -512,5 +512,11 @@
     "title": "feat(roster-hub-api): apply the dps_parses schema via the D1 binding",
     "branch": "claude/d1-schema-bootstrap",
     "updatedAt": "2026-08-05T06:05:38Z"
+  },
+  {
+    "pr": 1448,
+    "title": "fix(test): repair nightly regression coverage",
+    "branch": "t3code/fix-nightly-test-failure",
+    "updatedAt": "2026-08-25T11:46:09Z"
   }
 ]
