@@ -518,11 +518,5 @@
     "title": "fix(landing): remove persistent helper text from log URL inputs",
     "branch": "t3code/remove-report-helper-text",
     "updatedAt": "2026-08-25T12:14:10Z"
-  },
-  {
-    "pr": 1450,
-    "title": "fix: redirect legacy logs route to analyzer",
-    "branch": "t3code/fix-logs-coming-soon",
-    "updatedAt": "2026-08-25T12:25:46Z"
   }
 ]
