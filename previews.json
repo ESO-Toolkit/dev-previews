@@ -518,11 +518,5 @@
     "title": "feat(build-leaderboard): pool class view across bosses with ceiling-normalized DPS",
     "branch": "fix/pooled-class-view",
     "updatedAt": "2026-08-26T11:00:00Z"
-  },
-  {
-    "pr": 1457,
-    "title": "fix(test): follow legacy logs redirect",
-    "branch": "t3code/fix-nightly-logs-redirect",
-    "updatedAt": "2026-08-26T11:23:17Z"
   }
 ]
