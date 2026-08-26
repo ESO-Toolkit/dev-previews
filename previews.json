@@ -512,5 +512,11 @@
     "title": "feat(roster-hub-api): apply the dps_parses schema via the D1 binding",
     "branch": "claude/d1-schema-bootstrap",
     "updatedAt": "2026-08-05T06:05:38Z"
+  },
+  {
+    "pr": 1455,
+    "title": "fix(leaderboards): per-class parse retention and honest too-few-parses messaging",
+    "branch": "fix/class-retention",
+    "updatedAt": "2026-08-26T09:49:34Z"
   }
 ]
