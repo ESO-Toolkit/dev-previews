@@ -512,5 +512,11 @@
     "title": "feat(roster-hub-api): apply the dps_parses schema via the D1 binding",
     "branch": "claude/d1-schema-bootstrap",
     "updatedAt": "2026-08-05T06:05:38Z"
+  },
+  {
+    "pr": 1458,
+    "title": "fix(build-leaderboard): headline pooled class cards with raw k DPS, anchored to trial",
+    "branch": "fix/headline-raw-dps",
+    "updatedAt": "2026-08-26T12:28:03Z"
   }
 ]
