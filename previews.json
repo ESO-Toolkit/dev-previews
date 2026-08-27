@@ -512,11 +512,5 @@
     "title": "feat(roster-hub-api): apply the dps_parses schema via the D1 binding",
     "branch": "claude/d1-schema-bootstrap",
     "updatedAt": "2026-08-05T06:05:38Z"
-  },
-  {
-    "pr": 1462,
-    "title": "fix(kalpa): stop claiming the licence is open source",
-    "branch": "fix/license-accuracy",
-    "updatedAt": "2026-08-27T14:44:32Z"
   }
 ]
