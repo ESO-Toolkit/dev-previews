@@ -514,12 +514,6 @@
     "updatedAt": "2026-08-05T06:05:38Z"
   },
   {
-    "pr": 1466,
-    "title": "feat(seo): runtime noindex for private routes, canonicalize parse-analysis",
-    "branch": "feat/seo-runtime-noindex",
-    "updatedAt": "2026-08-28T13:12:30Z"
-  },
-  {
     "pr": 1468,
     "title": "feat(profile): make /u/:username indexable and stop soft-404ing on errors",
     "branch": "feat/profile-seo",
