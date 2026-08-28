@@ -524,11 +524,5 @@
     "title": "feat(support): add secure Kalpa ticket handoff",
     "branch": "feat/kalpa-support-tickets",
     "updatedAt": "2026-08-28T17:03:34Z"
-  },
-  {
-    "pr": 1467,
-    "title": "feat(build-leaderboard): report converged boards as a finding, pin the k window",
-    "branch": "feat/build-leaderboard-solved-meta",
-    "updatedAt": "2026-08-28T17:47:41Z"
   }
 ]
