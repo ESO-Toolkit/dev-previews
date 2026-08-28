@@ -518,11 +518,5 @@
     "title": "feat(support): add secure Kalpa ticket handoff",
     "branch": "feat/kalpa-support-tickets",
     "updatedAt": "2026-08-28T17:03:34Z"
-  },
-  {
-    "pr": 1471,
-    "title": "fix(test): stabilize calculator nightly regression",
-    "branch": "t3code/fix-nightly-383",
-    "updatedAt": "2026-08-28T21:56:40Z"
   }
 ]
