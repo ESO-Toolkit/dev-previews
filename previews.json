@@ -518,5 +518,11 @@
     "title": "feat(support): add secure Kalpa ticket handoff",
     "branch": "feat/kalpa-support-tickets",
     "updatedAt": "2026-08-28T17:03:34Z"
+  },
+  {
+    "pr": 1470,
+    "title": "docs(seo): record the verified DNS state in the edge-layer request",
+    "branch": "docs/edge-request-dns-state",
+    "updatedAt": "2026-08-28T20:29:17Z"
   }
 ]
