@@ -530,5 +530,11 @@
     "title": "feat(profile): make /u/:username indexable and stop soft-404ing on errors",
     "branch": "feat/profile-seo",
     "updatedAt": "2026-08-28T13:59:40Z"
+  },
+  {
+    "pr": 1469,
+    "title": "feat(support): add secure Kalpa ticket handoff",
+    "branch": "feat/kalpa-support-tickets",
+    "updatedAt": "2026-08-28T16:05:07Z"
   }
 ]
