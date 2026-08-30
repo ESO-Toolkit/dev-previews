@@ -518,5 +518,11 @@
     "title": "fix(discord): name the bot application and guard the OAuth client",
     "branch": "feat/discord-application-id-guard",
     "updatedAt": "2026-08-30T11:28:09Z"
+  },
+  {
+    "pr": 1475,
+    "title": "fix(ui): stabilize accordion spacing site-wide",
+    "branch": "t3code/fix-sitewide-mui-accordion-spacing",
+    "updatedAt": "2026-08-30T22:10:48Z"
   }
 ]
