@@ -514,15 +514,15 @@
     "updatedAt": "2026-08-05T06:05:38Z"
   },
   {
-    "pr": 1469,
-    "title": "feat(support): add secure Kalpa ticket handoff",
-    "branch": "feat/kalpa-support-tickets",
-    "updatedAt": "2026-08-30T11:06:04Z"
-  },
-  {
     "pr": 1472,
     "title": "fix(discord): name the bot application and guard the OAuth client",
     "branch": "feat/discord-application-id-guard",
     "updatedAt": "2026-08-30T11:09:00Z"
+  },
+  {
+    "pr": 1469,
+    "title": "feat(support): add secure Kalpa ticket handoff",
+    "branch": "feat/kalpa-support-tickets",
+    "updatedAt": "2026-08-30T11:21:31Z"
   }
 ]
