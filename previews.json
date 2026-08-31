@@ -542,11 +542,5 @@
     "title": "Complete the Build Leaderboard coverage audit",
     "branch": "t3code/audit-build-leaderboard-coverage",
     "updatedAt": "2026-08-31T14:26:12Z"
-  },
-  {
-    "pr": 1491,
-    "title": "feat(docs): DLSS 5 Neural Rendering setup guide (/docs/dlss5-neural-rendering)",
-    "branch": "feat/dlss5-neural-rendering-guide",
-    "updatedAt": "2026-08-31T15:07:54Z"
   }
 ]
