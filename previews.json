@@ -536,5 +536,11 @@
     "title": "fix(parse-analysis): harden report loading and calculations",
     "branch": "fix/logs-analyzer-release-hardening",
     "updatedAt": "2026-08-31T11:20:20Z"
+  },
+  {
+    "pr": 1493,
+    "title": "feat(build-editor): modernize editing and persistence",
+    "branch": "t3code/audit-build-editor-2026",
+    "updatedAt": "2026-08-31T13:27:34Z"
   }
 ]
