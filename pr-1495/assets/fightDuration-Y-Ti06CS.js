@@ -1,1 +1,0 @@
-function e(e){return e/1e3}function t(e){if(e<0)return`0s`;let t=Math.floor(e/1e3)%60,n=Math.floor(e/6e4)%60,r=Math.floor(e/36e5);return r>0?`${r}h ${n}m`:n>0?`${n}m ${t}s`:`${t}s`}export{e as n,t};

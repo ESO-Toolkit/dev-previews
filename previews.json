@@ -542,11 +542,5 @@
     "title": "Complete the Build Leaderboard coverage audit",
     "branch": "t3code/audit-build-leaderboard-coverage",
     "updatedAt": "2026-08-31T14:26:12Z"
-  },
-  {
-    "pr": 1495,
-    "title": "fix(docs): mobile polish and a custom social card for the DLSS 5 guide",
-    "branch": "fix/dlss5-guide-mobile",
-    "updatedAt": "2026-08-31T16:20:47Z"
   }
 ]
