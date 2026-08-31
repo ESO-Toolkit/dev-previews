@@ -526,12 +526,6 @@
     "updatedAt": "2026-08-31T07:53:02Z"
   },
   {
-    "pr": 1491,
-    "title": "feat(docs): DLSS 5 Neural Rendering setup guide (/docs/dlss5-neural-rendering)",
-    "branch": "feat/dlss5-neural-rendering-guide",
-    "updatedAt": "2026-08-31T10:46:57Z"
-  },
-  {
     "pr": 1492,
     "title": "fix(parse-analysis): harden report loading and calculations",
     "branch": "fix/logs-analyzer-release-hardening",
@@ -548,5 +542,11 @@
     "title": "feat(build-editor): modernize editing and persistence",
     "branch": "t3code/audit-build-editor-2026",
     "updatedAt": "2026-08-31T14:08:55Z"
+  },
+  {
+    "pr": 1491,
+    "title": "feat(docs): DLSS 5 Neural Rendering setup guide (/docs/dlss5-neural-rendering)",
+    "branch": "feat/dlss5-neural-rendering-guide",
+    "updatedAt": "2026-08-31T14:09:57Z"
   }
 ]
