@@ -1,0 +1,193 @@
+{
+  "generatedAt": "2026-08-23T13:03:28.481Z",
+  "entries": [
+    {
+      "id": 1253,
+      "title": "Collapsible per-fight cards on the /rv run sheet",
+      "mergedAt": "2026-08-10T11:32:57Z",
+      "author": "BraydenPB",
+      "url": "https://github.com/ESO-Toolkit/eso-toolkit/pull/1253",
+      "labels": [],
+      "summary": "Adds a new capability to the roster experience."
+    },
+    {
+      "id": 1426,
+      "title": "Surface silent DPS-sync failures",
+      "mergedAt": "2026-08-08T10:03:44Z",
+      "author": "BraydenPB",
+      "url": "https://github.com/ESO-Toolkit/eso-toolkit/pull/1426",
+      "labels": [],
+      "summary": "Improves the reliability and consistency of the api experience."
+    },
+    {
+      "id": 1413,
+      "title": "Cluster top DPS parses into starter build archetypes",
+      "mergedAt": "2026-08-05T05:10:11Z",
+      "author": "bkrupa",
+      "url": "https://github.com/ESO-Toolkit/eso-toolkit/pull/1413",
+      "labels": [],
+      "summary": "Adds a new capability to the build leaderboard experience."
+    },
+    {
+      "id": 1401,
+      "title": "Honor detect-gpu result type and pin backgrounds behind content",
+      "mergedAt": "2026-07-22T08:29:04Z",
+      "author": "BraydenPB",
+      "url": "https://github.com/ESO-Toolkit/eso-toolkit/pull/1401",
+      "labels": [],
+      "summary": "Improves the reliability and consistency of the perf experience."
+    },
+    {
+      "id": 1400,
+      "title": "Ship itemIdMap as a fetched JSON asset with an async init gate",
+      "mergedAt": "2026-07-21T19:20:19Z",
+      "author": "BraydenPB",
+      "url": "https://github.com/ESO-Toolkit/eso-toolkit/pull/1400",
+      "labels": [],
+      "summary": "Makes the loadout experience faster and more responsive."
+    },
+    {
+      "id": 1399,
+      "title": "Keep spinners animating under OS reduced motion",
+      "mergedAt": "2026-07-21T19:12:43Z",
+      "author": "BraydenPB",
+      "url": "https://github.com/ESO-Toolkit/eso-toolkit/pull/1399",
+      "labels": [],
+      "summary": "Improves the reliability and consistency of the a11y experience."
+    },
+    {
+      "id": 1398,
+      "title": "Offload the Players-tab analysis burst to the worker pool",
+      "mergedAt": "2026-07-21T10:00:08Z",
+      "author": "BraydenPB",
+      "url": "https://github.com/ESO-Toolkit/eso-toolkit/pull/1398",
+      "labels": [],
+      "summary": "Makes the insights experience faster and more responsive."
+    },
+    {
+      "id": 1397,
+      "title": "Auto/High/Performance/Barebones quality presets + a real 30fps frame cap",
+      "mergedAt": "2026-07-21T09:59:42Z",
+      "author": "BraydenPB",
+      "url": "https://github.com/ESO-Toolkit/eso-toolkit/pull/1397",
+      "labels": [
+        "merge-conflict"
+      ],
+      "summary": "Adds a new capability to the replay experience."
+    },
+    {
+      "id": 1396,
+      "title": "Visibility-gated pollers, isolated countdown, deferred Monte-Carlo, composited AttributeBar",
+      "mergedAt": "2026-07-21T09:49:33Z",
+      "author": "BraydenPB",
+      "url": "https://github.com/ESO-Toolkit/eso-toolkit/pull/1396",
+      "labels": [],
+      "summary": "Makes the runtime experience faster and more responsive."
+    },
+    {
+      "id": 1395,
+      "title": "Lossless CPU/GPU wins — idle waste, allocations, declutter throttle, preserveDrawingBuffer",
+      "mergedAt": "2026-07-21T09:47:22Z",
+      "author": "BraydenPB",
+      "url": "https://github.com/ESO-Toolkit/eso-toolkit/pull/1395",
+      "labels": [],
+      "summary": "Makes the replay experience faster and more responsive."
+    },
+    {
+      "id": 1394,
+      "title": "Make the low tier truly barebones — animations, background, hub blur",
+      "mergedAt": "2026-07-21T09:46:53Z",
+      "author": "BraydenPB",
+      "url": "https://github.com/ESO-Toolkit/eso-toolkit/pull/1394",
+      "labels": [],
+      "summary": "Makes the site experience faster and more responsive."
+    },
+    {
+      "id": 1393,
+      "title": "Cut the entry chunk from 11.3 MB to ~830 kB",
+      "mergedAt": "2026-07-21T09:46:26Z",
+      "author": "BraydenPB",
+      "url": "https://github.com/ESO-Toolkit/eso-toolkit/pull/1393",
+      "labels": [],
+      "summary": "Makes the bundle experience faster and more responsive."
+    },
+    {
+      "id": 1386,
+      "title": "Capture true Class Mastery from the live client",
+      "mergedAt": "2026-07-06T18:20:52Z",
+      "author": "BraydenPB",
+      "url": "https://github.com/ESO-Toolkit/eso-toolkit/pull/1386",
+      "labels": [],
+      "summary": "Adds a new capability to the companion experience."
+    },
+    {
+      "id": 1385,
+      "title": "Never list empty logs & untangle empty/error report states",
+      "mergedAt": "2026-07-06T18:08:03Z",
+      "author": "BraydenPB",
+      "url": "https://github.com/ESO-Toolkit/eso-toolkit/pull/1385",
+      "labels": [
+        "bug"
+      ],
+      "summary": "Improves the reliability and consistency of the latest reports experience."
+    },
+    {
+      "id": 1381,
+      "title": "Decouple SavedVars storage version from parse-schema",
+      "mergedAt": "2026-07-06T02:12:53Z",
+      "author": "BraydenPB",
+      "url": "https://github.com/ESO-Toolkit/eso-toolkit/pull/1381",
+      "labels": [],
+      "summary": "Improves the reliability and consistency of the companion addon experience."
+    },
+    {
+      "id": 1380,
+      "title": "Surface matched-build provenance + fix tie-break",
+      "mergedAt": "2026-07-06T02:09:48Z",
+      "author": "BraydenPB",
+      "url": "https://github.com/ESO-Toolkit/eso-toolkit/pull/1380",
+      "labels": [],
+      "summary": "Adds a new capability to the companion experience."
+    },
+    {
+      "id": 1379,
+      "title": "Accept forwarded companion snapshots from the sidecar",
+      "mergedAt": "2026-07-06T01:13:02Z",
+      "author": "BraydenPB",
+      "url": "https://github.com/ESO-Toolkit/eso-toolkit/pull/1379",
+      "labels": [],
+      "summary": "Adds a new capability to the companion experience."
+    },
+    {
+      "id": 1378,
+      "title": "Gate Fighting Finesse & Backstabber on companion CP",
+      "mergedAt": "2026-07-06T00:31:52Z",
+      "author": "BraydenPB",
+      "url": "https://github.com/ESO-Toolkit/eso-toolkit/pull/1378",
+      "labels": [
+        "merge-conflict"
+      ],
+      "summary": "Adds a new capability to the crit damage experience."
+    },
+    {
+      "id": 1196,
+      "title": "ESOTK Companion — capture champion points + build gaps, show them on player cards",
+      "mergedAt": "2026-07-06T00:17:31Z",
+      "author": "BraydenPB",
+      "url": "https://github.com/ESO-Toolkit/eso-toolkit/pull/1196",
+      "labels": [],
+      "summary": "Adds a new capability to the companion experience."
+    },
+    {
+      "id": 1375,
+      "title": "Fall back to Kalpa Mundus evidence when auras miss it",
+      "mergedAt": "2026-07-05T05:06:50Z",
+      "author": "BraydenPB",
+      "url": "https://github.com/ESO-Toolkit/eso-toolkit/pull/1375",
+      "labels": [
+        "merge-conflict"
+      ],
+      "summary": "Adds a new capability to the reports experience."
+    }
+  ]
+}
