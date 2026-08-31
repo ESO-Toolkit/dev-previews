@@ -1,9 +1,9 @@
 {
   "version": "0.1.0",
-  "buildTime": "2026-08-31T13:26:23.587Z",
-  "gitCommit": "f39c1b12f53ac12fa92f4f8efb01f7f8091d6134",
-  "shortCommit": "f39c1b12",
-  "buildId": "0.1.0-f39c1b12",
-  "timestamp": 1788182783587,
-  "cacheBuster": "v=010f39c1b12"
+  "buildTime": "2026-08-31T14:07:49.043Z",
+  "gitCommit": "bf5d1160c18a14d0660827fcaee700d91ccd1813",
+  "shortCommit": "bf5d1160",
+  "buildId": "0.1.0-bf5d1160",
+  "timestamp": 1788185269043,
+  "cacheBuster": "v=010bf5d1160"
 }
