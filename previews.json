@@ -530,5 +530,11 @@
     "title": "feat(docs): DLSS 5 Neural Rendering setup guide (/docs/dlss5-neural-rendering)",
     "branch": "feat/dlss5-neural-rendering-guide",
     "updatedAt": "2026-08-31T10:46:57Z"
+  },
+  {
+    "pr": 1492,
+    "title": "fix(parse-analysis): harden report loading and calculations",
+    "branch": "fix/logs-analyzer-release-hardening",
+    "updatedAt": "2026-08-31T11:20:20Z"
   }
 ]

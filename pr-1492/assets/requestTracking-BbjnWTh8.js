@@ -1,0 +1,1 @@
+var e=2e4,t=5e5;function n(e,t,n,r){return!e||e.requestId!==t}function r(e,t,n,r){return{reportId:e,fightId:t,requestId:n,restrictToFightWindow:r}}export{e as i,n,t as r,r as t};
