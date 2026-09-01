@@ -524,5 +524,11 @@
     "title": "feat(build-editor): modernize editing and persistence",
     "branch": "t3code/audit-build-editor-2026",
     "updatedAt": "2026-08-31T16:55:37Z"
+  },
+  {
+    "pr": 1498,
+    "title": "feat(docs): frame-generation section for the DLSS 5 guide",
+    "branch": "feat/dlss5-frame-generation",
+    "updatedAt": "2026-09-01T13:08:47Z"
   }
 ]
