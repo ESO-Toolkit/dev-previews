@@ -524,5 +524,11 @@
     "title": "feat(build-editor): modernize editing and persistence",
     "branch": "t3code/audit-build-editor-2026",
     "updatedAt": "2026-08-31T16:55:37Z"
+  },
+  {
+    "pr": 1499,
+    "title": "docs(dlss5): replace the cherry-picked perf pair with an hour of samples",
+    "branch": "docs/dlss5-real-perf-numbers",
+    "updatedAt": "2026-09-01T14:13:19Z"
   }
 ]
