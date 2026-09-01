@@ -536,5 +536,11 @@
     "title": "fix(parse-analysis): harden report loading and calculations",
     "branch": "fix/logs-analyzer-release-hardening",
     "updatedAt": "2026-09-01T04:24:41Z"
+  },
+  {
+    "pr": 1496,
+    "title": "fix: improve update notification light mode accessibility",
+    "branch": "t3code/fix-lightmode-consent-banner",
+    "updatedAt": "2026-09-01T07:16:07Z"
   }
 ]
