@@ -529,6 +529,6 @@
     "pr": 1497,
     "title": "perf(latest-reports): stop the list page waiting four seconds to ask for its data",
     "branch": "perf/latest-reports-boot",
-    "updatedAt": "2026-09-01T11:42:45Z"
+    "updatedAt": "2026-09-01T11:54:05Z"
   }
 ]
