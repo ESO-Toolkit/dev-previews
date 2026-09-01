@@ -520,12 +520,6 @@
     "updatedAt": "2026-08-30T11:28:09Z"
   },
   {
-    "pr": 1476,
-    "title": "Harden roster builder and Discord synchronization",
-    "branch": "t3code/audit-roster-bot-builder",
-    "updatedAt": "2026-08-31T07:53:02Z"
-  },
-  {
     "pr": 1493,
     "title": "feat(build-editor): modernize editing and persistence",
     "branch": "t3code/audit-build-editor-2026",
@@ -542,5 +536,11 @@
     "title": "fix: improve update notification light mode accessibility",
     "branch": "t3code/fix-lightmode-consent-banner",
     "updatedAt": "2026-09-01T07:16:07Z"
+  },
+  {
+    "pr": 1476,
+    "title": "Harden roster builder and Discord synchronization",
+    "branch": "t3code/audit-roster-bot-builder",
+    "updatedAt": "2026-09-01T07:19:14Z"
   }
 ]
