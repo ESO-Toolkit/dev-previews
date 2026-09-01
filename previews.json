@@ -536,11 +536,5 @@
     "title": "feat(build-editor): modernize editing and persistence",
     "branch": "t3code/audit-build-editor-2026",
     "updatedAt": "2026-08-31T16:55:37Z"
-  },
-  {
-    "pr": 1494,
-    "title": "Complete the Build Leaderboard coverage audit",
-    "branch": "t3code/audit-build-leaderboard-coverage",
-    "updatedAt": "2026-08-31T19:05:05Z"
   }
 ]
