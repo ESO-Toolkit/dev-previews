@@ -530,5 +530,11 @@
     "title": "docs(dlss5): replace the cherry-picked perf pair with an hour of samples",
     "branch": "docs/dlss5-real-perf-numbers",
     "updatedAt": "2026-09-01T14:13:19Z"
+  },
+  {
+    "pr": 1504,
+    "title": "feat(prerender): paint an app-shell skeleton into the latest-reports shell",
+    "branch": "feat/prerendered-app-shell-skeleton",
+    "updatedAt": "2026-09-02T05:30:39Z"
   }
 ]
