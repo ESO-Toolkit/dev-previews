@@ -530,11 +530,5 @@
     "title": "docs(dlss5): replace the cherry-picked perf pair with an hour of samples",
     "branch": "docs/dlss5-real-perf-numbers",
     "updatedAt": "2026-09-01T14:13:19Z"
-  },
-  {
-    "pr": 1502,
-    "title": "perf(graphql-proxy): serve cacheable operations stale-while-revalidate",
-    "branch": "fix/graphql-proxy-stale-while-revalidate",
-    "updatedAt": "2026-09-02T04:45:09Z"
   }
 ]
