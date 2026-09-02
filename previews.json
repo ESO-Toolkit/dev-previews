@@ -530,5 +530,11 @@
     "title": "docs(dlss5): replace the cherry-picked perf pair with an hour of samples",
     "branch": "docs/dlss5-real-perf-numbers",
     "updatedAt": "2026-09-01T14:13:19Z"
+  },
+  {
+    "pr": 1505,
+    "title": "fix(dlss5-guide): correct the false \"ESO has no native DLSS\" premise",
+    "branch": "docs/fix-dlss-guide-premise",
+    "updatedAt": "2026-09-02T08:21:06Z"
   }
 ]
