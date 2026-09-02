@@ -520,12 +520,6 @@
     "updatedAt": "2026-08-30T11:28:09Z"
   },
   {
-    "pr": 1493,
-    "title": "feat(build-editor): modernize editing and persistence",
-    "branch": "t3code/audit-build-editor-2026",
-    "updatedAt": "2026-08-31T16:55:37Z"
-  },
-  {
     "pr": 1499,
     "title": "docs(dlss5): replace the cherry-picked perf pair with an hour of samples",
     "branch": "docs/dlss5-real-perf-numbers",
@@ -536,5 +530,11 @@
     "title": "fix(dlss5-guide): correct the false \"ESO has no native DLSS\" premise",
     "branch": "docs/fix-dlss-guide-premise",
     "updatedAt": "2026-09-02T08:21:06Z"
+  },
+  {
+    "pr": 1493,
+    "title": "feat(build-editor): modernize editing and persistence",
+    "branch": "t3code/audit-build-editor-2026",
+    "updatedAt": "2026-09-02T09:13:18Z"
   }
 ]
