@@ -530,5 +530,11 @@
     "title": "docs(dlss5): replace the cherry-picked perf pair with an hour of samples",
     "branch": "docs/dlss5-real-perf-numbers",
     "updatedAt": "2026-09-01T14:13:19Z"
+  },
+  {
+    "pr": 1503,
+    "title": "refactor(store): add lazy reducer injection and lazify buildEditor",
+    "branch": "refactor/lazy-reducer-injection",
+    "updatedAt": "2026-09-02T05:09:50Z"
   }
 ]
