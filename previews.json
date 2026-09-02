@@ -530,5 +530,11 @@
     "title": "docs(dlss5): replace the cherry-picked perf pair with an hour of samples",
     "branch": "docs/dlss5-real-perf-numbers",
     "updatedAt": "2026-09-01T14:13:19Z"
+  },
+  {
+    "pr": 1501,
+    "title": "fix(text-editor): restore ESO preview backgrounds",
+    "branch": "t3code/restore-preview-background-images",
+    "updatedAt": "2026-09-02T04:22:58Z"
   }
 ]
