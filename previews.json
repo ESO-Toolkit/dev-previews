@@ -530,5 +530,11 @@
     "title": "feat(build-editor): modernize editing and persistence",
     "branch": "t3code/audit-build-editor-2026",
     "updatedAt": "2026-09-02T09:13:18Z"
+  },
+  {
+    "pr": 1507,
+    "title": "feat(fight-replay): add NPC model prototype pipeline",
+    "branch": "feat/replay-npc-model-pipeline",
+    "updatedAt": "2026-09-03T16:25:06Z"
   }
 ]
