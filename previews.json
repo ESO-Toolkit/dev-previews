@@ -536,5 +536,11 @@
     "title": "feat(fight-replay): add NPC model prototype pipeline",
     "branch": "feat/replay-npc-model-pipeline",
     "updatedAt": "2026-09-03T16:25:06Z"
+  },
+  {
+    "pr": 1509,
+    "title": "docs(dlss5): sync with upstream — ReShade 6.8+, neural consumer, routing",
+    "branch": "docs/dlss5-upstream-sync",
+    "updatedAt": "2026-09-03T21:34:11Z"
   }
 ]
