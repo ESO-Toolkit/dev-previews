@@ -536,11 +536,5 @@
     "title": "feat(fight-replay): add NPC model prototype pipeline",
     "branch": "feat/replay-npc-model-pipeline",
     "updatedAt": "2026-09-03T16:25:06Z"
-  },
-  {
-    "pr": 1508,
-    "title": "docs(dlss5): fix four false claims and let the overlay do the diagnosing",
-    "branch": "docs/dlss5-mv-troubleshooting",
-    "updatedAt": "2026-09-03T19:30:53Z"
   }
 ]
