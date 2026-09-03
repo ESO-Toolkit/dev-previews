@@ -530,5 +530,11 @@
     "title": "feat(build-editor): modernize editing and persistence",
     "branch": "t3code/audit-build-editor-2026",
     "updatedAt": "2026-09-02T09:13:18Z"
+  },
+  {
+    "pr": 1506,
+    "title": "docs(dlss5-guide): present the motion-vector provider as a choice",
+    "branch": "t3code/update-dlss5-guide",
+    "updatedAt": "2026-09-03T07:14:33Z"
   }
 ]
