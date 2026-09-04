@@ -542,5 +542,11 @@
     "title": "Fight replay audit fixes (correctness, memory, render, UX, docs)",
     "branch": "t3code/audit-fight-replay-system",
     "updatedAt": "2026-09-04T08:03:46Z"
+  },
+  {
+    "pr": 1513,
+    "title": "docs(dlss5): document the direct add-on's panel instead of skipping it",
+    "branch": "docs/dlss5-direct-panel",
+    "updatedAt": "2026-09-04T23:56:20Z"
   }
 ]
