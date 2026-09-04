@@ -550,15 +550,15 @@
     "updatedAt": "2026-09-04T06:14:26Z"
   },
   {
-    "pr": 1511,
-    "title": "docs(dlss5): lead with the one-add-on path, demote the feeder to a fallback",
-    "branch": "docs/dlss5-direct-path",
-    "updatedAt": "2026-09-04T06:26:40Z"
-  },
-  {
     "pr": 1512,
     "title": "Fight replay audit fixes (correctness, memory, render, UX, docs)",
     "branch": "t3code/audit-fight-replay-system",
     "updatedAt": "2026-09-04T06:47:27Z"
+  },
+  {
+    "pr": 1511,
+    "title": "docs(dlss5): lead with the one-add-on path, demote the feeder to a fallback",
+    "branch": "docs/dlss5-direct-path",
+    "updatedAt": "2026-09-04T06:55:16Z"
   }
 ]
