@@ -548,5 +548,11 @@
     "title": "feat(replay): overhaul the 3D replay overlay chrome",
     "branch": "t3code/collapse-replay-player-fix-help-menu",
     "updatedAt": "2026-09-04T06:14:26Z"
+  },
+  {
+    "pr": 1511,
+    "title": "docs(dlss5): lead with the one-add-on path, demote the feeder to a fallback",
+    "branch": "docs/dlss5-direct-path",
+    "updatedAt": "2026-09-04T06:26:40Z"
   }
 ]
