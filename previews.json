@@ -542,5 +542,11 @@
     "title": "docs(dlss5): document the direct add-on's panel instead of skipping it",
     "branch": "docs/dlss5-direct-panel",
     "updatedAt": "2026-09-04T23:56:20Z"
+  },
+  {
+    "pr": 1514,
+    "title": "fix(replay): true LRU map-texture cache, capped marker restore, no per-frame alloc",
+    "branch": "fix/replay-followup-nits",
+    "updatedAt": "2026-09-05T02:30:49Z"
   }
 ]
