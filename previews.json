@@ -542,5 +542,11 @@
     "title": "chore(docs): remove the replay follow-up handoff doc",
     "branch": "chore/remove-replay-handoff-doc",
     "updatedAt": "2026-09-05T03:07:21Z"
+  },
+  {
+    "pr": 1516,
+    "title": "feat(fight-replay): ship Captain Vrol and consolidate the reconstructed NPC model pipeline",
+    "branch": "t3code/complete-kyne-aegis-models",
+    "updatedAt": "2026-09-05T03:33:10Z"
   }
 ]
