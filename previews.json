@@ -545,8 +545,8 @@
   },
   {
     "pr": 1516,
-    "title": "feat(fight-replay): ship Captain Vrol and consolidate the reconstructed NPC model pipeline",
+    "title": "feat(fight-replay): ship Kyne's Aegis boss models with texel-projected textures",
     "branch": "t3code/complete-kyne-aegis-models",
-    "updatedAt": "2026-09-05T06:38:48Z"
+    "updatedAt": "2026-09-05T17:32:07Z"
   }
 ]
