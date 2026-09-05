@@ -548,11 +548,5 @@
     "title": "feat(fight-replay): ship Captain Vrol and consolidate the reconstructed NPC model pipeline",
     "branch": "t3code/complete-kyne-aegis-models",
     "updatedAt": "2026-09-05T03:33:10Z"
-  },
-  {
-    "pr": 1517,
-    "title": "fix(replay): stop a stalled name-tag font from blanking the whole 3D arena",
-    "branch": "fix/replay-arena-blank-on-suspended-names",
-    "updatedAt": "2026-09-05T04:56:29Z"
   }
 ]
