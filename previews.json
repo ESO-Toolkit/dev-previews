@@ -547,6 +547,6 @@
     "pr": 1514,
     "title": "fix(replay): true LRU map-texture cache, capped marker restore, no per-frame alloc",
     "branch": "fix/replay-followup-nits",
-    "updatedAt": "2026-09-05T02:30:49Z"
+    "updatedAt": "2026-09-05T02:41:51Z"
   }
 ]
