@@ -538,12 +538,6 @@
     "updatedAt": "2026-09-03T16:25:06Z"
   },
   {
-    "pr": 1513,
-    "title": "docs(dlss5): document the direct add-on's panel instead of skipping it",
-    "branch": "docs/dlss5-direct-panel",
-    "updatedAt": "2026-09-04T23:56:20Z"
-  },
-  {
     "pr": 1515,
     "title": "chore(docs): remove the replay follow-up handoff doc",
     "branch": "chore/remove-replay-handoff-doc",
