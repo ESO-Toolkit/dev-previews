@@ -548,5 +548,11 @@
     "title": "feat(fight-replay): ship Kyne's Aegis boss models with texel-projected textures",
     "branch": "t3code/complete-kyne-aegis-models",
     "updatedAt": "2026-09-06T07:32:29Z"
+  },
+  {
+    "pr": 1519,
+    "title": "feat(fight-replay): render N actors per reconstructed NPC model",
+    "branch": "t3code/replay-instanced-npc-models",
+    "updatedAt": "2026-09-06T07:48:37Z"
   }
 ]
