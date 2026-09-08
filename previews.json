@@ -590,5 +590,11 @@
     "title": "feat(insights): add contextual baseline contracts",
     "branch": "audit/insights-contract-recovery",
     "updatedAt": "2026-09-08T11:55:24Z"
+  },
+  {
+    "pr": 1537,
+    "title": "fix(analysis): correct potion cooldown expectations",
+    "branch": "audit/p0-potions",
+    "updatedAt": "2026-09-08T12:08:37Z"
   }
 ]
