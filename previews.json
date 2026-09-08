@@ -584,5 +584,11 @@
     "title": "fix(deps): update qs transitive dependency",
     "branch": "audit/p1-dependency-advisory",
     "updatedAt": "2026-09-08T11:49:42Z"
+  },
+  {
+    "pr": 1536,
+    "title": "feat(insights): add contextual baseline contracts",
+    "branch": "audit/insights-contract-recovery",
+    "updatedAt": "2026-09-08T11:55:24Z"
   }
 ]
