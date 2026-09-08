@@ -578,5 +578,11 @@
     "title": "fix(analyzer): clarify overlapping damage metrics",
     "branch": "audit/p0-metric-semantics",
     "updatedAt": "2026-09-08T11:29:20Z"
+  },
+  {
+    "pr": 1535,
+    "title": "fix(deps): update qs transitive dependency",
+    "branch": "audit/p1-dependency-advisory",
+    "updatedAt": "2026-09-08T11:49:42Z"
   }
 ]
