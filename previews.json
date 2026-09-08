@@ -544,12 +544,6 @@
     "updatedAt": "2026-09-05T03:07:21Z"
   },
   {
-    "pr": 1529,
-    "title": "fix(replay): show a floor map on trash pulls by inheriting it from the boss fight",
-    "branch": "fix/replay-trash-pull-map",
-    "updatedAt": "2026-09-08T06:53:23Z"
-  },
-  {
     "pr": 1516,
     "title": "feat(fight-replay): ship Kyne's Aegis boss models with texel-projected textures",
     "branch": "t3code/complete-kyne-aegis-models",
