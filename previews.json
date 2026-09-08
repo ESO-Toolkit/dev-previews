@@ -548,5 +548,11 @@
     "title": "feat(fight-replay): ship Kyne's Aegis boss models with texel-projected textures",
     "branch": "t3code/complete-kyne-aegis-models",
     "updatedAt": "2026-09-08T07:55:45Z"
+  },
+  {
+    "pr": 1530,
+    "title": "fix(api): classify analyzer request failures",
+    "branch": "audit/p1-errors",
+    "updatedAt": "2026-09-08T08:08:39Z"
   }
 ]
