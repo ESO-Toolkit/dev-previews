@@ -596,5 +596,11 @@
     "title": "feat(fight-replay): render NPC models by default and drop the npcModels opt-in",
     "branch": "feat/replay-models-on-by-default",
     "updatedAt": "2026-09-08T14:12:59Z"
+  },
+  {
+    "pr": 1540,
+    "title": "test(e2e): harden Analyzer route fixtures",
+    "branch": "audit/test-infrastructure-pr",
+    "updatedAt": "2026-09-08T14:14:10Z"
   }
 ]
