@@ -572,5 +572,11 @@
     "title": "fix(analyzer): harden event pagination integrity",
     "branch": "audit/p0-events",
     "updatedAt": "2026-09-08T11:21:13Z"
+  },
+  {
+    "pr": 1534,
+    "title": "fix(analyzer): clarify overlapping damage metrics",
+    "branch": "audit/p0-metric-semantics",
+    "updatedAt": "2026-09-08T11:29:20Z"
   }
 ]
