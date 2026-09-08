@@ -586,12 +586,6 @@
     "updatedAt": "2026-09-08T12:08:37Z"
   },
   {
-    "pr": 1538,
-    "title": "docs(fight-replay): correct the NPC handoff now that #1516 is merged",
-    "branch": "docs/npc-handoff-post-merge",
-    "updatedAt": "2026-09-08T13:05:20Z"
-  },
-  {
     "pr": 1532,
     "title": "fix(insights): harden timeline and status effect calculations",
     "branch": "audit/p0-timeline-status",
