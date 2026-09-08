@@ -590,11 +590,5 @@
     "title": "fix(analysis): correct potion cooldown expectations",
     "branch": "audit/p0-potions",
     "updatedAt": "2026-09-08T12:08:37Z"
-  },
-  {
-    "pr": 1516,
-    "title": "feat(fight-replay): NPC model catalog — 22/47 trial bosses, five complete trials, first dungeon archetype",
-    "branch": "t3code/complete-kyne-aegis-models",
-    "updatedAt": "2026-09-08T12:56:03Z"
   }
 ]
