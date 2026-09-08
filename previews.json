@@ -590,5 +590,11 @@
     "title": "fix(insights): harden timeline and status effect calculations",
     "branch": "audit/p0-timeline-status",
     "updatedAt": "2026-09-08T13:08:38Z"
+  },
+  {
+    "pr": 1539,
+    "title": "feat(fight-replay): render NPC models by default and drop the npcModels opt-in",
+    "branch": "feat/replay-models-on-by-default",
+    "updatedAt": "2026-09-08T14:12:59Z"
   }
 ]
