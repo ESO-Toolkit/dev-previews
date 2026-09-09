@@ -758,5 +758,11 @@
     "title": "security(csp): add bounded violation reporting",
     "branch": "security/csp-reporting-endpoint",
     "updatedAt": "2026-09-09T13:22:14Z"
+  },
+  {
+    "pr": 1571,
+    "title": "fix(deps): remediate hono and js-yaml advisories",
+    "branch": "audit/p1-dependency-advisory-full-audit",
+    "updatedAt": "2026-09-09T13:34:05Z"
   }
 ]
