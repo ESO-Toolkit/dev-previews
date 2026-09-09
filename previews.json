@@ -740,5 +740,11 @@
     "title": "fix(a11y): label CookieConsent surfaces",
     "branch": "audit/p2-a11y-controls",
     "updatedAt": "2026-09-09T12:55:29Z"
+  },
+  {
+    "pr": 1567,
+    "title": "feat(insights): integrate contextual analysis workflow",
+    "branch": "audit/p2-product-completion-integration-approved",
+    "updatedAt": "2026-09-09T13:04:20Z"
   }
 ]
