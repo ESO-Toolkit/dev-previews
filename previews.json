@@ -680,5 +680,11 @@
     "title": "perf(analyzer): gate route prefetch by network and intent",
     "branch": "audit/p2-prefetch",
     "updatedAt": "2026-09-09T10:37:22Z"
+  },
+  {
+    "pr": 1556,
+    "title": "perf(insights): benchmark PlayersPanel event index",
+    "branch": "perf/players-panel-index-benchmark",
+    "updatedAt": "2026-09-09T10:54:49Z"
   }
 ]
