@@ -632,5 +632,11 @@
     "title": "Add privacy-aware field Web Vitals telemetry",
     "branch": "audit/p2-web-vitals-telemetry",
     "updatedAt": "2026-09-09T04:45:55Z"
+  },
+  {
+    "pr": 1548,
+    "title": "feat(dashboard): expose live synchronization health",
+    "branch": "audit/p1-live-health",
+    "updatedAt": "2026-09-09T09:04:16Z"
   }
 ]
