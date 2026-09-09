@@ -656,5 +656,11 @@
     "title": "feat(insights): add versioned encounter rule engine",
     "branch": "audit/p1-encounter-rule-engine",
     "updatedAt": "2026-09-09T10:01:38Z"
+  },
+  {
+    "pr": 1552,
+    "title": "perf(calculator): defer tab content rendering",
+    "branch": "audit/p2-calculator-deferred-subtree-clean",
+    "updatedAt": "2026-09-09T10:15:30Z"
   }
 ]
