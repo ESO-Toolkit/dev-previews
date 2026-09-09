@@ -602,5 +602,11 @@
     "title": "perf(insights): index player events in one pass",
     "branch": "perf/players-panel-one-pass-index",
     "updatedAt": "2026-09-09T00:01:41Z"
+  },
+  {
+    "pr": 1543,
+    "title": "Harden OAuth token storage boundaries",
+    "branch": "security/oauth-token-hardening",
+    "updatedAt": "2026-09-09T00:16:50Z"
   }
 ]
