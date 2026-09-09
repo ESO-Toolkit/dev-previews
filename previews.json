@@ -674,5 +674,11 @@
     "title": "test: repair Analyzer Playwright route fixtures",
     "branch": "audit/p1-playwright-route-matrix",
     "updatedAt": "2026-09-09T10:27:57Z"
+  },
+  {
+    "pr": 1555,
+    "title": "perf(analyzer): gate route prefetch by network and intent",
+    "branch": "audit/p2-prefetch",
+    "updatedAt": "2026-09-09T10:37:22Z"
   }
 ]
