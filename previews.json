@@ -608,5 +608,11 @@
     "title": "Harden OAuth token storage boundaries",
     "branch": "security/oauth-token-hardening",
     "updatedAt": "2026-09-09T00:16:50Z"
+  },
+  {
+    "pr": 1544,
+    "title": "feat: add secure Analyzer edge routing",
+    "branch": "security/deep-link-response-headers",
+    "updatedAt": "2026-09-09T00:40:26Z"
   }
 ]
