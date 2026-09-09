@@ -686,5 +686,11 @@
     "title": "perf(insights): benchmark PlayersPanel event index",
     "branch": "perf/players-panel-index-benchmark",
     "updatedAt": "2026-09-09T10:54:49Z"
+  },
+  {
+    "pr": 1557,
+    "title": "feat(analyzer): add explicit panel lifecycle states",
+    "branch": "audit/p1-analyzer-panel-state",
+    "updatedAt": "2026-09-09T11:10:58Z"
   }
 ]
