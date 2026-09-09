@@ -668,5 +668,11 @@
     "title": "perf(insights): render independent content incrementally",
     "branch": "perf/insights-incremental-render",
     "updatedAt": "2026-09-09T10:23:02Z"
+  },
+  {
+    "pr": 1554,
+    "title": "test: repair Analyzer Playwright route fixtures",
+    "branch": "audit/p1-playwright-route-matrix",
+    "updatedAt": "2026-09-09T10:27:57Z"
   }
 ]
