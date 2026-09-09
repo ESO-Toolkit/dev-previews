@@ -716,5 +716,11 @@
     "title": "fix(analyzer): expose overview panel lifecycle states",
     "branch": "audit/p1-analyzer-overview-states",
     "updatedAt": "2026-09-09T12:01:58Z"
+  },
+  {
+    "pr": 1562,
+    "title": "fix(analyzer): expose survival panel lifecycle states",
+    "branch": "audit/p1-analyzer-survival-panel-states",
+    "updatedAt": "2026-09-09T12:18:01Z"
   }
 ]
