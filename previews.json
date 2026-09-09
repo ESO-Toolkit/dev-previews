@@ -626,5 +626,11 @@
     "title": "fix(insights): expose explicit panel lifecycle states",
     "branch": "audit/p1-insights-panel-states",
     "updatedAt": "2026-09-09T03:25:58Z"
+  },
+  {
+    "pr": 1547,
+    "title": "Add privacy-aware field Web Vitals telemetry",
+    "branch": "audit/p2-web-vitals-telemetry",
+    "updatedAt": "2026-09-09T04:45:55Z"
   }
 ]
