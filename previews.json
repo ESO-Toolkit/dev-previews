@@ -644,5 +644,11 @@
     "title": "fix(analyzer): recover from lazy chunk load failures",
     "branch": "fix/analyzer-lazy-chunk-recovery",
     "updatedAt": "2026-09-09T09:32:22Z"
+  },
+  {
+    "pr": 1550,
+    "title": "fix(events): cache successful empty streams",
+    "branch": "audit/p1-empty-stream-cache",
+    "updatedAt": "2026-09-09T09:48:02Z"
   }
 ]
