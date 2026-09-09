@@ -620,5 +620,11 @@
     "title": "Harden OAuth token storage boundaries",
     "branch": "security/oauth-token-hardening",
     "updatedAt": "2026-09-09T02:59:09Z"
+  },
+  {
+    "pr": 1546,
+    "title": "fix(insights): expose explicit panel lifecycle states",
+    "branch": "audit/p1-insights-panel-states",
+    "updatedAt": "2026-09-09T03:25:58Z"
   }
 ]
