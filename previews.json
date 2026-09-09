@@ -746,5 +746,11 @@
     "title": "feat(insights): integrate contextual analysis workflow",
     "branch": "audit/p2-product-completion-integration-approved",
     "updatedAt": "2026-09-09T13:04:20Z"
+  },
+  {
+    "pr": 1568,
+    "title": "fix(analyzer): integrate bounded event pagination",
+    "branch": "perf/event-bounds-pagination-integration",
+    "updatedAt": "2026-09-09T13:13:29Z"
   }
 ]
