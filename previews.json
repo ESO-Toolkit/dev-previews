@@ -662,5 +662,11 @@
     "title": "perf(calculator): defer tab content rendering",
     "branch": "audit/p2-calculator-deferred-subtree-clean",
     "updatedAt": "2026-09-09T10:15:30Z"
+  },
+  {
+    "pr": 1553,
+    "title": "perf(insights): render independent content incrementally",
+    "branch": "perf/insights-incremental-render",
+    "updatedAt": "2026-09-09T10:23:02Z"
   }
 ]
