@@ -614,5 +614,11 @@
     "title": "feat: add secure Analyzer edge routing",
     "branch": "security/deep-link-response-headers",
     "updatedAt": "2026-09-09T00:40:26Z"
+  },
+  {
+    "pr": 1545,
+    "title": "fix(analyzer): bound raw event stream caches",
+    "branch": "audit/p2-event-bounds",
+    "updatedAt": "2026-09-09T02:05:28Z"
   }
 ]
