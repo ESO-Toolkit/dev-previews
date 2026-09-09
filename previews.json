@@ -752,5 +752,11 @@
     "title": "fix(analyzer): integrate bounded event pagination",
     "branch": "perf/event-bounds-pagination-integration",
     "updatedAt": "2026-09-09T13:13:29Z"
+  },
+  {
+    "pr": 1569,
+    "title": "security(csp): add bounded violation reporting",
+    "branch": "security/csp-reporting-endpoint",
+    "updatedAt": "2026-09-09T13:22:14Z"
   }
 ]
