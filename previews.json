@@ -692,5 +692,11 @@
     "title": "feat(analyzer): add explicit panel lifecycle states",
     "branch": "audit/p1-analyzer-panel-state",
     "updatedAt": "2026-09-09T11:10:58Z"
+  },
+  {
+    "pr": 1558,
+    "title": "test(insights): add direct Analyzer regression coverage",
+    "branch": "audit/direct-test-bundle",
+    "updatedAt": "2026-09-09T11:22:25Z"
   }
 ]
