@@ -974,5 +974,11 @@
     "title": "test(reports): harden report list fixtures",
     "branch": "audit/full-report-lists-fixtures",
     "updatedAt": "2026-09-13T23:22:16Z"
+  },
+  {
+    "pr": 1614,
+    "title": "test(insights): cover product workflow route",
+    "branch": "audit/product-completion-workflow-e2e",
+    "updatedAt": "2026-09-13T23:48:39Z"
   }
 ]
