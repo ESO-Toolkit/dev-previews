@@ -854,5 +854,11 @@
     "title": "test(playwright): stabilize full suite artifacts",
     "branch": "test/full-suite-stability",
     "updatedAt": "2026-09-13T18:28:47Z"
+  },
+  {
+    "pr": 1592,
+    "title": "test(a11y): stabilize calculator page heading check",
+    "branch": "fix/calculator-page-heading",
+    "updatedAt": "2026-09-13T19:09:44Z"
   }
 ]
