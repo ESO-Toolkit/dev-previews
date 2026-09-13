@@ -902,5 +902,11 @@
     "title": "test: stabilize live logging full-suite fixtures",
     "branch": "audit/full-live-logging-fixtures",
     "updatedAt": "2026-09-13T20:09:05Z"
+  },
+  {
+    "pr": 1600,
+    "title": "perf(analyzer): add post-worker performance evidence",
+    "branch": "audit/p2-post-worker-performance-evidence",
+    "updatedAt": "2026-09-13T20:15:27Z"
   }
 ]
