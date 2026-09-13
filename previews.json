@@ -860,5 +860,11 @@
     "title": "test(a11y): stabilize calculator page heading check",
     "branch": "fix/calculator-page-heading",
     "updatedAt": "2026-09-13T19:09:44Z"
+  },
+  {
+    "pr": 1593,
+    "title": "test(insights): cover preference persistence hooks",
+    "branch": "audit/p2-preference-persistence",
+    "updatedAt": "2026-09-13T19:25:29Z"
   }
 ]
