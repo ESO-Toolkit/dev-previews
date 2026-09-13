@@ -824,5 +824,11 @@
     "title": "test(analyzer): repair authenticated route coverage",
     "branch": "audit/analyzer-test-route-cleanup",
     "updatedAt": "2026-09-13T16:48:13Z"
+  },
+  {
+    "pr": 1587,
+    "title": "test(playwright): add live health cross-engine config",
+    "branch": "audit/live-health-engine-config",
+    "updatedAt": "2026-09-13T17:04:42Z"
   }
 ]
