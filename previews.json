@@ -800,5 +800,11 @@
     "title": "perf(analyzer): bound and index calculation inputs",
     "branch": "perf/analyzer-calculation-integration",
     "updatedAt": "2026-09-13T16:23:59Z"
+  },
+  {
+    "pr": 1582,
+    "title": "fix(analyzer): preserve unknown metric semantics",
+    "branch": "audit/p0-unknown-metric-semantics",
+    "updatedAt": "2026-09-13T16:32:52Z"
   }
 ]
