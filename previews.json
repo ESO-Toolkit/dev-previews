@@ -950,5 +950,11 @@
     "title": "test(accessibility): stabilize full-suite fixtures",
     "branch": "audit/full-accessibility-fixtures",
     "updatedAt": "2026-09-13T22:45:18Z"
+  },
+  {
+    "pr": 1609,
+    "title": "test: harden OAuth callback state coverage",
+    "branch": "audit/auth-enhanced-session-contract",
+    "updatedAt": "2026-09-13T22:53:02Z"
   }
 ]
