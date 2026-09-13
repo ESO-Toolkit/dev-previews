@@ -764,5 +764,11 @@
     "title": "fix(deps): remediate hono and js-yaml advisories",
     "branch": "audit/p1-dependency-advisory-full-audit",
     "updatedAt": "2026-09-09T13:34:05Z"
+  },
+  {
+    "pr": 1576,
+    "title": "fix: preserve unknown fight outcomes",
+    "branch": "audit/p0-fight-outcome-semantics",
+    "updatedAt": "2026-09-13T15:37:44Z"
   }
 ]
