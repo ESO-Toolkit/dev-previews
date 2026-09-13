@@ -836,5 +836,11 @@
     "title": "fix: render unknown fight outcomes neutrally",
     "branch": "audit/fight-outcome-report-cards",
     "updatedAt": "2026-09-13T17:28:18Z"
+  },
+  {
+    "pr": 1589,
+    "title": "fix(analyzer): preserve unknown critical multiplier semantics",
+    "branch": "audit/critical-multiplier-unknown-fix",
+    "updatedAt": "2026-09-13T17:31:41Z"
   }
 ]
