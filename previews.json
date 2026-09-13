@@ -806,5 +806,11 @@
     "title": "fix(analyzer): preserve unknown metric semantics",
     "branch": "audit/p0-unknown-metric-semantics",
     "updatedAt": "2026-09-13T16:32:52Z"
+  },
+  {
+    "pr": 1583,
+    "title": "test(analyzer): verify populated accessibility matrix",
+    "branch": "audit/p2-playwright-a11y-matrix",
+    "updatedAt": "2026-09-13T16:38:30Z"
   }
 ]
