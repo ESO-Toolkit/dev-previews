@@ -770,5 +770,11 @@
     "title": "fix: preserve unknown fight outcomes",
     "branch": "audit/p0-fight-outcome-semantics",
     "updatedAt": "2026-09-13T15:37:44Z"
+  },
+  {
+    "pr": 1577,
+    "title": "fix: distinguish critical damage share",
+    "branch": "audit/p0-damage-critical-share",
+    "updatedAt": "2026-09-13T15:44:13Z"
   }
 ]
