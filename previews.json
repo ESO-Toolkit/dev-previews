@@ -908,5 +908,11 @@
     "title": "perf(analyzer): add post-worker performance evidence",
     "branch": "audit/p2-post-worker-performance-evidence",
     "updatedAt": "2026-09-13T20:15:27Z"
+  },
+  {
+    "pr": 1601,
+    "title": "test(e2e): stabilize build leaderboard fixtures",
+    "branch": "audit/full-build-leaderboard-fixtures",
+    "updatedAt": "2026-09-13T20:21:16Z"
   }
 ]
