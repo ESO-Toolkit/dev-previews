@@ -890,5 +890,11 @@
     "title": "feat(insights): add accountable finding lineage",
     "branch": "audit/p2-insight-sharing-model",
     "updatedAt": "2026-09-13T19:46:58Z"
+  },
+  {
+    "pr": 1598,
+    "title": "test(playwright): isolate mobile build editor coverage",
+    "branch": "audit/full-config-mobile-isolation",
+    "updatedAt": "2026-09-13T19:53:48Z"
   }
 ]
