@@ -944,5 +944,11 @@
     "title": "test(security): guard client security controls",
     "branch": "test/security-controls-regressions",
     "updatedAt": "2026-09-13T22:21:24Z"
+  },
+  {
+    "pr": 1608,
+    "title": "test(accessibility): stabilize full-suite fixtures",
+    "branch": "audit/full-accessibility-fixtures",
+    "updatedAt": "2026-09-13T22:45:18Z"
   }
 ]
