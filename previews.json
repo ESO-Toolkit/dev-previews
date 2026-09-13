@@ -926,5 +926,11 @@
     "title": "test(e2e): make utility page coverage deterministic",
     "branch": "audit/utility-pages-fixture-repair",
     "updatedAt": "2026-09-13T21:24:16Z"
+  },
+  {
+    "pr": 1605,
+    "title": "test: cover raw event persistence boundary",
+    "branch": "audit/raw-event-persistence-boundary",
+    "updatedAt": "2026-09-13T22:08:52Z"
   }
 ]
