@@ -818,5 +818,11 @@
     "title": "fix(insights): harden decision summary contract",
     "branch": "audit/p1-decision-summary-hardening-restack",
     "updatedAt": "2026-09-13T16:41:35Z"
+  },
+  {
+    "pr": 1585,
+    "title": "test(analyzer): repair authenticated route coverage",
+    "branch": "audit/analyzer-test-route-cleanup",
+    "updatedAt": "2026-09-13T16:48:13Z"
   }
 ]
