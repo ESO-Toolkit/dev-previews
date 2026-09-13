@@ -866,5 +866,11 @@
     "title": "test(insights): cover preference persistence hooks",
     "branch": "audit/p2-preference-persistence",
     "updatedAt": "2026-09-13T19:25:29Z"
+  },
+  {
+    "pr": 1594,
+    "title": "fix(analyzer): recover event requests after reconnect",
+    "branch": "audit/p1-online-recovery",
+    "updatedAt": "2026-09-13T19:27:56Z"
   }
 ]
