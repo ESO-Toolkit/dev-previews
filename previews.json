@@ -872,5 +872,11 @@
     "title": "fix(analyzer): recover event requests after reconnect",
     "branch": "audit/p1-online-recovery",
     "updatedAt": "2026-09-13T19:27:56Z"
+  },
+  {
+    "pr": 1595,
+    "title": "test: stabilize 404 page Playwright coverage",
+    "branch": "audit/404-page-playwright",
+    "updatedAt": "2026-09-13T19:31:22Z"
   }
 ]
