@@ -914,5 +914,11 @@
     "title": "test(e2e): stabilize build leaderboard fixtures",
     "branch": "audit/full-build-leaderboard-fixtures",
     "updatedAt": "2026-09-13T20:21:16Z"
+  },
+  {
+    "pr": 1602,
+    "title": "test: stabilize Roster Hub browser fixtures",
+    "branch": "audit/full-roster-hub-fixtures",
+    "updatedAt": "2026-09-13T20:36:45Z"
   }
 ]
