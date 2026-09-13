@@ -956,5 +956,11 @@
     "title": "test: harden OAuth callback state coverage",
     "branch": "audit/auth-enhanced-session-contract",
     "updatedAt": "2026-09-13T22:53:02Z"
+  },
+  {
+    "pr": 1611,
+    "title": "test(auth): cover OAuth callback failures",
+    "branch": "audit/oauth-callback-regression",
+    "updatedAt": "2026-09-13T23:18:24Z"
   }
 ]
