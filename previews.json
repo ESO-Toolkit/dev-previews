@@ -968,5 +968,11 @@
     "title": "test(smoke): stabilize populated Analyzer skeleton coverage",
     "branch": "audit/skeleton-smoke-fixture-repair",
     "updatedAt": "2026-09-13T23:19:35Z"
+  },
+  {
+    "pr": 1613,
+    "title": "test(reports): harden report list fixtures",
+    "branch": "audit/full-report-lists-fixtures",
+    "updatedAt": "2026-09-13T23:22:16Z"
   }
 ]
