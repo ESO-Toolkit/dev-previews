@@ -980,5 +980,11 @@
     "title": "test(insights): cover product workflow route",
     "branch": "audit/product-completion-workflow-e2e",
     "updatedAt": "2026-09-13T23:48:39Z"
+  },
+  {
+    "pr": 1615,
+    "title": "fix: harden Analyzer report control accessibility",
+    "branch": "audit/p2-analyzer-controls-a11y",
+    "updatedAt": "2026-09-13T23:53:38Z"
   }
 ]
