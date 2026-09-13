@@ -788,5 +788,11 @@
     "title": "fix(insights): preserve unknown uptime semantics",
     "branch": "audit/uptime-percentage-integrity",
     "updatedAt": "2026-09-13T16:00:03Z"
+  },
+  {
+    "pr": 1580,
+    "title": "feat(analyzer): expose abilities debug panel states",
+    "branch": "audit/p1-analyzer-debug-panel-states-followup",
+    "updatedAt": "2026-09-13T16:09:53Z"
   }
 ]
