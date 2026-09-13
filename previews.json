@@ -938,5 +938,11 @@
     "title": "fix(report-fights): restore import ordering",
     "branch": "audit/import-order-report-fights",
     "updatedAt": "2026-09-13T22:16:27Z"
+  },
+  {
+    "pr": 1607,
+    "title": "test(security): guard client security controls",
+    "branch": "test/security-controls-regressions",
+    "updatedAt": "2026-09-13T22:21:24Z"
   }
 ]
