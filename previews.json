@@ -884,5 +884,11 @@
     "title": "test(build-hub): validate preview message trust tuple",
     "branch": "audit/postmessage-origin-regression",
     "updatedAt": "2026-09-13T19:32:46Z"
+  },
+  {
+    "pr": 1597,
+    "title": "feat(insights): add accountable finding lineage",
+    "branch": "audit/p2-insight-sharing-model",
+    "updatedAt": "2026-09-13T19:46:58Z"
   }
 ]
