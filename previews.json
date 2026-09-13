@@ -896,5 +896,11 @@
     "title": "test(playwright): isolate mobile build editor coverage",
     "branch": "audit/full-config-mobile-isolation",
     "updatedAt": "2026-09-13T19:53:48Z"
+  },
+  {
+    "pr": 1599,
+    "title": "test: stabilize live logging full-suite fixtures",
+    "branch": "audit/full-live-logging-fixtures",
+    "updatedAt": "2026-09-13T20:04:56Z"
   }
 ]
