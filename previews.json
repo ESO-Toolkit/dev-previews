@@ -848,5 +848,11 @@
     "title": "perf: keep Analyzer damage calculations responsive",
     "branch": "perf/worker-foundation",
     "updatedAt": "2026-09-13T17:33:40Z"
+  },
+  {
+    "pr": 1591,
+    "title": "test(playwright): stabilize full suite artifacts",
+    "branch": "test/full-suite-stability",
+    "updatedAt": "2026-09-13T18:28:47Z"
   }
 ]
