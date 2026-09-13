@@ -842,5 +842,11 @@
     "title": "fix(analyzer): preserve unknown critical multiplier semantics",
     "branch": "audit/critical-multiplier-unknown-fix",
     "updatedAt": "2026-09-13T17:31:41Z"
+  },
+  {
+    "pr": 1590,
+    "title": "perf: keep Analyzer damage calculations responsive",
+    "branch": "perf/worker-foundation",
+    "updatedAt": "2026-09-13T17:33:40Z"
   }
 ]
