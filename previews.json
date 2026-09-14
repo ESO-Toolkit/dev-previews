@@ -986,5 +986,11 @@
     "title": "fix: harden Analyzer report control accessibility",
     "branch": "audit/p2-analyzer-controls-a11y",
     "updatedAt": "2026-09-13T23:53:38Z"
+  },
+  {
+    "pr": 1616,
+    "title": "fix(analyzer): remediate Analyzer and Insights audit backlog",
+    "branch": "audit/analyzer-insights-integration-candidate",
+    "updatedAt": "2026-09-14T00:58:37Z"
   }
 ]
