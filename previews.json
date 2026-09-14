@@ -688,12 +688,6 @@
     "updatedAt": "2026-09-09T11:32:20Z"
   },
   {
-    "pr": 1560,
-    "title": "fix(insights): expose nested panel states",
-    "branch": "audit/p1-analyzer-nested-insights-states",
-    "updatedAt": "2026-09-09T11:45:51Z"
-  },
-  {
     "pr": 1561,
     "title": "fix(analyzer): expose overview panel lifecycle states",
     "branch": "audit/p1-analyzer-overview-states",
