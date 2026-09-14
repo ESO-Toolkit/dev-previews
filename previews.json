@@ -586,12 +586,6 @@
     "updatedAt": "2026-09-08T13:08:38Z"
   },
   {
-    "pr": 1540,
-    "title": "test(e2e): harden Analyzer route fixtures",
-    "branch": "audit/test-infrastructure-pr",
-    "updatedAt": "2026-09-08T14:27:08Z"
-  },
-  {
     "pr": 1542,
     "title": "perf(insights): index player events in one pass",
     "branch": "perf/players-panel-one-pass-index",
