@@ -938,11 +938,5 @@
     "title": "fix: harden Analyzer report control accessibility",
     "branch": "audit/p2-analyzer-controls-a11y",
     "updatedAt": "2026-09-13T23:53:38Z"
-  },
-  {
-    "pr": 1618,
-    "title": "fix(analyzer): undo visual regressions from the Analyzer audit remediation",
-    "branch": "fix/analyzer-visual-regressions",
-    "updatedAt": "2026-09-15T03:10:45Z"
   }
 ]
