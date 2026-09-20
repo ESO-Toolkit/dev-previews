@@ -938,5 +938,11 @@
     "title": "fix: harden Analyzer report control accessibility",
     "branch": "audit/p2-analyzer-controls-a11y",
     "updatedAt": "2026-09-13T23:53:38Z"
+  },
+  {
+    "pr": 1619,
+    "title": "docs(dlss5): document feeder compatibility findings",
+    "branch": "docs/dlss5-guide-compatibility",
+    "updatedAt": "2026-09-20T22:26:31Z"
   }
 ]
