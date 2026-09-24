@@ -938,11 +938,5 @@
     "title": "fix: harden Analyzer report control accessibility",
     "branch": "audit/p2-analyzer-controls-a11y",
     "updatedAt": "2026-09-13T23:53:38Z"
-  },
-  {
-    "pr": 1622,
-    "title": "docs: update DLSS5 direct path guidance",
-    "branch": "docs/dlss5-direct-sf-guide",
-    "updatedAt": "2026-09-24T18:08:19Z"
   }
 ]
