@@ -938,5 +938,11 @@
     "title": "fix: harden Analyzer report control accessibility",
     "branch": "audit/p2-analyzer-controls-a11y",
     "updatedAt": "2026-09-13T23:53:38Z"
+  },
+  {
+    "pr": 1623,
+    "title": "Prepare ESO Toolkit for Update 51",
+    "branch": "feat/update-51-prep",
+    "updatedAt": "2026-09-27T21:53:51Z"
   }
 ]
