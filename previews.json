@@ -940,15 +940,15 @@
     "updatedAt": "2026-09-13T23:53:38Z"
   },
   {
-    "pr": 1623,
-    "title": "Prepare ESO Toolkit for Update 51",
-    "branch": "feat/update-51-prep",
-    "updatedAt": "2026-09-29T11:23:30Z"
-  },
-  {
     "pr": 1628,
     "title": "feat(marketing): Add ESO Toolkit vs ESO Logs promo video source",
     "branch": "feat/esotk-vs-esologs-promo-video",
     "updatedAt": "2026-09-29T12:41:47Z"
+  },
+  {
+    "pr": 1623,
+    "title": "Prepare ESO Toolkit for Update 51",
+    "branch": "feat/update-51-prep",
+    "updatedAt": "2026-09-29T18:32:00Z"
   }
 ]
