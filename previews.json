@@ -940,12 +940,6 @@
     "updatedAt": "2026-09-13T23:53:38Z"
   },
   {
-    "pr": 1629,
-    "title": "feat(kalpa): refresh homepage and product page with current features",
-    "branch": "feat/kalpa-feature-refresh",
-    "updatedAt": "2026-09-30T10:06:24Z"
-  },
-  {
     "pr": 1628,
     "title": "feat(marketing): Add narrated ESO Toolkit vs ESO Logs explainer video",
     "branch": "feat/esotk-vs-esologs-promo-video",
