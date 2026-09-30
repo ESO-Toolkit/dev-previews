@@ -940,15 +940,15 @@
     "updatedAt": "2026-09-13T23:53:38Z"
   },
   {
-    "pr": 1628,
-    "title": "feat(marketing): Add narrated ESO Toolkit vs ESO Logs explainer video",
-    "branch": "feat/esotk-vs-esologs-promo-video",
-    "updatedAt": "2026-09-30T11:51:27Z"
-  },
-  {
     "pr": 1630,
     "title": "feat(replay): add deterministic whole-model motion to boss models",
     "branch": "feat/replay-boss-motion",
     "updatedAt": "2026-09-30T12:27:10Z"
+  },
+  {
+    "pr": 1628,
+    "title": "feat(marketing): Add narrated ESO Toolkit vs ESO Logs explainer video",
+    "branch": "feat/esotk-vs-esologs-promo-video",
+    "updatedAt": "2026-09-30T12:34:43Z"
   }
 ]
