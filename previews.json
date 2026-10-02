@@ -953,8 +953,8 @@
   },
   {
     "pr": 1631,
-    "title": "fix(kalpa): cover Graphics Stack and current desktop features",
+    "title": "feat(kalpa): showcase Graphics Stack and custom addon editing",
     "branch": "feat/kalpa-audit-followup",
-    "updatedAt": "2026-09-30T20:42:48Z"
+    "updatedAt": "2026-10-02T22:29:47Z"
   }
 ]
