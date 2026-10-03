@@ -1,1 +1,0 @@
-var e=null;function t(t){e=t}function n(t){return e?.getSetNameForItem(t)}function r(t){return e?.isTwoHandedWeapon(t)??!1}export{r as n,t as r,n as t};
