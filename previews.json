@@ -944,5 +944,11 @@
     "title": "feat(marketing): Add narrated ESO Toolkit vs ESO Logs explainer video",
     "branch": "feat/esotk-vs-esologs-promo-video",
     "updatedAt": "2026-09-30T12:34:43Z"
+  },
+  {
+    "pr": 1633,
+    "title": "fix(replay): settle NPC deaths at the fight endpoint",
+    "branch": "fix/replay-terminal-death",
+    "updatedAt": "2026-10-03T23:29:02Z"
   }
 ]
