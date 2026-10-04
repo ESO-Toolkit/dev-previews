@@ -950,5 +950,11 @@
     "title": "fix: harden sessions and resolve site audit findings",
     "branch": "t3code/site-audit-review",
     "updatedAt": "2026-10-04T04:20:34Z"
+  },
+  {
+    "pr": 1638,
+    "title": "fix(replay): make Yandir animation visible at replay scale",
+    "branch": "fix/replay-yandir-visible-motion",
+    "updatedAt": "2026-10-04T06:51:38Z"
   }
 ]
