@@ -952,12 +952,6 @@
     "updatedAt": "2026-10-04T04:20:34Z"
   },
   {
-    "pr": 1636,
-    "title": "fix(auth): preserve Kalpa callback nonce through OAuth",
-    "branch": "claude/kalpa-auth-state",
-    "updatedAt": "2026-10-04T04:50:23Z"
-  },
-  {
     "pr": 1637,
     "title": "feat(replay): add authored skeletal animation for Yandir",
     "branch": "feat/replay-yandir-rig-pilot",
