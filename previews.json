@@ -944,5 +944,11 @@
     "title": "feat(marketing): Add narrated ESO Toolkit vs ESO Logs explainer video",
     "branch": "feat/esotk-vs-esologs-promo-video",
     "updatedAt": "2026-09-30T12:34:43Z"
+  },
+  {
+    "pr": 1634,
+    "title": "fix(replay): synchronize death and resurrection with event times",
+    "branch": "fix/replay-lifecycle-timing",
+    "updatedAt": "2026-10-04T01:49:07Z"
   }
 ]
