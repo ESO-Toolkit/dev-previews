@@ -944,5 +944,11 @@
     "title": "feat(marketing): Add narrated ESO Toolkit vs ESO Logs explainer video",
     "branch": "feat/esotk-vs-esologs-promo-video",
     "updatedAt": "2026-09-30T12:34:43Z"
+  },
+  {
+    "pr": 1635,
+    "title": "fix: harden sessions and resolve site audit findings",
+    "branch": "t3code/site-audit-review",
+    "updatedAt": "2026-10-04T04:02:41Z"
   }
 ]
