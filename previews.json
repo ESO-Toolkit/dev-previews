@@ -950,5 +950,11 @@
     "title": "fix: harden sessions and resolve site audit findings",
     "branch": "t3code/site-audit-review",
     "updatedAt": "2026-10-04T04:20:34Z"
+  },
+  {
+    "pr": 1636,
+    "title": "fix(auth): preserve Kalpa callback nonce through OAuth",
+    "branch": "claude/kalpa-auth-state",
+    "updatedAt": "2026-10-04T04:50:23Z"
   }
 ]
