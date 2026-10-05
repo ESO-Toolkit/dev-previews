@@ -960,8 +960,8 @@
     {
         "alias":  "replay-drafts-20261004",
         "branch":  "t3code/continue-replay-model-workflow",
-        "commit":  "80a6b1035",
-        "updatedAt":  "2026-10-04T22:38:45Z",
+        "commit":  "494e584ff",
+        "updatedAt":  "2026-10-05T06:51:17Z",
         "local":  true
     }
 ]
