@@ -1,967 +1,967 @@
-﻿[
-    {
-        "alias":  "parse-demo",
-        "branch":  "feature/parse-analysis-demo-log",
-        "commit":  "ac7921d3",
-        "updatedAt":  "2026-03-08T20:31:36Z",
-        "local":  true
-    },
-    {
-        "alias":  "fix-player-card-hover-clip",
-        "branch":  "fix/player-card-hover-clip",
-        "commit":  "7d3d78e1",
-        "updatedAt":  "2026-03-08T22:29:02Z",
-        "local":  true
-    },
-    {
-        "pr":  820,
-        "title":  "fix(insights): prevent player card hover clip at top edge",
-        "branch":  "fix/player-card-hover-clip",
-        "updatedAt":  "2026-03-08T22:40:09Z"
-    },
-    {
-        "alias":  "refactor-player-card-top-dps",
-        "branch":  "refactor/player-card-top-dps",
-        "commit":  "7f1f4796",
-        "updatedAt":  "2026-03-09T02:43:56Z",
-        "local":  true
-    },
-    {
-        "alias":  "refactor-text-editor-bg-color",
-        "branch":  "refactor/text-editor-bg-color",
-        "commit":  "7f1f4796",
-        "updatedAt":  "2026-03-09T05:03:48Z",
-        "local":  true
-    },
-    {
-        "pr":  818,
-        "title":  "refactor(text-editor): implement WYSIWYG contentEditable editor with fixed color application",
-        "branch":  "refactor/text-editor-2",
-        "updatedAt":  "2026-03-10T06:10:50Z"
-    },
-    {
-        "pr":  855,
-        "title":  "fix(roster-encoding): await writer promises to prevent unhandled rejections (ESO-696)",
-        "branch":  "ESO-696/fix-unhandled-roster-encoding-rejections",
-        "updatedAt":  "2026-03-11T04:27:32Z"
-    },
-    {
-        "pr":  822,
-        "title":  "ref(text-editor): Clean up component and CSS quality issues",
-        "branch":  "refactor/text-editor-bg-color",
-        "updatedAt":  "2026-03-11T05:24:07Z"
-    },
-    {
-        "pr":  866,
-        "title":  "feat(ESO-707): add food to default visible chips on players panel",
-        "branch":  "ESO-707/add-food-to-default-chips",
-        "updatedAt":  "2026-03-12T16:46:58Z"
-    },
-    {
-        "pr":  869,
-        "title":  "refactor(discord): move PR notifications to Cloudflare Worker with forum categories",
-        "branch":  "refactor/discord-updates-clean",
-        "updatedAt":  "2026-03-12T18:31:45Z"
-    },
-    {
-        "pr":  877,
-        "title":  "feat(ESO-714): trial boss model mapping + 3D viewer page",
-        "branch":  "ESO-714/trial-boss-model-mapping",
-        "updatedAt":  "2026-03-14T19:20:30Z"
-    },
-    {
-        "pr":  938,
-        "title":  "feat(discord-bot): add roster ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Discord integration",
-        "branch":  "claude/fix-roster-hub-bugs-k08Qw",
-        "updatedAt":  "2026-03-31T15:25:55Z"
-    },
-    {
-        "pr":  947,
-        "title":  "fix(hub): restore direct navigation for roster/build hub cards",
-        "branch":  "claude/fix-hub-cards-modals-BwlLn",
-        "updatedAt":  "2026-04-02T00:09:25Z"
-    },
-    {
-        "pr":  950,
-        "title":  "Add role-based sorting to players panel",
-        "branch":  "claude/player-card-default-order-eqgzK",
-        "updatedAt":  "2026-04-02T02:14:31Z"
-    },
-    {
-        "pr":  952,
-        "title":  "Refactor dropdown menus with modern Popover \u0026 styled components",
-        "branch":  "claude/modernize-header-submenu-Ha27C",
-        "updatedAt":  "2026-04-02T04:26:23Z"
-    },
-    {
-        "pr":  948,
-        "title":  "feat(profile): add public profiles and API hardening",
-        "branch":  "feat/profile-and-hardening",
-        "updatedAt":  "2026-04-02T23:14:49Z"
-    },
-    {
-        "pr":  970,
-        "title":  "docs: audit MCP tool gaps, update skills to prefer MCP over raw CLI",
-        "branch":  "claude/investigate-mcp-gaps-WsjVJ",
-        "updatedAt":  "2026-04-06T18:14:36Z"
-    },
-    {
-        "pr":  978,
-        "title":  "feat(router): agentic model router with TUI, device auth, and tool calling",
-        "branch":  "claude/dynamic-agent-model-selection-74UNo",
-        "updatedAt":  "2026-04-07T22:43:49Z"
-    },
-    {
-        "pr":  987,
-        "title":  "feat(ui): impeccable design pass ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â landing page typography \u0026 visual polish (ESO-764)",
-        "branch":  "ESO-764/ui-impeccable-design-pass",
-        "updatedAt":  "2026-04-10T02:06:21Z"
-    },
-    {
-        "pr":  992,
-        "title":  "feat(ci): Discord notifications for nightly tests and releases",
-        "branch":  "claude/suspicious-heisenberg",
-        "updatedAt":  "2026-04-11T20:44:31Z"
-    },
-    {
-        "pr":  995,
-        "title":  "Improve KalpaBanner responsive layout and add alpha status",
-        "branch":  "claude/kalpa-banner-mobile-fix-LwOqh",
-        "updatedAt":  "2026-04-11T20:58:06Z"
-    },
-    {
-        "pr":  979,
-        "title":  "feat: Persist skeleton loading states from actual data",
-        "branch":  "claude/fix-skeleton-loading-MtHJT",
-        "updatedAt":  "2026-04-11T21:53:18Z"
-    },
-    {
-        "pr":  1054,
-        "title":  "Fix layout wrapping and overflow in DamageDonePanel header",
-        "branch":  "claude/fix-damage-tab-overflow-4rOPy",
-        "updatedAt":  "2026-04-20T05:47:13Z"
-    },
-    {
-        "pr":  1081,
-        "title":  "fix(build-view): normalize skill slot indices so ultimates display correctly",
-        "branch":  "fix/bv-ultimate-slot",
-        "updatedAt":  "2026-04-30T03:03:16Z"
-    },
-    {
-        "pr":  1114,
-        "title":  "fix(tests): stop clicking unrelated buttons in nightly live-log test",
-        "branch":  "claude/investigate-test-failure-XW30l",
-        "updatedAt":  "2026-05-13T18:12:46Z"
-    },
-    {
-        "pr":  1115,
-        "title":  "feat(charts): migrate to Apache ECharts 6 with enhanced UX",
-        "branch":  "feat/evil-charts",
-        "updatedAt":  "2026-05-17T05:13:05Z"
-    },
-    {
-        "pr":  1146,
-        "title":  "fix(a11y): comprehensive responsive audit ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â touch targets, breakpoints, mobile overflow",
-        "branch":  "fix/responsive-audit",
-        "updatedAt":  "2026-05-25T07:06:33Z"
-    },
-    {
-        "pr":  1140,
-        "title":  "feat(ui): redesign report details ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â combined filter dropdown, fight header, stat chips modal, players toolbar",
-        "branch":  "worktree-dropdown-ui",
-        "updatedAt":  "2026-05-26T00:54:54Z"
-    },
-    {
-        "pr":  1160,
-        "title":  "wip(fight-replay): on-demand paused-render gate [VERIFICATION ONLY ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â DO NOT MERGE]",
-        "branch":  "wip/fight-replay-ondemand-render",
-        "updatedAt":  "2026-05-30T19:47:03Z"
-    },
-    {
-        "pr":  1168,
-        "title":  "feat(trial-boss-models): audited boss model set + extraction toolchain + /boss-models viewer",
-        "branch":  "feat/trial-boss-models",
-        "updatedAt":  "2026-06-02T06:26:44Z"
-    },
-    {
-        "pr":  1189,
-        "title":  "feat(fight-replay): elevate map floor rendering + fix camera zoom \u0026 mid-fight map switching",
-        "branch":  "feat/replay-map-rendering",
-        "updatedAt":  "2026-06-07T00:44:03Z"
-    },
-    {
-        "pr":  1193,
-        "title":  "feat(loadout-manager): add all ESO group dungeons to the activity selector",
-        "branch":  "claude/dungeons-optimization-KspKB",
-        "updatedAt":  "2026-06-08T20:09:24Z"
-    },
-    {
-        "pr":  1195,
-        "title":  "fix(discord-bot): repair roster bot defects found in audit",
-        "branch":  "claude/discord-roster-bot-audit-zf12bk",
-        "updatedAt":  "2026-06-08T20:26:33Z"
-    },
-    {
-        "pr":  1197,
-        "title":  "feat(report-details): authoritative trial/dungeon/fight detection",
-        "branch":  "claude/fight-reports-detection-audit-f5o1ry",
-        "updatedAt":  "2026-06-09T03:29:49Z"
-    },
-    {
-        "pr":  1188,
-        "title":  "Swap fight card colors: green = kill, blue = near-kill wipe",
-        "branch":  "claude/boss-health-bar-colors-vVnZX",
-        "updatedAt":  "2026-06-09T03:31:10Z"
-    },
-    {
-        "pr":  1198,
-        "title":  "feat(roster-builder): multi-select trial picker for Hub discovery",
-        "branch":  "claude/roster-builder-trial-dungeon-eyxerq",
-        "updatedAt":  "2026-06-09T05:44:21Z"
-    },
-    {
-        "pr":  1199,
-        "title":  "feat(fight-replay): add/edit/delete custom map markers with persistence, drag-to-move \u0026amp; undo",
-        "branch":  "claude/custom-map-markers-f5f1k9",
-        "updatedAt":  "2026-06-10T00:27:20Z"
-    },
-    {
-        "pr":  1204,
-        "title":  "fix(dev-server): proxy roster-hub API same-origin so any dev port works",
-        "branch":  "fix/dev-roster-hub-cors",
-        "updatedAt":  "2026-06-10T12:53:22Z"
-    },
-    {
-        "pr":  1206,
-        "title":  "fix(fight-replay): UX audit of #1199 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â flat marker icon picker, mobile redo, touch-target fixes",
-        "branch":  "claude/pr-1199-ux-audit-1dlnk8",
-        "updatedAt":  "2026-06-10T20:17:36Z"
-    },
-    {
-        "pr":  1213,
-        "title":  "feat(footer): refresh nav links to cover newer pages",
-        "branch":  "feat/footer-links",
-        "updatedAt":  "2026-06-11T22:31:16Z"
-    },
-    {
-        "pr":  1217,
-        "title":  "Build editor mobile UX/UI audit \u0026 remediation plan (docs only)",
-        "branch":  "claude/build-editor-mobile-audit-uh9b07",
-        "updatedAt":  "2026-06-12T18:59:59Z"
-    },
-    {
-        "pr":  1226,
-        "title":  "fix(player-card): hide redundant Class Mastery chip from skill-line row",
-        "branch":  "fix/class-mastery-skill-line-chip",
-        "updatedAt":  "2026-06-14T22:37:51Z"
-    },
-    {
-        "pr":  1228,
-        "title":  "feat(calculator): structured, verified tooltips for /calculator",
-        "branch":  "feat/calculator-tooltips",
-        "updatedAt":  "2026-06-14T23:57:44Z"
-    },
-    {
-        "pr":  1227,
-        "title":  "feat(roster-builder): complete \u0026 canonicalize per-fight trial encounters",
-        "branch":  "feat/roster-builder-trial-encounters",
-        "updatedAt":  "2026-06-15T01:07:32Z"
-    },
-    {
-        "pr":  1231,
-        "title":  "feat(roster-builder): scope Per-Fight Builds to the Built-for trials",
-        "branch":  "feat/roster-builder-unify-trial-selector",
-        "updatedAt":  "2026-06-15T02:19:34Z"
-    },
-    {
-        "pr":  1233,
-        "title":  "fix(ultimate-calculator): Codex review follow-ups (banked ult, cost reductions, calibration, Cryptcanon)",
-        "branch":  "fix/ult-calculator-codex-followups",
-        "updatedAt":  "2026-06-15T03:38:53Z"
-    },
-    {
-        "pr":  1256,
-        "title":  "fix(roster): set-picker hardening (closes #1254)",
-        "branch":  "fix/roster-set-picker-hardening",
-        "updatedAt":  "2026-06-17T01:32:37Z"
-    },
-    {
-        "pr":  1263,
-        "title":  "fix(replay): respect text-entry targets and keep ?actorId deep-links route-aware",
-        "branch":  "codex/audit-fight-replay-system-for-improvements",
-        "updatedAt":  "2026-06-18T19:59:11Z"
-    },
-    {
-        "pr":  1272,
-        "title":  "fix(role-detection): use boss subType for taunt scoring + consistent class-analysis primary",
-        "branch":  "fix/role-detection-accuracy",
-        "updatedAt":  "2026-06-20T02:49:01Z"
-    },
-    {
-        "pr":  1273,
-        "title":  "fix(auth): clamp token-refresh timer + validate hash redirects + guard OAuth unmount",
-        "branch":  "fix/auth-app-shell-security",
-        "updatedAt":  "2026-06-20T02:55:10Z"
-    },
-    {
-        "pr":  1278,
-        "title":  "fix(workers): terminate threads, release progress proxies, recover on timeout",
-        "branch":  "fix/worker-pool-lifecycle",
-        "updatedAt":  "2026-06-20T03:27:19Z"
-    },
-    {
-        "pr":  1279,
-        "title":  "fix(pack-hub): tolerate null fields, guard addon search, keep search paginating",
-        "branch":  "fix/pack-hub-robustness",
-        "updatedAt":  "2026-06-20T03:31:41Z"
-    },
-    {
-        "pr":  1281,
-        "title":  "fix(leaderboard): guard out-of-order fetches + show empty-state instead of error",
-        "branch":  "fix/leaderboard-fetch-robustness",
-        "updatedAt":  "2026-06-20T05:17:42Z"
-    },
-    {
-        "pr":  1283,
-        "title":  "fix(store): persist chartIntensity + prune fight index + clear stale context",
-        "branch":  "fix/redux-store-robustness",
-        "updatedAt":  "2026-06-20T05:30:59Z"
-    },
-    {
-        "pr":  1286,
-        "title":  "fix(report-data): stale-response guards + coherent death% + refresh teardown",
-        "branch":  "fix/report-data-client-robustness",
-        "updatedAt":  "2026-06-20T05:41:48Z"
-    },
-    {
-        "pr":  1289,
-        "title":  "fix(data): correct heavy-head armor typo + guard zero-duration death rate",
-        "branch":  "fix/death-rate-and-armor-data",
-        "updatedAt":  "2026-06-20T06:03:07Z"
-    },
-    {
-        "pr":  1292,
-        "title":  "fix(ui): clear player-navigation timers on close + stale gear icon",
-        "branch":  "fix/timer-cleanup-stale-icons",
-        "updatedAt":  "2026-06-20T06:14:50Z"
-    },
-    {
-        "pr":  1291,
-        "title":  "fix(async): guard out-of-order responses in guild-config, avatars, comments, death-analysis",
-        "branch":  "fix/async-stale-guards",
-        "updatedAt":  "2026-06-20T06:30:43Z"
-    },
-    {
-        "pr":  1295,
-        "title":  "fix(parse-analysis): stop resetting the live-fight poll countdown on every analyze",
-        "branch":  "fix/live-poll-interval",
-        "updatedAt":  "2026-06-20T06:36:01Z"
-    },
-    {
-        "pr":  1296,
-        "title":  "perf(replay): bucket damage-over-time in a single linear sweep",
-        "branch":  "perf/dot-over-time-linear",
-        "updatedAt":  "2026-06-20T07:20:23Z"
-    },
-    {
-        "pr":  1300,
-        "title":  "fix(loadout): preserve mixed Lua tables + trash boss label on Wizard\u0027s Wardrobe round-trip",
-        "branch":  "fix/wizard-wardrobe-roundtrip",
-        "updatedAt":  "2026-06-20T07:52:23Z"
-    },
-    {
-        "pr":  1302,
-        "title":  "perf(buffs): compute group-average buff/debuff uptime in a single pass",
-        "branch":  "perf/group-uptime-single-pass-v2",
-        "updatedAt":  "2026-06-20T07:55:18Z"
-    },
-    {
-        "pr":  1332,
-        "title":  "feat(loadout): Wizard\u0027s Wardrobe export + Build Editor to Loadout bridge",
-        "branch":  "feat/build-loadout-bridge",
-        "updatedAt":  "2026-06-22T18:21:02Z"
-    },
-    {
-        "pr":  1335,
-        "title":  "feat(routing): rename /loadout-manager ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ /loadouts with redirect (Phase 3 IA)",
-        "branch":  "claude/loadouts-route-rename-p3",
-        "updatedAt":  "2026-06-22T20:14:56Z"
-    },
-    {
-        "pr":  1336,
-        "title":  "docs: implementation plan for remaining buildÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âloadout bridge phases",
-        "branch":  "claude/bridge-phases-plan",
-        "updatedAt":  "2026-06-22T20:21:10Z"
-    },
-    {
-        "pr":  1337,
-        "title":  "feat(loadouts): Loadout Library (Section A of buildÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¡ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾loadout bridge)",
-        "branch":  "claude/eso-loadout-library-wayqav",
-        "updatedAt":  "2026-06-22T20:48:11Z"
-    },
-    {
-        "pr":  1338,
-        "title":  "refactor(gear): extract GearPicker core to neutral src/components/gear (B1)",
-        "branch":  "claude/eso-gearpicker-core",
-        "updatedAt":  "2026-06-22T20:54:30Z"
-    },
-    {
-        "pr":  1339,
-        "title":  "refactor(loadouts): adopt shared GearPickerDialog in loadout gear editor (B2)",
-        "branch":  "claude/eso-loadout-gear-adopt",
-        "updatedAt":  "2026-06-22T21:07:40Z"
-    },
-    {
-        "pr":  1342,
-        "title":  "refactor(engine): relocate stat engine to neutral src/engine (B4a)",
-        "branch":  "claude/eso-engine-relocate",
-        "updatedAt":  "2026-06-23T02:39:32Z"
-    },
-    {
-        "pr":  1340,
-        "title":  "refactor(skills): relocate SkillBarPicker to neutral src/components/skills (B3a)",
-        "branch":  "claude/eso-skillbar-core",
-        "updatedAt":  "2026-06-23T02:43:38Z"
-    },
-    {
-        "pr":  1341,
-        "title":  "refactor(loadouts): adopt shared SkillBarPicker in loadout skill editor (B3b)",
-        "branch":  "claude/eso-loadout-skill-adopt",
-        "updatedAt":  "2026-06-23T02:45:02Z"
-    },
-    {
-        "pr":  1349,
-        "title":  "feat: loadout stats + Max Health/EHP engine, health badge \u0026 comparator (B4bÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â·C1ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â·C2ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â·C3)",
-        "branch":  "feat/loadout-stats-and-comparator",
-        "updatedAt":  "2026-06-24T21:12:35Z"
-    },
-    {
-        "pr":  1317,
-        "title":  "feat(scribing): overhaul the Scribing Simulator into an accurate live planner",
-        "branch":  "feat/scribing-simulator-overhaul",
-        "updatedAt":  "2026-06-25T19:44:13Z"
-    },
-    {
-        "pr":  1259,
-        "title":  "feat(calculator): Gear Upgrade Optimizer ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â third /calculator pill",
-        "branch":  "claude/calculator-feature-discussion-oikby7",
-        "updatedAt":  "2026-06-26T00:33:28Z"
-    },
-    {
-        "pr":  1343,
-        "title":  "feat(loadouts): combined dev-preview ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â buildÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âloadout bridge, Loadout Library + shared refactors",
-        "branch":  "test/loadouts-combined",
-        "updatedAt":  "2026-06-26T03:38:47Z"
-    },
-    {
-        "pr":  1357,
-        "title":  "fix(build-editor): transfer Class Mastery, gear traits/enchants \u0026 weapon type on Extract Build",
-        "branch":  "fix/extract-build-cm-gear-transfer",
-        "updatedAt":  "2026-06-27T17:44:51Z"
-    },
-    {
-        "pr":  1360,
-        "title":  "feat(insights): surface class mastery uptimes",
-        "branch":  "codex/class-mastery-insights",
-        "updatedAt":  "2026-06-29T02:53:43Z"
-    },
-    {
-        "pr":  1372,
-        "title":  "fix(reports): show fallback combatant gear",
-        "branch":  "codex/fix-live-player-gear-details",
-        "updatedAt":  "2026-07-02T06:40:01Z"
-    },
-    {
-        "pr":  1377,
-        "title":  "[DEMO ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ do not merge] All Kalpa sidecar displays combined (preview)",
-        "branch":  "demo/kalpa-all-displays",
-        "updatedAt":  "2026-07-04T21:09:41Z"
-    },
-    {
-        "pr":  1382,
-        "title":  "audit: esotk.com full-platform review + quick-win fixes",
-        "branch":  "claude/session-xrrovc",
-        "updatedAt":  "2026-07-06T07:15:17Z"
-    },
-    {
-        "pr":  1394,
-        "title":  "perf(site): make the low tier truly barebones ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â animations, background, hub blur",
-        "branch":  "perf/site-low-mode",
-        "updatedAt":  "2026-07-21T04:36:54Z"
-    },
-    {
-        "pr":  1398,
-        "title":  "perf(insights): offload the Players-tab analysis burst to the worker pool",
-        "branch":  "perf/players-panel-offload",
-        "updatedAt":  "2026-07-21T07:00:47Z"
-    },
-    {
-        "pr":  1409,
-        "title":  "docs(design): design-sync bundle for Claude Design + fix stale ui-updates skill",
-        "branch":  "claude/design-pattern-gaps-f511ba",
-        "updatedAt":  "2026-07-27T05:37:32Z"
-    },
-    {
-        "pr":  1423,
-        "title":  "refactor(types): widen PlayerGear trait/type to raw numeric codes",
-        "branch":  "claude/nice-bardeen-772084",
-        "updatedAt":  "2026-08-05T06:04:04Z"
-    },
-    {
-        "pr":  1421,
-        "title":  "feat(roster-hub-api): apply the dps_parses schema via the D1 binding",
-        "branch":  "claude/d1-schema-bootstrap",
-        "updatedAt":  "2026-08-05T06:05:38Z"
-    },
-    {
-        "pr":  1472,
-        "title":  "fix(discord): name the bot application and guard the OAuth client",
-        "branch":  "feat/discord-application-id-guard",
-        "updatedAt":  "2026-08-30T11:28:09Z"
-    },
-    {
-        "pr":  1499,
-        "title":  "docs(dlss5): replace the cherry-picked perf pair with an hour of samples",
-        "branch":  "docs/dlss5-real-perf-numbers",
-        "updatedAt":  "2026-09-01T14:13:19Z"
-    },
-    {
-        "pr":  1493,
-        "title":  "feat(build-editor): modernize editing and persistence",
-        "branch":  "t3code/audit-build-editor-2026",
-        "updatedAt":  "2026-09-02T09:13:18Z"
-    },
-    {
-        "pr":  1507,
-        "title":  "feat(fight-replay): add NPC model prototype pipeline",
-        "branch":  "feat/replay-npc-model-pipeline",
-        "updatedAt":  "2026-09-03T16:25:06Z"
-    },
-    {
-        "pr":  1515,
-        "title":  "chore(docs): remove the replay follow-up handoff doc",
-        "branch":  "chore/remove-replay-handoff-doc",
-        "updatedAt":  "2026-09-05T03:07:21Z"
-    },
-    {
-        "pr":  1530,
-        "title":  "fix(api): classify analyzer request failures",
-        "branch":  "audit/p1-errors",
-        "updatedAt":  "2026-09-08T08:08:39Z"
-    },
-    {
-        "pr":  1531,
-        "title":  "fix(analyzer): use authoritative target scopes",
-        "branch":  "audit/p0-target-scope",
-        "updatedAt":  "2026-09-08T08:53:09Z"
-    },
-    {
-        "pr":  1533,
-        "title":  "fix(analyzer): harden event pagination integrity",
-        "branch":  "audit/p0-events",
-        "updatedAt":  "2026-09-08T11:21:13Z"
-    },
-    {
-        "pr":  1534,
-        "title":  "fix(analyzer): clarify overlapping damage metrics",
-        "branch":  "audit/p0-metric-semantics",
-        "updatedAt":  "2026-09-08T11:29:20Z"
-    },
-    {
-        "pr":  1535,
-        "title":  "fix(deps): update qs transitive dependency",
-        "branch":  "audit/p1-dependency-advisory",
-        "updatedAt":  "2026-09-08T11:49:42Z"
-    },
-    {
-        "pr":  1537,
-        "title":  "fix(analysis): correct potion cooldown expectations",
-        "branch":  "audit/p0-potions",
-        "updatedAt":  "2026-09-08T12:08:37Z"
-    },
-    {
-        "pr":  1532,
-        "title":  "fix(insights): harden timeline and status effect calculations",
-        "branch":  "audit/p0-timeline-status",
-        "updatedAt":  "2026-09-08T13:08:38Z"
-    },
-    {
-        "pr":  1542,
-        "title":  "perf(insights): index player events in one pass",
-        "branch":  "perf/players-panel-one-pass-index",
-        "updatedAt":  "2026-09-09T00:01:41Z"
-    },
-    {
-        "pr":  1544,
-        "title":  "feat: add secure Analyzer edge routing",
-        "branch":  "security/deep-link-response-headers",
-        "updatedAt":  "2026-09-09T00:40:26Z"
-    },
-    {
-        "pr":  1545,
-        "title":  "fix(analyzer): bound raw event stream caches",
-        "branch":  "audit/p2-event-bounds",
-        "updatedAt":  "2026-09-09T02:05:28Z"
-    },
-    {
-        "pr":  1543,
-        "title":  "Harden OAuth token storage boundaries",
-        "branch":  "security/oauth-token-hardening",
-        "updatedAt":  "2026-09-09T02:59:09Z"
-    },
-    {
-        "pr":  1546,
-        "title":  "fix(insights): expose explicit panel lifecycle states",
-        "branch":  "audit/p1-insights-panel-states",
-        "updatedAt":  "2026-09-09T03:25:58Z"
-    },
-    {
-        "pr":  1547,
-        "title":  "Add privacy-aware field Web Vitals telemetry",
-        "branch":  "audit/p2-web-vitals-telemetry",
-        "updatedAt":  "2026-09-09T04:45:55Z"
-    },
-    {
-        "pr":  1548,
-        "title":  "feat(dashboard): expose live synchronization health",
-        "branch":  "audit/p1-live-health",
-        "updatedAt":  "2026-09-09T09:04:16Z"
-    },
-    {
-        "pr":  1549,
-        "title":  "fix(analyzer): recover from lazy chunk load failures",
-        "branch":  "fix/analyzer-lazy-chunk-recovery",
-        "updatedAt":  "2026-09-09T09:32:22Z"
-    },
-    {
-        "pr":  1550,
-        "title":  "fix(events): cache successful empty streams",
-        "branch":  "audit/p1-empty-stream-cache",
-        "updatedAt":  "2026-09-09T09:48:02Z"
-    },
-    {
-        "pr":  1551,
-        "title":  "feat(insights): add versioned encounter rule engine",
-        "branch":  "audit/p1-encounter-rule-engine",
-        "updatedAt":  "2026-09-09T10:01:38Z"
-    },
-    {
-        "pr":  1552,
-        "title":  "perf(calculator): defer tab content rendering",
-        "branch":  "audit/p2-calculator-deferred-subtree-clean",
-        "updatedAt":  "2026-09-09T10:15:30Z"
-    },
-    {
-        "pr":  1553,
-        "title":  "perf(insights): render independent content incrementally",
-        "branch":  "perf/insights-incremental-render",
-        "updatedAt":  "2026-09-09T10:23:02Z"
-    },
-    {
-        "pr":  1555,
-        "title":  "perf(analyzer): gate route prefetch by network and intent",
-        "branch":  "audit/p2-prefetch",
-        "updatedAt":  "2026-09-09T10:37:22Z"
-    },
-    {
-        "pr":  1556,
-        "title":  "perf(insights): benchmark PlayersPanel event index",
-        "branch":  "perf/players-panel-index-benchmark",
-        "updatedAt":  "2026-09-09T10:54:49Z"
-    },
-    {
-        "pr":  1557,
-        "title":  "feat(analyzer): add explicit panel lifecycle states",
-        "branch":  "audit/p1-analyzer-panel-state",
-        "updatedAt":  "2026-09-09T11:10:58Z"
-    },
-    {
-        "pr":  1558,
-        "title":  "test(insights): add direct Analyzer regression coverage",
-        "branch":  "audit/direct-test-bundle",
-        "updatedAt":  "2026-09-09T11:22:25Z"
-    },
-    {
-        "pr":  1559,
-        "title":  "feat(analyzer): expose core panel lifecycle states",
-        "branch":  "audit/p1-analyzer-core-panel-states",
-        "updatedAt":  "2026-09-09T11:32:20Z"
-    },
-    {
-        "pr":  1561,
-        "title":  "fix(analyzer): expose overview panel lifecycle states",
-        "branch":  "audit/p1-analyzer-overview-states",
-        "updatedAt":  "2026-09-09T12:01:58Z"
-    },
-    {
-        "pr":  1562,
-        "title":  "fix(analyzer): expose survival panel lifecycle states",
-        "branch":  "audit/p1-analyzer-survival-panel-states",
-        "updatedAt":  "2026-09-09T12:18:01Z"
-    },
-    {
-        "pr":  1563,
-        "title":  "fix(analyzer): expose specialized panel lifecycle states",
-        "branch":  "audit/p1-analyzer-specialized-panel-states",
-        "updatedAt":  "2026-09-09T12:30:51Z"
-    },
-    {
-        "pr":  1564,
-        "title":  "fix(analyzer): expose debug panel lifecycle states",
-        "branch":  "audit/p1-analyzer-debug-panel-states-clean",
-        "updatedAt":  "2026-09-09T12:47:07Z"
-    },
-    {
-        "pr":  1565,
-        "title":  "fix(a11y): label CookieConsent surfaces",
-        "branch":  "audit/p2-a11y-controls",
-        "updatedAt":  "2026-09-09T12:55:29Z"
-    },
-    {
-        "pr":  1567,
-        "title":  "feat(insights): integrate contextual analysis workflow",
-        "branch":  "audit/p2-product-completion-integration-approved",
-        "updatedAt":  "2026-09-09T13:04:20Z"
-    },
-    {
-        "pr":  1568,
-        "title":  "fix(analyzer): integrate bounded event pagination",
-        "branch":  "perf/event-bounds-pagination-integration",
-        "updatedAt":  "2026-09-09T13:13:29Z"
-    },
-    {
-        "pr":  1571,
-        "title":  "fix(deps): remediate hono and js-yaml advisories",
-        "branch":  "audit/p1-dependency-advisory-full-audit",
-        "updatedAt":  "2026-09-09T13:34:05Z"
-    },
-    {
-        "pr":  1576,
-        "title":  "fix: preserve unknown fight outcomes",
-        "branch":  "audit/p0-fight-outcome-semantics",
-        "updatedAt":  "2026-09-13T15:37:44Z"
-    },
-    {
-        "pr":  1577,
-        "title":  "fix: distinguish critical damage share",
-        "branch":  "audit/p0-damage-critical-share",
-        "updatedAt":  "2026-09-13T15:44:13Z"
-    },
-    {
-        "pr":  1578,
-        "title":  "test(dashboard): cover live health recovery states",
-        "branch":  "audit/p1-live-health-e2e",
-        "updatedAt":  "2026-09-13T15:51:37Z"
-    },
-    {
-        "pr":  1579,
-        "title":  "fix(insights): preserve unknown uptime semantics",
-        "branch":  "audit/uptime-percentage-integrity",
-        "updatedAt":  "2026-09-13T16:00:03Z"
-    },
-    {
-        "pr":  1581,
-        "title":  "perf(analyzer): bound and index calculation inputs",
-        "branch":  "perf/analyzer-calculation-integration",
-        "updatedAt":  "2026-09-13T16:23:59Z"
-    },
-    {
-        "pr":  1582,
-        "title":  "fix(analyzer): preserve unknown metric semantics",
-        "branch":  "audit/p0-unknown-metric-semantics",
-        "updatedAt":  "2026-09-13T16:32:52Z"
-    },
-    {
-        "pr":  1584,
-        "title":  "fix(insights): harden decision summary contract",
-        "branch":  "audit/p1-decision-summary-hardening-restack",
-        "updatedAt":  "2026-09-13T16:41:35Z"
-    },
-    {
-        "pr":  1585,
-        "title":  "test(analyzer): repair authenticated route coverage",
-        "branch":  "audit/analyzer-test-route-cleanup",
-        "updatedAt":  "2026-09-13T16:48:13Z"
-    },
-    {
-        "pr":  1587,
-        "title":  "test(playwright): add live health cross-engine config",
-        "branch":  "audit/live-health-engine-config",
-        "updatedAt":  "2026-09-13T17:04:42Z"
-    },
-    {
-        "pr":  1554,
-        "title":  "test: repair Analyzer Playwright route fixtures",
-        "branch":  "audit/p1-playwright-route-matrix",
-        "updatedAt":  "2026-09-13T17:05:52Z"
-    },
-    {
-        "pr":  1588,
-        "title":  "fix: render unknown fight outcomes neutrally",
-        "branch":  "audit/fight-outcome-report-cards",
-        "updatedAt":  "2026-09-13T17:28:18Z"
-    },
-    {
-        "pr":  1589,
-        "title":  "fix(analyzer): preserve unknown critical multiplier semantics",
-        "branch":  "audit/critical-multiplier-unknown-fix",
-        "updatedAt":  "2026-09-13T17:31:41Z"
-    },
-    {
-        "pr":  1590,
-        "title":  "perf: keep Analyzer damage calculations responsive",
-        "branch":  "perf/worker-foundation",
-        "updatedAt":  "2026-09-13T17:33:40Z"
-    },
-    {
-        "pr":  1591,
-        "title":  "test(playwright): stabilize full suite artifacts",
-        "branch":  "test/full-suite-stability",
-        "updatedAt":  "2026-09-13T18:28:47Z"
-    },
-    {
-        "pr":  1592,
-        "title":  "test(a11y): stabilize calculator page heading check",
-        "branch":  "fix/calculator-page-heading",
-        "updatedAt":  "2026-09-13T19:09:44Z"
-    },
-    {
-        "pr":  1593,
-        "title":  "test(insights): cover preference persistence hooks",
-        "branch":  "audit/p2-preference-persistence",
-        "updatedAt":  "2026-09-13T19:25:29Z"
-    },
-    {
-        "pr":  1594,
-        "title":  "fix(analyzer): recover event requests after reconnect",
-        "branch":  "audit/p1-online-recovery",
-        "updatedAt":  "2026-09-13T19:27:56Z"
-    },
-    {
-        "pr":  1595,
-        "title":  "test: stabilize 404 page Playwright coverage",
-        "branch":  "audit/404-page-playwright",
-        "updatedAt":  "2026-09-13T19:31:22Z"
-    },
-    {
-        "pr":  1596,
-        "title":  "test(build-hub): validate preview message trust tuple",
-        "branch":  "audit/postmessage-origin-regression",
-        "updatedAt":  "2026-09-13T19:32:46Z"
-    },
-    {
-        "pr":  1597,
-        "title":  "feat(insights): add accountable finding lineage",
-        "branch":  "audit/p2-insight-sharing-model",
-        "updatedAt":  "2026-09-13T19:46:58Z"
-    },
-    {
-        "pr":  1598,
-        "title":  "test(playwright): isolate mobile build editor coverage",
-        "branch":  "audit/full-config-mobile-isolation",
-        "updatedAt":  "2026-09-13T19:53:48Z"
-    },
-    {
-        "pr":  1599,
-        "title":  "test: stabilize live logging full-suite fixtures",
-        "branch":  "audit/full-live-logging-fixtures",
-        "updatedAt":  "2026-09-13T20:09:05Z"
-    },
-    {
-        "pr":  1600,
-        "title":  "perf(analyzer): add post-worker performance evidence",
-        "branch":  "audit/p2-post-worker-performance-evidence",
-        "updatedAt":  "2026-09-13T20:15:27Z"
-    },
-    {
-        "pr":  1601,
-        "title":  "test(e2e): stabilize build leaderboard fixtures",
-        "branch":  "audit/full-build-leaderboard-fixtures",
-        "updatedAt":  "2026-09-13T20:21:16Z"
-    },
-    {
-        "pr":  1602,
-        "title":  "test: stabilize Roster Hub browser fixtures",
-        "branch":  "audit/full-roster-hub-fixtures",
-        "updatedAt":  "2026-09-13T20:36:45Z"
-    },
-    {
-        "pr":  1603,
-        "title":  "test(e2e): make utility page coverage deterministic",
-        "branch":  "audit/utility-pages-fixture-repair",
-        "updatedAt":  "2026-09-13T21:24:16Z"
-    },
-    {
-        "pr":  1605,
-        "title":  "test: cover raw event persistence boundary",
-        "branch":  "audit/raw-event-persistence-boundary",
-        "updatedAt":  "2026-09-13T22:08:52Z"
-    },
-    {
-        "pr":  1606,
-        "title":  "fix(report-fights): restore import ordering",
-        "branch":  "audit/import-order-report-fights",
-        "updatedAt":  "2026-09-13T22:16:27Z"
-    },
-    {
-        "pr":  1607,
-        "title":  "test(security): guard client security controls",
-        "branch":  "test/security-controls-regressions",
-        "updatedAt":  "2026-09-13T22:21:24Z"
-    },
-    {
-        "pr":  1608,
-        "title":  "test(accessibility): stabilize full-suite fixtures",
-        "branch":  "audit/full-accessibility-fixtures",
-        "updatedAt":  "2026-09-13T22:45:18Z"
-    },
-    {
-        "pr":  1611,
-        "title":  "test(auth): cover OAuth callback failures",
-        "branch":  "audit/oauth-callback-regression",
-        "updatedAt":  "2026-09-13T23:18:24Z"
-    },
-    {
-        "pr":  1613,
-        "title":  "test(reports): harden report list fixtures",
-        "branch":  "audit/full-report-lists-fixtures",
-        "updatedAt":  "2026-09-13T23:22:16Z"
-    },
-    {
-        "pr":  1614,
-        "title":  "test(insights): cover product workflow route",
-        "branch":  "audit/product-completion-workflow-e2e",
-        "updatedAt":  "2026-09-13T23:48:39Z"
-    },
-    {
-        "pr":  1615,
-        "title":  "fix: harden Analyzer report control accessibility",
-        "branch":  "audit/p2-analyzer-controls-a11y",
-        "updatedAt":  "2026-09-13T23:53:38Z"
-    },
-    {
-        "pr":  1628,
-        "title":  "feat(marketing): Add narrated ESO Toolkit vs ESO Logs explainer video",
-        "branch":  "feat/esotk-vs-esologs-promo-video",
-        "updatedAt":  "2026-09-30T12:34:43Z"
-    },
-    {
-        "pr":  1635,
-        "title":  "fix: harden sessions and resolve site audit findings",
-        "branch":  "t3code/site-audit-review",
-        "updatedAt":  "2026-10-04T04:20:34Z"
-    },
-    {
-        "pr":  1639,
-        "title":  "feat(replay): add a public gallery for 28 NPC model drafts",
-        "branch":  "t3code/continue-replay-model-workflow",
-        "updatedAt":  "2026-10-04T22:36:32Z"
-    },
-    {
-        "alias":  "replay-drafts-20261004",
-        "branch":  "t3code/continue-replay-model-workflow",
-        "commit":  "494e584ff",
-        "updatedAt":  "2026-10-05T06:51:17Z",
-        "local":  true
-    }
+[
+  {
+    "alias": "parse-demo",
+    "branch": "feature/parse-analysis-demo-log",
+    "commit": "ac7921d3",
+    "updatedAt": "2026-03-08T20:31:36Z",
+    "local": true
+  },
+  {
+    "alias": "fix-player-card-hover-clip",
+    "branch": "fix/player-card-hover-clip",
+    "commit": "7d3d78e1",
+    "updatedAt": "2026-03-08T22:29:02Z",
+    "local": true
+  },
+  {
+    "pr": 820,
+    "title": "fix(insights): prevent player card hover clip at top edge",
+    "branch": "fix/player-card-hover-clip",
+    "updatedAt": "2026-03-08T22:40:09Z"
+  },
+  {
+    "alias": "refactor-player-card-top-dps",
+    "branch": "refactor/player-card-top-dps",
+    "commit": "7f1f4796",
+    "updatedAt": "2026-03-09T02:43:56Z",
+    "local": true
+  },
+  {
+    "alias": "refactor-text-editor-bg-color",
+    "branch": "refactor/text-editor-bg-color",
+    "commit": "7f1f4796",
+    "updatedAt": "2026-03-09T05:03:48Z",
+    "local": true
+  },
+  {
+    "pr": 818,
+    "title": "refactor(text-editor): implement WYSIWYG contentEditable editor with fixed color application",
+    "branch": "refactor/text-editor-2",
+    "updatedAt": "2026-03-10T06:10:50Z"
+  },
+  {
+    "pr": 855,
+    "title": "fix(roster-encoding): await writer promises to prevent unhandled rejections (ESO-696)",
+    "branch": "ESO-696/fix-unhandled-roster-encoding-rejections",
+    "updatedAt": "2026-03-11T04:27:32Z"
+  },
+  {
+    "pr": 822,
+    "title": "ref(text-editor): Clean up component and CSS quality issues",
+    "branch": "refactor/text-editor-bg-color",
+    "updatedAt": "2026-03-11T05:24:07Z"
+  },
+  {
+    "pr": 866,
+    "title": "feat(ESO-707): add food to default visible chips on players panel",
+    "branch": "ESO-707/add-food-to-default-chips",
+    "updatedAt": "2026-03-12T16:46:58Z"
+  },
+  {
+    "pr": 869,
+    "title": "refactor(discord): move PR notifications to Cloudflare Worker with forum categories",
+    "branch": "refactor/discord-updates-clean",
+    "updatedAt": "2026-03-12T18:31:45Z"
+  },
+  {
+    "pr": 877,
+    "title": "feat(ESO-714): trial boss model mapping + 3D viewer page",
+    "branch": "ESO-714/trial-boss-model-mapping",
+    "updatedAt": "2026-03-14T19:20:30Z"
+  },
+  {
+    "pr": 938,
+    "title": "feat(discord-bot): add roster ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â Discord integration",
+    "branch": "claude/fix-roster-hub-bugs-k08Qw",
+    "updatedAt": "2026-03-31T15:25:55Z"
+  },
+  {
+    "pr": 947,
+    "title": "fix(hub): restore direct navigation for roster/build hub cards",
+    "branch": "claude/fix-hub-cards-modals-BwlLn",
+    "updatedAt": "2026-04-02T00:09:25Z"
+  },
+  {
+    "pr": 950,
+    "title": "Add role-based sorting to players panel",
+    "branch": "claude/player-card-default-order-eqgzK",
+    "updatedAt": "2026-04-02T02:14:31Z"
+  },
+  {
+    "pr": 952,
+    "title": "Refactor dropdown menus with modern Popover & styled components",
+    "branch": "claude/modernize-header-submenu-Ha27C",
+    "updatedAt": "2026-04-02T04:26:23Z"
+  },
+  {
+    "pr": 948,
+    "title": "feat(profile): add public profiles and API hardening",
+    "branch": "feat/profile-and-hardening",
+    "updatedAt": "2026-04-02T23:14:49Z"
+  },
+  {
+    "pr": 970,
+    "title": "docs: audit MCP tool gaps, update skills to prefer MCP over raw CLI",
+    "branch": "claude/investigate-mcp-gaps-WsjVJ",
+    "updatedAt": "2026-04-06T18:14:36Z"
+  },
+  {
+    "pr": 978,
+    "title": "feat(router): agentic model router with TUI, device auth, and tool calling",
+    "branch": "claude/dynamic-agent-model-selection-74UNo",
+    "updatedAt": "2026-04-07T22:43:49Z"
+  },
+  {
+    "pr": 987,
+    "title": "feat(ui): impeccable design pass ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â landing page typography & visual polish (ESO-764)",
+    "branch": "ESO-764/ui-impeccable-design-pass",
+    "updatedAt": "2026-04-10T02:06:21Z"
+  },
+  {
+    "pr": 992,
+    "title": "feat(ci): Discord notifications for nightly tests and releases",
+    "branch": "claude/suspicious-heisenberg",
+    "updatedAt": "2026-04-11T20:44:31Z"
+  },
+  {
+    "pr": 995,
+    "title": "Improve KalpaBanner responsive layout and add alpha status",
+    "branch": "claude/kalpa-banner-mobile-fix-LwOqh",
+    "updatedAt": "2026-04-11T20:58:06Z"
+  },
+  {
+    "pr": 979,
+    "title": "feat: Persist skeleton loading states from actual data",
+    "branch": "claude/fix-skeleton-loading-MtHJT",
+    "updatedAt": "2026-04-11T21:53:18Z"
+  },
+  {
+    "pr": 1054,
+    "title": "Fix layout wrapping and overflow in DamageDonePanel header",
+    "branch": "claude/fix-damage-tab-overflow-4rOPy",
+    "updatedAt": "2026-04-20T05:47:13Z"
+  },
+  {
+    "pr": 1081,
+    "title": "fix(build-view): normalize skill slot indices so ultimates display correctly",
+    "branch": "fix/bv-ultimate-slot",
+    "updatedAt": "2026-04-30T03:03:16Z"
+  },
+  {
+    "pr": 1114,
+    "title": "fix(tests): stop clicking unrelated buttons in nightly live-log test",
+    "branch": "claude/investigate-test-failure-XW30l",
+    "updatedAt": "2026-05-13T18:12:46Z"
+  },
+  {
+    "pr": 1115,
+    "title": "feat(charts): migrate to Apache ECharts 6 with enhanced UX",
+    "branch": "feat/evil-charts",
+    "updatedAt": "2026-05-17T05:13:05Z"
+  },
+  {
+    "pr": 1146,
+    "title": "fix(a11y): comprehensive responsive audit ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â touch targets, breakpoints, mobile overflow",
+    "branch": "fix/responsive-audit",
+    "updatedAt": "2026-05-25T07:06:33Z"
+  },
+  {
+    "pr": 1140,
+    "title": "feat(ui): redesign report details ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â combined filter dropdown, fight header, stat chips modal, players toolbar",
+    "branch": "worktree-dropdown-ui",
+    "updatedAt": "2026-05-26T00:54:54Z"
+  },
+  {
+    "pr": 1160,
+    "title": "wip(fight-replay): on-demand paused-render gate [VERIFICATION ONLY ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â DO NOT MERGE]",
+    "branch": "wip/fight-replay-ondemand-render",
+    "updatedAt": "2026-05-30T19:47:03Z"
+  },
+  {
+    "pr": 1168,
+    "title": "feat(trial-boss-models): audited boss model set + extraction toolchain + /boss-models viewer",
+    "branch": "feat/trial-boss-models",
+    "updatedAt": "2026-06-02T06:26:44Z"
+  },
+  {
+    "pr": 1189,
+    "title": "feat(fight-replay): elevate map floor rendering + fix camera zoom & mid-fight map switching",
+    "branch": "feat/replay-map-rendering",
+    "updatedAt": "2026-06-07T00:44:03Z"
+  },
+  {
+    "pr": 1193,
+    "title": "feat(loadout-manager): add all ESO group dungeons to the activity selector",
+    "branch": "claude/dungeons-optimization-KspKB",
+    "updatedAt": "2026-06-08T20:09:24Z"
+  },
+  {
+    "pr": 1195,
+    "title": "fix(discord-bot): repair roster bot defects found in audit",
+    "branch": "claude/discord-roster-bot-audit-zf12bk",
+    "updatedAt": "2026-06-08T20:26:33Z"
+  },
+  {
+    "pr": 1197,
+    "title": "feat(report-details): authoritative trial/dungeon/fight detection",
+    "branch": "claude/fight-reports-detection-audit-f5o1ry",
+    "updatedAt": "2026-06-09T03:29:49Z"
+  },
+  {
+    "pr": 1188,
+    "title": "Swap fight card colors: green = kill, blue = near-kill wipe",
+    "branch": "claude/boss-health-bar-colors-vVnZX",
+    "updatedAt": "2026-06-09T03:31:10Z"
+  },
+  {
+    "pr": 1198,
+    "title": "feat(roster-builder): multi-select trial picker for Hub discovery",
+    "branch": "claude/roster-builder-trial-dungeon-eyxerq",
+    "updatedAt": "2026-06-09T05:44:21Z"
+  },
+  {
+    "pr": 1199,
+    "title": "feat(fight-replay): add/edit/delete custom map markers with persistence, drag-to-move &amp; undo",
+    "branch": "claude/custom-map-markers-f5f1k9",
+    "updatedAt": "2026-06-10T00:27:20Z"
+  },
+  {
+    "pr": 1204,
+    "title": "fix(dev-server): proxy roster-hub API same-origin so any dev port works",
+    "branch": "fix/dev-roster-hub-cors",
+    "updatedAt": "2026-06-10T12:53:22Z"
+  },
+  {
+    "pr": 1206,
+    "title": "fix(fight-replay): UX audit of #1199 ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â flat marker icon picker, mobile redo, touch-target fixes",
+    "branch": "claude/pr-1199-ux-audit-1dlnk8",
+    "updatedAt": "2026-06-10T20:17:36Z"
+  },
+  {
+    "pr": 1213,
+    "title": "feat(footer): refresh nav links to cover newer pages",
+    "branch": "feat/footer-links",
+    "updatedAt": "2026-06-11T22:31:16Z"
+  },
+  {
+    "pr": 1217,
+    "title": "Build editor mobile UX/UI audit & remediation plan (docs only)",
+    "branch": "claude/build-editor-mobile-audit-uh9b07",
+    "updatedAt": "2026-06-12T18:59:59Z"
+  },
+  {
+    "pr": 1226,
+    "title": "fix(player-card): hide redundant Class Mastery chip from skill-line row",
+    "branch": "fix/class-mastery-skill-line-chip",
+    "updatedAt": "2026-06-14T22:37:51Z"
+  },
+  {
+    "pr": 1228,
+    "title": "feat(calculator): structured, verified tooltips for /calculator",
+    "branch": "feat/calculator-tooltips",
+    "updatedAt": "2026-06-14T23:57:44Z"
+  },
+  {
+    "pr": 1227,
+    "title": "feat(roster-builder): complete & canonicalize per-fight trial encounters",
+    "branch": "feat/roster-builder-trial-encounters",
+    "updatedAt": "2026-06-15T01:07:32Z"
+  },
+  {
+    "pr": 1231,
+    "title": "feat(roster-builder): scope Per-Fight Builds to the Built-for trials",
+    "branch": "feat/roster-builder-unify-trial-selector",
+    "updatedAt": "2026-06-15T02:19:34Z"
+  },
+  {
+    "pr": 1233,
+    "title": "fix(ultimate-calculator): Codex review follow-ups (banked ult, cost reductions, calibration, Cryptcanon)",
+    "branch": "fix/ult-calculator-codex-followups",
+    "updatedAt": "2026-06-15T03:38:53Z"
+  },
+  {
+    "pr": 1256,
+    "title": "fix(roster): set-picker hardening (closes #1254)",
+    "branch": "fix/roster-set-picker-hardening",
+    "updatedAt": "2026-06-17T01:32:37Z"
+  },
+  {
+    "pr": 1263,
+    "title": "fix(replay): respect text-entry targets and keep ?actorId deep-links route-aware",
+    "branch": "codex/audit-fight-replay-system-for-improvements",
+    "updatedAt": "2026-06-18T19:59:11Z"
+  },
+  {
+    "pr": 1272,
+    "title": "fix(role-detection): use boss subType for taunt scoring + consistent class-analysis primary",
+    "branch": "fix/role-detection-accuracy",
+    "updatedAt": "2026-06-20T02:49:01Z"
+  },
+  {
+    "pr": 1273,
+    "title": "fix(auth): clamp token-refresh timer + validate hash redirects + guard OAuth unmount",
+    "branch": "fix/auth-app-shell-security",
+    "updatedAt": "2026-06-20T02:55:10Z"
+  },
+  {
+    "pr": 1278,
+    "title": "fix(workers): terminate threads, release progress proxies, recover on timeout",
+    "branch": "fix/worker-pool-lifecycle",
+    "updatedAt": "2026-06-20T03:27:19Z"
+  },
+  {
+    "pr": 1279,
+    "title": "fix(pack-hub): tolerate null fields, guard addon search, keep search paginating",
+    "branch": "fix/pack-hub-robustness",
+    "updatedAt": "2026-06-20T03:31:41Z"
+  },
+  {
+    "pr": 1281,
+    "title": "fix(leaderboard): guard out-of-order fetches + show empty-state instead of error",
+    "branch": "fix/leaderboard-fetch-robustness",
+    "updatedAt": "2026-06-20T05:17:42Z"
+  },
+  {
+    "pr": 1283,
+    "title": "fix(store): persist chartIntensity + prune fight index + clear stale context",
+    "branch": "fix/redux-store-robustness",
+    "updatedAt": "2026-06-20T05:30:59Z"
+  },
+  {
+    "pr": 1286,
+    "title": "fix(report-data): stale-response guards + coherent death% + refresh teardown",
+    "branch": "fix/report-data-client-robustness",
+    "updatedAt": "2026-06-20T05:41:48Z"
+  },
+  {
+    "pr": 1289,
+    "title": "fix(data): correct heavy-head armor typo + guard zero-duration death rate",
+    "branch": "fix/death-rate-and-armor-data",
+    "updatedAt": "2026-06-20T06:03:07Z"
+  },
+  {
+    "pr": 1292,
+    "title": "fix(ui): clear player-navigation timers on close + stale gear icon",
+    "branch": "fix/timer-cleanup-stale-icons",
+    "updatedAt": "2026-06-20T06:14:50Z"
+  },
+  {
+    "pr": 1291,
+    "title": "fix(async): guard out-of-order responses in guild-config, avatars, comments, death-analysis",
+    "branch": "fix/async-stale-guards",
+    "updatedAt": "2026-06-20T06:30:43Z"
+  },
+  {
+    "pr": 1295,
+    "title": "fix(parse-analysis): stop resetting the live-fight poll countdown on every analyze",
+    "branch": "fix/live-poll-interval",
+    "updatedAt": "2026-06-20T06:36:01Z"
+  },
+  {
+    "pr": 1296,
+    "title": "perf(replay): bucket damage-over-time in a single linear sweep",
+    "branch": "perf/dot-over-time-linear",
+    "updatedAt": "2026-06-20T07:20:23Z"
+  },
+  {
+    "pr": 1300,
+    "title": "fix(loadout): preserve mixed Lua tables + trash boss label on Wizard's Wardrobe round-trip",
+    "branch": "fix/wizard-wardrobe-roundtrip",
+    "updatedAt": "2026-06-20T07:52:23Z"
+  },
+  {
+    "pr": 1302,
+    "title": "perf(buffs): compute group-average buff/debuff uptime in a single pass",
+    "branch": "perf/group-uptime-single-pass-v2",
+    "updatedAt": "2026-06-20T07:55:18Z"
+  },
+  {
+    "pr": 1332,
+    "title": "feat(loadout): Wizard's Wardrobe export + Build Editor to Loadout bridge",
+    "branch": "feat/build-loadout-bridge",
+    "updatedAt": "2026-06-22T18:21:02Z"
+  },
+  {
+    "pr": 1335,
+    "title": "feat(routing): rename /loadout-manager ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ /loadouts with redirect (Phase 3 IA)",
+    "branch": "claude/loadouts-route-rename-p3",
+    "updatedAt": "2026-06-22T20:14:56Z"
+  },
+  {
+    "pr": 1336,
+    "title": "docs: implementation plan for remaining buildÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âloadout bridge phases",
+    "branch": "claude/bridge-phases-plan",
+    "updatedAt": "2026-06-22T20:21:10Z"
+  },
+  {
+    "pr": 1337,
+    "title": "feat(loadouts): Loadout Library (Section A of buildÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¡ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¾loadout bridge)",
+    "branch": "claude/eso-loadout-library-wayqav",
+    "updatedAt": "2026-06-22T20:48:11Z"
+  },
+  {
+    "pr": 1338,
+    "title": "refactor(gear): extract GearPicker core to neutral src/components/gear (B1)",
+    "branch": "claude/eso-gearpicker-core",
+    "updatedAt": "2026-06-22T20:54:30Z"
+  },
+  {
+    "pr": 1339,
+    "title": "refactor(loadouts): adopt shared GearPickerDialog in loadout gear editor (B2)",
+    "branch": "claude/eso-loadout-gear-adopt",
+    "updatedAt": "2026-06-22T21:07:40Z"
+  },
+  {
+    "pr": 1342,
+    "title": "refactor(engine): relocate stat engine to neutral src/engine (B4a)",
+    "branch": "claude/eso-engine-relocate",
+    "updatedAt": "2026-06-23T02:39:32Z"
+  },
+  {
+    "pr": 1340,
+    "title": "refactor(skills): relocate SkillBarPicker to neutral src/components/skills (B3a)",
+    "branch": "claude/eso-skillbar-core",
+    "updatedAt": "2026-06-23T02:43:38Z"
+  },
+  {
+    "pr": 1341,
+    "title": "refactor(loadouts): adopt shared SkillBarPicker in loadout skill editor (B3b)",
+    "branch": "claude/eso-loadout-skill-adopt",
+    "updatedAt": "2026-06-23T02:45:02Z"
+  },
+  {
+    "pr": 1349,
+    "title": "feat: loadout stats + Max Health/EHP engine, health badge & comparator (B4bÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â·C1ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â·C2ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â·C3)",
+    "branch": "feat/loadout-stats-and-comparator",
+    "updatedAt": "2026-06-24T21:12:35Z"
+  },
+  {
+    "pr": 1317,
+    "title": "feat(scribing): overhaul the Scribing Simulator into an accurate live planner",
+    "branch": "feat/scribing-simulator-overhaul",
+    "updatedAt": "2026-06-25T19:44:13Z"
+  },
+  {
+    "pr": 1259,
+    "title": "feat(calculator): Gear Upgrade Optimizer ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â third /calculator pill",
+    "branch": "claude/calculator-feature-discussion-oikby7",
+    "updatedAt": "2026-06-26T00:33:28Z"
+  },
+  {
+    "pr": 1343,
+    "title": "feat(loadouts): combined dev-preview ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â buildÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âloadout bridge, Loadout Library + shared refactors",
+    "branch": "test/loadouts-combined",
+    "updatedAt": "2026-06-26T03:38:47Z"
+  },
+  {
+    "pr": 1357,
+    "title": "fix(build-editor): transfer Class Mastery, gear traits/enchants & weapon type on Extract Build",
+    "branch": "fix/extract-build-cm-gear-transfer",
+    "updatedAt": "2026-06-27T17:44:51Z"
+  },
+  {
+    "pr": 1360,
+    "title": "feat(insights): surface class mastery uptimes",
+    "branch": "codex/class-mastery-insights",
+    "updatedAt": "2026-06-29T02:53:43Z"
+  },
+  {
+    "pr": 1372,
+    "title": "fix(reports): show fallback combatant gear",
+    "branch": "codex/fix-live-player-gear-details",
+    "updatedAt": "2026-07-02T06:40:01Z"
+  },
+  {
+    "pr": 1377,
+    "title": "[DEMO ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œ do not merge] All Kalpa sidecar displays combined (preview)",
+    "branch": "demo/kalpa-all-displays",
+    "updatedAt": "2026-07-04T21:09:41Z"
+  },
+  {
+    "pr": 1382,
+    "title": "audit: esotk.com full-platform review + quick-win fixes",
+    "branch": "claude/session-xrrovc",
+    "updatedAt": "2026-07-06T07:15:17Z"
+  },
+  {
+    "pr": 1394,
+    "title": "perf(site): make the low tier truly barebones ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â animations, background, hub blur",
+    "branch": "perf/site-low-mode",
+    "updatedAt": "2026-07-21T04:36:54Z"
+  },
+  {
+    "pr": 1398,
+    "title": "perf(insights): offload the Players-tab analysis burst to the worker pool",
+    "branch": "perf/players-panel-offload",
+    "updatedAt": "2026-07-21T07:00:47Z"
+  },
+  {
+    "pr": 1409,
+    "title": "docs(design): design-sync bundle for Claude Design + fix stale ui-updates skill",
+    "branch": "claude/design-pattern-gaps-f511ba",
+    "updatedAt": "2026-07-27T05:37:32Z"
+  },
+  {
+    "pr": 1423,
+    "title": "refactor(types): widen PlayerGear trait/type to raw numeric codes",
+    "branch": "claude/nice-bardeen-772084",
+    "updatedAt": "2026-08-05T06:04:04Z"
+  },
+  {
+    "pr": 1421,
+    "title": "feat(roster-hub-api): apply the dps_parses schema via the D1 binding",
+    "branch": "claude/d1-schema-bootstrap",
+    "updatedAt": "2026-08-05T06:05:38Z"
+  },
+  {
+    "pr": 1472,
+    "title": "fix(discord): name the bot application and guard the OAuth client",
+    "branch": "feat/discord-application-id-guard",
+    "updatedAt": "2026-08-30T11:28:09Z"
+  },
+  {
+    "pr": 1499,
+    "title": "docs(dlss5): replace the cherry-picked perf pair with an hour of samples",
+    "branch": "docs/dlss5-real-perf-numbers",
+    "updatedAt": "2026-09-01T14:13:19Z"
+  },
+  {
+    "pr": 1493,
+    "title": "feat(build-editor): modernize editing and persistence",
+    "branch": "t3code/audit-build-editor-2026",
+    "updatedAt": "2026-09-02T09:13:18Z"
+  },
+  {
+    "pr": 1507,
+    "title": "feat(fight-replay): add NPC model prototype pipeline",
+    "branch": "feat/replay-npc-model-pipeline",
+    "updatedAt": "2026-09-03T16:25:06Z"
+  },
+  {
+    "pr": 1515,
+    "title": "chore(docs): remove the replay follow-up handoff doc",
+    "branch": "chore/remove-replay-handoff-doc",
+    "updatedAt": "2026-09-05T03:07:21Z"
+  },
+  {
+    "pr": 1530,
+    "title": "fix(api): classify analyzer request failures",
+    "branch": "audit/p1-errors",
+    "updatedAt": "2026-09-08T08:08:39Z"
+  },
+  {
+    "pr": 1531,
+    "title": "fix(analyzer): use authoritative target scopes",
+    "branch": "audit/p0-target-scope",
+    "updatedAt": "2026-09-08T08:53:09Z"
+  },
+  {
+    "pr": 1533,
+    "title": "fix(analyzer): harden event pagination integrity",
+    "branch": "audit/p0-events",
+    "updatedAt": "2026-09-08T11:21:13Z"
+  },
+  {
+    "pr": 1534,
+    "title": "fix(analyzer): clarify overlapping damage metrics",
+    "branch": "audit/p0-metric-semantics",
+    "updatedAt": "2026-09-08T11:29:20Z"
+  },
+  {
+    "pr": 1535,
+    "title": "fix(deps): update qs transitive dependency",
+    "branch": "audit/p1-dependency-advisory",
+    "updatedAt": "2026-09-08T11:49:42Z"
+  },
+  {
+    "pr": 1537,
+    "title": "fix(analysis): correct potion cooldown expectations",
+    "branch": "audit/p0-potions",
+    "updatedAt": "2026-09-08T12:08:37Z"
+  },
+  {
+    "pr": 1532,
+    "title": "fix(insights): harden timeline and status effect calculations",
+    "branch": "audit/p0-timeline-status",
+    "updatedAt": "2026-09-08T13:08:38Z"
+  },
+  {
+    "pr": 1542,
+    "title": "perf(insights): index player events in one pass",
+    "branch": "perf/players-panel-one-pass-index",
+    "updatedAt": "2026-09-09T00:01:41Z"
+  },
+  {
+    "pr": 1544,
+    "title": "feat: add secure Analyzer edge routing",
+    "branch": "security/deep-link-response-headers",
+    "updatedAt": "2026-09-09T00:40:26Z"
+  },
+  {
+    "pr": 1545,
+    "title": "fix(analyzer): bound raw event stream caches",
+    "branch": "audit/p2-event-bounds",
+    "updatedAt": "2026-09-09T02:05:28Z"
+  },
+  {
+    "pr": 1543,
+    "title": "Harden OAuth token storage boundaries",
+    "branch": "security/oauth-token-hardening",
+    "updatedAt": "2026-09-09T02:59:09Z"
+  },
+  {
+    "pr": 1546,
+    "title": "fix(insights): expose explicit panel lifecycle states",
+    "branch": "audit/p1-insights-panel-states",
+    "updatedAt": "2026-09-09T03:25:58Z"
+  },
+  {
+    "pr": 1547,
+    "title": "Add privacy-aware field Web Vitals telemetry",
+    "branch": "audit/p2-web-vitals-telemetry",
+    "updatedAt": "2026-09-09T04:45:55Z"
+  },
+  {
+    "pr": 1548,
+    "title": "feat(dashboard): expose live synchronization health",
+    "branch": "audit/p1-live-health",
+    "updatedAt": "2026-09-09T09:04:16Z"
+  },
+  {
+    "pr": 1549,
+    "title": "fix(analyzer): recover from lazy chunk load failures",
+    "branch": "fix/analyzer-lazy-chunk-recovery",
+    "updatedAt": "2026-09-09T09:32:22Z"
+  },
+  {
+    "pr": 1550,
+    "title": "fix(events): cache successful empty streams",
+    "branch": "audit/p1-empty-stream-cache",
+    "updatedAt": "2026-09-09T09:48:02Z"
+  },
+  {
+    "pr": 1551,
+    "title": "feat(insights): add versioned encounter rule engine",
+    "branch": "audit/p1-encounter-rule-engine",
+    "updatedAt": "2026-09-09T10:01:38Z"
+  },
+  {
+    "pr": 1552,
+    "title": "perf(calculator): defer tab content rendering",
+    "branch": "audit/p2-calculator-deferred-subtree-clean",
+    "updatedAt": "2026-09-09T10:15:30Z"
+  },
+  {
+    "pr": 1553,
+    "title": "perf(insights): render independent content incrementally",
+    "branch": "perf/insights-incremental-render",
+    "updatedAt": "2026-09-09T10:23:02Z"
+  },
+  {
+    "pr": 1555,
+    "title": "perf(analyzer): gate route prefetch by network and intent",
+    "branch": "audit/p2-prefetch",
+    "updatedAt": "2026-09-09T10:37:22Z"
+  },
+  {
+    "pr": 1556,
+    "title": "perf(insights): benchmark PlayersPanel event index",
+    "branch": "perf/players-panel-index-benchmark",
+    "updatedAt": "2026-09-09T10:54:49Z"
+  },
+  {
+    "pr": 1557,
+    "title": "feat(analyzer): add explicit panel lifecycle states",
+    "branch": "audit/p1-analyzer-panel-state",
+    "updatedAt": "2026-09-09T11:10:58Z"
+  },
+  {
+    "pr": 1558,
+    "title": "test(insights): add direct Analyzer regression coverage",
+    "branch": "audit/direct-test-bundle",
+    "updatedAt": "2026-09-09T11:22:25Z"
+  },
+  {
+    "pr": 1559,
+    "title": "feat(analyzer): expose core panel lifecycle states",
+    "branch": "audit/p1-analyzer-core-panel-states",
+    "updatedAt": "2026-09-09T11:32:20Z"
+  },
+  {
+    "pr": 1561,
+    "title": "fix(analyzer): expose overview panel lifecycle states",
+    "branch": "audit/p1-analyzer-overview-states",
+    "updatedAt": "2026-09-09T12:01:58Z"
+  },
+  {
+    "pr": 1562,
+    "title": "fix(analyzer): expose survival panel lifecycle states",
+    "branch": "audit/p1-analyzer-survival-panel-states",
+    "updatedAt": "2026-09-09T12:18:01Z"
+  },
+  {
+    "pr": 1563,
+    "title": "fix(analyzer): expose specialized panel lifecycle states",
+    "branch": "audit/p1-analyzer-specialized-panel-states",
+    "updatedAt": "2026-09-09T12:30:51Z"
+  },
+  {
+    "pr": 1564,
+    "title": "fix(analyzer): expose debug panel lifecycle states",
+    "branch": "audit/p1-analyzer-debug-panel-states-clean",
+    "updatedAt": "2026-09-09T12:47:07Z"
+  },
+  {
+    "pr": 1565,
+    "title": "fix(a11y): label CookieConsent surfaces",
+    "branch": "audit/p2-a11y-controls",
+    "updatedAt": "2026-09-09T12:55:29Z"
+  },
+  {
+    "pr": 1567,
+    "title": "feat(insights): integrate contextual analysis workflow",
+    "branch": "audit/p2-product-completion-integration-approved",
+    "updatedAt": "2026-09-09T13:04:20Z"
+  },
+  {
+    "pr": 1568,
+    "title": "fix(analyzer): integrate bounded event pagination",
+    "branch": "perf/event-bounds-pagination-integration",
+    "updatedAt": "2026-09-09T13:13:29Z"
+  },
+  {
+    "pr": 1571,
+    "title": "fix(deps): remediate hono and js-yaml advisories",
+    "branch": "audit/p1-dependency-advisory-full-audit",
+    "updatedAt": "2026-09-09T13:34:05Z"
+  },
+  {
+    "pr": 1576,
+    "title": "fix: preserve unknown fight outcomes",
+    "branch": "audit/p0-fight-outcome-semantics",
+    "updatedAt": "2026-09-13T15:37:44Z"
+  },
+  {
+    "pr": 1577,
+    "title": "fix: distinguish critical damage share",
+    "branch": "audit/p0-damage-critical-share",
+    "updatedAt": "2026-09-13T15:44:13Z"
+  },
+  {
+    "pr": 1578,
+    "title": "test(dashboard): cover live health recovery states",
+    "branch": "audit/p1-live-health-e2e",
+    "updatedAt": "2026-09-13T15:51:37Z"
+  },
+  {
+    "pr": 1579,
+    "title": "fix(insights): preserve unknown uptime semantics",
+    "branch": "audit/uptime-percentage-integrity",
+    "updatedAt": "2026-09-13T16:00:03Z"
+  },
+  {
+    "pr": 1581,
+    "title": "perf(analyzer): bound and index calculation inputs",
+    "branch": "perf/analyzer-calculation-integration",
+    "updatedAt": "2026-09-13T16:23:59Z"
+  },
+  {
+    "pr": 1582,
+    "title": "fix(analyzer): preserve unknown metric semantics",
+    "branch": "audit/p0-unknown-metric-semantics",
+    "updatedAt": "2026-09-13T16:32:52Z"
+  },
+  {
+    "pr": 1584,
+    "title": "fix(insights): harden decision summary contract",
+    "branch": "audit/p1-decision-summary-hardening-restack",
+    "updatedAt": "2026-09-13T16:41:35Z"
+  },
+  {
+    "pr": 1585,
+    "title": "test(analyzer): repair authenticated route coverage",
+    "branch": "audit/analyzer-test-route-cleanup",
+    "updatedAt": "2026-09-13T16:48:13Z"
+  },
+  {
+    "pr": 1587,
+    "title": "test(playwright): add live health cross-engine config",
+    "branch": "audit/live-health-engine-config",
+    "updatedAt": "2026-09-13T17:04:42Z"
+  },
+  {
+    "pr": 1554,
+    "title": "test: repair Analyzer Playwright route fixtures",
+    "branch": "audit/p1-playwright-route-matrix",
+    "updatedAt": "2026-09-13T17:05:52Z"
+  },
+  {
+    "pr": 1588,
+    "title": "fix: render unknown fight outcomes neutrally",
+    "branch": "audit/fight-outcome-report-cards",
+    "updatedAt": "2026-09-13T17:28:18Z"
+  },
+  {
+    "pr": 1589,
+    "title": "fix(analyzer): preserve unknown critical multiplier semantics",
+    "branch": "audit/critical-multiplier-unknown-fix",
+    "updatedAt": "2026-09-13T17:31:41Z"
+  },
+  {
+    "pr": 1590,
+    "title": "perf: keep Analyzer damage calculations responsive",
+    "branch": "perf/worker-foundation",
+    "updatedAt": "2026-09-13T17:33:40Z"
+  },
+  {
+    "pr": 1591,
+    "title": "test(playwright): stabilize full suite artifacts",
+    "branch": "test/full-suite-stability",
+    "updatedAt": "2026-09-13T18:28:47Z"
+  },
+  {
+    "pr": 1592,
+    "title": "test(a11y): stabilize calculator page heading check",
+    "branch": "fix/calculator-page-heading",
+    "updatedAt": "2026-09-13T19:09:44Z"
+  },
+  {
+    "pr": 1593,
+    "title": "test(insights): cover preference persistence hooks",
+    "branch": "audit/p2-preference-persistence",
+    "updatedAt": "2026-09-13T19:25:29Z"
+  },
+  {
+    "pr": 1594,
+    "title": "fix(analyzer): recover event requests after reconnect",
+    "branch": "audit/p1-online-recovery",
+    "updatedAt": "2026-09-13T19:27:56Z"
+  },
+  {
+    "pr": 1595,
+    "title": "test: stabilize 404 page Playwright coverage",
+    "branch": "audit/404-page-playwright",
+    "updatedAt": "2026-09-13T19:31:22Z"
+  },
+  {
+    "pr": 1596,
+    "title": "test(build-hub): validate preview message trust tuple",
+    "branch": "audit/postmessage-origin-regression",
+    "updatedAt": "2026-09-13T19:32:46Z"
+  },
+  {
+    "pr": 1597,
+    "title": "feat(insights): add accountable finding lineage",
+    "branch": "audit/p2-insight-sharing-model",
+    "updatedAt": "2026-09-13T19:46:58Z"
+  },
+  {
+    "pr": 1598,
+    "title": "test(playwright): isolate mobile build editor coverage",
+    "branch": "audit/full-config-mobile-isolation",
+    "updatedAt": "2026-09-13T19:53:48Z"
+  },
+  {
+    "pr": 1599,
+    "title": "test: stabilize live logging full-suite fixtures",
+    "branch": "audit/full-live-logging-fixtures",
+    "updatedAt": "2026-09-13T20:09:05Z"
+  },
+  {
+    "pr": 1600,
+    "title": "perf(analyzer): add post-worker performance evidence",
+    "branch": "audit/p2-post-worker-performance-evidence",
+    "updatedAt": "2026-09-13T20:15:27Z"
+  },
+  {
+    "pr": 1601,
+    "title": "test(e2e): stabilize build leaderboard fixtures",
+    "branch": "audit/full-build-leaderboard-fixtures",
+    "updatedAt": "2026-09-13T20:21:16Z"
+  },
+  {
+    "pr": 1602,
+    "title": "test: stabilize Roster Hub browser fixtures",
+    "branch": "audit/full-roster-hub-fixtures",
+    "updatedAt": "2026-09-13T20:36:45Z"
+  },
+  {
+    "pr": 1603,
+    "title": "test(e2e): make utility page coverage deterministic",
+    "branch": "audit/utility-pages-fixture-repair",
+    "updatedAt": "2026-09-13T21:24:16Z"
+  },
+  {
+    "pr": 1605,
+    "title": "test: cover raw event persistence boundary",
+    "branch": "audit/raw-event-persistence-boundary",
+    "updatedAt": "2026-09-13T22:08:52Z"
+  },
+  {
+    "pr": 1606,
+    "title": "fix(report-fights): restore import ordering",
+    "branch": "audit/import-order-report-fights",
+    "updatedAt": "2026-09-13T22:16:27Z"
+  },
+  {
+    "pr": 1607,
+    "title": "test(security): guard client security controls",
+    "branch": "test/security-controls-regressions",
+    "updatedAt": "2026-09-13T22:21:24Z"
+  },
+  {
+    "pr": 1608,
+    "title": "test(accessibility): stabilize full-suite fixtures",
+    "branch": "audit/full-accessibility-fixtures",
+    "updatedAt": "2026-09-13T22:45:18Z"
+  },
+  {
+    "pr": 1611,
+    "title": "test(auth): cover OAuth callback failures",
+    "branch": "audit/oauth-callback-regression",
+    "updatedAt": "2026-09-13T23:18:24Z"
+  },
+  {
+    "pr": 1613,
+    "title": "test(reports): harden report list fixtures",
+    "branch": "audit/full-report-lists-fixtures",
+    "updatedAt": "2026-09-13T23:22:16Z"
+  },
+  {
+    "pr": 1614,
+    "title": "test(insights): cover product workflow route",
+    "branch": "audit/product-completion-workflow-e2e",
+    "updatedAt": "2026-09-13T23:48:39Z"
+  },
+  {
+    "pr": 1615,
+    "title": "fix: harden Analyzer report control accessibility",
+    "branch": "audit/p2-analyzer-controls-a11y",
+    "updatedAt": "2026-09-13T23:53:38Z"
+  },
+  {
+    "pr": 1628,
+    "title": "feat(marketing): Add narrated ESO Toolkit vs ESO Logs explainer video",
+    "branch": "feat/esotk-vs-esologs-promo-video",
+    "updatedAt": "2026-09-30T12:34:43Z"
+  },
+  {
+    "pr": 1635,
+    "title": "fix: harden sessions and resolve site audit findings",
+    "branch": "t3code/site-audit-review",
+    "updatedAt": "2026-10-04T04:20:34Z"
+  },
+  {
+    "alias": "replay-drafts-20261004",
+    "branch": "t3code/continue-replay-model-workflow",
+    "commit": "494e584ff",
+    "updatedAt": "2026-10-05T06:51:17Z",
+    "local": true
+  },
+  {
+    "pr": 1639,
+    "title": "feat(replay): add gallery and replay previews for 28 NPC drafts",
+    "branch": "t3code/continue-replay-model-workflow",
+    "updatedAt": "2026-10-05T06:53:01Z"
+  }
 ]
