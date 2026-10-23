@@ -957,5 +957,11 @@
     "title": "feat(replay): add gallery and replay previews for 28 NPC drafts",
     "branch": "t3code/continue-replay-model-workflow",
     "updatedAt": "2026-10-05T06:53:01Z"
+  },
+  {
+    "pr": 1658,
+    "title": "fix(e2e): wait for populated sample report in nightly checks",
+    "branch": "fix/nightly-439-sample-report",
+    "updatedAt": "2026-10-23T15:50:29Z"
   }
 ]
