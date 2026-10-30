@@ -963,5 +963,11 @@
     "title": "fix: stabilize nightly sample report and patch audited dependencies",
     "branch": "fix/nightly-439-sample-report",
     "updatedAt": "2026-10-23T16:04:13Z"
+  },
+  {
+    "pr": 1663,
+    "title": "fix(ci): repair nightly WebKit launches on Ubuntu 26.04",
+    "branch": "fix/nightly-445-webkit-runtime",
+    "updatedAt": "2026-10-30T00:47:20Z"
   }
 ]

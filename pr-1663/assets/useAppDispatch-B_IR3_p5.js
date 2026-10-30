@@ -1,0 +1,1 @@
+import{y as e}from"./redux-BhpeY-KN.js";var t=()=>e();export{t};

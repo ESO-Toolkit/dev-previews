@@ -1,0 +1,1 @@
+function e(e,t,n,r=Date.now()){let i=e?.lastFetchedTimestamp,a=e?.restrictToFightWindow??!0;return typeof i==`number`&&r-i<n&&a===t}function t(e,t,n,r){return!e||e.requestId!==t}function n(e,t,n,r){return{reportId:e,fightId:t,requestId:n,restrictToFightWindow:r}}export{e as n,t as r,n as t};
