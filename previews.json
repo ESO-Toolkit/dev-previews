@@ -968,6 +968,6 @@
     "pr": 1663,
     "title": "fix(ci): repair nightly WebKit launches on Ubuntu 26.04",
     "branch": "fix/nightly-445-webkit-runtime",
-    "updatedAt": "2026-10-30T00:47:20Z"
+    "updatedAt": "2026-10-30T06:27:27Z"
   }
 ]
