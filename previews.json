@@ -960,8 +960,8 @@
   },
   {
     "pr": 1658,
-    "title": "fix: stabilize nightly sample report and patch audited dependencies",
+    "title": "fix(ci): stabilize sample report checks and browser installation",
     "branch": "fix/nightly-439-sample-report",
-    "updatedAt": "2026-10-30T07:42:34Z"
+    "updatedAt": "2026-10-30T08:04:35Z"
   }
 ]
