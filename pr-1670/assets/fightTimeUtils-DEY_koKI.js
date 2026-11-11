@@ -1,0 +1,1 @@
+function e(e,t){return t.startTime+e}function t(e,t){return e-t.startTime}export{t as n,e as t};

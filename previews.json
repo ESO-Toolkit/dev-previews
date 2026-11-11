@@ -957,5 +957,11 @@
     "title": "feat(replay): add gallery and replay previews for 28 NPC drafts",
     "branch": "t3code/continue-replay-model-workflow",
     "updatedAt": "2026-10-05T06:53:01Z"
+  },
+  {
+    "pr": 1670,
+    "title": "fix(roster-hub-api): keep demoted DPS leaderboard encounters in rotation",
+    "branch": "claude/build-leaderboard-update-failure-65ceb6",
+    "updatedAt": "2026-11-11T05:02:03Z"
   }
 ]

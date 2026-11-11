@@ -1,0 +1,1 @@
+function e(e,t,n){return e?(e.displayName===`nil`?void 0:e.displayName)??e.name??n??(t==null?null:String(t))??`Unknown`:n||(t==null?``:String(t))||`Unknown`}export{e as t};
