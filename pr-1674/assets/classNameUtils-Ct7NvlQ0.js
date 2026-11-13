@@ -1,1 +1,0 @@
-var e={dragonknight:`dragonknight`,"dragon knight":`dragonknight`,dk:`dragonknight`,templar:`templar`,plar:`templar`,warden:`warden`,nightblade:`nightblade`,"night blade":`nightblade`,nb:`nightblade`,sorcerer:`sorcerer`,sorc:`sorcerer`,necromancer:`necromancer`,necro:`necromancer`,arcanist:`arcanist`};function t(t){return e[(t??``).toLowerCase().trim()]||`unknown`}export{t};

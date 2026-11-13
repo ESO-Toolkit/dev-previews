@@ -957,11 +957,5 @@
     "title": "feat(replay): add gallery and replay previews for 28 NPC drafts",
     "branch": "t3code/continue-replay-model-workflow",
     "updatedAt": "2026-10-05T06:53:01Z"
-  },
-  {
-    "pr": 1674,
-    "title": "ci: add read-only workflow to print the DPS sync cursor",
-    "branch": "claude/d1-sync-state-readonly",
-    "updatedAt": "2026-11-13T04:54:06Z"
   }
 ]
