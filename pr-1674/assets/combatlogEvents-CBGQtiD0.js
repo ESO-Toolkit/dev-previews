@@ -1,0 +1,1 @@
+var e=function(e){return e[e.Normal=1]=`Normal`,e[e.Critical=2]=`Critical`,e}({});export{e as t};
